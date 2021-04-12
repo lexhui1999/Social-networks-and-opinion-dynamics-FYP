@@ -3,7 +3,7 @@ mkdir -p tweet_jsons
 input="follows.txt"
 while IFS= read -r line
 do
-  test="snscrape --jsonl --since 2021-01-1 twitter-user ${line} > ./tweet_jsons/${line}.txt"
+  test="snscrape --jsonl --since 2020-09-01 twitter-user ${line} > ./tweet_jsons/${line}.json"
   output=$(eval "$test")
   echo "$output"
 done < "$input"
