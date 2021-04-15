@@ -1,0 +1,201 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-09-09,2,"Digital Currency Group Reveals Sudden Acquisition Of Bitcoin And Crypto Exchange Luno via  
+
+https://t.co/mlEwjljzvZ",Digital Currency Group Reveals Sudden Acquisition Of Bitcoin And Crypto Exchange Luno via,0.0,0.0,0.0,0.0,0.25
+2020-09-10,2,"Psst, get in touch with  at  if you are in the market for large batches of bitcoin miners this year https://t.co/vI3ZtTOZVk","Psst, get in touch with  at  if you are in the market for large batches of bitcoin miners this year",0.0,0.0,0.0,0.21428571428571427,0.42857142857142855
+2020-09-15,3,"Apparently there is some kind of bitcoin buying race between MicroStrategy and  
+
+Game on",Apparently there is some kind of bitcoin buying race between MicroStrategy and  Game on,0.0,0.0,0.0,0.08333333333333333,0.5499999999999999
+2020-09-23,4,"Bitcoin mining company headquartered in Rochester looking to invest $100 million 
+
+ 
+
+https://t.co/oY6vEri60V",Bitcoin mining company headquartered in Rochester looking to invest $100 million,0.0,0.0,0.0,0.0,0.0
+2020-09-25,4,"MicroBT Sets Up First Offshore Bitcoin Miner Factory to Expand US Market Share; Partners with   
+
+https://t.co/hiXrJpCUl4",MicroBT Sets Up First Offshore Bitcoin Miner Factory to Expand US Market Share; Partners with,0.5423,0.243,0.0,0.25,0.3333333333333333
+2020-10-08,6,"  bitcoin price on 11/18/14: $375
+bitcoin price on 10/8/20: $10,700
+
+https://t.co/XLaZVrjOZq","bitcoin price on 11/18/14: $375bitcoin price on 10/8/20: $10,700",0.0,0.0,0.0,0.0,0.0
+2020-10-08,6,"Reminder, there will only ever be 21 million bitcoin","Reminder, there will only ever be 21 million bitcoin",0.0,0.0,0.0,0.0,1.0
+2020-10-08,6,    why no Grayscale Bitcoin Trust?,why no Grayscale Bitcoin Trust?,0.2732,0.388,0.259,0.0,0.0
+2020-10-11,6,               I think this is awesome. People like you are what makes the bitcoin community so special and unique,I think this is awesome. People like you are what makes the bitcoin community so special and unique,0.8776,0.419,0.0,0.5773809523809524,0.8571428571428571
+2020-10-12,7,"“I have to be honest, it is hard to see that Bitcoin has what we tend to call intrinsic value,"" said Bank of England Governor Andrew Bailey
+
+https://t.co/Fx80u3qBWG","“I have to be honest, it is hard to see that Bitcoin has what we tend to call intrinsic value,"" said Bank of England Governor Andrew Bailey",0.4404,0.107,0.046,0.15416666666666665,0.7208333333333333
+2020-10-12,7,Silbert is a bitcoin bull bull bull,Silbert is a bitcoin bull bull bull,0.0,0.0,0.0,0.0,0.0
+2020-10-14,7,"The world's largest digital currency asset manager took in $1 billion in new investment in the third quarter. Here's why investors are feeling so bullish about bitcoin and ethereum via  
+
+https://t.co/h8FHVQ8bL3",The world's largest digital currency asset manager took in $1 billion in new investment in the third quarter. Here's why investors are feeling so bullish about bitcoin and ethereum via,0.4588,0.121,0.0,0.04545454545454545,0.15151515151515152
+2020-10-15,7,"Institutional Demand For Bitcoin Soars As Grayscale Reveals Record-Breaking Near $1 Billion Quarter via  
+
+https://t.co/B8mUZ92x6n",Institutional Demand For Bitcoin Soars As Grayscale Reveals Record-Breaking Near $1 Billion Quarter via,-0.128,0.0,0.097,0.1,0.4
+2020-10-15,7,"While everybody has been focused on our bitcoin accumulation, the  Ethereum Trust now holds over 2% of all ETH in circulation","While everybody has been focused on our bitcoin accumulation, the  Ethereum Trust now holds over 2% of all ETH in circulation",0.7096,0.237,0.0,0.0,0.0
+2020-10-16,7,"This is a great way to learn all about ’s new bitcoin mining subsidiary, Foundry https://t.co/ygXO1Qc6kF","This is a great way to learn all about ’s new bitcoin mining subsidiary, Foundry",0.6249,0.227,0.0,0.4681818181818182,0.6022727272727273
+2020-10-19,8,Luno Exchange Launches Interest-Earning Bitcoin Wallet https://t.co/vGdZjAOcoq,Luno Exchange Launches Interest-Earning Bitcoin Wallet,0.0,0.0,0.0,0.0,0.0
+2020-10-22,8,"Paul Tudor Jones says he likes bitcoin even more now, rally still in the 'first inning' 
+
+https://t.co/mHamje4sLT","Paul Tudor Jones says he likes bitcoin even more now, rally still in the 'first inning'",0.4215,0.149,0.0,0.375,0.41666666666666663
+2020-10-22,8,Even I bought bitcoin today after seeing the Paul Tudor Jones interview on CNBC w ,Even I bought bitcoin today after seeing the Paul Tudor Jones interview on CNBC w,0.0,0.0,0.0,0.0,0.0
+2020-10-24,8,"""The Bitcoin trust from Grayscale has attracted more than $2.8 billion since December 2017, including $2 billion in 2020. That’s better than about 97% of exchange-traded funds currently listed in the U.S.""
+
+ https://t.co/QEwQhX5DMG","""The Bitcoin trust from Grayscale has attracted more than $2.8 billion since December 2017, including $2 billion in 2020. That’s better than about 97% of exchange-traded funds currently listed in the U.S.""",0.8402,0.231,0.0,0.3333333333333333,0.4666666666666666
+2020-10-24,8,JPM has done a complete 180 on bitcoin,JPM has done a complete 180 on bitcoin,0.0,0.0,0.0,0.1,0.4
+2020-10-26,9,"For years J.P. Morgan was skeptical of Bitcoin. Now the bank’s analysts say its value could triple, challenge gold   
+
+https://t.co/oa45zgbltM","For years J.P. Morgan was skeptical of Bitcoin. Now the bank’s analysts say its value could triple, challenge gold",0.1027,0.161,0.1,-0.5,0.5
+2020-10-27,9, gold -&gt; bitcoin will be the largest transfer of wealth in history,gold - bitcoin will be the largest transfer of wealth in history,0.4939,0.225,0.0,0.0,0.0
+2020-10-28,9,"Raoul Pal: Gold Investors “Will Flip To BTC” As Bitcoin Blasts Past $13.8k via  
+
+https://t.co/enyYvyYfZl",Raoul Pal: Gold Investors “Will Flip To BTC” As Bitcoin Blasts Past $13.8k via,0.0,0.0,0.0,-0.25,0.25
+2020-10-28,9,"Trump wins = brrr
+
+Biden wins = brrr
+
+Either way, bitcoin wins","Trump wins = brrrBiden wins = brrrEither way, bitcoin wins",0.9022,0.613,0.0,0.3,0.20000000000000004
+2020-10-28,9,"Hey bitcoin sellers, is that all you've got??","Hey bitcoin sellers, is that all you've got??",0.0,0.0,0.0,0.0,0.0
+2020-11-01,9,"While stocks, oil and gold prices careened last week, bitcoin set new highs for the year via    https://t.co/1UAjUGxLh5","While stocks, oil and gold prices careened last week, bitcoin set new highs for the year via",0.0,0.0,0.0,0.06818181818181818,0.2606060606060606
+2020-11-03,10,"  once you realize that bitcoin is a movement more than anything else, it is hard not to fall in love with it","once you realize that bitcoin is a movement more than anything else, it is hard not to fall in love with it",0.5859,0.171,0.057,0.23611111111111108,0.5472222222222222
+2020-11-03,10,"Bitcoin &gt; $14,000","Bitcoin  $14,000",0.0,0.0,0.0,0.0,0.0
+2020-11-05,10,The U.S. Dollar is collapsing in value against bitcoin today,The U.S. Dollar is collapsing in value against bitcoin today,0.0516,0.19,0.175,0.0,0.0
+2020-11-05,10,People will never again say bitcoin is dead. Never https://t.co/cBofstrMfg,People will never again say bitcoin is dead. Never,-0.6486,0.0,0.323,-0.2,0.4
+2020-11-08,10,JPMorgan Says Institutions Ditching Gold ETFs for Bitcoin https://t.co/Z1bHmPs6mt,JPMorgan Says Institutions Ditching Gold ETFs for Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-11-09,11,Druckenmiller is a bitcoin bull bull bull,Druckenmiller is a bitcoin bull bull bull,0.0,0.0,0.0,0.0,0.0
+2020-11-10,11,"According to , Bitmain and MicroBT are both sold out of new bitcoin mining equipment through April 2021","According to , Bitmain and MicroBT are both sold out of new bitcoin mining equipment through April 2021",0.0,0.0,0.0,0.13636363636363635,0.45454545454545453
+2020-11-11,11,"YTD returns:
+
+Bridgewater Pure Alpha II Fund: -18%
+Bitcoin: +115%
+
+https://t.co/ZReibaV3Ud",YTD returns:Bridgewater Pure Alpha II Fund: -18%Bitcoin: +115%,0.0,0.0,0.0,0.21428571428571427,0.5
+2020-11-14,11,"This is why bitcoin is going to destroy gold
+
+#DropGold https://t.co/cXGI0q13Jn",This is why bitcoin is going to destroy gold#DropGold,-0.5423,0.0,0.259,-0.2,0.0
+2020-11-17,12, you're right. i have no clue how this whole BitCoin thing works,you're right. i have no clue how this whole BitCoin thing works,-0.296,0.0,0.18,0.24285714285714285,0.46785714285714286
+2020-11-18,12,Jamie Dimon says he's still not a fan of bitcoin at 's DealBook Summit,Jamie Dimon says he's still not a fan of bitcoin at 's DealBook Summit,-0.2411,0.0,0.141,0.0,0.0
+2020-11-19,12,"  going down memory lane, this was my first bitcoin tweet i believe
+
+https://t.co/qN6KSTVg7T","going down memory lane, this was my first bitcoin tweet i believe",0.0,0.0,0.0,0.04722222222222221,0.3111111111111111
+2020-11-19,12,This is a very big deal...and one of the reasons I'm so bullish on bitcoin (and bearish on gold) https://t.co/2pW9BdCVbe,This is a very big deal...and one of the reasons I'm so bullish on bitcoin (and bearish on gold),0.0,0.0,0.0,0.0,0.13
+2020-11-23,13,"Bitcoin Trades Again Near Record, Driven by New Group of Buyers via ⁦⁩ ⁦⁩  https://t.co/Lfrb0kOHfa","Bitcoin Trades Again Near Record, Driven by New Group of Buyers via ⁦⁩ ⁦⁩",0.0,0.0,0.0,0.11818181818181818,0.42727272727272725
+2020-11-25,13,Wow. CEO of  says that retail interest in bitcoin in Africa and beyond has TRIPLED over the past month https://t.co/T3LgxduQUF,Wow. CEO of  says that retail interest in bitcoin in Africa and beyond has TRIPLED over the past month,0.7783,0.274,0.0,-0.075,0.625
+2020-11-30,14,Guess the Black Friday bitcoin sale is officially over. Hope you stocked up,Guess the Black Friday bitcoin sale is officially over. Hope you stocked up,0.4404,0.195,0.0,-0.16666666666666666,0.43333333333333335
+2020-12-06,14,"FOMO Among Big Investors May Support Bitcoin’s Polarizing Rally via  
+
+https://t.co/3OmK2trpqC",FOMO Among Big Investors May Support Bitcoin’s Polarizing Rally via,0.4019,0.213,0.0,0.0,0.1
+2020-12-09,15,"JPMorgan Says Gold Will Suffer for Years Because of Bitcoin via  
+
+https://t.co/JZAW21zExE",JPMorgan Says Gold Will Suffer for Years Because of Bitcoin via,-0.5423,0.0,0.241,0.0,0.0
+2020-12-10,15,"Not sure how I feel about  having the bitcoin price ticker on the screen all day long
+
+Bullish or bearish?",Not sure how I feel about  having the bitcoin price ticker on the screen all day longBullish or bearish?,-0.2411,0.0,0.098,-0.15,0.6444444444444444
+2020-12-10,15,"MassMutual Buys $100M Bitcoin, Bets on Institutional Adoption With $5M NYDIG Stake via  
+
+https://t.co/hADErlsROH","MassMutual Buys $100M Bitcoin, Bets on Institutional Adoption With $5M NYDIG Stake via",0.0,0.0,0.0,0.0,0.0
+2020-12-10,15,I can't believe you still don't own any bitcoin,I can't believe you still don't own any bitcoin,0.0,0.0,0.0,0.6,1.0
+2020-12-11,15,"The Wealthy Are Jumping Into Bitcoin as Stigma Around Crypto Fades via   
+
+https://t.co/b5uVZ7Fbmv",The Wealthy Are Jumping Into Bitcoin as Stigma Around Crypto Fades via,0.3612,0.172,0.0,0.5,1.0
+2020-12-12,15,I have a sneaking suspicion that a good chunk of the recent IPO windfalls are going to find their way into bitcoin. Bunch of tech investors and employees coming into lots of cash. Where will they put it?,I have a sneaking suspicion that a good chunk of the recent IPO windfalls are going to find their way into bitcoin. Bunch of tech investors and employees coming into lots of cash. Where will they put it?,0.0772,0.075,0.068,0.35,0.42500000000000004
+2020-12-13,15,"The American heartland needs jobs. Could Bitcoin mining become its next savior?
+
+  
+
+https://t.co/7LIkEd9g4p",The American heartland needs jobs. Could Bitcoin mining become its next savior?,0.0,0.0,0.0,0.0,0.0
+2020-12-15,16,"UPDATED:
+Bitcoin market cap ($360 billion) as a percent of gold in circulation ($11.7 trillion) = 3% https://t.co/fXeSZH08ib",UPDATED:Bitcoin market cap ($360 billion) as a percent of gold in circulation ($11.7 trillion) = 3%,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,Twitter is going to be so annoying today for non-bitcoiners,Twitter is going to be so annoying today for non-bitcoiners,-0.541,0.0,0.279,-0.8,0.9
+2020-12-18,16,"2020: The year bitcoin went institutional via  
+
+https://t.co/euN2nSgoDI",2020: The year bitcoin went institutional via,0.0,0.0,0.0,0.0,0.0
+2020-12-19,16,"I've been wondering how long it would take for people to connect the dots that we're taking profits from  to fund a massive, global awareness and education campaign around bitcoin via ","I've been wondering how long it would take for people to connect the dots that we're taking profits from  to fund a massive, global awareness and education campaign around bitcoin via",0.4404,0.091,0.0,-0.016666666666666666,0.4666666666666666
+2020-12-24,17,Bitcoin deniers crack me up https://t.co/QXS0dia5M7,Bitcoin deniers crack me up,-0.2732,0.0,0.296,0.0,0.0
+2021-01-02,18,"I'm old enough to remember when you could buy an entire bitcoin for $19,000","I'm old enough to remember when you could buy an entire bitcoin for $19,000",0.0,0.0,0.0,0.03333333333333333,0.44166666666666665
+2021-01-03,18,"Bitcoin tops $34,000 as record-breaking rally resumes
+
+via  
+
+https://t.co/LZgrQjMA7k","Bitcoin tops $34,000 as record-breaking rally resumesvia",0.5106,0.292,0.0,0.0,0.0
+2021-01-05,18,"CoinDesk Buys TradeBlock, Joining Rush for Bitcoin Analytics
+
+via   
+
+https://t.co/9t2zJjTOo1","CoinDesk Buys TradeBlock, Joining Rush for Bitcoin Analyticsvia",0.0,0.0,0.0,0.0,0.0
+2021-01-05,18,Genesis has 26 open roles to fill. Come join the bitcoin revolution https://t.co/4pbHuMYTo1,Genesis has 26 open roles to fill. Come join the bitcoin revolution,0.296,0.155,0.0,0.0,0.5
+2021-01-06,18,Bitcoin ATH https://t.co/8rd7c50qzm,Bitcoin ATH,0.0,0.0,0.0,0.0,0.0
+2021-01-07,18,"Funny to think that a bitcoin price retrace to $20,000 would feel like the buying opportunity of a lifetime","Funny to think that a bitcoin price retrace to $20,000 would feel like the buying opportunity of a lifetime",0.802,0.369,0.0,0.25,1.0
+2021-01-08,18,"REVISED
+
+Funny to think that a bitcoin price retrace to $30,000 would feel like the buying opportunity of a lifetime https://t.co/ramTbBns4E","REVISEDFunny to think that a bitcoin price retrace to $30,000 would feel like the buying opportunity of a lifetime",0.802,0.339,0.0,0.25,1.0
+2021-01-09,18,"Bitcoin is exploding in Nigeria, enabled by Luno https://t.co/AKADqJi60f","Bitcoin is exploding in Nigeria, enabled by Luno",0.0,0.0,0.0,0.0,0.0
+2021-01-09,18,Twitter is going to absolutely lose it’s shit when Elon/Tesla disclose bitcoin holdings,Twitter is going to absolutely lose it’s shit when Elon/Tesla disclose bitcoin holdings,-0.7818,0.0,0.384,0.0,0.8500000000000001
+2021-01-12,19,"Grayscale reopens crypto trusts for investment as Bitcoin price climbs 
+
+via 
+
+https://t.co/Io3zRWqmj6",Grayscale reopens crypto trusts for investment as Bitcoin price climbs via,0.4767,0.22,0.0,0.0,0.0
+2021-01-13,19,"DCG's Foundry will colocate 14,000 bitcoin mining machines in U.S. with focus on institutional buyers
+
+https://t.co/capQ4QjGe0","DCG's Foundry will colocate 14,000 bitcoin mining machines in U.S. with focus on institutional buyers",0.0,0.0,0.0,0.0,0.0
+2021-01-13,19,"Foundry has quickly emerged as the leading provider of financing and equipment to bitcoin miners in North America
+
+It has also recently launched an advisory service to help power companies, government entities and others get involved with bitcoin mining https://t.co/TkMAaz06L8","Foundry has quickly emerged as the leading provider of financing and equipment to bitcoin miners in North AmericaIt has also recently launched an advisory service to help power companies, government entities and others get involved with bitcoin mining",0.4939,0.1,0.0,0.16666666666666666,0.375
+2021-01-14,19,"Today’s ⁦⁩ 
+
+⁦⁩ bringing bitcoin to the masses https://t.co/qgsuhdC7ea",Today’s ⁦⁩ ⁦⁩ bringing bitcoin to the masses,0.0,0.0,0.0,0.0,0.0
+2021-01-14,19,"Crypto investment firm Grayscale sees 900% jump in assets to $20 billion amid bitcoin frenzy
+
+via  
+
+https://t.co/x3YOXGSKfG",Crypto investment firm Grayscale sees 900% jump in assets to $20 billion amid bitcoin frenzyvia,-0.1531,0.089,0.121,-0.2,0.4
+2021-01-14,19,"I guess the secret is out!  has launched what will soon become the largest U.S.-based bitcoin mining pool
+
+It is time for bitcoin hashrate to come to the U.S.!
+
+Bitcoin miners from around the world will be able to join the Foundry USA pool starting in February https://t.co/vEyy1Zp8Oe",I guess the secret is out!  has launched what will soon become the largest U.S.-based bitcoin mining poolIt is time for bitcoin hashrate to come to the U.S.!Bitcoin miners from around the world will be able to join the Foundry USA pool starting in February,0.508,0.087,0.0,-0.041666666666666664,0.47500000000000003
+2021-01-18,20,"In this interview, Peter Schiff accuses  of being ""bought and paid for by Grayscale"" as evidenced by the network's bitcoin coverage (13:25 mark)
+
+That's a pretty serious accusation,  
+
+ https://t.co/ARFf5QlHX9","In this interview, Peter Schiff accuses  of being ""bought and paid for by Grayscale"" as evidenced by the network's bitcoin coverage (13:25 mark)That's a pretty serious accusation,",-0.128,0.097,0.173,-0.04166666666666666,0.8333333333333333
+2021-01-22,20,"Hut8 borrows ~$12M from DCG’s Foundry to order new bitcoin miners
+
+https://t.co/DRe963c29M",Hut8 borrows ~$12M from DCG’s Foundry to order new bitcoin miners,0.0,0.0,0.0,0.13636363636363635,0.45454545454545453
+2021-01-26,21,"The new U.S.-based bitcoin mining pool from , Foundry USA, just jumped into the top 10 mining pools in the world. Top five next!
+
+https://t.co/Iei0uqrMCm https://t.co/xN3Z7ntUZq","The new U.S.-based bitcoin mining pool from , Foundry USA, just jumped into the top 10 mining pools in the world. Top five next!",0.4389,0.145,0.0,0.28409090909090906,0.36363636363636365
+2021-02-01,22,"""Bitcoin is nothing, it’s vapor, a concept of an idea. Transactions using bitcoin are few and far between. It’s not a store of value—anything that drops 30% in a week can’t play that role."" https://t.co/XoylGhOJfV","""Bitcoin is nothing, it’s vapor, a concept of an idea. Transactions using bitcoin are few and far between. It’s not a store of value—anything that drops 30% in a week can’t play that role.""",0.34,0.072,0.0,-0.05,0.55
+2021-02-04,22,Bitcoin will outlive Goldman Sachs https://t.co/N0gz11LzOj,Bitcoin will outlive Goldman Sachs,0.0,0.0,0.0,0.0,0.0
+2021-02-05,22,"DCG is 100% committed to backing  and their customers in Nigeria
+
+We are determined to ensure that all Nigerians continue to have access to bitcoin and the financial freedom it provides https://t.co/s4a3hmtLK9",DCG is 100% committed to backing  and their customers in NigeriaWe are determined to ensure that all Nigerians continue to have access to bitcoin and the financial freedom it provides,0.886,0.315,0.0,0.0,0.0
+2021-03-10,27,"Digital Currency Group Announces Plan to Purchase Shares of Grayscale Bitcoin Trust (OTCQX: $GBTC)
+
+https://t.co/hJPnjGko1O",Digital Currency Group Announces Plan to Purchase Shares of Grayscale Bitcoin Trust (OTCQX: $GBTC),0.6705,0.297,0.0,0.0,0.0
+2021-03-11,27,"The Foundry USA bitcoin mining pool is officially open for business!
+
+Looking forward to seeing a U.S.-based mining pool take a top five spot from the Chinese pools https://t.co/JNaFNZ1iqK",The Foundry USA bitcoin mining pool is officially open for business!Looking forward to seeing a U.S.-based mining pool take a top five spot from the Chinese pools,0.2714,0.074,0.0,0.16666666666666666,0.3333333333333333
+2021-03-11,27,"UPDATED:
+Bitcoin market cap ($1.07 trillion) as a percent of gold in circulation ($10.89 trillion) = 9.8% https://t.co/CWGHtIK7T3",UPDATED:Bitcoin market cap ($1.07 trillion) as a percent of gold in circulation ($10.89 trillion) = 9.8%,0.0,0.0,0.0,0.0,0.0
+2021-03-12,27,"One year ago today (bitcoin price: $4,000)
+
+BTFD, always https://t.co/LnXqMXJTua","One year ago today (bitcoin price: $4,000)BTFD, always",0.0,0.0,0.0,0.0,0.0
+2021-03-13,27,  $BTC $ETC $ZEC $ZEN $MANA $LPT,$BTC $ETC $ZEC $ZEN $MANA $LPT,0.0,0.0,0.0,0.0,0.0
+2021-03-19,28,Two weeks after public launch and the Foundry USA bitcoin mining pool is already ranked #8 globally! https://t.co/31JP78ciql,Two weeks after public launch and the Foundry USA bitcoin mining pool is already ranked #8 globally!,0.0,0.0,0.0,0.0,0.03333333333333333
+2021-03-21,28,"Bitcoin mining can be a 'bridge' to a renewable energy future by supporting green projects, says 
+
+via  
+
+https://t.co/9YOLm520ZD","Bitcoin mining can be a 'bridge' to a renewable energy future by supporting green projects, says via",0.6124,0.263,0.0,0.016666666666666663,0.225
+2021-03-21,28,"It is truly mind-blowing just how wrong Wall Street was on bitcoin for the past five years
+
+A $1 trillion asset class formed without any help or support from the incumbent players
+
+Just remember that when they start flinging their crap crypto-exposure products at you",It is truly mind-blowing just how wrong Wall Street was on bitcoin for the past five yearsA $1 trillion asset class formed without any help or support from the incumbent playersJust remember that when they start flinging their crap crypto-exposure products at you,0.0366,0.15,0.147,-0.5166666666666667,0.65
+2021-03-23,29,"One by one, all of the major North American bitcoin miners are switching from Chinese mining pools to the Foundry USA pool https://t.co/utlqeHXnYP","One by one, all of the major North American bitcoin miners are switching from Chinese mining pools to the Foundry USA pool",0.0,0.0,0.0,0.020833333333333332,0.16666666666666666
+2021-03-27,29, you forgot to include the disclosure that you’re buying GBTC - and therefore benefit from a large discount - in hopes of us converting it to an ETF and that you run competitive investment products,you forgot to include the disclosure that you’re buying GBTC - and therefore benefit from a large discount - in hopes of us converting it to an ETF and that you run competitive investment products,0.7579,0.205,0.0,0.21428571428571427,0.42857142857142855
+2021-03-27,29, so not denying you’re long GBTC?,so not denying you’re long GBTC?,0.3214,0.316,0.0,-0.05,0.4
+2021-03-28,29, three years of ridicule about Decentraland led me to believe this was inevitable. reminded me of the reaction I got re bitcoin in 2012/13...so I kept buying MANA as more people called me an idiot,three years of ridicule about Decentraland led me to believe this was inevitable. reminded me of the reaction I got re bitcoin in 2012/13...so I kept buying MANA as more people called me an idiot,-0.743,0.0,0.169,-0.10000000000000002,0.7666666666666666
+2021-03-29,30,Bitcoin fixes this https://t.co/ytY1BSTJIa,Bitcoin fixes this,0.0,0.0,0.0,0.0,0.0
+2021-03-30,30,Who will be the first publicly traded gold miner to diversify into bitcoin?,Who will be the first publicly traded gold miner to diversify into bitcoin?,0.0,0.0,0.0,0.125,0.19999999999999998

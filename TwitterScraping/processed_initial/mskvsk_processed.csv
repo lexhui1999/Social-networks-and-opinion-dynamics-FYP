@@ -1,0 +1,4 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-07-28,11," only maxis are salty
+bitcoiners increase their bitcoin bag in times like these",only maxis are saltybitcoiners increase their bitcoin bag in times like these,0.5859,0.304,0.0,0.0,1.0
+2020-08-05,12, Given enough time and motivation I can make a point that Bitcoin is shitcoin. Put a bit of weed in the mix and I prove that both Udi and I are shitcoins.,Given enough time and motivation I can make a point that Bitcoin is shitcoin. Put a bit of weed in the mix and I prove that both Udi and I are shitcoins.,0.34,0.085,0.0,0.0,0.5

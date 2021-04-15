@@ -1,0 +1,643 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-09-01,1,"#Bitcoin reaching $12,000 is cool.
+
+But we are just getting started. https://t.co/79w8j0sirC","#Bitcoin reaching $12,000 is cool.But we are just getting started.",0.4767,0.291,0.0,0.35,0.65
+2020-09-02,1,"BREAKING: Pornhub Adds #Bitcoin and #Litecoin Payments for Premium Content 
+
+https://t.co/BlGTzKlBUO",BREAKING: Pornhub Adds #Bitcoin and #Litecoin Payments for Premium Content,0.0,0.0,0.0,0.0,0.0
+2020-09-03,1,"If #Bitcoin reaches $10,400 it would be an EPIC entry.","If #Bitcoin reaches $10,400 it would be an EPIC entry.",0.0516,0.118,0.0,0.1,0.4
+2020-09-03,1,"Every #Bitcoin move under $20,000 is just a distraction to shake you out before we reach $100,000.","Every #Bitcoin move under $20,000 is just a distraction to shake you out before we reach $100,000.",-0.4939,0.06,0.234,0.0,0.0
+2020-09-14,3,"#Bitcoin | Imagine thinking we are going to mimic March's scenario after comparing the weekly closes on the second week. 
+
+You can do better, dear bears. https://t.co/Ra6kr03PeE","#Bitcoin | Imagine thinking we are going to mimic March's scenario after comparing the weekly closes on the second week. You can do better, dear bears.",0.6705,0.186,0.0,0.25,0.25
+2020-09-14,3,"📊RESEARCH: Nash, the True #DeFi with Non-Custodial #BTC Trading
+
+https://t.co/TpJK0JhJSc","📊RESEARCH: Nash, the True #DeFi with Non-Custodial #BTC Trading",0.4215,0.237,0.0,0.35,0.65
+2020-09-14,3,  To sum up: Busllish on #Bitcoin,To sum up: Busllish on #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-09-15,3,More than $1 Billion Worth of #Bitcoin Invested in #DeFi https://t.co/SE1TMSkKaw,More than $1 Billion Worth of #Bitcoin Invested in #DeFi,0.2263,0.16,0.0,0.4,0.3
+2020-09-15,3,BREAKING: MicroStrategy Buys Another $183 Million in #Bitcoin https://t.co/DksAwNfODb,BREAKING: MicroStrategy Buys Another $183 Million in #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-09-15,3,"#Bitcoin hashrate pushing for new record highs.
+
+Like it or not, bullish, really bullish. https://t.co/Ll2xYUgiYK","#Bitcoin hashrate pushing for new record highs.Like it or not, bullish, really bullish.",0.3612,0.152,0.0,0.16818181818181818,0.32727272727272727
+2020-09-15,3, Embrace #Bitcoin instead bro,Embrace #Bitcoin instead bro,0.3182,0.434,0.0,0.0,0.0
+2020-09-16,3,#Bitcoin | Just an update. https://t.co/XOv4Lk2plN,#Bitcoin | Just an update.,0.0,0.0,0.0,0.0,0.0
+2020-09-16,3,"#FunFact | At this moment, more #BTC is lost than there is left to mine! Around 4 millions BTC have been lost and cannot be recovered.","#FunFact | At this moment, more #BTC is lost than there is left to mine! Around 4 millions BTC have been lost and cannot be recovered.",-0.6618,0.0,0.198,0.25,0.25
+2020-09-16,3, bro calm down and just buy #Bitcoin for the lols,bro calm down and just buy #Bitcoin for the lols,0.3182,0.204,0.0,0.07222222222222223,0.5194444444444445
+2020-09-18,3," Thanks man but pump #Bitcoin now
+
+My family needs to eat",Thanks man but pump #Bitcoin nowMy family needs to eat,0.2382,0.163,0.0,0.2,0.2
+2020-09-22,4,"With a market capitalization of $192,183b, #Pepsico Inc. has a market capitalization most similar to that of #Bitcoin at the moment.
+
+#Samsung Electronics Company Limited has a market cap of $317,245b, a little less than the complete #Cryptocurrency market cap.","With a market capitalization of $192,183b, #Pepsico Inc. has a market capitalization most similar to that of #Bitcoin at the moment.#Samsung Electronics Company Limited has a market cap of $317,245b, a little less than the complete #Cryptocurrency market cap.",-0.2263,0.0,0.051,0.029067460317460325,0.3349206349206349
+2020-09-27,4,Don't forget to join my Free Discord for daily updates on #Bitcoin and #Crypto: https://t.co/urtbvLueOu,Don't forget to join my Free Discord for daily updates on #Bitcoin and #Crypto:,0.0971,0.242,0.223,0.2,0.4
+2020-09-30,5,"#Bitcoin about to close the best Q3 of its WHOLE existence. 
+
+Patience, the trend is your friend. https://t.co/rwqUOEHxo3","#Bitcoin about to close the best Q3 of its WHOLE existence. Patience, the trend is your friend.",0.8126,0.316,0.0,0.6,0.35
+2020-09-30,5,Grayscale Buys $183 Million Worth Of #Bitcoin  https://t.co/Uj7WuXTNrw,Grayscale Buys $183 Million Worth Of #Bitcoin,0.2263,0.213,0.0,0.3,0.1
+2020-10-01,5,"THREAD: #Bitcoin is going to $3,000. 
+
+Here all the fundamental and technical reasons.
+
+1/47","THREAD: #Bitcoin is going to $3,000. Here all the fundamental and technical reasons.1/47",0.0,0.0,0.0,0.0,0.1
+2020-10-01,5," No worries man, we can always  apply for a refund on the Bitcoin offices!","No worries man, we can always  apply for a refund on the Bitcoin offices!",-0.6476,0.0,0.325,0.0,0.0
+2020-10-02,5,Israel Regulators Consider #Bitcoin as a Currency https://t.co/zS9fKl6mx6,Israel Regulators Consider #Bitcoin as a Currency,0.0,0.0,0.0,0.0,0.0
+2020-10-02,5,"BitMex in Problems: Over 37,000 #Bitcoin Withdrawn during the last 24 hours. https://t.co/Kc6FyVivvy","BitMex in Problems: Over 37,000 #Bitcoin Withdrawn during the last 24 hours.",-0.4019,0.0,0.184,0.0,0.06666666666666667
+2020-10-05,6,BREAKING: The FED Digital #Dollar Airdrop Will Push #Bitcoin Forward https://t.co/OLmVRvQSlj,BREAKING: The FED Digital #Dollar Airdrop Will Push #Bitcoin Forward,0.0,0.0,0.0,0.0,0.0
+2020-10-07,6,#Bitcoin keeps looking full bullish to me. https://t.co/NMCBEgL0BK,#Bitcoin keeps looking full bullish to me.,0.0,0.0,0.0,0.35,0.55
+2020-10-08,6,"BREAKING: BitMEX is changing the CEO, Arthur Hayes steps down
+
+#Bitcoin #BitMex #Crypto #Trading
+
+https://t.co/A8fgjxsn8h","BREAKING: BitMEX is changing the CEO, Arthur Hayes steps down#Bitcoin #BitMex #Crypto #Trading",0.0,0.0,0.0,-0.15555555555555559,0.2888888888888889
+2020-10-08,6,"BREAKING: Square ()  buys more than 4,700 #bitcoin for $50 million.","BREAKING: Square ()  buys more than 4,700 #bitcoin for $50 million.",0.0,0.0,0.0,0.5,0.5
+2020-10-09,6,#Bitcoin is +5% already and keeps looking full bullish to me. https://t.co/C5mDrVeTZZ,#Bitcoin is +5% already and keeps looking full bullish to me.,0.0,0.0,0.0,0.35,0.55
+2020-10-12,7,BREAKING: Has Satoshi Moved $11 Million in #Bitcoin? https://t.co/b3evLimxYO,BREAKING: Has Satoshi Moved $11 Million in #Bitcoin?,0.0,0.0,0.0,0.0,0.0
+2020-10-12,7,Kepp it simple. #Bitcoin remains full bullish. https://t.co/vV931GSaJJ,Kepp it simple. #Bitcoin remains full bullish.,0.0,0.0,0.0,0.175,0.4535714285714286
+2020-10-13,7,"I'm really happy to announce the launch of a new project! 
+
+📈THE WEEKLY CRYPTO REPORT 📈
+
+In depth #Bitcoin &amp; #Altcoins analysis, interesting stats, tips to improve your trading, news summary, business stories and more.
+
+📥 Download it for FREE here: https://t.co/kn764Rg5Fi https://t.co/QOtNlC0kRJ","I'm really happy to announce the launch of a new project! 📈THE WEEKLY CRYPTO REPORT 📈In depth #Bitcoin &amp; #Altcoins analysis, interesting stats, tips to improve your trading, news summary, business stories and more.📥 Download it for FREE here:",0.9315,0.279,0.0,0.4740909090909091,0.650909090909091
+2020-10-13,7,Stone Ridge Invest $10 Million in #Bitcoin https://t.co/1PTmaulDCv,Stone Ridge Invest $10 Million in #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-10-13,7,"If you are still fairly new to #Bitcoin. I would advise you to check out “Banking on Bitcoin” on Netflix.
+
+It's a documentary that gives a very in-depth look as to what Bitcoin is, how it works, and how it can change the world. https://t.co/cLTi8oMiF7","If you are still fairly new to #Bitcoin. I would advise you to check out “Banking on Bitcoin” on Netflix.It's a documentary that gives a very in-depth look as to what Bitcoin is, how it works, and how it can change the world.",0.0,0.0,0.0,0.11212121212121212,0.2515151515151515
+2020-10-14,7,#Bitcoin setting its own path. https://t.co/VZZqhuy3p2,#Bitcoin setting its own path.,0.0,0.0,0.0,0.6,1.0
+2020-10-14,7,"BREAKING: Grayscale Raised $1 Billion this Quarter to invest on #Bitcoin, #Ethereum and #Ripple https://t.co/3vSX3T4Gwe","BREAKING: Grayscale Raised $1 Billion this Quarter to invest on #Bitcoin, #Ethereum and #Ripple",0.0,0.0,0.0,0.0,0.0
+2020-10-16,7,"""Bitcoin will do to banks what email did to the postal industry""– Rick Falkvinge","""Bitcoin will do to banks what email did to the postal industry""– Rick Falkvinge",0.0,0.0,0.0,0.0,0.0
+2020-10-16,7,Keep it simple: hold #Bitcoin https://t.co/lxBmS5uYlp,Keep it simple: hold #Bitcoin,0.0,0.0,0.0,0.0,0.35714285714285715
+2020-10-19,8,Imagine thinking you are late to #Bitcoin already. https://t.co/f814wQs1NB,Imagine thinking you are late to #Bitcoin already.,0.0,0.0,0.0,-0.3,0.6
+2020-10-19,8,#Bitcoin remains absolutely bullish. https://t.co/2TFSu3KJ4K,#Bitcoin remains absolutely bullish.,0.0,0.0,0.0,0.2,0.9
+2020-10-19,8,"Do you know what one of the biggest #Bitcoin transaction was? 
+
+Someone moved 500,000 BTC in 2011 (current value around $5,7bn). 
+
+The #BTC price in November 2011 was about $2.50. https://t.co/7Xl6mQZqvG","Do you know what one of the biggest #Bitcoin transaction was? Someone moved 500,000 BTC in 2011 (current value around $5,7bn). The #BTC price in November 2011 was about $2.50.",0.34,0.074,0.0,0.0,0.4
+2020-10-20,8,"In 2013 the University of Nicosia in Cyprus announced that they would accept #Bitcoin from students to pay their tuition fees. 
+
+Since then more than 10 other universities all over the world started accepting Bitcoin as a payment for their tuition fees.",In 2013 the University of Nicosia in Cyprus announced that they would accept #Bitcoin from students to pay their tuition fees. Since then more than 10 other universities all over the world started accepting Bitcoin as a payment for their tuition fees.,0.5859,0.117,0.031,0.1875,0.4375
+2020-10-20,8,What's your #Bitcoin target for the end of the year?,What's your #Bitcoin target for the end of the year?,0.0,0.0,0.0,0.0,0.0
+2020-10-21,8,"Now everyone is bullish on #Bitcoin. 
+
+We saw it coming 2 weeks ago. Already +15% profit.
+
+Join here for daily updates: https://t.co/alQYpyhKZK https://t.co/iwFNMUArJp",Now everyone is bullish on #Bitcoin. We saw it coming 2 weeks ago. Already +15% profit.Join here for daily updates:,0.6249,0.203,0.0,0.0,0.0
+2020-10-21,8,"BREAKING: Mode Global Holdings PLC (U.K-listed company), has announced it will place 10% of its cash reserves into #Bitcoin as part of its treasury investment strategy.","BREAKING: Mode Global Holdings PLC (U.K-listed company), has announced it will place 10% of its cash reserves into #Bitcoin as part of its treasury investment strategy.",0.2023,0.067,0.0,0.0,0.0
+2020-10-21,8,"BREAKING: PayPal to allow #cryptocurrency and #bitcoin buying, selling and shopping on its network.","BREAKING: PayPal to allow #cryptocurrency and #bitcoin buying, selling and shopping on its network.",0.2263,0.128,0.0,0.0,0.0
+2020-10-21,8,PayPal currently has 286 million active users. Soon all them will know about #Bitcoin and #Crypto. Great step towards mass adoption.,PayPal currently has 286 million active users. Soon all them will know about #Bitcoin and #Crypto. Great step towards mass adoption.,0.7783,0.264,0.0,0.22222222222222224,0.5833333333333334
+2020-10-21,8,NEW YEARLY HIGHS FOR #BITCOIN. LET'S GO!,NEW YEARLY HIGHS FOR #BITCOIN. LET'S GO!,0.0,0.0,0.0,0.17045454545454544,0.45454545454545453
+2020-10-21,8,"As you might know, most of decentralized exchanges can't handle to trade real #Bitcoin so they offer wrapped derivatives.
+
+It's great to see one of my favourites exchange  reinventing the DEX industry. Try it out! https://t.co/swwcsJlpWY","As you might know, most of decentralized exchanges can't handle to trade real #Bitcoin so they offer wrapped derivatives.It's great to see one of my favourites exchange  reinventing the DEX industry. Try it out!",0.6588,0.111,0.0,0.5666666666666667,0.5166666666666667
+2020-10-21,8,$ETH wants to catch up with $BTC. Bull pennant breaking out. https://t.co/uWohzJ7vn9,$ETH wants to catch up with $BTC. Bull pennant breaking out.,0.0,0.0,0.0,0.2,0.1
+2020-10-21,8," lol if BTC drops to $3K I'm seeling my kidneys, and few more from third people to accumulate more Bitcoin.","lol if BTC drops to $3K I'm seeling my kidneys, and few more from third people to accumulate more Bitcoin.",0.4215,0.128,0.0,0.32,0.36
+2020-10-22,8, Can't wait for you to shill a BTC - ETF and send it straight to $50K,Can't wait for you to shill a BTC - ETF and send it straight to $50K,0.2263,0.128,0.0,0.2,0.4
+2020-10-26,9,"One of the biggest #Bitcoin transaction in USD value was made in April this year. 
+
+With a stunning dollar amount of $1.1bn (161,500 BTC).","One of the biggest #Bitcoin transaction in USD value was made in April this year. With a stunning dollar amount of $1.1bn (161,500 BTC).",0.6124,0.192,0.0,0.5,1.0
+2020-10-26,9,"#Bitcoin has pumped a +240% from this year lows.
+
+Maybe to freak out and sell every shake is not the best idea.",#Bitcoin has pumped a +240% from this year lows.Maybe to freak out and sell every shake is not the best idea.,-0.8302,0.0,0.365,1.0,0.3
+2020-10-26,9,"Peter Andreas Thiel bought with his venture capital about $15-20m worth of Bitcoin in 2017. 
+
+But did you know he is the former CEO of #eBay and the Co-founder of #Paypal? 
+
+With his fund, he invested in numerous successful projects like: #Facebook, #SpaceX and #LinkedIn.","Peter Andreas Thiel bought with his venture capital about $15-20m worth of Bitcoin in 2017. But did you know he is the former CEO of #eBay and the Co-founder of #Paypal? With his fund, he invested in numerous successful projects like: #Facebook, #SpaceX and #LinkedIn.",0.802,0.163,0.0,0.2625,0.38749999999999996
+2020-10-27,9,#Bitcoin breaching the last resistance. Clear sky ahead! https://t.co/gYOG5F1oBw,#Bitcoin breaching the last resistance. Clear sky ahead!,0.4389,0.266,0.0,0.06250000000000001,0.22499999999999998
+2020-10-27,9,"MicroStrategy investment on #Bitcoin is alreay sitting on +$89,000,000 profit.","MicroStrategy investment on #Bitcoin is alreay sitting on +$89,000,000 profit.",0.4404,0.244,0.0,0.0,0.0
+2020-10-27,9,"Is #Bitcoin decoupling from #Gold and #SP500?
+
+Let the chart speak. https://t.co/OwL2hf9hmJ",Is #Bitcoin decoupling from #Gold and #SP500?Let the chart speak.,0.0,0.0,0.0,0.0,0.0
+2020-10-30,9,Soon... #Bitcoin https://t.co/Unxtx2Lc0t,Soon... #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-11-02,10,"Did you know that Satoshi Nakamoto got a nomination for the Nobel prize of economics in 2016? 
+
+The Royal Swedish Academy of Sciences won't consider Nakamoto's nomination until he reveals his identity. https://t.co/lzQIheTit9",Did you know that Satoshi Nakamoto got a nomination for the Nobel prize of economics in 2016? The Royal Swedish Academy of Sciences won't consider Nakamoto's nomination until he reveals his identity.,0.5106,0.096,0.0,0.0,0.0
+2020-11-03,10,The #Bitcoin monthly chart screams moon.,The #Bitcoin monthly chart screams moon.,-0.296,0.0,0.306,0.0,0.0
+2020-11-03,10,"This was the #Crypto &amp; #Bitcoin outcome (ROI) after the last #elections in 2016:
+
+- $BTC +1,802%
+- $ETH +3,390%
+- $XRP +2,723%
+- $LTC +1,276%
+- $XMR +1,780%","This was the #Crypto &amp; #Bitcoin outcome (ROI) after the last #elections in 2016:- $BTC +1,802%- $ETH +3,390%- $XRP +2,723%- $LTC +1,276%- $XMR +1,780%",0.0,0.0,0.0,0.0,0.06666666666666667
+2020-11-04,10,Sending $1 Billion worth of #Bitcoin... for $3.54 in Fees! https://t.co/q6UOS9lQ25,Sending $1 Billion worth of #Bitcoin... for $3.54 in Fees!,0.2942,0.18,0.0,0.375,0.1
+2020-11-04,10,The first #Bitcoin exchange was bitcoinmarket. The site was initially announced on the Bitcointalk forum by “dwdollar” on January 15th 2010. https://t.co/UioRpIej61,The first #Bitcoin exchange was bitcoinmarket. The site was initially announced on the Bitcointalk forum by “dwdollar” on January 15th 2010.,0.0,0.0,0.0,0.125,0.16666666666666666
+2020-11-04,10,"BREAKING: Grayscale is estimated to hold +500,000 #Bitcoin by the end of the year https://t.co/4RMBzhJTxV","BREAKING: Grayscale is estimated to hold +500,000 #Bitcoin by the end of the year",0.0,0.0,0.0,0.0,0.0
+2020-11-05,10,"#Bitcoin has doubled the price since 2020 started.
+
+Let that sink in.",#Bitcoin has doubled the price since 2020 started.Let that sink in.,0.0,0.0,0.0,0.0,0.0
+2020-11-05,10,"#Bitcoin wants $15,000. Please STOP selling.","#Bitcoin wants $15,000. Please STOP selling.",-0.1613,0.249,0.318,0.2,0.1
+2020-11-05,10,"#Bitcoin | Forget about feelings. Rely on the data. 
+
+These years have been a massive bull pennant. https://t.co/kAHyjdAOhh",#Bitcoin | Forget about feelings. Rely on the data. These years have been a massive bull pennant.,-0.2263,0.0,0.112,0.0,1.0
+2020-11-05,10," Nice, if we do, will be the time to start calling the absolute collapse of Bitcoin and set bids at $3,000.","Nice, if we do, will be the time to start calling the absolute collapse of Bitcoin and set bids at $3,000.",-0.1027,0.112,0.128,0.4,0.95
+2020-11-05,10," Bitcoin is collapsing, headed to $600, no doubt.","Bitcoin is collapsing, headed to $600, no doubt.",-0.7096,0.0,0.58,0.0,0.0
+2020-11-05,10," Stop raging on Twitter and pump #Bitcoin man. 
+
+We want $20K before the end of the week!",Stop raging on Twitter and pump #Bitcoin man. We want $20K before the end of the week!,-0.68,0.061,0.278,0.0,0.0
+2020-11-05,10,What's your #Bitcoin target for the end of the year?,What's your #Bitcoin target for the end of the year?,0.0,0.0,0.0,0.0,0.0
+2020-11-06,10,"For more interesting setups, debate and analysis on #Bitcoin &amp; Crypto join our Discord server!
+
+https://t.co/urtbvLueOu","For more interesting setups, debate and analysis on #Bitcoin &amp; Crypto join our Discord server!",0.4186,0.259,0.127,0.5625,0.5
+2020-11-06,10,BREAKING: 97% of #Bitcoin Wallets are Currently in Profit https://t.co/jJjz0n5z5q,BREAKING: 97% of #Bitcoin Wallets are Currently in Profit,0.4404,0.244,0.0,0.0,0.4
+2020-11-06,10,US Government is Now a #Bitcoin Whale https://t.co/2qxlOvOdy9,US Government is Now a #Bitcoin Whale,0.0,0.0,0.0,0.0,0.0
+2020-11-06,10,"If you are looking for signals/analysis on #Bitcoin and #Crypto you should join our free #Discord channel. 
+
+The best technical analysis, debate and the best people!
+
+📝Join here: https://t.co/urtbvLueOu https://t.co/keZC0pdA2r","If you are looking for signals/analysis on #Bitcoin and #Crypto you should join our free #Discord channel. The best technical analysis, debate and the best people!📝Join here:",0.9348,0.353,0.0,0.6,0.37500000000000006
+2020-11-09,11, #Bitcoin is +104% from this tweet.,#Bitcoin is +104% from this tweet.,0.0,0.0,0.0,0.0,0.0
+2020-11-09,11,An update about #Bitcoin from the #Discord server. https://t.co/S9xQYhXieX,An update about #Bitcoin from the #Discord server.,0.0,0.0,0.0,0.0,0.0
+2020-11-10,11,"9 Billionaires who own #Bitcoin + estimated net worth:
+
+- Mark Cuban ($4.3bn)
+- Elon Musk ($40bn)
+- Paul Tudor Jones ($5.1bn)
+- Brian Armstrong ($1.3bn)
+- Jack Dorsey ($4.7bn)
+- Changpeng Zhao ($2.6bn)
+- Winkelvoss twins ($1.8bn)
+- Tim Draper ($1bn)
+- Chamat Palihapitiya ($1bn)",9 Billionaires who own #Bitcoin + estimated net worth:- Mark Cuban ($4.3bn)- Elon Musk ($40bn)- Paul Tudor Jones ($5.1bn)- Brian Armstrong ($1.3bn)- Jack Dorsey ($4.7bn)- Changpeng Zhao ($2.6bn)- Winkelvoss twins ($1.8bn)- Tim Draper ($1bn)- Chamat Palihapitiya ($1bn),0.2263,0.053,0.0,0.3,0.3666666666666667
+2020-11-11,11,#Bitcoin roadmap simulating the growth range of previous halvings. https://t.co/ha8uZWux7c,#Bitcoin roadmap simulating the growth range of previous halvings.,0.3818,0.224,0.0,-0.16666666666666666,0.16666666666666666
+2020-11-11,11,"#Bitcoin at $16,000 means I'm just $4,000 away to break even from my 2017 buys. Amazing!","#Bitcoin at $16,000 means I'm just $4,000 away to break even from my 2017 buys. Amazing!",0.6239,0.214,0.0,0.7500000000000001,0.9
+2020-11-11,11,"#Bitcoin +50% from this key first breakout.
+
+It's being a nice ride! https://t.co/irkgNIANaY",#Bitcoin +50% from this key first breakout.It's being a nice ride!,0.4753,0.219,0.0,0.3333333333333333,0.7777777777777777
+2020-11-12,11,"#Bitcoin | Be careful with the $16,100 - $16,300 range.","#Bitcoin | Be careful with the $16,100 - $16,300 range.",0.1531,0.186,0.0,-0.1,1.0
+2020-11-12,11,Don't tell me #Bitcoin is going parabolic until people start using log charts.,Don't tell me #Bitcoin is going parabolic until people start using log charts.,0.0,0.0,0.0,0.0,0.0
+2020-11-13,11,"When #Bitcoin reached $20,000 in 2017, it unchained euphoria because no one saw it coming.
+
+This time, we know it's coming, we know it's possible, we know it's just the beginning.","When #Bitcoin reached $20,000 in 2017, it unchained euphoria because no one saw it coming.This time, we know it's coming, we know it's possible, we know it's just the beginning.",0.5423,0.159,0.061,0.0,1.0
+2020-11-13,11,"I've just shared my daily #Bitcoin analysis and the #Altcoins roadmap for the upcoming days with more than 12,000 traders and investors on my community. Go take a look!
+
+https://t.co/urtbvLueOu","I've just shared my daily #Bitcoin analysis and the #Altcoins roadmap for the upcoming days with more than 12,000 traders and investors on my community. Go take a look!",0.4003,0.088,0.0,0.3125,0.25
+2020-11-17,12,"#Bitcoin wants new all time high.
+
+ⓘ  𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝘀𝘁𝗮𝘁𝗲𝗱 𝘁𝗵𝗮𝘁 𝗶𝘀 𝗳𝗮𝗹𝘀𝗲 𝗮𝗻𝗱 𝗺𝗶𝘀𝗹𝗲𝗮𝗱𝗶𝗻𝗴",#Bitcoin wants new all time high.ⓘ  𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝘀𝘁𝗮𝘁𝗲𝗱 𝘁𝗵𝗮𝘁 𝗶𝘀 𝗳𝗮𝗹𝘀𝗲 𝗮𝗻𝗱 𝗺𝗶𝘀𝗹𝗲𝗮𝗱𝗶𝗻𝗴,0.0,0.0,0.0,0.16545454545454544,0.3648484848484848
+2020-11-17,12,This is getting interesting #Bitcoin https://t.co/nwNbl0fS5G,This is getting interesting #Bitcoin,0.4019,0.351,0.0,0.5,0.5
+2020-11-17,12," Important message as we enter the next Bitcoin bull market:
+
+- x100 long your lifesavings",Important message as we enter the next Bitcoin bull market:- x100 long your lifesavings,0.2023,0.122,0.0,0.11666666666666668,0.4666666666666666
+2020-11-17,12,"If you invested the USA stimulus check in #Bitcoin it would worth now $3,082. Making a +157% profit.","If you invested the USA stimulus check in #Bitcoin it would worth now $3,082. Making a +157% profit.",0.5859,0.242,0.0,0.3,0.1
+2020-11-18,12,"💵 MicroStrategy invested $425 million in #Bitcoin 
+
+📈After just 3 months they made a +50% profit
+
+💰 Totalling +$225 million gains
+
+https://t.co/Pqz7OigavM",💵 MicroStrategy invested $425 million in #Bitcoin 📈After just 3 months they made a +50% profit💰 Totalling +$225 million gains,0.6486,0.249,0.0,0.0,0.0
+2020-11-19,12,"💡 If you bought $1,000 worth of #Bitcoin 10 years ago...
+
+💰 Now it would worth $69,750,000","💡 If you bought $1,000 worth of #Bitcoin 10 years ago...💰 Now it would worth $69,750,000",0.4215,0.226,0.0,0.3,0.1
+2020-11-19,12,"#Bitcoin dropping $500 dollars today. 
+
+I told you it was a scam, pack it up guys. It's over!","#Bitcoin dropping $500 dollars today. I told you it was a scam, pack it up guys. It's over!",-0.6114,0.0,0.21,0.0,0.0
+2020-11-19,12,"#Bitcoin recovering the loss now. Is NOT a scam.
+
+Taking another loan to go all in! It's the future!",#Bitcoin recovering the loss now. Is NOT a scam.Taking another loan to go all in! It's the future!,0.3142,0.164,0.105,0.0,0.125
+2020-11-20,12,"In 2013, Tony Vaughn, the police chief of Vicco, Kentucky (a town of fewer than 300 people) asked to be paid in #Bitcoin. 
+
+Surprisingly, his boss agreed, making this the first time a public servant was paid in #Cryptocurrency! https://t.co/B8QNDWGR2D","In 2013, Tony Vaughn, the police chief of Vicco, Kentucky (a town of fewer than 300 people) asked to be paid in #Bitcoin. Surprisingly, his boss agreed, making this the first time a public servant was paid in #Cryptocurrency!",0.5562,0.11,0.0,0.31666666666666665,0.3
+2020-11-20,12,"The average price of 1 $BTC in 2013 was $130, around $450 in 2014, around $350 in 2015...etc
+
+The average Police Officer salary in Kentucky is $54,100.
+
+That's a good amount of #Bitcoin during a period of 7 years.","The average price of 1 $BTC in 2013 was $130, around $450 in 2014, around $350 in 2015...etcThe average Police Officer salary in Kentucky is $54,100.That's a good amount of #Bitcoin during a period of 7 years.",0.4404,0.079,0.0,0.13333333333333333,0.4666666666666666
+2020-11-20,12,BREAKING: New Bitcoin Fund for Morgan Creek with SEC https://t.co/QZ9vOnx2iL,BREAKING: New Bitcoin Fund for Morgan Creek with SEC,0.0,0.0,0.0,0.018181818181818174,0.5272727272727272
+2020-11-23,13,"Keep it simple, hold #Bitcoin. https://t.co/c59ZZBUTVH","Keep it simple, hold #Bitcoin.",0.0,0.0,0.0,0.0,0.35714285714285715
+2020-11-23,13,"💵 GIVEAWAY TIME 💵
+
+To celebrate the recent crypto pumps I will be giving away:
+
+- 💰$200 worth of #Bitcoin
+- 📝 2 free premium memberships
+
+To participate just RT and tag 2 friends! https://t.co/B6YvajV5IB",💵 GIVEAWAY TIME 💵To celebrate the recent crypto pumps I will be giving away:- 💰$200 worth of #Bitcoin- 📝 2 free premium membershipsTo participate just RT and tag 2 friends!,0.9286,0.4,0.0,0.26666666666666666,0.3833333333333333
+2020-11-24,13,#Bitcoin wants new All Time High. Send it!,#Bitcoin wants new All Time High. Send it!,0.0,0.0,0.0,0.1787878787878788,0.3648484848484848
+2020-11-24,13,"MUST READ: The Case for $500K #Bitcoin 
+
+https://t.co/Djm0LCVPi3",MUST READ: The Case for $500K #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-11-24,13,"#Bitcoin , it's your moment. https://t.co/hnoDKNiFbl","#Bitcoin , it's your moment.",0.0,0.0,0.0,0.0,0.0
+2020-11-24,13,"Can't wait for #Bitcoin to reach $20,000...
+
+But man, what's next...","Can't wait for #Bitcoin to reach $20,000...But man, what's next...",0.0258,0.099,0.0,0.0,0.0
+2020-11-24,13," Bitcoin ""mania"" haha amazing. Move on with the tulip comparison guys, great work!","Bitcoin ""mania"" haha amazing. Move on with the tulip comparison guys, great work!",0.9041,0.528,0.0,0.6,0.65
+2020-11-24,13,"If you invested the USA stimulus check from April on #Bitcoin...
+
+💵 Your $1,200 are now worth $3,421
+
+📈 Totalling a +186% value increase","If you invested the USA stimulus check from April on #Bitcoin...💵 Your $1,200 are now worth $3,421📈 Totalling a +186% value increase",0.6808,0.268,0.0,0.3,0.1
+2020-11-24,13,#Bitcoin whales are not selling. https://t.co/ZctGa6Be0x,#Bitcoin whales are not selling.,0.0,0.0,0.0,0.0,0.0
+2020-11-25,13,"Back in 2018, KFC Canada was accepting #bitcoin for a limited time, for a cryptocurrency-themed bucket of chicken.
+
+For a limited time, people were able to buy “The Bitcoin Bucket” online and delivered directly to the customer’s address. https://t.co/Z9Fr2A8iSV","Back in 2018, KFC Canada was accepting #bitcoin for a limited time, for a cryptocurrency-themed bucket of chicken.For a limited time, people were able to buy “The Bitcoin Bucket” online and delivered directly to the customer’s address.",-0.0516,0.066,0.096,-0.023809523809523794,0.3767857142857143
+2020-11-26,13,#Bitcoin Compared to #Gold by Grayscale COO https://t.co/85ldTCSId1,#Bitcoin Compared to #Gold by Grayscale COO,0.0,0.0,0.0,0.0,0.0
+2020-11-30,14,"BREAKING: Just during the last week, Grayscale bought +7,300 #Bitcoin https://t.co/P8gN7ki9tR","BREAKING: Just during the last week, Grayscale bought +7,300 #Bitcoin",0.0,0.0,0.0,0.0,0.06666666666666667
+2020-12-01,14,A #Bitcoin tale. To be continued... https://t.co/xlyIav3t9J,A #Bitcoin tale. To be continued...,0.0,0.0,0.0,0.0,0.0
+2020-12-01,14,"#Bitcoin ALL TIME HIGHS on:
+
+✅ Coinbase
+
+✅ Binance
+
+✅ Biftfinex
+
+✅ Bitstamp
+
+Congratulations guys!",#Bitcoin ALL TIME HIGHS on:✅ Coinbase✅ Binance✅ Biftfinex✅ BitstampCongratulations guys!,0.636,0.295,0.0,0.0,0.0
+2020-12-01,14,Pizza Hut Is Now Accepting Bitcoin https://t.co/UEKz8Zlwqo,Pizza Hut Is Now Accepting Bitcoin,0.3818,0.302,0.0,0.0,0.0
+2020-12-02,14,BREAKING: Japanese Finance Giant To Offer #Bitcoin Loans https://t.co/0yHXyR85a1,BREAKING: Japanese Finance Giant To Offer #Bitcoin Loans,0.0,0.0,0.0,0.0,0.5
+2020-12-07,15,"What will be the #Bitcoin price during the last minute of 2020?
+
+The closest prediction gets $200
+
+Go! 💸",What will be the #Bitcoin price during the last minute of 2020?The closest prediction gets $200Go! 💸,0.0,0.0,0.0,0.0,0.06666666666666667
+2020-12-08,15,"The #Bitcoin network has been functional for 99.9851% of the time since its inception on 3 Jan 2009, 2:54:25 GMT.","The #Bitcoin network has been functional for 99.9851% of the time since its inception on 3 Jan 2009, 2:54:25 GMT.",0.0,0.0,0.0,0.0,0.0
+2020-12-08,15,"My trading starter pack recommendations.
+
+#Bitcoin #Crypto #Trading #Books https://t.co/94GGXs96Go",My trading starter pack recommendations.#Bitcoin #Crypto #Trading #Books,0.0,0.0,0.0,0.0,0.0
+2020-12-09,15,JUST IN: Ray Dalio Has Changed His Mind Regarding Bitcoin https://t.co/R444zy56g1,JUST IN: Ray Dalio Has Changed His Mind Regarding Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-12-09,15,"By the way guys! I've partnered with  to offer you an amazing deal:
+
+💪🏻 Using the code: CRYPTORAND50 you will get a 50% $BTC bonus on your deposited amount!
+
+https://t.co/kQqO2R7pHa",By the way guys! I've partnered with  to offer you an amazing deal:💪🏻 Using the code: CRYPTORAND50 you will get a 50% $BTC bonus on your deposited amount!,0.8353,0.226,0.0,0.7500000000000001,0.9
+2020-12-10,15,"BREAKING: MasterCard will no longer allow its cards to be used on PornHub
+
+#Bitcoin is the answer.",BREAKING: MasterCard will no longer allow its cards to be used on PornHub#Bitcoin is the answer.,-0.0772,0.099,0.115,0.0,0.0
+2020-12-11,15,Wealth is Flowing into #Bitcoin https://t.co/zghN9l4yI0,Wealth is Flowing into #Bitcoin,0.4939,0.39,0.0,0.0,0.0
+2020-12-11,15,"BREAKING: MicroStrategy just announced their intentions to buy another $650 Million worth of Bitcoin.
+
+Which would make them to own more than 1 BILLION worth of #Bitcoin https://t.co/4jk6B7LvVs",BREAKING: MicroStrategy just announced their intentions to buy another $650 Million worth of Bitcoin.Which would make them to own more than 1 BILLION worth of #Bitcoin,0.4215,0.132,0.0,0.425,0.42500000000000004
+2020-12-11,15,Venezuela Uses #Bitcoin To Avoid US Sanctions https://t.co/q3vyAYaKSj,Venezuela Uses #Bitcoin To Avoid US Sanctions,-0.296,0.0,0.239,0.0,0.0
+2020-12-13,15,"🇺🇸 21% of all US Dollars were printed in 2020
+
+📈 Imagine thinking Bitcoin is expensive... https://t.co/8aBdqiuGPP",🇺🇸 21% of all US Dollars were printed in 2020📈 Imagine thinking Bitcoin is expensive...,0.0,0.0,0.0,-0.5,0.7
+2020-12-14,16,"Remember guys! 
+
+💪🏻 I've partnered with  to offer you an amazing deal:
+
+💵 Using the code: CRYPTORAND50 you will get a 50% $BTC bonus on your deposited amount!
+
+https://t.co/kQqO2R7pHa",Remember guys! 💪🏻 I've partnered with  to offer you an amazing deal:💵 Using the code: CRYPTORAND50 you will get a 50% $BTC bonus on your deposited amount!,0.8353,0.24,0.0,0.7500000000000001,0.9
+2020-12-14,16,#Bitcoin looking really bullish.,#Bitcoin looking really bullish.,0.0,0.0,0.0,0.2,0.2
+2020-12-15,16,"Trading #Bitcoin is risky, fact. 
+
+But... how risky is to ignore it?
+
+Think about it.","Trading #Bitcoin is risky, fact. But... how risky is to ignore it?Think about it.",-0.6249,0.0,0.337,0.0,0.0
+2020-12-15,16," Flipo en colores, eso en Wallapop debe valer un BTC por lo menos","Flipo en colores, eso en Wallapop debe valer un BTC por lo menos",0.0,0.0,0.0,0.0,0.0
+2020-12-15,16,"Governments keep printing fake money while they warn you about the risks of a fully decntraliced, transparent and limited supply currency like #Bitcoin.","Governments keep printing fake money while they warn you about the risks of a fully decntraliced, transparent and limited supply currency like #Bitcoin.",-0.6124,0.089,0.304,-0.2857142857142857,0.5714285714285714
+2020-12-16,16,BREAKING: Ruffer Invests in 15 Million on #Bitcoin after Selling #Gold https://t.co/zC6BA4k2H8,BREAKING: Ruffer Invests in 15 Million on #Bitcoin after Selling #Gold,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,#Bitcoin price movements under $20K have only been a distraction to shake you out before $100k.,#Bitcoin price movements under $20K have only been a distraction to shake you out before $100k.,-0.5106,0.0,0.249,0.0,1.0
+2020-12-16,16,BREAKING: The TOP #Bitcoin holders are buying. https://t.co/5ZHj8ASycF,BREAKING: The TOP #Bitcoin holders are buying.,0.368,0.266,0.0,0.5,0.5
+2020-12-16,16,"If you invested the USA stimulus check from April on #Bitcoin...
+
+💵 Your $1,200 are now worth $3,735
+
+📈 Totalling a +212% value increase","If you invested the USA stimulus check from April on #Bitcoin...💵 Your $1,200 are now worth $3,735📈 Totalling a +212% value increase",0.6808,0.268,0.0,0.3,0.1
+2020-12-16,16,Which altcoin is primed to follow #Bitcoin's pump?,Which altcoin is primed to follow #Bitcoin's pump?,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,"📢 Tomorrow I will be sharing a full and deailed analysis for everyone about the next stages for #Bitcoin and Altcoins.
+
+🔥 We are just getting started! Stay tuned here: https://t.co/urtbvLueOu",📢 Tomorrow I will be sharing a full and deailed analysis for everyone about the next stages for #Bitcoin and Altcoins.🔥 We are just getting started! Stay tuned here:,0.4753,0.106,0.0,0.175,0.275
+2020-12-17,16,"📢 MicroStrategy investment on #Bitcoin is alreay sitting on +$331,000,000 profit.","📢 MicroStrategy investment on #Bitcoin is alreay sitting on +$331,000,000 profit.",0.4404,0.244,0.0,0.0,0.0
+2020-12-21,17,Jefferies Investing in #Bitcoin https://t.co/mG9LhEmUgj,Jefferies Investing in #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-12-22,17,"Martti Malmi Mined 55.000 #Bitcoin ($1,3 billion worth) with his laptop back in 2009-2010 
+
+https://t.co/9I77TmEdes","Martti Malmi Mined 55.000 #Bitcoin ($1,3 billion worth) with his laptop back in 2009-2010",0.0,0.0,0.0,0.15,0.05
+2020-12-22,17,"#Bitcoin lacking supply and liquidity on exchanges.
+
+Keep it simple: full bullish. https://t.co/frKQqtbgKe",#Bitcoin lacking supply and liquidity on exchanges.Keep it simple: full bullish.,0.0,0.0,0.0,0.175,0.4535714285714286
+2020-12-26,17,BREAKING: #Bitcoin market cap ($488b) is now bigger than VISA ($487b),BREAKING: #Bitcoin market cap ($488b) is now bigger than VISA ($487b),0.0,0.0,0.0,0.0,0.5
+2020-12-26,17,"What will be the #Bitcoin price during the last minute of 2020?
+
+◽️ The closest prediction gets $200 ◽️
+
+Go! 💸",What will be the #Bitcoin price during the last minute of 2020?◽️ The closest prediction gets $200 ◽️Go! 💸,0.0,0.0,0.0,0.0,0.06666666666666667
+2020-12-28,18,"✅ 2021 is going to be crazy for #Bitcoin and #Crypto
+
+📈 As every year, I will continue sharing my trading setups and signals with all of you on Discord
+
+💰 Join and RT for a chance to win $500
+
+https://t.co/urtbvLueOu","✅ 2021 is going to be crazy for #Bitcoin and #Crypto📈 As every year, I will continue sharing my trading setups and signals with all of you on Discord💰 Join and RT for a chance to win $500",0.6908,0.235,0.111,0.10000000000000003,0.65
+2021-01-02,18,"$1 USD is now worth 3,136 sats of #Bitcoin.
+
+The dump continues. https://t.co/UgsV3HSyE9","$1 USD is now worth 3,136 sats of #Bitcoin.The dump continues.",-0.1779,0.123,0.168,0.3,0.1
+2021-01-07,18,"#Bitcoin scratched $40,000. Let that sink in.","#Bitcoin scratched $40,000. Let that sink in.",0.0,0.0,0.0,0.0,0.0
+2021-01-07,18,"The next Monday I will be releasing a 100 pages overview on #Bitcoin and the best #Crypto &amp; #Blockchain investments for the next year.
+
+Join our community here to get it for free: 
+
+https://t.co/urtbvLueOu
+
+🔥 RT for a chance to win $1,000 of #BTC 🔥","The next Monday I will be releasing a 100 pages overview on #Bitcoin and the best #Crypto &amp; #Blockchain investments for the next year.Join our community here to get it for free: 🔥 RT for a chance to win $1,000 of #BTC 🔥",0.9382,0.307,0.0,0.44000000000000006,0.3
+2021-01-08,18," Nice, more gas for #Bitcoin","Nice, more gas for #Bitcoin",0.4215,0.412,0.0,0.55,0.75
+2021-01-08,18,"Already over 14,000 members on the community making it one of the biggest #Bitcoin &amp; #Crypto Discord groups in the word!
+
+Let's go guys! 🚀","Already over 14,000 members on the community making it one of the biggest #Bitcoin &amp; #Crypto Discord groups in the word!Let's go guys! 🚀",-0.508,0.0,0.125,0.0,0.0
+2021-01-08,18,"If you bought $100 worth of #Bitcoin every month during the last 3 years you wold have today $44,000 USD.
+
+Don't wait for unrealistic dips to buy, average your entry with small and steady buys.
+
+Be patient.","If you bought $100 worth of #Bitcoin every month during the last 3 years you wold have today $44,000 USD.Don't wait for unrealistic dips to buy, average your entry with small and steady buys.Be patient.",0.2263,0.051,0.0,-0.07222222222222223,0.41111111111111115
+2021-01-08,18,"Does History Repeat Itself?
+
+If so, the #Bitcoin Target is: $327,916. https://t.co/2RQ2cDf1AO","Does History Repeat Itself?If so, the #Bitcoin Target is: $327,916.",0.0,0.0,0.0,0.0,0.0
+2021-01-08,18,"#Bitcoin market cap is about to overtake #Tesla.
+
+Let that sink in. https://t.co/vLhc1fQ8do",#Bitcoin market cap is about to overtake #Tesla.Let that sink in.,0.0,0.0,0.0,0.0,0.0
+2021-01-09,18,  Let us buy Tesla cars with #Bitcoin then!,Let us buy Tesla cars with #Bitcoin then!,0.0,0.0,0.0,0.0,0.0
+2021-01-09,18,"The next Monday I will be releasing a 100 pages overview on #Bitcoin and the best #Crypto &amp; #Blockchain investments for the next year.
+
+Join our community here to get it for FREE: 
+
+https://t.co/urtbvLueOu
+
+🔥 RT for a chance to win $1,000 of #BTC 🔥","The next Monday I will be releasing a 100 pages overview on #Bitcoin and the best #Crypto &amp; #Blockchain investments for the next year.Join our community here to get it for FREE: 🔥 RT for a chance to win $1,000 of #BTC 🔥",0.9454,0.317,0.0,0.44000000000000006,0.3
+2021-01-09,18," My 3 months-old son, Sato, said he feels like 2021 will be the year when #Bitcoin will beat the current banking system. 
+
+Demolishing the nosense FED printing which sentences future generations to an endless debt.","My 3 months-old son, Sato, said he feels like 2021 will be the year when #Bitcoin will beat the current banking system. Demolishing the nosense FED printing which sentences future generations to an endless debt.",0.0516,0.099,0.067,-0.041666666666666664,0.425
+2021-01-11,19, LMAO you sold #Bitcoin at $10K...,LMAO you sold #Bitcoin at $10K...,0.6841,0.481,0.0,0.6,1.0
+2021-01-11,19,"Yo guys,  just send me this TA on #Bitcoin.
+
+Pack it up, it's over. https://t.co/5aAVgnsDfX","Yo guys,  just send me this TA on #Bitcoin.Pack it up, it's over.",0.0,0.0,0.0,0.0,0.0
+2021-01-12,19,"January 12th, 2009 will remain inscribed in years to come as the day when the first nonmined bitcoin transaction took place.
+
+On this day, Satoshi Nakamoto sent approximately 10 #Bitcoin to Hal Finney to test the strength of the network. https://t.co/Rv00HKsElN","January 12th, 2009 will remain inscribed in years to come as the day when the first nonmined bitcoin transaction took place.On this day, Satoshi Nakamoto sent approximately 10 #Bitcoin to Hal Finney to test the strength of the network.",0.4939,0.074,0.0,-0.07500000000000001,0.4666666666666667
+2021-01-12,19,"📢 BREAKING 📢
+
+As promised...here is the ""2021 Crypto Review"".
+
+A fully detailed report with +80 pages analyzing #Bitcoin and #Crypto industries on full detail.
+
+You can download it for FREE here:
+https://t.co/UN96DRJPbZ","📢 BREAKING 📢As promised...here is the ""2021 Crypto Review"".A fully detailed report with +80 pages analyzing #Bitcoin and #Crypto industries on full detail.You can download it for FREE here:",0.6166,0.122,0.0,0.3833333333333333,0.7000000000000001
+2021-01-12,19,"Are you having a bad day?
+
+Stephen Thomas has 220 millions worth of #Bitcoin on a virtual wallet. 
+
+He tried to access it 8 times. 
+
+At the 10th wrong attempt his fortue will disappear. https://t.co/fOOZMkarps",Are you having a bad day?Stephen Thomas has 220 millions worth of #Bitcoin on a virtual wallet. He tried to access it 8 times. At the 10th wrong attempt his fortue will disappear.,-0.765,0.049,0.221,-0.3,0.5555555555555555
+2021-01-13,19," Bitcoin is a threat to their printing obsession. 
+
+They are afraid, and that's good. https://t.co/aMwTlEh6Ud","Bitcoin is a threat to their printing obsession. They are afraid, and that's good.",-0.4404,0.147,0.294,0.04999999999999999,0.75
+2021-01-14,19,"BREAKING: ""eToro Running out of #Bitcoin"" https://t.co/5qWOZ4c5eb","BREAKING: ""eToro Running out of #Bitcoin""",0.0,0.0,0.0,0.0,0.0
+2021-01-14,19,"If #Bitcoin closes the weekly candle as it looks right now, it would be beyond bullish. https://t.co/CopolXmPHv","If #Bitcoin closes the weekly candle as it looks right now, it would be beyond bullish.",0.0,0.0,0.0,0.2857142857142857,0.5357142857142857
+2021-01-14,19, Source: Bitcoin. https://t.co/x2n8AC6vks,Source: Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-01-14,19,Reply with this video everytime someone talks about #Bitcoin as money laundering gateway. https://t.co/HywfVShoVW,Reply with this video everytime someone talks about #Bitcoin as money laundering gateway.,0.0,0.0,0.0,0.0,0.0
+2021-01-14,19,"BREAKING: Grayscale is back from holidays, buys +2,200 #Bitcoin. Around $87 millions worth of USD: https://t.co/7MpH6vshKb","BREAKING: Grayscale is back from holidays, buys +2,200 #Bitcoin. Around $87 millions worth of USD:",0.5423,0.243,0.0,0.15,0.05
+2021-01-14,19,#Bitcoin is the only vaccine against central banks! https://t.co/ItrRhi1tZG,#Bitcoin is the only vaccine against central banks!,0.0,0.0,0.0,0.0,0.625
+2021-01-14,19,Miami Mayor Wants the City to Invest on #Bitcoin https://t.co/I8OA60Yw9c,Miami Mayor Wants the City to Invest on #Bitcoin,0.0,0.0,0.0,0.2,0.1
+2021-01-15,19,🔴BREAKING: #Bitcoin crashes to four days ago price.,🔴BREAKING: #Bitcoin crashes to four days ago price.,0.0,0.0,0.0,0.0,0.0
+2021-01-15,19,#Bitcoin is always the right answer. We are still early. https://t.co/2KpVxss43i,#Bitcoin is always the right answer. We are still early.,0.0,0.0,0.0,0.19285714285714284,0.4178571428571428
+2021-01-16,19,"BREAKING: Grayscale just bought 5,132 #Bitcoin which is worth around $190 millions of USD.","BREAKING: Grayscale just bought 5,132 #Bitcoin which is worth around $190 millions of USD.",0.2263,0.128,0.0,0.3,0.1
+2021-01-16,19,"As some of you pointed already:
+
+This buy represents 6 DAYS of #Bitcoin minning supply.
+
+Think about it.",As some of you pointed already:This buy represents 6 DAYS of #Bitcoin minning supply.Think about it.,0.0,0.0,0.0,0.0,0.0
+2021-01-16,19," I sold all my Bitcoinnect, something seems fishy!","I sold all my Bitcoinnect, something seems fishy!",0.0,0.0,0.0,0.0,0.0
+2021-01-16,19, Ask Satoshi for a reund. I'm already callin tech support,Ask Satoshi for a reund. I'm already callin tech support,0.4019,0.252,0.0,0.0,0.0
+2021-01-16,19," It's my favorite stage of the market. Altcoins gettin heavy, loading, loading...then suddnely the USDT pair catch up with BTC and booom WTF tons of money, what's next? Taxes? Nahhhhhhh","It's my favorite stage of the market. Altcoins gettin heavy, loading, loading...then suddnely the USDT pair catch up with BTC and booom WTF tons of money, what's next? Taxes? Nahhhhhhh",-0.4391,0.084,0.136,-0.05,0.625
+2021-01-18,20,The number of #Bitcoin active addresses reaching new historical highs. https://t.co/HQlGWVGZdJ,The number of #Bitcoin active addresses reaching new historical highs.,0.5859,0.42,0.0,0.0010101010101010073,0.3515151515151515
+2021-01-18,20, Buy #Bitcoin,Buy #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-19,20,"📢 Every single day, no matter Bullish or Bearish. 
+
+📊 I'm sharing my analysis on #Bitcoin and #Crypto since more than three years. All the keys and information within a click.
+
+💵 More than 15,000 traders and investors are already part of the community!
+
+https://t.co/urtbvLueOu","📢 Every single day, no matter Bullish or Bearish. 📊 I'm sharing my analysis on #Bitcoin and #Crypto since more than three years. All the keys and information within a click.💵 More than 15,000 traders and investors are already part of the community!",0.2481,0.094,0.05,0.3511904761904762,0.4047619047619048
+2021-01-21,20,Wall street Panics as #Bitcoin Booms https://t.co/wIw9Tk5fxk,Wall street Panics as #Bitcoin Booms,-0.4404,0.0,0.326,0.0,0.0
+2021-01-21,20,#Bitcoin Evolving into a Cyclical Asset https://t.co/u6OEwzkDtm,#Bitcoin Evolving into a Cyclical Asset,0.3612,0.333,0.0,0.0,0.0
+2021-01-25,21,"📈 I've just shared my analysis on #Bitcoin and Altcoins for the upcoming week on Discord (over 15,000 traders already!)
+
+👀 Go check it out!
+
+https://t.co/urtbvLueOu","📈 I've just shared my analysis on #Bitcoin and Altcoins for the upcoming week on Discord (over 15,000 traders already!)👀 Go check it out!",-0.2225,0.087,0.119,0.0,0.0
+2021-01-25,21,Buying $10 Million Worth of #Bitcoin in the Dip https://t.co/L5eKUOXbxP,Buying $10 Million Worth of #Bitcoin in the Dip,0.2263,0.174,0.0,0.3,0.1
+2021-01-25,21," #Bitcoin lost reduces the supply, all the Bitcoin holders win.","#Bitcoin lost reduces the supply, all the Bitcoin holders win.",0.3612,0.27,0.163,0.8,0.4
+2021-01-25,21, Plain holding Bitcoin https://t.co/DP6x3EzdOH,Plain holding Bitcoin,0.0,0.0,0.0,-0.21428571428571427,0.35714285714285715
+2021-01-25,21, Hmmm it might be time to sue Satoshi,Hmmm it might be time to sue Satoshi,0.0,0.0,0.0,0.0,0.0
+2021-01-25,21,"📢 BREAKING: The endowment funds of Harvard, Yale, Brown and UMich have been quietly buying #Bitcoin","📢 BREAKING: The endowment funds of Harvard, Yale, Brown and UMich have been quietly buying #Bitcoin",0.0,0.0,0.0,0.0,0.3333333333333333
+2021-01-25,21,"Looks like you guys are selling #Bitcoin and fucking the daily candle. 
+
+Not cool, please stop.","Looks like you guys are selling #Bitcoin and fucking the daily candle. Not cool, please stop.",0.119,0.216,0.193,-0.2583333333333333,0.4833333333333334
+2021-01-26,21,$150 Million Investment in #Bitcoin from Marathon Miner https://t.co/4hdyxbWaud,$150 Million Investment in #Bitcoin from Marathon Miner,0.0,0.0,0.0,0.0,0.0
+2021-01-26,21,"There are +820,000 #Bitcoin addresses holding at least 1 BTC. https://t.co/aTi6iVpCQo","There are +820,000 #Bitcoin addresses holding at least 1 BTC.",0.0,0.0,0.0,-0.3,0.4
+2021-01-27,21,"During 2017 bull run we had 5 major corrections.
+
+Some of them even reached a -39% before the bullish continuation.
+
+So far this year, #Bitcoin is -26% from ATH.
+
+History not always repeat itself but usually rhymes. https://t.co/AVOqREvXhl","During 2017 bull run we had 5 major corrections.Some of them even reached a -39% before the bullish continuation.So far this year, #Bitcoin is -26% from ATH.History not always repeat itself but usually rhymes.",0.0516,0.033,0.0,-0.029166666666666664,0.5833333333333334
+2021-01-27,21,We need the CEO of #Bitcoin to be more active on Reddit.,We need the CEO of #Bitcoin to be more active on Reddit.,0.4576,0.214,0.0,0.18333333333333335,0.55
+2021-01-27,21,You can't stop #Bitcoin. https://t.co/YGJ8N4SNfY,You can't stop #Bitcoin.,0.2235,0.321,0.0,0.0,0.0
+2021-01-28,21," Switch to r/Bitcoin, always welcome","Switch to r/Bitcoin, always welcome",0.4588,0.429,0.0,0.8,0.9
+2021-01-28,21, #Bitcoin is the answer,#Bitcoin is the answer,0.0,0.0,0.0,0.0,0.0
+2021-01-28,21, #Bitcoin never goes corpo,#Bitcoin never goes corpo,0.0,0.0,0.0,0.0,0.0
+2021-01-28,21, You don’t have to. Switch to #Bitcoin,You don’t have to. Switch to #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-28,21,#Bitcoin doesn't need permission,#Bitcoin doesn't need permission,0.0,0.0,0.0,0.0,0.0
+2021-01-28,21, Yes: #Bitcoin,Yes: #Bitcoin,0.4019,0.73,0.0,0.0,0.0
+2021-01-28,21," The only answer to their money printing addiction is #Bitcoin 
+
+https://t.co/Qm4XE3N5M6",The only answer to their money printing addiction is #Bitcoin,0.0,0.0,0.0,0.0,1.0
+2021-01-28,21," There is only one currency every single country hates:
+
+#Bitcoin, the only answer.","There is only one currency every single country hates:#Bitcoin, the only answer.",-0.4404,0.0,0.195,-0.023809523809523808,0.7380952380952381
+2021-01-28,21,"Eyes on #Bitcoin, pretty bullish.
+
+About to push the major falling wedge breakout. https://t.co/oRPiz3ersn","Eyes on #Bitcoin, pretty bullish.About to push the major falling wedge breakout.",0.3818,0.19,0.095,0.15625,0.75
+2021-01-28,21, The king: #Bitcoin,The king: #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-29,21,  Bitcoin will win. It’s a matter of time,Bitcoin will win. It’s a matter of time,0.5994,0.495,0.0,0.8,0.4
+2021-01-29,21,BREAKING:  just placed #Bitcoin on his Twitter BIO https://t.co/TmzZ00zVGq,BREAKING:  just placed #Bitcoin on his Twitter BIO,0.0,0.0,0.0,0.0,0.0
+2021-01-29,21,"UPDATE: #Bitcoin +12% up already. It begins!
+
+More charts and signals on my Discord community: https://t.co/Qm4XE3N5M6 https://t.co/c0OhtdOpkO",UPDATE: #Bitcoin +12% up already. It begins!More charts and signals on my Discord community:,-0.4574,0.0,0.158,0.5,0.5
+2021-01-29,21,BREAKING: $57 Million Worth of #Bitcoin Shorts Liquidated Thanks to Elon Musk https://t.co/RSkRXvJGI6,BREAKING: $57 Million Worth of #Bitcoin Shorts Liquidated Thanks to Elon Musk,0.5859,0.304,0.0,0.25,0.15000000000000002
+2021-01-29,21,INTERESTING: Ray Dalio Considers #Bitcoin For a New Fund https://t.co/DlV9pHapuT,INTERESTING: Ray Dalio Considers #Bitcoin For a New Fund,0.5319,0.3,0.0,0.3181818181818182,0.4772727272727273
+2021-01-29,21," Sounds like you got hurt shorting $BTC. No hard feelings, you can always join the right side.","Sounds like you got hurt shorting $BTC. No hard feelings, you can always join the right side.",-0.3182,0.198,0.295,0.21577380952380953,0.5386904761904762
+2021-01-29,21,  If BTC is not dropping more than 25% within an hour I don't see the point of being alerted.,If BTC is not dropping more than 25% within an hour I don't see the point of being alerted.,0.0,0.0,0.0,0.5,0.5
+2021-01-30,21,Let’s go! #bitcoin https://t.co/8sQo6ZVgxk,Let’s go! #bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-30,21, LOL you are absolutely clueless about #Bitcoin,LOL you are absolutely clueless about #Bitcoin,0.1877,0.312,0.247,0.5,0.8
+2021-01-30,21," Drop $USD, go for #Bitcoin","Drop $USD, go for #Bitcoin",-0.2732,0.0,0.344,0.0,0.0
+2021-01-31,21, Yo time to announce #Bitcoin as payment for Tesla!,Yo time to announce #Bitcoin as payment for Tesla!,0.0,0.0,0.0,0.0,0.0
+2021-02-01,22," Forget about that puppet. #Bitcoin is the answer.
+
+The system can't be fixed. We have to build from zero.",Forget about that puppet. #Bitcoin is the answer.The system can't be fixed. We have to build from zero.,-0.2263,0.0,0.095,0.1,0.2
+2021-02-02,22,BREAKING: MicroStrategy Buys #Bitcoin again. They are now holding more than $1 billion worth of BTC. https://t.co/rnBs6imhBB,BREAKING: MicroStrategy Buys #Bitcoin again. They are now holding more than $1 billion worth of BTC.,0.2263,0.106,0.0,0.4,0.3
+2021-02-02,22," Nah, you did the same with #Bitcoin. 
+
+You represent the average trader. Great work!","Nah, you did the same with #Bitcoin. You represent the average trader. Great work!",0.6114,0.247,0.079,0.2833333333333333,0.425
+2021-02-04,22,"A SpaceX representative attended Microstrategy's #Bitcoin conference. Things are moving fast.
+
+""In retrospect, it was inevitable""","A SpaceX representative attended Microstrategy's #Bitcoin conference. Things are moving fast.""In retrospect, it was inevitable""",0.0,0.0,0.0,0.1,0.8
+2021-02-04,22," Follow :
+
+✅ New in the space
+
+✅ Acceptable TA
+
+✅ Looking to make his firs 0.1 BTC
+
+✅ Sometimes kind of funny",Follow :✅ New in the space✅ Acceptable TA✅ Looking to make his firs 0.1 BTC✅ Sometimes kind of funny,0.6003,0.235,0.0,0.3287878787878788,0.7848484848484848
+2021-02-05,22," Dump USD, go for #Bitcoin.","Dump USD, go for #Bitcoin.",-0.3818,0.0,0.394,0.0,0.0
+2021-02-05,22,"The FED will be printing another $1.9 trillion.
+
+You can't print more #Bitcoin.
+
+Protect your capital.",The FED will be printing another $1.9 trillion.You can't print more #Bitcoin.Protect your capital.,0.4364,0.161,0.0,0.5,0.5
+2021-02-05,22,BREAKING: Ukraine Discusses Using Nuclear Energy to Mine #Bitcoin https://t.co/Gsw76aX9PN,BREAKING: Ukraine Discusses Using Nuclear Energy to Mine #Bitcoin,0.2732,0.189,0.0,0.0,0.0
+2021-02-06,22,"#Bitcoin keeps pushing on full bullish mode:
+
+✅ $20,000
+
+✅ $30,000
+
+✅ $40,000
+
+🔎 $50,000
+
+🔎 $100,000
+
+🔎 $200,000","#Bitcoin keeps pushing on full bullish mode:✅ $20,000✅ $30,000✅ $40,000🔎 $50,000🔎 $100,000🔎 $200,000",0.0,0.0,0.0,0.35,0.55
+2021-02-06,22,Imagine shorting a #Bitcoin bull run.,Imagine shorting a #Bitcoin bull run.,0.0,0.0,0.0,0.0,0.0
+2021-02-06,22,Why #Bitcoin is so cheap?,Why #Bitcoin is so cheap?,0.0,0.0,0.0,0.4,0.7
+2021-02-08,23,BREAKING: Tesla bought $1.5 billion in #Bitcoin https://t.co/d6TFvuT5Ir,BREAKING: Tesla bought $1.5 billion in #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-08,23,My best tip about #Bitcoin https://t.co/G3jxZdZmGi,My best tip about #Bitcoin,0.6369,0.457,0.0,1.0,0.3
+2021-02-08,23,"#Bitcoin market cap is now bigger than #Tesla one.
+
+$816B vs $807B",#Bitcoin market cap is now bigger than #Tesla one.$816B vs $807B,0.0,0.0,0.0,0.0,0.5
+2021-02-08,23,"Even more relevant than the Bitcoin buy, are the Tesla plans to accept $BTC as a payment. https://t.co/XKQTE3dxyG","Even more relevant than the Bitcoin buy, are the Tesla plans to accept $BTC as a payment.",0.3818,0.14,0.0,0.45,0.7
+2021-02-08,23,"Imagine selling your altcoins in the middle of a bull run to chase a 7% Bitcoin pump. Sad, really sad.","Imagine selling your altcoins in the middle of a bull run to chase a 7% Bitcoin pump. Sad, really sad.",-0.7574,0.0,0.289,-0.3333333333333333,0.6666666666666666
+2021-02-08,23,"We switched from ""Bitcoin is risky"" to ""Is risky to don't own Bitcoin.","We switched from ""Bitcoin is risky"" to ""Is risky to don't own Bitcoin.",-0.3818,0.0,0.247,0.6,1.0
+2021-02-08,23, Selling Kraken account for 1 BTC,Selling Kraken account for 1 BTC,0.0,0.0,0.0,0.0,0.0
+2021-02-08,23," We switched from ""Bitcoin is risky"" to ""Is risky to don't own Bitcoin.","We switched from ""Bitcoin is risky"" to ""Is risky to don't own Bitcoin.",-0.3818,0.0,0.247,0.6,1.0
+2021-02-08,23,"🔥 Bitcoin is getting wild but...
+
+📈 What's your price projection for the end of the week?
+
+💰 The winner gets $500
+
+✅ Just reply, RT and tag two friends to participate!","🔥 Bitcoin is getting wild but...📈 What's your price projection for the end of the week?💰 The winner gets $500✅ Just reply, RT and tag two friends to participate!",0.8016,0.217,0.0,0.125,0.4
+2021-02-09,23,"If you invested the $1,200 stimulus check on #Bitcoin is now worth $7,900 (+553%)","If you invested the $1,200 stimulus check on #Bitcoin is now worth $7,900 (+553%)",0.2263,0.128,0.0,0.3,0.1
+2021-02-10,23,📢 BREAKING: #Bitcoin CRASHES to prices not seen since 3 DAYS.,📢 BREAKING: #Bitcoin CRASHES to prices not seen since 3 DAYS.,0.0,0.0,0.0,0.0,0.0
+2021-02-10,23,So $TRB +40% already on the BTC pair and +70% on the USDT pair...let's go! https://t.co/kVKDsWTSOo,So $TRB +40% already on the BTC pair and +70% on the USDT pair...let's go!,0.0,0.0,0.0,0.0,0.0
+2021-02-10,23,BREAKING: Mastercard will let merchants accept payments in #Bitcoin  and crypto this year.,BREAKING: Mastercard will let merchants accept payments in #Bitcoin  and crypto this year.,0.3818,0.178,0.0,0.0,0.0
+2021-02-11,23,"#Bitcoin wants $50,000. Don’t sell!","#Bitcoin wants $50,000. Don’t sell!",0.0,0.0,0.0,0.25,0.1
+2021-02-11,23,#Bitcoin and mountains. That’s it! https://t.co/1i1scr9m1f,#Bitcoin and mountains. That’s it!,0.0,0.0,0.0,0.0,0.0
+2021-02-11,23,BREAKING: SEC Says The Market is Ready for a Bitcoin ETP https://t.co/NgVgcN3Nq1,BREAKING: SEC Says The Market is Ready for a Bitcoin ETP,0.3612,0.2,0.0,0.05,0.55
+2021-02-11,23,"🔥 BITCOIN GIVEAWAY 🔥
+
+👀 What will be the price by the end of the week?
+
+💰 Winner gets $500
+
+✅ Comment and RT to participate!",🔥 BITCOIN GIVEAWAY 🔥👀 What will be the price by the end of the week?💰 Winner gets $500✅ Comment and RT to participate!,0.6239,0.17,0.0,0.0,0.0
+2021-02-12,23,BREAKING: A #Bitcoin  ETF is now traded on Canada for the first time ever. https://t.co/GURcognICo,BREAKING: A #Bitcoin  ETF is now traded on Canada for the first time ever.,0.0,0.0,0.0,0.25,0.3333333333333333
+2021-02-13,23,Let's make it happen! #Bitcoin https://t.co/0pskKQf5D9,Let's make it happen! #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-13,23," Idk man thanks to this bull market I almost made 0,3 BTC and Im thinking about quitting my job to be full time trader!","Idk man thanks to this bull market I almost made 0,3 BTC and Im thinking about quitting my job to be full time trader!",0.4199,0.125,0.055,0.31875,0.375
+2021-02-15,24,Morgan Stanley Considering a $150 billions Bitcoin Investment https://t.co/Q7AByuAWAH,Morgan Stanley Considering a $150 billions Bitcoin Investment,0.0,0.0,0.0,0.0,0.0
+2021-02-15,24,BREAKING: London is Moving Toward #Bitcoin https://t.co/P53joPqWXt,BREAKING: London is Moving Toward #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-16,24,I hope you didn't sell! #Bitcoin,I hope you didn't sell! #Bitcoin,0.4926,0.444,0.0,0.0,0.0
+2021-02-16,24,#Bitcoin https://t.co/c6PSOLw9tC,#Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-16,24,"Perspectives for 2021:
+
+- #Bitcoin will reach $100,000.
+
+- #Ethereum will reach $3,000.
+
+- #DeFi will outperforme everything.","Perspectives for 2021:- #Bitcoin will reach $100,000.- #Ethereum will reach $3,000.- #DeFi will outperforme everything.",0.0516,0.145,0.0,0.0,0.0
+2021-02-17,24,"Let's go guys! Sell all your altcoins to chase a +5% #Bitcoin pump!
+
+Your sacrifice is the fuel we need!",Let's go guys! Sell all your altcoins to chase a +5% #Bitcoin pump!Your sacrifice is the fuel we need!,0.0,0.0,0.0,0.0,0.0
+2021-02-17,24,BREAKING: Dubai Now Accept #Bitcoin for Trade Licenses https://t.co/RkEKfbLlHT,BREAKING: Dubai Now Accept #Bitcoin for Trade Licenses,0.3818,0.245,0.0,0.0,0.0
+2021-02-17,24," #Bitcoin doesn't need you, no worries. All cool","#Bitcoin doesn't need you, no worries. All cool",0.0997,0.349,0.234,0.35,0.65
+2021-02-17,24,BREAKING: Peter Schiff Admits #Bitcoin Success https://t.co/GYbDuB1SqD,BREAKING: Peter Schiff Admits #Bitcoin Success,0.7096,0.541,0.0,0.3,0.0
+2021-02-17,24,BREAKING: MicroStrategy Raising $900 Million to Buy #Bitcoin https://t.co/LYXL13mYvj,BREAKING: MicroStrategy Raising $900 Million to Buy #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-17,24,"Imagine selling #Bitcoin before it hits $100,000","Imagine selling #Bitcoin before it hits $100,000",0.0,0.0,0.0,0.0,0.0
+2021-02-18,24,BREAKING: First Bitcoin ETF Launches Today in Canada https://t.co/iJxy09lRIJ,BREAKING: First Bitcoin ETF Launches Today in Canada,0.0,0.0,0.0,0.25,0.3333333333333333
+2021-02-19,24,"#Bitcoin wants $60,000 https://t.co/iA4LzbbtDr","#Bitcoin wants $60,000",0.0,0.0,0.0,0.2,0.1
+2021-02-19,24,"It’s Official, The FED Declares #Bitcoin a Rival For #Gold https://t.co/YdSpQPvqqN","It’s Official, The FED Declares #Bitcoin a Rival For #Gold",0.0,0.0,0.0,0.0,0.0
+2021-02-19,24,BREAKING: #Bitcoin hits $1 Trillion Market Cap for first time in history.,BREAKING: #Bitcoin hits $1 Trillion Market Cap for first time in history.,0.0,0.0,0.0,0.25,0.3333333333333333
+2021-02-22,25,"📢 I've just shared my Weekly Crypto Report. 
+
+📈 Analysis on Bitcoin, Altcoins, DeFi, the most relevant stats and the best tips for traders.
+
+🔥 RT for a chance to win a YEARLY subscription.
+
+https://t.co/fRlf5RKta0","📢 I've just shared my Weekly Crypto Report. 📈 Analysis on Bitcoin, Altcoins, DeFi, the most relevant stats and the best tips for traders.🔥 RT for a chance to win a YEARLY subscription.",0.9081,0.323,0.0,0.675,0.525
+2021-02-22,25,"📢 #Bitcoin crashed to prices not seen since the last Friday.
+
+Peter Schiff warned you. Now deal with it.",📢 #Bitcoin crashed to prices not seen since the last Friday.Peter Schiff warned you. Now deal with it.,-0.2732,0.0,0.11,0.0,0.06666666666666667
+2021-02-22,25, 1BTC = 1BTC. Calm down.,1BTC = 1BTC. Calm down.,0.3182,0.434,0.0,0.07222222222222223,0.5194444444444445
+2021-02-22,25,Tesla is Making More Profits With #Bitcoin Than Cars https://t.co/eOP3f4O9K4,Tesla is Making More Profits With #Bitcoin Than Cars,0.4927,0.262,0.0,0.5,0.5
+2021-02-23,25,#Bitcoin | The road to glory is always bumpy. https://t.co/PHz16ult9d,#Bitcoin | The road to glory is always bumpy.,0.5423,0.304,0.0,0.0,0.0
+2021-02-24,25,"❌ The FED's payment platform is offline. 
+
+✅ #Bitcoin has been 100% uptime since 2013. https://t.co/IWOg4yoXdK",❌ The FED's payment platform is offline. ✅ #Bitcoin has been 100% uptime since 2013.,-0.128,0.0,0.103,0.0,0.0
+2021-03-01,26,Bullish breakout on #Bitcoin. Send it! https://t.co/Cj8ujMoFAP,Bullish breakout on #Bitcoin. Send it!,0.0,0.0,0.0,0.0,0.0
+2021-03-01,26,BREAKING: MicroStrategy has purchased an additional 328 #Bitcoin for $15 millions.,BREAKING: MicroStrategy has purchased an additional 328 #Bitcoin for $15 millions.,0.0,0.0,0.0,0.0,0.0
+2021-03-01,26,BREAKING: Goldman Sachs Now Trading #Bitcoin https://t.co/qAgOY6PQlm,BREAKING: Goldman Sachs Now Trading #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-03-02,26,📢 BREAKING: CBOE Futures Exchange Submits SEC Application to Launch a #Bitcoin ETF.,📢 BREAKING: CBOE Futures Exchange Submits SEC Application to Launch a #Bitcoin ETF.,0.0,0.0,0.0,-0.1,0.6
+2021-03-03,26,BREAKING: Kentucky Approves Tax Break For #Bitcoin Miners https://t.co/CYpYInoeTG,BREAKING: Kentucky Approves Tax Break For #Bitcoin Miners,0.4019,0.252,0.0,0.0,0.0
+2021-03-03,26,Netflix About to Buy #Bitcoin? https://t.co/c4osMdP3Xy,Netflix About to Buy #Bitcoin?,0.0,0.0,0.0,0.0,0.0
+2021-03-08,27,"📢 Every single day, no matter Bullish or Bearish. 
+
+📈 I'm sharing my analysis on #Bitcoin and #Crypto since more than three years. All the keys and information within a click.
+
+💵 More than 19,000 traders and investors are already part of the community!
+
+https://t.co/urtbvLueOu","📢 Every single day, no matter Bullish or Bearish. 📈 I'm sharing my analysis on #Bitcoin and #Crypto since more than three years. All the keys and information within a click.💵 More than 19,000 traders and investors are already part of the community!",0.2481,0.094,0.05,0.3511904761904762,0.4047619047619048
+2021-03-08,27,"#Bitcoin | Attending to the Reserve Risk indicator the $BTC bull run is just starting, more room to grow from here. https://t.co/HrYfivXU8o","#Bitcoin | Attending to the Reserve Risk indicator the $BTC bull run is just starting, more room to grow from here.",-0.2732,0.0,0.095,0.25,0.3
+2021-03-08,27,"This is the THIRD time this week that someone withdraws +12,000 #Bitcoin from Coinbase.
+
+Big pockets accumulating heavily here. https://t.co/d8K5OPrIRl","This is the THIRD time this week that someone withdraws +12,000 #Bitcoin from Coinbase.Big pockets accumulating heavily here.",0.0,0.0,0.0,-0.06666666666666667,0.19999999999999998
+2021-03-10,27,"#Bitcoin wants $60,000 so baddly.","#Bitcoin wants $60,000 so baddly.",0.0,0.0,0.0,0.2,0.1
+2021-03-10,27,"$GDXJ is my biggest position out of #Bitcoin and #Crypto.
+
+I'm adding more here. Bull flag matching horizontal support.
+
+Let's go! 📈 https://t.co/HGpIKydM44",$GDXJ is my biggest position out of #Bitcoin and #Crypto.I'm adding more here. Bull flag matching horizontal support.Let's go! 📈,0.4574,0.125,0.0,0.625,0.5
+2021-03-11,27,  Bitcoin es ya el único plan!,Bitcoin es ya el único plan!,0.0,0.0,0.0,0.0,0.0
+2021-03-11,27,"In 2009, James Howells started delving into the world of Bitcoin. 
+
+One year later, he gave up, disassembling his computer (containing his e-wallet) and ultimately throwing away his computer parts. 
+
+He could have sold his BTC for $400M if he could still access them. https://t.co/CkHe7dupMG","In 2009, James Howells started delving into the world of Bitcoin. One year later, he gave up, disassembling his computer (containing his e-wallet) and ultimately throwing away his computer parts. He could have sold his BTC for $400M if he could still access them.",0.0,0.0,0.0,0.0,0.5
+2021-03-11,27,"📢BREAKING: Biden to sign $1.9 Trillion stimulus bill today
+
+📈 Make sure to invest the whole check into #Bitcoin!",📢BREAKING: Biden to sign $1.9 Trillion stimulus bill today📈 Make sure to invest the whole check into #Bitcoin!,0.3802,0.132,0.0,0.375,0.6444444444444444
+2021-03-13,27,"📈What will be the #Bitcoin price by the end of the week?
+
+💰 The one who gets closer wins $500
+
+🔥 GO!",📈What will be the #Bitcoin price by the end of the week?💰 The one who gets closer wins $500🔥 GO!,0.6114,0.174,0.0,0.375,0.2
+2021-03-15,28,"In 2009, the famous singer, Lily Allen, turned down to play a gig and be paid 200,000 #Bitcoin.
+
+She turned it down because it was only worth around $500 at the time. 
+
+It would be worth $11.2 billions right now. https://t.co/VQFxrS83TW","In 2009, the famous singer, Lily Allen, turned down to play a gig and be paid 200,000 #Bitcoin.She turned it down because it was only worth around $500 at the time. It would be worth $11.2 billions right now.",0.6369,0.144,0.0,0.1535147392290249,0.4733560090702948
+2021-03-15,28,"⛔️ THREAD: 26 Reasons Why You Should Sell All Your #Bitcoin now.
+
+1/26 👇🏻",⛔️ THREAD: 26 Reasons Why You Should Sell All Your #Bitcoin now.1/26 👇🏻,0.0,0.0,0.0,0.0,0.0
+2021-03-20,28,#Bitcoin wants moon. What are you going to do about it?,#Bitcoin wants moon. What are you going to do about it?,0.0,0.0,0.0,0.2,0.1
+2021-03-22,29,#Bitcoin getting spicy here https://t.co/VeWP7ipNbj,#Bitcoin getting spicy here,0.0,0.0,0.0,0.0,0.0
+2021-03-23,29,Could Microsoft Say Yes to #Bitcoin? https://t.co/CQYqO3zJLo,Could Microsoft Say Yes to #Bitcoin?,0.4019,0.31,0.0,0.0,0.0
+2021-03-24,29,BREAKING: You Can Now Buy a #Tesla With #Bitcoin https://t.co/zsLp08F6cA,BREAKING: You Can Now Buy a #Tesla With #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-03-24,29,"🔥 BREAKING: If #Bitcoin continues dropping like this, it might reach prices not seen since TWO WEEKS.","🔥 BREAKING: If #Bitcoin continues dropping like this, it might reach prices not seen since TWO WEEKS.",0.3818,0.205,0.0,0.0,0.0
+2021-03-25,29,#Bitcoin | Keep it in mind. https://t.co/Hrh1JzUdUK,#Bitcoin | Keep it in mind.,0.0,0.0,0.0,0.0,0.0
+2021-03-25,29,"Media: BITCOIN IS CRASHING, FULL DEVASTED, DONE
+
+Bitcoin: https://t.co/UarCNPOhMA","Media: BITCOIN IS CRASHING, FULL DEVASTED, DONEBitcoin:",0.0,0.0,0.0,0.35,0.55
+2021-03-26,29,"Fresh #Bitcoin analysis, make sure to subscribe you don't miss the daily reviews! 
+
+https://t.co/2I8CEG7KlP","Fresh #Bitcoin analysis, make sure to subscribe you don't miss the daily reviews!",0.6526,0.365,0.0,0.26666666666666666,0.46296296296296297
+2021-03-26,29,"📅 One year ago the price of #Bitcoin was $6,640.","📅 One year ago the price of #Bitcoin was $6,640.",0.0,0.0,0.0,0.0,0.0
+2021-03-29,30,#Bitcoin wants action. New ATH action. https://t.co/lNxYUSczLy,#Bitcoin wants action. New ATH action.,0.0,0.0,0.0,0.1340909090909091,0.18863636363636363

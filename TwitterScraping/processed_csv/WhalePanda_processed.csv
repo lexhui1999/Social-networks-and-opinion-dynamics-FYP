@@ -1,0 +1,611 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-09-01,1," Thanks? I mean I've played around with it since the start. I know how all this works, just a good way to make more BTC 🤷‍♂️","Thanks? I mean I've played around with it since the start. I know how all this works, just a good way to make more BTC 🤷‍♂️",0.802,0.291,0.0,0.271875,0.496875
+2020-09-01,1, What success? Creating more ponzis? Still being way down vs BTC? Or being a failure according to Vitalik's own words? https://t.co/eOFlsXL77d,What success? Creating more ponzis? Still being way down vs BTC? Or being a failure according to Vitalik's own words?,0.5514,0.253,0.122,0.18555555555555556,0.4177777777777778
+2020-09-01,1," Thanks. I also don't get the whole ""salty"" or ""envious"" part.
+I don't have to like a project to make more BTC with it. 🤷‍♂️
+I have a big bag of ETH, doesn't mean I like the project or feel the need to shill it. I also buy XRP or other shitcoins when the trading setup is good.","Thanks. I also don't get the whole ""salty"" or ""envious"" part.I don't have to like a project to make more BTC with it. 🤷‍♂️I have a big bag of ETH, doesn't mean I like the project or feel the need to shill it. I also buy XRP or other shitcoins when the trading setup is good.",0.3777,0.102,0.074,0.1660714285714286,0.4089285714285715
+2020-09-02,1,"And there goes #Bitcoin, almost looks like it was planned. 🤔
+This is bad for $KIMCHI though.","And there goes #Bitcoin, almost looks like it was planned. 🤔This is bad for $KIMCHI though.",-0.3134,0.113,0.177,-0.6999999999999998,0.6666666666666666
+2020-09-03,1," Wasn't me, there's no #Bitcoin sign.","Wasn't me, there's no #Bitcoin sign.",0.2235,0.274,0.0,0.0,0.0
+2020-09-13,2, Bitcoin doesn't fix this,Bitcoin doesn't fix this,0.0,0.0,0.0,0.0,0.0
+2020-09-15,3,"Just know that are still ""respectable"" traders out there calling for #Bitcoin at $7k and even $3k.
+They'll keep shorting it all the way up, when they flip bullish that's when you sell.","Just know that are still ""respectable"" traders out there calling for #Bitcoin at $7k and even $3k.They'll keep shorting it all the way up, when they flip bullish that's when you sell.",0.0,0.0,0.0,0.5,0.5
+2020-09-15,3," Well you know that my goal is to just make more BTC so for me it makes sense to sell some BTC, if I can buy more BTC with it later 🤷‍♂️
+Disclaimer: Trading is not for most people.","Well you know that my goal is to just make more BTC so for me it makes sense to sell some BTC, if I can buy more BTC with it later 🤷‍♂️Disclaimer: Trading is not for most people.",0.2732,0.054,0.0,0.375,0.375
+2020-09-17,3," It's great! 
+Let $ETH people buy Bitcoin and lock them up so they're essentially off the market, just like with GBTC. 
+But we all know it's just because they know that Bitcoin actually has value.","It's great! Let $ETH people buy Bitcoin and lock them up so they're essentially off the market, just like with GBTC. But we all know it's just because they know that Bitcoin actually has value.",0.8516,0.225,0.0,0.3333333333333333,0.38333333333333336
+2020-09-20,3, If it surprised him and how he's dealing with the amount of attention he and his company has gotten from the #Bitcoin community and if he's surprised about the total lack of attention they've gotten from MSM.,If it surprised him and how he's dealing with the amount of attention he and his company has gotten from the #Bitcoin community and if he's surprised about the total lack of attention they've gotten from MSM.,0.128,0.095,0.057,0.06666666666666667,0.85
+2020-09-20,3,"A 2 day #Bitcoin conference with some of the best speakers in the community for $15 which is less than the fee you'll pay for 1 transaction on Ethereum. 🙃
+https://t.co/ux3Vh1AwXR",A 2 day #Bitcoin conference with some of the best speakers in the community for $15 which is less than the fee you'll pay for 1 transaction on Ethereum. 🙃,0.5859,0.137,0.046,0.4166666666666667,0.18333333333333332
+2020-09-20,3,"#Bitcoin fixes this... kinda. 
+https://t.co/m55DDTZS8g",#Bitcoin fixes this... kinda.,0.0,0.0,0.0,0.0,0.0
+2020-09-21,4,People be market dumping 700 BTC on Bitfinex. https://t.co/SGZ4KJQfYb,People be market dumping 700 BTC on Bitfinex.,-0.3182,0.0,0.223,0.0,0.0
+2020-10-01,5,"Just when #Bitcoin grinding up. Classic.
+https://t.co/y5xkYbsxoG",Just when #Bitcoin grinding up. Classic.,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666
+2020-10-01,5,"Come on, relax, this is actually bullish. You know that people in jail can't use/dump their #Bitcoin or insurance fund right?","Come on, relax, this is actually bullish. You know that people in jail can't use/dump their #Bitcoin or insurance fund right?",0.4404,0.127,0.0,0.0619047619047619,0.2119047619047619
+2020-10-01,5," No. That's not how human emotions works. 
+""Woohoo I have my Bitcoin! I don't care about the exchange, I have my BTC and now it's safe with me""
+""Fuck I can't get my Bitcoin, they're rekt, I'm dumping it all""","No. That's not how human emotions works. ""Woohoo I have my Bitcoin! I don't care about the exchange, I have my BTC and now it's safe with me""""Fuck I can't get my Bitcoin, they're rekt, I'm dumping it all""",-0.5747,0.132,0.232,0.033333333333333326,0.39999999999999997
+2020-10-01,5, I just received it. They're processing now to calm down the markets. I literally just sent btc from bitmex to ftx.,I just received it. They're processing now to calm down the markets. I literally just sent btc from bitmex to ftx.,0.3182,0.113,0.0,0.07222222222222223,0.5194444444444445
+2020-10-02,5," The correlation is so dumb though.
+Oh no, some old government guy in the US has COVID, let's dump a decentralized anti-government currency. 🤦‍♂️
+And again just when BTC was grinding back up after the Bitmex drama.","The correlation is so dumb though.Oh no, some old government guy in the US has COVID, let's dump a decentralized anti-government currency. 🤦‍♂️And again just when BTC was grinding back up after the Bitmex drama.",-0.8419,0.0,0.215,-0.09166666666666667,0.2333333333333333
+2020-10-06,6,"Guess they will need to buy the actual thing now then 🤷‍♂️ 
+Buy (spot) #Bitcoin
+https://t.co/Rx37hGfP6k",Guess they will need to buy the actual thing now then 🤷‍♂️ Buy (spot) #Bitcoin,0.0,0.0,0.0,0.0,0.1
+2020-10-06,6,"Bullish #Bitcoin signals keep popping up everywhere.
+https://t.co/Ov6ONVajZv",Bullish #Bitcoin signals keep popping up everywhere.,0.0,0.0,0.0,0.0,0.0
+2020-10-08,6,"Imagine selling/shorting #Bitcoin for a tweet like this without even checking the address. 🤦‍♂️
+Clearly mislabeled but keep spreading the news because the only things that matter is your trade right? https://t.co/FGELP5LudG",Imagine selling/shorting #Bitcoin for a tweet like this without even checking the address. 🤦‍♂️Clearly mislabeled but keep spreading the news because the only things that matter is your trade right?,0.4118,0.145,0.0,0.1285714285714286,0.6396825396825396
+2020-10-08,6,"Well not that surprising from ... since well they're  but still great #Bitcoin news!
+https://t.co/MqCKDLuEu8",Well not that surprising from ... since well they're  but still great #Bitcoin news!,0.8241,0.422,0.066,0.85,0.625
+2020-10-08,6,"Imagine investing in a company that doesn't own any #Bitcoin... 
+https://t.co/S7SAVyftfH",Imagine investing in a company that doesn't own any #Bitcoin...,0.0,0.0,0.0,0.6,1.0
+2020-10-08,6,"So what country will be the first one to buy #Bitcoin to put it on their balance sheet?
+https://t.co/2DGoundW9u",So what country will be the first one to buy #Bitcoin to put it on their balance sheet?,0.0,0.0,0.0,0.25,0.3333333333333333
+2020-10-16,7,Looks like #Bitcoin was looking too bullish again so of course we're going to have our next exchange fud.,Looks like #Bitcoin was looking too bullish again so of course we're going to have our next exchange fud.,0.1027,0.116,0.097,0.0,0.0
+2020-10-17,7,"My brain: ""don't say it... don't say it...""
+
+#Bitcoin fixes this.
+
+https://t.co/MchdUXlTfk","My brain: ""don't say it... don't say it...""#Bitcoin fixes this.",0.0,0.0,0.0,0.0,0.0
+2020-10-20,8,  wrap that BTC.,wrap that BTC.,0.0,0.0,0.0,0.0,0.0
+2020-10-20,8,Some bears are desperately trying to defend $12K. #Bitcoin,Some bears are desperately trying to defend $12K. #Bitcoin,-0.3818,0.0,0.245,-0.6,1.0
+2020-10-21,8,"Smart move. 
+They know they were part of the old tech here.
+Do note that #Bitcoin that touches  is fully KYC'd and tracked like with the majority of the centralized exchanges so use at your own risk.
+https://t.co/qDqhxDmIOZ",Smart move. They know they were part of the old tech here.Do note that #Bitcoin that touches  is fully KYC'd and tracked like with the majority of the centralized exchanges so use at your own risk.,0.4767,0.123,0.05,0.30476190476190473,0.6142857142857143
+2020-10-22,8,"That's what you get when you don't have a fixed supply.
+#Bitcoin fixes this.
+https://t.co/lfL5ncslpM",That's what you get when you don't have a fixed supply.#Bitcoin fixes this.,0.0,0.0,0.0,0.1,0.2
+2020-10-22,8, in USD or BTC? https://t.co/lFCWhhS92D,in USD or BTC?,0.0,0.0,0.0,0.0,0.0
+2020-10-27,9,In a bull market you always feel like you don't have enough exposure to #bitcoin.,In a bull market you always feel like you don't have enough exposure to #bitcoin.,0.3612,0.161,0.0,0.0,0.5
+2020-10-28,9,"Just for the record: you should never disclose your personal #Bitcoin holdings. It's just bad OpSec really and you can't just claim the ""boating accident"" excuse.
+https://t.co/rcSDiwPHHX","Just for the record: you should never disclose your personal #Bitcoin holdings. It's just bad OpSec really and you can't just claim the ""boating accident"" excuse.",-0.743,0.041,0.207,-0.13749999999999996,0.30416666666666664
+2020-10-28,9,"It's funny when people try to use the mempool to determine the top of a #Bitcoin move while completely ignoring the fact that it lost 40% of its hashrate due to semi-annual move which causes slower blocks.
+https://t.co/kUlXVqUeO3",It's funny when people try to use the mempool to determine the top of a #Bitcoin move while completely ignoring the fact that it lost 40% of its hashrate due to semi-annual move which causes slower blocks.,-0.3597,0.107,0.164,0.18125,0.56875
+2020-10-29,9,"Most people are all words and no action but I think there are plenty of people that had their eyes opened in recent months
+Just implement interesting (#Bitcoin) tax policies and don't be overreaching in people's lives and the people with  money will come. (good climate is a plus)",Most people are all words and no action but I think there are plenty of people that had their eyes opened in recent monthsJust implement interesting (#Bitcoin) tax policies and don't be overreaching in people's lives and the people with  money will come. (good climate is a plus),0.4497,0.071,0.032,0.32999999999999996,0.39
+2020-10-30,9,"Ethereum still fulfilling its original usecase and Vitalik's vision.
+Separating you from your #Bitcoin.",Ethereum still fulfilling its original usecase and Vitalik's vision.Separating you from your #Bitcoin.,0.5106,0.264,0.0,0.375,0.75
+2020-10-30,9,"This is actually an important point that many people are missing. If you use a centralized entity you have no idea what they're doing with your #Bitcoin.
+With the  solution you always know where it is, in the multisig.
+https://t.co/hdp6uSWOdI","This is actually an important point that many people are missing. If you use a centralized entity you have no idea what they're doing with your #Bitcoin.With the  solution you always know where it is, in the multisig.",-0.0772,0.094,0.101,0.2333333333333333,0.5166666666666667
+2020-10-31,9,"Remember, weekend breakouts for #Bitcoin aren't a thing.","Remember, weekend breakouts for #Bitcoin aren't a thing.",0.0,0.0,0.0,0.0,0.0
+2020-11-02,10,"Most of the replies to this tweet seem to be bad takes on #Bitcoin from 2015-2016. We're still early 🤷‍♂️
+https://t.co/7frvXSZ2rf",Most of the replies to this tweet seem to be bad takes on #Bitcoin from 2015-2016. We're still early 🤷‍♂️,-0.5423,0.0,0.149,-0.03333333333333328,0.4888888888888889
+2020-11-02,10,"  Nope, nothing to do with laws and rules. 
+Some really big companies already have Bitcoin on their balance sheet.
+You realize that the USD is used way more for money laundering and financing terrorism right?","Nope, nothing to do with laws and rules. Some really big companies already have Bitcoin on their balance sheet.You realize that the USD is used way more for money laundering and financing terrorism right?",-0.6808,0.0,0.119,0.2619047619047619,0.37857142857142856
+2020-11-02,10,"We're seeing a lot of institutional investors entering this space and all they care about is #Bitcoin.
+For alt season you need retail ""investors"" (gamblers) that are looking for ""the next Bitcoin"". These people come only after Bitcoin hits a new all time high.","We're seeing a lot of institutional investors entering this space and all they care about is #Bitcoin.For alt season you need retail ""investors"" (gamblers) that are looking for ""the next Bitcoin"". These people come only after Bitcoin hits a new all time high.",0.4939,0.072,0.0,0.0740909090909091,0.49863636363636366
+2020-11-04,10,"If you don't like the results of the election you can always buy Bitcoin and vote with your feet and move to another country 🤷‍♂️.
+Also mail-in ballots? What year is this? 1820?",If you don't like the results of the election you can always buy Bitcoin and vote with your feet and move to another country 🤷‍♂️.Also mail-in ballots? What year is this? 1820?,-0.3919,0.0,0.076,0.0,0.0
+2020-11-05,10,"After 4 years of development, countless of delays, excuses, attempts at announcement pumps and switching narratives. The deposit contract for ETH 2.0 finally got released.
+Such a much anticipated development that, that the market was waiting for... or well not really it turns out https://t.co/RVqbtC41KL","After 4 years of development, countless of delays, excuses, attempts at announcement pumps and switching narratives. The deposit contract for ETH 2.0 finally got released.Such a much anticipated development that, that the market was waiting for... or well not really it turns out",0.2732,0.048,0.0,0.02,0.4800000000000001
+2020-11-05,10," That's normal until it hits ATH. That's when MSM starts covering it more and retail jumps in... and that's when they start looking for ""the next bitcoin"".","That's normal until it hits ATH. That's when MSM starts covering it more and retail jumps in... and that's when they start looking for ""the next bitcoin"".",0.0,0.0,0.0,0.21666666666666667,0.3833333333333333
+2020-11-05,10,Better dump your #Bitcoin fast before those 69370 BTC gets auctioned off at a premium in probably a year or so.,Better dump your #Bitcoin fast before those 69370 BTC gets auctioned off at a premium in probably a year or so.,0.0772,0.129,0.116,0.35,0.55
+2020-11-09,11,Dump #Bitcoin because they found a vaccine! 🤔,Dump #Bitcoin because they found a vaccine! 🤔,-0.4389,0.0,0.366,0.0,0.0
+2020-11-12,11," Smaller community, everyone knew everyone. A lot was going on on IRC &amp; bitcointalk rather than Twitter.
+Everyone knew they were trading scams back then, at least after the first time they got scammed with hidden premine.
+People only traded for making more BTC rather than USD.","Smaller community, everyone knew everyone. A lot was going on on IRC &amp; bitcointalk rather than Twitter.Everyone knew they were trading scams back then, at least after the first time they got scammed with hidden premine.People only traded for making more BTC rather than USD.",-0.5859,0.0,0.078,0.04047619047619048,0.43809523809523804
+2020-11-12,11,Bitcoiners don't let friends or family buy #Bitcoin on Paypal.,Bitcoiners don't let friends or family buy #Bitcoin on Paypal.,-0.3724,0.0,0.221,0.0,0.0
+2020-11-17,12,"""I'm only down 5 BTC on my altcoin trade... oh wait that's $100k"" - random shitcoin trader","""I'm only down 5 BTC on my altcoin trade... oh wait that's $100k"" - random shitcoin trader",0.0,0.0,0.0,-0.21851851851851853,0.5962962962962963
+2020-11-17,12,This #Bitcoin rally is kinda weird though since people told me the halving was priced in... ¯\_(ツ)_/¯,This #Bitcoin rally is kinda weird though since people told me the halving was priced in... ¯\_(ツ)_/¯,-0.1045,0.0,0.081,-0.5,1.0
+2020-11-18,12,"As $ETH keeps making new 4 month lows vs #Bitcoin despite ""ETH 2.0 Phase 0!""-hype it's important to think about all those people that influenced your decision to dump BTC for some shitcoin.
+https://t.co/DoZS3NyRmq","As $ETH keeps making new 4 month lows vs #Bitcoin despite ""ETH 2.0 Phase 0!""-hype it's important to think about all those people that influenced your decision to dump BTC for some shitcoin.",-0.4389,0.049,0.129,0.2852272727272727,0.7272727272727273
+2020-11-18,12,That's an impressive buy wall on ETH/BTC on  https://t.co/SaSShLx9Cr,That's an impressive buy wall on ETH/BTC on,0.5106,0.292,0.0,1.0,1.0
+2020-11-20,12,"This is quite funny to watch.
+You see the interviewer's brain give an ""error does not compute"" when he says that in 4 years there might be another 0 on Bitcoin's price.
+https://t.co/Rp1lkLJKHG","This is quite funny to watch.You see the interviewer's brain give an ""error does not compute"" when he says that in 4 years there might be another 0 on Bitcoin's price.",0.1263,0.092,0.077,0.25,1.0
+2020-11-22,12, by then it will be 8 years in Bitcoin so about 160 years IRL... that's long enough imo 😉,by then it will be 8 years in Bitcoin so about 160 years IRL... that's long enough imo 😉,0.0,0.0,0.0,-0.025,0.45
+2020-11-23,13,Waiting for the #Bitcoin dip to reopen a margin long. https://t.co/WNl8Wb5kVm,Waiting for the #Bitcoin dip to reopen a margin long.,0.0,0.0,0.0,-0.05,0.4
+2020-11-24,13,"You know what that means....  is going to be tweeting about #bitcoin all day.
+https://t.co/q2khojTxYv",You know what that means....  is going to be tweeting about #bitcoin all day.,0.0,0.0,0.0,0.0,0.0
+2020-11-24,13,  Iirc he has been tweeting about Bitcoin since it was in the low double digits... so yeah.,Iirc he has been tweeting about Bitcoin since it was in the low double digits... so yeah.,0.1941,0.144,0.105,0.0,0.15
+2020-11-24,13,"Here's a fun compilation of #Bitcoin tweets.
+Guess Bitcoin wasn't dying after all. https://t.co/hWYQhhuipM",Here's a fun compilation of #Bitcoin tweets.Guess Bitcoin wasn't dying after all.,0.5106,0.216,0.0,0.3,0.2
+2020-11-26,13,"If you're worried about a 15% drop of #Bitcoin today. 
+There's someone that bought Ripple for $.92 2 days ago, it's now worth $.54.
+Your day is going just fine.
+https://t.co/CicyBqLsIo","If you're worried about a 15% drop of #Bitcoin today. There's someone that bought Ripple for $.92 2 days ago, it's now worth $.54.Your day is going just fine.",-0.1531,0.112,0.13,0.35833333333333334,0.3
+2020-11-26,13,"Just for the record: GBTC doesn't sell Bitcoin.
+This is just Peter being Peter spreading false information.
+https://t.co/xBQnjLZFYY",Just for the record: GBTC doesn't sell Bitcoin.This is just Peter being Peter spreading false information.,0.0,0.0,0.0,-0.4000000000000001,0.6
+2020-11-26,13,"Looking at all the #Bitcoin that got dumped today, looks like turkeys were really expensive this year.","Looking at all the #Bitcoin that got dumped today, looks like turkeys were really expensive this year.",-0.0516,0.124,0.134,-0.5,0.7
+2020-11-26,13,"Imagine panic selling at a loss at $10k and then try to ""dunk"" on #Bitcoin when it's 60% higher from where you chickened out.
+https://t.co/xgBKhmauaQ","Imagine panic selling at a loss at $10k and then try to ""dunk"" on #Bitcoin when it's 60% higher from where you chickened out.",-0.6808,0.0,0.203,0.25,0.5
+2020-11-30,14,Imagine being bearish on #Bitcoin and thinking it will ever go below $12k again.,Imagine being bearish on #Bitcoin and thinking it will ever go below $12k again.,0.0,0.0,0.0,0.0,0.0
+2020-11-30,14,The best part about all of this is that so many people shorted or went in fiat expecting to buy $12k-14k and they're going to have to fomo back in if #Bitcoin breaks it ATH.,The best part about all of this is that so many people shorted or went in fiat expecting to buy $12k-14k and they're going to have to fomo back in if #Bitcoin breaks it ATH.,0.6369,0.11,0.0,0.5,0.26666666666666666
+2020-11-30,14,"We barely hit ATH on #Bitcoin and already a couple of exchanges completely fucked up.
+You had 2 years of bear market to prepare for this.",We barely hit ATH on #Bitcoin and already a couple of exchanges completely fucked up.You had 2 years of bear market to prepare for this.,-0.6901,0.0,0.169,-0.27499999999999997,0.39999999999999997
+2020-12-01,14," Or you don't sell and you just long the dips 😉
+But I agree that selling is the hard part, but I'm not selling any BTC any time soon. 🤷‍♂️","Or you don't sell and you just long the dips 😉But I agree that selling is the hard part, but I'm not selling any BTC any time soon. 🤷‍♂️",0.1406,0.06,0.041,-0.17083333333333334,0.4708333333333333
+2020-12-03,14,"One of the hardest parts about trading is changing from bull to bear &amp; back. Most people fail at this and blow up their accounts. It's only the flexible people that can survive a full market cycle.
+Just look at people still calling $10k or lower targets for BTC. They'll get rekt.",One of the hardest parts about trading is changing from bull to bear &amp; back. Most people fail at this and blow up their accounts. It's only the flexible people that can survive a full market cycle.Just look at people still calling $10k or lower targets for BTC. They'll get rekt.,-0.6222,0.034,0.107,0.06999999999999999,0.4699999999999999
+2020-12-03,14,"Wealth:
+This is more of a life lesson rather than a crypto lesson but don't assume someone's trade size or portfolio.
+Some of the anon, small accounts on Twitter are the biggest whales while some of the ""famous"" Crypto Twitter traders are trading with 0.1 btc trading size.","Wealth:This is more of a life lesson rather than a crypto lesson but don't assume someone's trade size or portfolio.Some of the anon, small accounts on Twitter are the biggest whales while some of the ""famous"" Crypto Twitter traders are trading with 0.1 btc trading size.",0.2732,0.045,0.0,0.25,0.6333333333333333
+2020-12-03,14,"Leverage:
+Leverage is great, you can play around with 100 times more money than you actually have. Which also means that you'll get liquidated with a 1% move. 
+My advice: never trade alts with leverage since they're way more volatile than BTC. Try to limit your leverage with BTC.","Leverage:Leverage is great, you can play around with 100 times more money than you actually have. Which also means that you'll get liquidated with a 1% move. My advice: never trade alts with leverage since they're way more volatile than BTC. Try to limit your leverage with BTC.",0.7579,0.124,0.0,0.45,0.4625
+2020-12-03,14,"The cycle is as follows: 
+Bitcoin breaks ATH
+Mainstream media covers Bitcoin
+Retails comes
+Shitcoins pump hard
+Flippening talk
+BTC pumps hard &amp; outperforms shitcoins
+People on tv show you how to buy Ripple &amp; post articles like this: https://t.co/ApzucP37M9
+That's when you sell",The cycle is as follows: Bitcoin breaks ATHMainstream media covers BitcoinRetails comesShitcoins pump hardFlippening talkBTC pumps hard &amp; outperforms shitcoinsPeople on tv show you how to buy Ripple &amp; post articles like this: That's when you sell,0.1779,0.054,0.06,-0.2916666666666667,0.5416666666666666
+2020-12-06,14,"Good news for those old people like Peter that love to yell at #Bitcoin and who are missing out while gold keeps crashing... 
+https://t.co/BKXpTclC59",Good news for those old people like Peter that love to yell at #Bitcoin and who are missing out while gold keeps crashing...,0.8126,0.302,0.069,0.27499999999999997,0.3625
+2020-12-06,14,"Looks like we found another person that knew about #Bitcoin almost 10 years ago, didn't buy and is still salty about it 
+https://t.co/yILK1AkZLz","Looks like we found another person that knew about #Bitcoin almost 10 years ago, didn't buy and is still salty about it",0.3612,0.102,0.0,0.0,0.0
+2020-12-08,15, That's only 10 btc though 🙃,That's only 10 btc though 🙃,0.0,0.0,0.0,0.0,1.0
+2020-12-08,15,Every #Bitcoin you sell now is being bought by a large institutional player that's desperately trying to accumulate as much as possible under $20k.,Every #Bitcoin you sell now is being bought by a large institutional player that's desperately trying to accumulate as much as possible under $20k.,-0.3818,0.0,0.106,-0.12857142857142856,0.8095238095238096
+2020-12-09,15,"Fud list:
+- STABLE ACT
+- China banning BTC again
+- France requiring KYC for crypto-to-crypto
+- Mtgox coin distribution the 15th (won't happen)
+- G7 crypto regulations
+
+Did I miss anything? Feels like we're missing some exchange hacks.",Fud list:- STABLE ACT- China banning BTC again- France requiring KYC for crypto-to-crypto- Mtgox coin distribution the 15th (won't happen)- G7 crypto regulationsDid I miss anything? Feels like we're missing some exchange hacks.,0.1363,0.138,0.15,-0.2,0.05
+2020-12-09,15,This is still one of my favorite #Bitcoin memes https://t.co/zyD4CyGxKY,This is still one of my favorite #Bitcoin memes,0.4588,0.25,0.0,0.5,1.0
+2020-12-09,15, Citibank has always been anti-bitcoin though so it's not really a surprise.,Citibank has always been anti-bitcoin though so it's not really a surprise.,-0.2572,0.0,0.169,-0.1,0.2
+2020-12-11,15,"So at what time and on which exchange is  market buying $550 million worth of #Bitcoin? 
+Asking for a friend.",So at what time and on which exchange is  market buying $550 million worth of #Bitcoin? Asking for a friend.,0.6249,0.231,0.0,0.3,0.1
+2020-12-11,15,What #Bitcoin regulators think they will achieve vs what Bitcoiners will actually do. https://t.co/8mhjYdmsNr,What #Bitcoin regulators think they will achieve vs what Bitcoiners will actually do.,0.0,0.0,0.0,0.0,0.1
+2020-12-11,15," Relax, it was just a joke.
+
+And I'm just a btc maxi larper, just like you're larping that you're actually a profitable trader.","Relax, it was just a joke.And I'm just a btc maxi larper, just like you're larping that you're actually a profitable trader.",0.8591,0.396,0.0,0.0,0.1
+2020-12-13,15,"Hey  chill a bit, you're not supposed to market buy #Bitcoin during the weekend.","Hey  chill a bit, you're not supposed to market buy #Bitcoin during the weekend.",0.0,0.0,0.0,0.0,0.0
+2020-12-13,15,"For the people asking me why I doubt this is Saylor:
+- I doubt the $650 million cleared already, but maybe they got a bridge loan?
+- The address was funded in February what are the odds he finds an OTC seller with the ""exact"" amount of BTC in 1 address?
+https://t.co/dkTUMdSa4T","For the people asking me why I doubt this is Saylor:- I doubt the $650 million cleared already, but maybe they got a bridge loan?- The address was funded in February what are the odds he finds an OTC seller with the ""exact"" amount of BTC in 1 address?",-0.3939,0.025,0.08,0.25,0.25
+2020-12-13,15,As other pointed out last time it took several days to accumulate enough BTC and they used Coinbase last time as Saylor mentioned.,As other pointed out last time it took several days to accumulate enough BTC and they used Coinbase last time as Saylor mentioned.,0.0,0.0,0.0,-0.025,0.20166666666666666
+2020-12-13,15,Bitcoin fixes this? https://t.co/XLBrleHRPX,Bitcoin fixes this?,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,"Looks like they took  down so we can't coordinate our #Bitcoin ATH pump.
+This will not work, we will continue to push it higher.","Looks like they took  down so we can't coordinate our #Bitcoin ATH pump.This will not work, we will continue to push it higher.",0.3612,0.098,0.0,0.04722222222222221,0.3944444444444445
+2020-12-16,16,So Ruffer dropped gold to buy #Bitcoin... https://t.co/YkbBpZon5z,So Ruffer dropped gold to buy #Bitcoin...,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16," Everyone actively selling gold to get into #Bitcoin. Many billions of dollars will keep flowing in.
+But hey, pet rocks are cool too. https://t.co/trhpRVV3DN","Everyone actively selling gold to get into #Bitcoin. Many billions of dollars will keep flowing in.But hey, pet rocks are cool too.",0.5574,0.173,0.0,0.2388888888888889,0.5833333333333334
+2020-12-16,16,"So just a 20x for #Bitcoin from where we are now?
+https://t.co/r4bHVYFQcR https://t.co/5t4J7sX9Xu",So just a 20x for #Bitcoin from where we are now?,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,"  I don't have any Bitcoin anymore.
+Lost it all in a zeppelin crash.",I don't have any Bitcoin anymore.Lost it all in a zeppelin crash.,-0.6124,0.0,0.357,0.0,0.0
+2020-12-17,16,"Checking the comments on #Bitcoin articles on mainstream media websites:
+ponzi, criminals, money laundering, ponzi, cyber terrorists, ponzi, not backed by anything, ponzi, blockchain not bitcoin (wow ok), ponzi, tulips, ransomware, ponzi
+
+Ok I think we're still good.","Checking the comments on #Bitcoin articles on mainstream media websites:ponzi, criminals, money laundering, ponzi, cyber terrorists, ponzi, not backed by anything, ponzi, blockchain not bitcoin (wow ok), ponzi, tulips, ransomware, ponziOk I think we're still good.",-0.5823,0.111,0.193,0.45,0.65
+2020-12-17,16,"Remember that in the next 12 months people will tell you you got ""lucky"" because you bought #Bitcoin cheap.","Remember that in the next 12 months people will tell you you got ""lucky"" because you bought #Bitcoin cheap.",0.0,0.0,0.0,0.24444444444444446,0.5111111111111111
+2020-12-17,16,"Sure you can't buy coffee with #Bitcoin, but you can buy lambos though.
+https://t.co/hX8R9wUFs9","Sure you can't buy coffee with #Bitcoin, but you can buy lambos though.",0.1655,0.113,0.0,0.5,0.8888888888888888
+2020-12-17,16,There are still people that believe that the #Bitcoin halving was priced. https://t.co/Afoarq5jFO,There are still people that believe that the #Bitcoin halving was priced.,0.0,0.0,0.0,0.0,0.0
+2020-12-17,16,"Follow 's advice and buy #Bitcoin on an exchange and manage your own keys.
+https://t.co/ekLUcbfjJi",Follow 's advice and buy #Bitcoin on an exchange and manage your own keys.,0.0,0.0,0.0,0.6,1.0
+2020-12-18,16,"Good thread from one of the real OG's, one of the first people to actively get involved with #Bitcoin https://t.co/SaLVTAI27o","Good thread from one of the real OG's, one of the first people to actively get involved with #Bitcoin",0.6369,0.224,0.0,0.25416666666666665,0.45833333333333337
+2020-12-18,16,"No-coiners claim that Bitcoiners are a homogeneous group.
+Truth is that I never met a more diverse group of people. Different ethnicity, socio-economic background, religion,...
+I don't even like most of you crazy mfs, but that doesn't matter.
+#Bitcoin doesn't care or judge.","No-coiners claim that Bitcoiners are a homogeneous group.Truth is that I never met a more diverse group of people. Different ethnicity, socio-economic background, religion,...I don't even like most of you crazy mfs, but that doesn't matter.#Bitcoin doesn't care or judge.",-0.6474,0.038,0.182,0.1,0.625
+2020-12-18,16,"This seems relevant today with the new FINCEN proposal.
+Remember you can HODL and buy #Bitcoin without centralized exchanges as well.
+https://t.co/416FxgVvfZ",This seems relevant today with the new FINCEN proposal.Remember you can HODL and buy #Bitcoin without centralized exchanges as well.,0.2732,0.091,0.0,0.2681818181818182,0.6772727272727272
+2020-12-18,16," #Bitcoin fixes this.
+As does VPN and decentralized exchanges.",#Bitcoin fixes this.As does VPN and decentralized exchanges.,0.0,0.0,0.0,0.0,0.0
+2020-12-19,16,"We all celebrate #Bitcoin ATH in our own way.
+https://t.co/nbLJgPRtJ0",We all celebrate #Bitcoin ATH in our own way.,0.5719,0.291,0.0,0.6,1.0
+2020-12-19,16,"Couldn't even type bitcoin correctly the first time. 
+Might get my maximalist card revoked.",Couldn't even type bitcoin correctly the first time. Might get my maximalist card revoked.,0.0,0.0,0.0,0.25,0.3333333333333333
+2020-12-21,17,The ETH/BTC whale is back on  https://t.co/KtjlEdkFLY,The ETH/BTC whale is back on,0.0,0.0,0.0,0.0,0.0
+2020-12-21,17,"They don't hold crypto, they hold #Bitcoin.
+Here we go again.
+https://t.co/rQyzHjzJc7","They don't hold crypto, they hold #Bitcoin.Here we go again.",0.0,0.0,0.0,0.0,0.0
+2020-12-21,17,If you're trading alts to make more USD instead of making more BTC you're admitting that you can't outperform #Bitcoin and you shouldn't be trading.,If you're trading alts to make more USD instead of making more BTC you're admitting that you can't outperform #Bitcoin and you shouldn't be trading.,0.0,0.0,0.0,0.5,0.5
+2020-12-21,17," That's fine, then you fall in the category that's trying to make more btc :) Some exchanges like  only have USD perps so when I trade there I convert my profits to Bitcoin.","That's fine, then you fall in the category that's trying to make more btc :) Some exchanges like  only have USD perps so when I trade there I convert my profits to Bitcoin.",0.8583,0.28,0.0,0.3541666666666667,0.75
+2020-12-21,17,"#Bitcoin isn't in a bubble until 1 btc is 1 $TSLA roadster.. founders edition.
+
+If we are going to go with dumb comparisons lets use both ""bubbles"". 🤷‍♂️
+https://t.co/gE3jSWPUmK","#Bitcoin isn't in a bubble until 1 btc is 1 $TSLA roadster.. founders edition.If we are going to go with dumb comparisons lets use both ""bubbles"". 🤷‍♂️",-0.5106,0.0,0.117,-0.375,0.5
+2020-12-21,17,"Can't wait for some of these classic funds to start getting emails and calls from investors asking why they have no exposure to #Bitcoin while other funds do and are outperforming them.
+When are the quarterly and annual reports due? 🤷‍♂️",Can't wait for some of these classic funds to start getting emails and calls from investors asking why they have no exposure to #Bitcoin while other funds do and are outperforming them.When are the quarterly and annual reports due? 🤷‍♂️,-0.296,0.0,0.052,-0.02777777777777778,0.3055555555555555
+2020-12-21,17,"  Just reply with the ZEC/BTC chart and say ""I'm having fun staying poor.""","Just reply with the ZEC/BTC chart and say ""I'm having fun staying poor.""",0.5106,0.216,0.0,-0.05000000000000002,0.4
+2020-12-21,17,"I think this is hilarious but that's probably because I don't live in the US.
+$500 mill for Israel, $453 mill for Ukraine.
+$600 for you.
+Do you reall need another reason to buy #Bitcoin? 
+https://t.co/R19g7FfQrU","I think this is hilarious but that's probably because I don't live in the US.$500 mill for Israel, $453 mill for Ukraine.$600 for you.Do you reall need another reason to buy #Bitcoin?",0.2144,0.053,0.0,0.3181818181818182,0.75
+2020-12-21,17,Me when #Bitcoin dips and I am trying to buy it. https://t.co/uiT3iX6mMw,Me when #Bitcoin dips and I am trying to buy it.,0.0,0.0,0.0,0.0,0.0
+2020-12-22,17,"If you still have $XRP at this point you can still dump it and find a new coin to shill. You will fit in nicely with some other communities.
+I hear $ZEC is looking for community members, or actually anyone that actually uses their coin.
+
+Or you could just sell it for #Bitcoin","If you still have $XRP at this point you can still dump it and find a new coin to shill. You will fit in nicely with some other communities.I hear $ZEC is looking for community members, or actually anyone that actually uses their coin.Or you could just sell it for #Bitcoin",0.4215,0.096,0.046,0.16856060606060605,0.40492424242424246
+2020-12-23,17,"Nah. Just look at the #Bitcoin price, this has no effect on real &lt;decentralized&gt; cryptocurrencies.
+https://t.co/GQb4qjb1qc","Nah. Just look at the #Bitcoin price, this has no effect on real &lt;decentralized cryptocurrencies.",-0.3818,0.0,0.205,0.2,0.30000000000000004
+2020-12-24,17,"Jingle Bells, fiat smells,
+Maxis proven right,
+Bitcoin Forks all time lows, Saylor seen the light, hey.
+Jingle Bells, Ripple sells,
+Securities to retail,
+Having fun, staying poor is for Gold bugs without fail.","Jingle Bells, fiat smells,Maxis proven right,Bitcoin Forks all time lows, Saylor seen the light, hey.Jingle Bells, Ripple sells,Securities to retail,Having fun, staying poor is for Gold bugs without fail.",0.5346,0.198,0.116,0.017142857142857147,0.4671428571428571
+2020-12-24,17,"Well sure, this fits my #Bitcoin narrative.
+https://t.co/nxnY0XHB7H","Well sure, this fits my #Bitcoin narrative.",0.5267,0.423,0.0,0.5,0.8888888888888888
+2020-12-25,17,"I didn't have any $XRP, but ever since I bought my parents some #Bitcoin at $400 he keeps following ""crypto"" through mainstream media and it sometimes leads to interesting info and insights that I miss because I'm so deep in this space.","I didn't have any $XRP, but ever since I bought my parents some #Bitcoin at $400 he keeps following ""crypto"" through mainstream media and it sometimes leads to interesting info and insights that I miss because I'm so deep in this space.",0.3919,0.084,0.045,0.16666666666666666,0.3333333333333333
+2020-12-25,17,Someone literally just market dumped 1k #Bitcoin on  in a 1 minute candle on Christmas. https://t.co/476GAHhy3t,Someone literally just market dumped 1k #Bitcoin on  in a 1 minute candle on Christmas.,-0.4019,0.0,0.172,0.0,0.0
+2020-12-26,17,"TIL that regulators first go for the alts and then for #Bitcoin.. that makes perfect sense right?
+https://t.co/JoGF5dTV7f",TIL that regulators first go for the alts and then for #Bitcoin.. that makes perfect sense right?,0.5719,0.179,0.0,0.5119047619047619,0.623015873015873
+2020-12-27,17, Now do it with a BTC chart which is the only thing that actually matters.,Now do it with a BTC chart which is the only thing that actually matters.,0.0258,0.078,0.0,0.0,0.55
+2020-12-27,17,"We've been consistently hitting new all time highs and yet 1-2 sat transactions are still going through in the next block.
+#Bitcoin hashrate has actually been really stable for the last month which is kind of surprising, but it takes time to spin up more miners.","We've been consistently hitting new all time highs and yet 1-2 sat transactions are still going through in the next block.#Bitcoin hashrate has actually been really stable for the last month which is kind of surprising, but it takes time to spin up more miners.",0.0516,0.065,0.041,0.2651515151515152,0.3301346801346801
+2020-12-27,17, Main difference is that Bitcoiners didn't care.,Main difference is that Bitcoiners didn't care.,-0.3875,0.0,0.305,0.16666666666666666,0.3333333333333333
+2020-12-27,17,"I expect a #Bitcoin correction tomorrow when the markets open again, there will be liquidations but there are also plenty of people that are going to want to take profit. 🤷‍♂️ 
+I wouldn't mind being wrong though.","I expect a #Bitcoin correction tomorrow when the markets open again, there will be liquidations but there are also plenty of people that are going to want to take profit. 🤷‍♂️ I wouldn't mind being wrong though.",0.8239,0.218,0.0,-0.25,0.7
+2020-12-27,17,"Reminder that if you're trading alts for USD and you cant outperform #Bitcoin then you're actually losing purchasing power.
+#Bitcoin is the base currency and the hardest money, if you can't outperform Bitcoin, you shouldn't trade and just hodl.","Reminder that if you're trading alts for USD and you cant outperform #Bitcoin then you're actually losing purchasing power.#Bitcoin is the base currency and the hardest money, if you can't outperform Bitcoin, you shouldn't trade and just hodl.",-0.3818,0.0,0.064,-0.4,0.55
+2020-12-27,17,"While retail is definitely not here yet, I do see a large uptick in followers and I've had my first message from someone I know IRL ""Should I buy Ethereum since Bitcoin already went up so much so it feels like I missed out.""","While retail is definitely not here yet, I do see a large uptick in followers and I've had my first message from someone I know IRL ""Should I buy Ethereum since Bitcoin already went up so much so it feels like I missed out.""",0.5046,0.125,0.05,0.1660714285714286,0.36547619047619045
+2020-12-28,18, Oh... I thought Bitcoin didn't care about what random people wrote on the internet. My bad.,Oh... I thought Bitcoin didn't care about what random people wrote on the internet. My bad.,-0.7293,0.0,0.32,-0.5999999999999999,0.5833333333333333
+2020-12-29,18,"$XRP crashing isn't going to result in people exiting to #Bitcoin and then dumping their Bitcoin.
+The people who actually believed in fairytales of Ripple don't want to touch Bitcoin since they don't understand cryptocurrencies and they'll just dump it directly for fiat.",$XRP crashing isn't going to result in people exiting to #Bitcoin and then dumping their Bitcoin.The people who actually believed in fairytales of Ripple don't want to touch Bitcoin since they don't understand cryptocurrencies and they'll just dump it directly for fiat.,-0.6276,0.0,0.133,0.05,0.25
+2020-12-29,18,Or well they might just hold since they're still suffering from the Stockholm Syndrome. Either way none of this effects Bitcoin at all.,Or well they might just hold since they're still suffering from the Stockholm Syndrome. Either way none of this effects Bitcoin at all.,-0.25,0.08,0.118,0.0,0.0
+2020-12-29,18,"Let's have some fun with 2021 Predictions:
+BTC Low: 
+BTC High: 
+Top 5 by marketcap EOY 2021:
+Biggest winner: 
+Biggest loser: 
+Biggest surprise:",Let's have some fun with 2021 Predictions:BTC Low: BTC High: Top 5 by marketcap EOY 2021:Biggest winner: Biggest loser: Biggest surprise:,0.6705,0.338,0.169,0.24,0.385
+2020-12-29,18,"BTC Low: $23k
+BTC High: $160k
+Top 5 by marketcap EOY 2021: BTC, ETH, Tether, LTC, some algo stablecoin. 
+Biggest winner: BTC in marketcap, stablecoins in percentage
+Biggest loser: BCH won't be in top 15
+Biggest surprise: FTT (if  doesn't start slacking)","BTC Low: $23kBTC High: $160kTop 5 by marketcap EOY 2021: BTC, ETH, Tether, LTC, some algo stablecoin. Biggest winner: BTC in marketcap, stablecoins in percentageBiggest loser: BCH won't be in top 15Biggest surprise: FTT (if  doesn't start slacking)",0.1551,0.155,0.142,0.29000000000000004,0.45999999999999996
+2020-12-30,18,"  Some people who for some reason always happen to be shorting Bitcoin or happen to be nocoiners, claim it's not backed 1 by 1 in dollars.
+Because some money from Tether (800 mill) is locked in a pending courtcase in Poland iirc, so Bitfinex loaned the 800 mill to Tether.","Some people who for some reason always happen to be shorting Bitcoin or happen to be nocoiners, claim it's not backed 1 by 1 in dollars.Because some money from Tether (800 mill) is locked in a pending courtcase in Poland iirc, so Bitfinex loaned the 800 mill to Tether.",-0.0191,0.0,0.023,0.0,0.0
+2020-12-30,18," Why did he need an economist to crunch the numbers?
+So not only can he not code? He can't even do math?
+Guess that isn't that big of a surprise given the recent tweets from ""journalists"" about Bitcoin.","Why did he need an economist to crunch the numbers?So not only can he not code? He can't even do math?Guess that isn't that big of a surprise given the recent tweets from ""journalists"" about Bitcoin.",0.3899,0.068,0.0,0.0,0.45
+2020-12-30,18,You never actually own a #Bitcoin you merely look after it for the next generation. https://t.co/pAl6JoGqLa,You never actually own a #Bitcoin you merely look after it for the next generation.,0.0,0.0,0.0,-0.26666666666666666,0.5
+2020-12-30,18, They're both based on Patek's commercial. It is their famous tagline but it really fits well with Bitcoin.,They're both based on Patek's commercial. It is their famous tagline but it really fits well with Bitcoin.,0.4709,0.153,0.0,0.2333333333333333,0.39999999999999997
+2020-12-30,18,"Pretty low target... but by time #Bitcoin hits $150k I will definitely not be on Twitter anymore. 🤷‍♂️
+https://t.co/BmCbOu2PE8",Pretty low target... but by time #Bitcoin hits $150k I will definitely not be on Twitter anymore. 🤷‍♂️,0.6249,0.255,0.07,0.08333333333333333,0.6
+2020-12-31,18," I can use WBTC as collateral to take a USDC loan to play algo stablecoins and make 5-10% per day and I don't need any exposure to ETH (besides just having enough to pay for the fees which are high atm).
+This can be build on any platform, this isn't specific for ETH.","I can use WBTC as collateral to take a USDC loan to play algo stablecoins and make 5-10% per day and I don't need any exposure to ETH (besides just having enough to pay for the fees which are high atm).This can be build on any platform, this isn't specific for ETH.",0.25,0.046,0.027,0.05333333333333334,0.38833333333333336
+2020-12-31,18,Imagine still being long term bearish with #Bitcoin at $28k.,Imagine still being long term bearish with #Bitcoin at $28k.,0.0,0.0,0.0,-0.05,0.4
+2021-01-01,18,"Good morning 2021.
+Have fun, stay healthy and keep stacking sats. #Bitcoin https://t.co/I6xVTZy7f5","Good morning 2021.Have fun, stay healthy and keep stacking sats. #Bitcoin",0.836,0.471,0.0,0.5,0.43333333333333335
+2021-01-01,18," What if these are their best...
+I'm waiting for ""Bitcoin causes global warming part 383""","What if these are their best...I'm waiting for ""Bitcoin causes global warming part 383""",0.1531,0.103,0.0,0.5,0.15
+2021-01-02,18,I'll get excited once #Bitcoin breaks $50k.,I'll get excited once #Bitcoin breaks $50k.,0.34,0.286,0.0,0.375,0.75
+2021-01-02,18,"Here's the #Bitcoin CME chart for the January 2021 futures.
+¯\_(ツ)_/¯ https://t.co/EOyqmNah7w",Here's the #Bitcoin CME chart for the January 2021 futures.¯\_(ツ)_/¯,0.0,0.0,0.0,0.0,0.0
+2021-01-02,18,  this is why ETHBTC isn't going up.,this is why ETHBTC isn't going up.,0.0,0.0,0.0,0.0,0.0
+2021-01-02,18,"By the end of this year we'll have 6 digit #Bitcoin.
+$BCH will no longer be in the top 10. 
+Neither will $XRP.
+At least 1 more coin out of the top 10 will see some heat from SEC (not USDT).
+$LTC will break its ATH (vs USD).
+Stablecoins will be 10% of the total crypto marketcap.",By the end of this year we'll have 6 digit #Bitcoin.$BCH will no longer be in the top 10. Neither will $XRP.At least 1 more coin out of the top 10 will see some heat from SEC (not USDT).$LTC will break its ATH (vs USD).Stablecoins will be 10% of the total crypto marketcap.,0.1027,0.062,0.038,0.18333333333333332,0.5416666666666666
+2021-01-03,18,Tomorrow $GBTC and $ETHE opening are going to be interesting. (if we don't dump overnight),Tomorrow $GBTC and $ETHE opening are going to be interesting. (if we don't dump overnight),0.5972,0.273,0.0,0.5,0.5
+2021-01-04,18,Peter Schiff is buying $ETH after having missed out on $BTC.,Peter Schiff is buying $ETH after having missed out on $BTC.,-0.296,0.0,0.18,0.0,0.0
+2021-01-04,18,"#Bitcoin is up $2k since this tweet.
+Follow me for more financial advice. 🙃
+https://t.co/uuvEzLPk5h",#Bitcoin is up $2k since this tweet.Follow me for more financial advice. 🙃,0.0,0.0,0.0,0.25,0.25
+2021-01-04,18,"This is the #Bitcoin  way.
+https://t.co/kXuI3wIkC5",This is the #Bitcoin  way.,0.0,0.0,0.0,0.0,0.0
+2021-01-05,18,"Buy, sell, lend &amp; borrow #Bitcoin with no KYC at .
+If you're from Europe or US and looking for a place to buy Bitcoin I can recommend  and .
+If you're from the US you can also use .
+
+Enjoy the bull market and no one ever went broke taking profit","Buy, sell, lend &amp; borrow #Bitcoin with no KYC at .If you're from Europe or US and looking for a place to buy Bitcoin I can recommend  and .If you're from the US you can also use .Enjoy the bull market and no one ever went broke taking profit",0.34,0.151,0.127,0.4,0.5
+2021-01-07,18,"It's 2021 and some people still believe that:
+- Bitcoin is a ponzi
+- Bitcoin is a bubble
+- Bitcoin isn't backed by anything
+- the 21 million Bitcoin cap can be changed
+- Proof-of-work is bad
+-  USDT are just printed out of thin air to pump Bitcoin
+
+¯\_(ツ)_/¯",It's 2021 and some people still believe that:- Bitcoin is a ponzi- Bitcoin is a bubble- Bitcoin isn't backed by anything- the 21 million Bitcoin cap can be changed- Proof-of-work is bad-  USDT are just printed out of thin air to pump Bitcoin¯\_(ツ)_/¯,-0.5535,0.0,0.103,-0.5499999999999999,0.7583333333333333
+2021-01-08,18, Being up 2.5 BTC on an alt trade is $100k. I can't get used to this.,Being up 2.5 BTC on an alt trade is $100k. I can't get used to this.,0.0,0.0,0.0,0.0,0.0
+2021-01-08,18,#Bitcoin making a new ATH every day to every critic https://t.co/X02VMlQMyz,#Bitcoin making a new ATH every day to every critic,-0.2732,0.0,0.189,0.13636363636363635,0.45454545454545453
+2021-01-09,18,  Then why can't we order Tesla's with #Bitcoin?,Then why can't we order Tesla's with #Bitcoin?,0.0,0.0,0.0,0.0,0.0
+2021-01-10,18, It can outperform on Bitcoin and you'd still be down over 90% since you've been bullish since 2017 🤷‍♂️,It can outperform on Bitcoin and you'd still be down over 90% since you've been bullish since 2017 🤷‍♂️,0.0,0.0,0.0,-0.15555555555555559,0.2888888888888889
+2021-01-10,18,"Things people say that make them lose all their credibility in this space immediately:
+- I am joining the $BCH effort
+- CSW is (or might be) Satoshi
+- XRP the standard
+- Ethereum is decentralized
+- #Bitcoin's 21 million cap might be changed
+- Optional privacy is also privacy",Things people say that make them lose all their credibility in this space immediately:- I am joining the $BCH effort- CSW is (or might be) Satoshi- XRP the standard- Ethereum is decentralized- #Bitcoin's 21 million cap might be changed- Optional privacy is also privacy,-0.4019,0.0,0.06,0.0,0.0
+2021-01-11,19,All the #Bitcoin you're selling right now is being bought up by Elon Musk.,All the #Bitcoin you're selling right now is being bought up by Elon Musk.,0.0,0.0,0.0,0.2857142857142857,0.5357142857142857
+2021-01-11,19,"The only reason why  made that #Bitcoin tweet.
+https://t.co/PJ0BnCRPX5",The only reason why  made that #Bitcoin tweet.,0.0,0.0,0.0,0.0,1.0
+2021-01-12,19,"So what you're telling me is that you don't want to buy #Bitcoin now since it crashed 25% and according to your logic it will keep crashing because it's a bubble... but you're willing to buy it when it hits a new ATH again?
+
+Your loss anon.",So what you're telling me is that you don't want to buy #Bitcoin now since it crashed 25% and according to your logic it will keep crashing because it's a bubble... but you're willing to buy it when it hits a new ATH again?Your loss anon.,-0.4698,0.0,0.086,0.19318181818181818,0.6022727272727273
+2021-01-12,19,"You can sell #Bitcoin at $33k now, or you could sell it for over $100k in 11 months ¯\_(ツ)_/¯","You can sell #Bitcoin at $33k now, or you could sell it for over $100k in 11 months ¯\_(ツ)_/¯",0.0,0.0,0.0,0.0,0.0
+2021-01-13,19,"Damn  has been on a roll lately.
+First banning people from depositing #Bitcoin profits in the bank, now threatening to close people's accounts for not wearing masks. https://t.co/uCUhzHPFNm","Damn  has been on a roll lately.First banning people from depositing #Bitcoin profits in the bank, now threatening to close people's accounts for not wearing masks.",-0.4939,0.088,0.185,0.25,0.3333333333333333
+2021-01-14,19,"The funniest thing about this article is that  is a way better trader and understands #Bitcoin better than  ""Senior Market Analyst"" at Oanda. 🤷‍♂️
+https://t.co/o9clwh5txl https://t.co/pk9twU8S1R","The funniest thing about this article is that  is a way better trader and understands #Bitcoin better than  ""Senior Market Analyst"" at Oanda. 🤷‍♂️",0.8555,0.299,0.0,0.5,0.5
+2021-01-14,19,#Bitcoin taking a head start before the Asia trading session. 🤷‍♂️,#Bitcoin taking a head start before the Asia trading session. 🤷‍♂️,0.0,0.0,0.0,0.0,0.0
+2021-01-15,19,"Quick dump your #Bitcoin for something that will take many months and potentially years still to play out.
+https://t.co/U4cr1jN6wx",Quick dump your #Bitcoin for something that will take many months and potentially years still to play out.,-0.0516,0.109,0.118,0.27777777777777773,0.6666666666666666
+2021-01-15,19,"So where are we at?
+- MtGox coins fud ✅
+- Tether fud ✅
+- Regulation fud ✅
+- Bitcoin can go to 0 fud ✅
+- Right wing activists use Bitcoin ✅
+
+And yet we're still at $35.6k  ¯\_(ツ)_/¯
+
+Where are my China and Korea fud at??",So where are we at?- MtGox coins fud ✅- Tether fud ✅- Regulation fud ✅- Bitcoin can go to 0 fud ✅- Right wing activists use Bitcoin ✅And yet we're still at $35.6k  ¯\_(ツ)_/¯Where are my China and Korea fud at??,-0.8418,0.0,0.257,0.2857142857142857,0.5357142857142857
+2021-01-16,19,"This.
+What happens when people have money on an exchange and they're worried about the reserves the exchange has?
+They try to get out asap. If you think an exchange doesn't have USD, you market buy Bitcoin (or whatever) no matter the price and gtfo. 
+https://t.co/9ewbFObxvv","This.What happens when people have money on an exchange and they're worried about the reserves the exchange has?They try to get out asap. If you think an exchange doesn't have USD, you market buy Bitcoin (or whatever) no matter the price and gtfo.",-0.5106,0.023,0.091,0.0,0.0
+2021-01-16,19,"People aren't going to keep their money in the bank.
+If you don't want the volatility of Bitcoin, you can still just use stablecoins 🤷‍♂️
+https://t.co/rlSus5f76t https://t.co/ZOa91746xK","People aren't going to keep their money in the bank.If you don't want the volatility of Bitcoin, you can still just use stablecoins 🤷‍♂️",-0.0572,0.0,0.045,0.0,0.0
+2021-01-16,19,"Someone did the math on all of this and it's ~$1715 per #Bitcoin. So only people really desperate will pick this option.
+Fortress has been buying MtGox claims for a long time and this might actually incentivize people to sell their claim to them. https://t.co/FcaCFwSY4q https://t.co/gBDSwc9zKy",Someone did the math on all of this and it's ~$1715 per #Bitcoin. So only people really desperate will pick this option.Fortress has been buying MtGox claims for a long time and this might actually incentivize people to sell their claim to them.,-0.3804,0.0,0.056,-0.1625,0.625
+2021-01-16,19, Wait until you figure out that it's mostly in remote places or with excess electricity... and then have your mind blown that Bitcoin mining is actually actively incentivizing the development of infrastructure of renewable energy. https://t.co/SewzG8J9kx,Wait until you figure out that it's mostly in remote places or with excess electricity... and then have your mind blown that Bitcoin mining is actually actively incentivizing the development of infrastructure of renewable energy.,0.5267,0.115,0.0,-0.11666666666666667,0.4
+2021-01-18,20," That's because it usually works in $400 million increments and just like a Bitcoin, you can't split these things up.
+https://t.co/3qj2oei219","That's because it usually works in $400 million increments and just like a Bitcoin, you can't split these things up.",0.3612,0.116,0.0,-0.25,0.25
+2021-01-18,20,I'm looking forward to when #Bitcoin is $200k and Asia become bulls and US and EU just keep dumping on them. 🙃,I'm looking forward to when #Bitcoin is $200k and Asia become bulls and US and EU just keep dumping on them. 🙃,-0.3182,0.0,0.103,0.0,0.0
+2021-01-19,20,"Well ok. That is it then. I guess it is over for #Bitcoin 
+https://t.co/3iZDyqWWj4",Well ok. That is it then. I guess it is over for #Bitcoin,0.5106,0.281,0.0,0.5,0.5
+2021-01-19,20,"$GBTC Bitcoin holdings keeps growing at an insane rate.
+Yesterday 16k BTC was added which is the equivalent of 18 days of new coins being mined (900 per day).
+Over the last 30 days it was 60k BTC which is more than 2 months of mining... and the trust was closed for 3 weeks. https://t.co/NxL9OwnWMP",$GBTC Bitcoin holdings keeps growing at an insane rate.Yesterday 16k BTC was added which is the equivalent of 18 days of new coins being mined (900 per day).Over the last 30 days it was 60k BTC which is more than 2 months of mining... and the trust was closed for 3 weeks.,0.3182,0.087,0.047,-0.09272727272727273,0.4242424242424243
+2021-01-19,20," No, not for 6 months. They can't be redeemed. They can dump the shares but not the bitcoin","No, not for 6 months. They can't be redeemed. They can dump the shares but not the bitcoin",-0.314,0.082,0.251,0.0,0.0
+2021-01-19,20," It's a one-way street yes. There is plenty of demand for shares, that's why some people transfer their btc to GBTC to take advantage of the premium.","It's a one-way street yes. There is plenty of demand for shares, that's why some people transfer their btc to GBTC to take advantage of the premium.",0.6597,0.227,0.049,0.0,0.0
+2021-01-19,20,"   You are aware that Bitcoin is actually rapidly improving the development of infrastructure of renewable energy right? And that it's helping with the R&amp;D of it since the players are incentivized to be as efficient as possible.
+You're welcome.",You are aware that Bitcoin is actually rapidly improving the development of infrastructure of renewable energy right? And that it's helping with the R&amp;D of it since the players are incentivized to be as efficient as possible.You're welcome.,0.8979,0.275,0.0,0.2671428571428572,0.5571428571428572
+2021-01-19,20,"In a couple of years people are going to be shocked by the speed of which renewables got more efficient and how fast the infrastructure got developed and it's mostly going to be thanks to Bitcoin.
+
+Thanks #Bitcoin",In a couple of years people are going to be shocked by the speed of which renewables got more efficient and how fast the infrastructure got developed and it's mostly going to be thanks to Bitcoin.Thanks #Bitcoin,0.7645,0.201,0.052,0.14285714285714285,0.4428571428571429
+2021-01-20,20,Suggestion: instead of China banning #Bitcoin. Can we ban Asia? That would actually be a good thing for the price.,Suggestion: instead of China banning #Bitcoin. Can we ban Asia? That would actually be a good thing for the price.,-0.1779,0.123,0.153,0.7,0.6000000000000001
+2021-01-20,20,"Ethereum couldn't even break ATH properly so now it's dragging down #Bitcoin.
+Can't they do anything right?",Ethereum couldn't even break ATH properly so now it's dragging down #Bitcoin.Can't they do anything right?,0.0,0.0,0.0,0.04338624338624337,0.3082010582010582
+2021-01-21,20,Well if this was the #Bitcoin dip I'm going to be slightly annoyed since both my Bitfinex and FTX buys were less than $5 from being hit.,Well if this was the #Bitcoin dip I'm going to be slightly annoyed since both my Bitfinex and FTX buys were less than $5 from being hit.,-0.0534,0.071,0.078,-0.2833333333333333,0.43333333333333335
+2021-01-21,20,"This is great. There are some companies in this space that have been doing this for many years and I don't think any of the early employees that opted in for that have any regrets... well maybe they regret the % of the amount they got paid in #Bitcoin.
+https://t.co/p90X6pznYj",This is great. There are some companies in this space that have been doing this for many years and I don't think any of the early employees that opted in for that have any regrets... well maybe they regret the % of the amount they got paid in #Bitcoin.,0.5267,0.115,0.052,0.325,0.4375
+2021-01-21,20,"Coming from the guy that can't buy #Bitcoin yet and needs another month to get approval.
+https://t.co/Je2pPK1uSQ",Coming from the guy that can't buy #Bitcoin yet and needs another month to get approval.,0.4767,0.162,0.0,0.0,0.0
+2021-01-21,20,"So people are dumping #Bitcoin because of some horribly researched  article (99% of their articles are, they are like 1 step above Coingeek and Trustnodes) which made it on the Bloomberg terminal.
+
+Oh god.","So people are dumping #Bitcoin because of some horribly researched  article (99% of their articles are, they are like 1 step above Coingeek and Trustnodes) which made it on the Bloomberg terminal.Oh god.",-0.3321,0.116,0.151,-0.5,0.55
+2021-01-21,20,"I hope I get this money before #Bitcoin bounces.
+
+Seriously though people still fall for this? https://t.co/egtLVTxFdt",I hope I get this money before #Bitcoin bounces.Seriously though people still fall for this?,0.296,0.165,0.097,-0.3333333333333333,0.6666666666666666
+2021-01-22,20,"Seems like a lot of people don't get it. 
+You keep selling your #Bitcoin to large institutional investors on every dip hoping we'll go back down to $20k or lower. That's not going to happen.
+Make them all market buy.
+https://t.co/jVJjyGcpbX",Seems like a lot of people don't get it. You keep selling your #Bitcoin to large institutional investors on every dip hoping we'll go back down to $20k or lower. That's not going to happen.Make them all market buy.,0.4767,0.119,0.049,0.019576719576719564,0.23915343915343915
+2021-01-22,20,"Hope you got paid in Bitcoin or cash to shill this cuz that's the trashiest and most obvious paid shill I've ever seen.
+That includes McAfee.
+https://t.co/Q2MnFwq0Zo",Hope you got paid in Bitcoin or cash to shill this cuz that's the trashiest and most obvious paid shill I've ever seen.That includes McAfee.,0.4404,0.1,0.0,0.25,0.5
+2021-01-25,21,"Marathon Patent Group bougt $150 million worth of #Bitcoin.
+They bought the coins you panic sold of the ""double spend"" article. 
+Sorry, you'll have to rebuy higher now, hopefully you've learned a valuable lesson.
+https://t.co/IWjTQ0UNZj https://t.co/S5sbAA9cOR","Marathon Patent Group bougt $150 million worth of #Bitcoin.They bought the coins you panic sold of the ""double spend"" article. Sorry, you'll have to rebuy higher now, hopefully you've learned a valuable lesson.",0.4767,0.182,0.109,0.012499999999999997,0.4
+2021-01-27,21,"I wanted to long #Bitcoin lower but then I saw this tweet.
+So I fomo'd right in.
+https://t.co/01Uv1yhN5L",I wanted to long #Bitcoin lower but then I saw this tweet.So I fomo'd right in.,-0.1531,0.0,0.103,0.11785714285714285,0.46785714285714286
+2021-01-27,21,"""I don't like #Bitcoin because it is too volatile."" - Anonymous trader/investor https://t.co/oQ1wPysnV7","""I don't like #Bitcoin because it is too volatile."" - Anonymous trader/investor",-0.2755,0.0,0.161,0.0,0.0
+2021-01-28,21,"The culture we're living in right now:
+Is Bitcoin scaring you because it threatens the status quo? Call for regulations &amp; blame white supremacists! 
+Is Wallstreetbets liquidating your buddy's hedge fund because he sucks at trading?
+Call for regulations &amp; blame white supremacists!",The culture we're living in right now:Is Bitcoin scaring you because it threatens the status quo? Call for regulations &amp; blame white supremacists! Is Wallstreetbets liquidating your buddy's hedge fund because he sucks at trading?Call for regulations &amp; blame white supremacists!,-0.9407,0.0,0.33,-0.0035714285714285726,0.2089285714285714
+2021-01-28,21,"This might be one of the best things to have happened for crypto.
+It shows how retail is getting fucked over by big companies.
+#Bitcoin is the vaccine against corporate overlords.
+https://t.co/dUCFyxyHso",This might be one of the best things to have happened for crypto.It shows how retail is getting fucked over by big companies.#Bitcoin is the vaccine against corporate overlords.,-0.0516,0.109,0.114,0.1,0.275
+2021-01-28,21,"   Depends what you want to trade and where you live.
+I have some in my stickied tweet.
+If you're from US and mostly want to trade just Bitcoin and some of the bigger altcoins, go for  for example.","Depends what you want to trade and where you live.I have some in my stickied tweet.If you're from US and mostly want to trade just Bitcoin and some of the bigger altcoins, go for  for example.",0.1531,0.069,0.0,0.21212121212121213,0.5
+2021-01-28,21, They're Doge people you have to lure them in with Doge and then hit them with Bitcoin.,They're Doge people you have to lure them in with Doge and then hit them with Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-01-28,21,"""If only we had #Bitcoin during the 2008 crisis""
+Well we have it now, better take advantage of it.","""If only we had #Bitcoin during the 2008 crisis""Well we have it now, better take advantage of it.",0.2263,0.268,0.157,0.25,0.75
+2021-01-28,21,"I wonder if in a year or maybe 5 years we will see today as something defining for #Bitcoin. 
+I really hope so since too many people got screwed and it was all very public.
+I guess I will have to wait and see how this all turns out but meanwhile I am even more bullish on $BTC.",I wonder if in a year or maybe 5 years we will see today as something defining for #Bitcoin. I really hope so since too many people got screwed and it was all very public.I guess I will have to wait and see how this all turns out but meanwhile I am even more bullish on $BTC.,-0.0009,0.039,0.039,0.3,0.32166666666666666
+2021-01-29,21, 0.15 BTC https://t.co/NgsQahKihc,0.15 BTC,0.0,0.0,0.0,0.0,0.0
+2021-01-29,21,This is what an Asia #Bitcoin trading session looks like. https://t.co/TzqHtMCq52,This is what an Asia #Bitcoin trading session looks like.,0.3612,0.2,0.0,0.0,0.0
+2021-01-29,21,Remember that time that  announced he put 90% of the treasure of SpaceX and Tesla in #Bitcoin and it pumped to $100k?,Remember that time that  announced he put 90% of the treasure of SpaceX and Tesla in #Bitcoin and it pumped to $100k?,0.296,0.095,0.0,0.0,0.0
+2021-01-29,21,"Also don't forget that there are a lot of funds that are shorting #Bitcoin right now. So I welcome all of them getting rekt.
+Up only.",Also don't forget that there are a lot of funds that are shorting #Bitcoin right now. So I welcome all of them getting rekt.Up only.,0.6071,0.184,0.0,0.36190476190476195,0.811904761904762
+2021-01-29,21,Everyone is still heavily underweight #Bitcoin... except maybe .,Everyone is still heavily underweight #Bitcoin... except maybe .,0.0,0.0,0.0,-0.2,0.5
+2021-01-30,21,"Bitcoin isn't private and it's also just a proposed bill.
+Weak fud tbh.
+https://t.co/MW7AP6dW8K",Bitcoin isn't private and it's also just a proposed bill.Weak fud tbh.,-0.6124,0.0,0.312,-0.1875,0.5
+2021-01-31,21," Damn a Starbucks coffee is super expensive
+
+Sure I'll ape in with 2 btc cuz someone I know shilled it.",Damn a Starbucks coffee is super expensiveSure I'll ape in with 2 btc cuz someone I know shilled it.,0.5423,0.271,0.118,0.1111111111111111,0.7518518518518519
+2021-01-31,21,"There will always be more #silver to be mined.
+There will only ever be 21 million #Bitcoin.
+#silvershortsqueeze https://t.co/Fj3ff0NpCV",There will always be more #silver to be mined.There will only ever be 21 million #Bitcoin.#silvershortsqueeze,0.0,0.0,0.0,0.25,0.75
+2021-01-31,21,"There are actually traders that went full USD.
+Never go full USD, always keep at least some exposure to #Bitcoin. https://t.co/hRtJyglvGR","There are actually traders that went full USD.Never go full USD, always keep at least some exposure to #Bitcoin.",0.0,0.0,0.0,0.09999999999999999,0.4
+2021-02-01,22,"It's February 2021.
+We've had Covid, lockdowns and unprecedented money printing for a year.
+Markets are crazy manipulated which finally the average person starts to get.
+Your excuses for not owning at least some #Bitcoin are long gone.
+You owe it to yourself and your loved ones.","It's February 2021.We've had Covid, lockdowns and unprecedented money printing for a year.Markets are crazy manipulated which finally the average person starts to get.Your excuses for not owning at least some #Bitcoin are long gone.You owe it to yourself and your loved ones.",-0.0258,0.075,0.096,0.028571428571428574,0.6857142857142857
+2021-02-01,22,"$XRP and $DOGE created a lot of new community members the last couple of days.
+The majority will ragequit and think all crypto is a scam.
+Others will stick around and start to understand the true value of #Bitcoin",$XRP and $DOGE created a lot of new community members the last couple of days.The majority will ragequit and think all crypto is a scam.Others will stick around and start to understand the true value of #Bitcoin,0.3612,0.164,0.084,0.1621212121212121,0.3904040404040405
+2021-02-02,22,"It's hard to accumulate #Bitcoin when you're the richest person in the world and you finally realize how powerful it is.
+https://t.co/SXvrhbIAec",It's hard to accumulate #Bitcoin when you're the richest person in the world and you finally realize how powerful it is.,0.7003,0.233,0.053,0.002777777777777768,0.8472222222222222
+2021-02-02,22,"You still didn't buy #Bitcoin? Well you better hurry up there aren't many left on the market.
+https://t.co/HxWnSqbQ8b",You still didn't buy #Bitcoin? Well you better hurry up there aren't many left on the market.,0.27,0.14,0.088,0.3333333333333333,0.3333333333333333
+2021-02-03,22,"He could only start buying #Bitcoin from the 1st of February so yeah no surprise that he now goes full bull 🤷‍♂️
+https://t.co/UV8fOxAfpK",He could only start buying #Bitcoin from the 1st of February so yeah no surprise that he now goes full bull 🤷‍♂️,0.4121,0.189,0.089,0.175,0.775
+2021-02-07,22," Dollar cost average.
+No one ever went broke from taking profit.
+Leverage is dangerous.
+Paid groups are scams.
+Alts pump harder than btc but also lose way more value in a bear market.
+Don't get too attached to altcoins.
+Nothing will ever replace Bitcoin.",Dollar cost average.No one ever went broke from taking profit.Leverage is dangerous.Paid groups are scams.Alts pump harder than btc but also lose way more value in a bear market.Don't get too attached to altcoins.Nothing will ever replace Bitcoin.,-0.6137,0.104,0.217,-0.0875,0.45
+2021-02-08,23,"Damnit. I saw the price, closed my #Bitcoin long and only then read the news.","Damnit. I saw the price, closed my #Bitcoin long and only then read the news.",-0.5267,0.0,0.207,-0.05000000000000001,0.5
+2021-02-08,23,He couldn't tweet about #Bitcoin too much because that would get him in trouble so instead  was just tweeting about $DOGE which was code for Bitcoin https://t.co/nPFCf42lxn,He couldn't tweet about #Bitcoin too much because that would get him in trouble so instead  was just tweeting about $DOGE which was code for Bitcoin,-0.4019,0.0,0.094,0.0,0.2
+2021-02-08,23,It feels that there was a large overlap between Tesla haters and Bitcoin haters. Let's see how this all plays out for $TSLA shorters.,It feels that there was a large overlap between Tesla haters and Bitcoin haters. Let's see how this all plays out for $TSLA shorters.,-0.6597,0.07,0.225,0.21428571428571427,0.42857142857142855
+2021-02-08,23," Bitcoin is rapidly improving the r&amp;d of green energy solutions and the development of its infrastructure. 
+You are welcome.",Bitcoin is rapidly improving the r&amp;d of green energy solutions and the development of its infrastructure. You are welcome.,0.8225,0.39,0.0,0.30000000000000004,0.6
+2021-02-08,23,"So since the  #Bitcoin purchase announcement was made public I have seen a large uptick in ""Bitcoin is boiling the oceans"" concern trolling.
+Time to educate yourself with  and 's articles.
+https://t.co/P0cW9kxdDI
+https://t.co/SOno92KXHe","So since the  #Bitcoin purchase announcement was made public I have seen a large uptick in ""Bitcoin is boiling the oceans"" concern trolling.Time to educate yourself with  and 's articles.",0.0,0.0,0.0,0.10714285714285714,0.2476190476190476
+2021-02-09,23,"I'm calling this piece of art:
+Cope with #Bitcoin. https://t.co/dFYMjlVykL",I'm calling this piece of art:Cope with #Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-02-09,23,The crazy thing is that if you think that  bought the $1.5 billion worth of #Bitcoin with an average of $38k (which is reasonable for January) he's now at $46k already up more than $300 million.,The crazy thing is that if you think that  bought the $1.5 billion worth of #Bitcoin with an average of $38k (which is reasonable for January) he's now at $46k already up more than $300 million.,-0.128,0.05,0.063,0.05000000000000001,0.5
+2021-02-09,23," ""It is difficult to get a man to understand something when his salary depends upon his not understanding it.""
+Een relevante quote.
+Wanneer zal u toegeven dat u mis bent? Mijn gevoel zegt nooit. Zelfs niet met Bitcoin op $200k.
+U staat aan de verkeerde kant van de geschiedenis.","""It is difficult to get a man to understand something when his salary depends upon his not understanding it.""Een relevante quote.Wanneer zal u toegeven dat u mis bent? Mijn gevoel zegt nooit. Zelfs niet met Bitcoin op $200k.U staat aan de verkeerde kant van de geschiedenis.",-0.3612,0.0,0.054,-0.5,1.0
+2021-02-09,23,"  Hij begrijpt Bitcoin niet. Dat is niet erg, ik begrijp quantum mechanica niet, maar dan moet je er geen slecht onderbouwde opiniestukken over schrijven.
+Als hij Bitcoin had gekocht of research had gedaan toen hij er eerst over schreef, moest hij nu geen artikels meer schrijven.","Hij begrijpt Bitcoin niet. Dat is niet erg, ik begrijp quantum mechanica niet, maar dan moet je er geen slecht onderbouwde opiniestukken over schrijven.Als hij Bitcoin had gekocht of research had gedaan toen hij er eerst over schreef, moest hij nu geen artikels meer schrijven.",0.0,0.0,0.0,0.0,0.0
+2021-02-10,23,"Round 2: all the #Bitcoin you are selling now is being bought up by Tim Cook and Larry Ellison.
+https://t.co/zcFbtbFceo",Round 2: all the #Bitcoin you are selling now is being bought up by Tim Cook and Larry Ellison.,0.0,0.0,0.0,-0.2,0.4
+2021-02-10,23,"All those CEOs and CFOs saying they're ""evaluating buying #Bitcoin  are planning to buy but like  need to fud first because they're not allowed to buy yet.
+It's so obvious. https://t.co/0lmlHEgRc5","All those CEOs and CFOs saying they're ""evaluating buying #Bitcoin  are planning to buy but like  need to fud first because they're not allowed to buy yet.It's so obvious.",0.1531,0.093,0.076,0.125,0.41666666666666663
+2021-02-11,23, Real Estate listings which you can buy directly with Bitcoin.,Real Estate listings which you can buy directly with Bitcoin.,0.0,0.0,0.0,0.15000000000000002,0.35000000000000003
+2021-02-11,23,"Is the latest tweet by  a $DOGE shill or a #Bitcoin shill?
+https://t.co/FI1z81YLBx",Is the latest tweet by  a $DOGE shill or a #Bitcoin shill?,0.0,0.0,0.0,0.5,0.9
+2021-02-11,23,"It will ""Issue Bitcoin""? 🤔
+https://t.co/8xr9Mdouzi","It will ""Issue Bitcoin""? 🤔",0.0,0.0,0.0,0.0,0.0
+2021-02-11,23,  that's .3 btc max?,that's .3 btc max?,0.0,0.0,0.0,0.0,0.0
+2021-02-12,23,"Some countries/states/cities will try to clamp down on #Bitcoin. 
+This creates huge opportunities for others that are welcoming to attract wealthy young people and exciting new startups.
+Smart move.
+https://t.co/jeZpwmGtx6",Some countries/states/cities will try to clamp down on #Bitcoin. This creates huge opportunities for others that are welcoming to attract wealthy young people and exciting new startups.Smart move.,0.9571,0.486,0.0,0.21358482787054212,0.6408987837559267
+2021-02-12,23,"I used to think that putting 1-2% of your net worth in #Bitcoin was a very acceptable risk/reward for people who weren't really familiar with it that much.
+I've changed my mind and I think that 5-10% is even acceptable now. The world is changing, you don't want to be left behind.","I used to think that putting 1-2% of your net worth in #Bitcoin was a very acceptable risk/reward for people who weren't really familiar with it that much.I've changed my mind and I think that 5-10% is even acceptable now. The world is changing, you don't want to be left behind.",0.7063,0.133,0.023,0.09642857142857142,0.2571428571428572
+2021-02-12,23,"I disagree with the majority of Bitcoiners on multiple issues. I don't even really like most of you.
+Yet for me that's no reason to dump #Bitcoin or to be angry about it. 
+Bitcoin doesn't care about anything... and definitely not about COVID.",I disagree with the majority of Bitcoiners on multiple issues. I don't even really like most of you.Yet for me that's no reason to dump #Bitcoin or to be angry about it. Bitcoin doesn't care about anything... and definitely not about COVID.,-0.8991,0.052,0.299,0.039999999999999994,0.44000000000000006
+2021-02-14,23,"Roses are red,
+Violets are blue, 
+Please keep printing more money,
+#Bitcoin hodlers will thank you.
+
+https://t.co/HtPBuHSeOB","Roses are red,Violets are blue, Please keep printing more money,#Bitcoin hodlers will thank you.",0.5859,0.242,0.0,0.16666666666666666,0.19999999999999998
+2021-02-14,23,"Are the people buying the best performing asset, #Bitcoin , bad at math and economics or is the person trying to sell gold which price hasnt moved in 10 years bad at math and economics?
+https://t.co/5xsxspzO2o","Are the people buying the best performing asset, #Bitcoin , bad at math and economics or is the person trying to sell gold which price hasnt moved in 10 years bad at math and economics?",-0.0772,0.15,0.157,-0.13333333333333322,0.5444444444444444
+2021-02-16,24,"Sure, but still the risk of losing money is way higher if you're not buying #Bitcoin.
+
+https://t.co/059i7cNTxL","Sure, but still the risk of losing money is way higher if you're not buying #Bitcoin.",-0.6597,0.076,0.279,0.375,0.6944444444444444
+2021-02-16,24,The first trillionaire will own #Bitcoin .,The first trillionaire will own #Bitcoin .,0.0,0.0,0.0,0.425,0.6666666666666666
+2021-02-16,24,"Oh boy here we go again. Another $600 million coming into #Bitcoin.
+https://t.co/NiqqZYEIC7",Oh boy here we go again. Another $600 million coming into #Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-02-16,24,Just imagine not owning #Bitcoin.,Just imagine not owning #Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-02-16,24," If you have USD profits from a trade, even at these prices, do you convert it into BTC or not?","If you have USD profits from a trade, even at these prices, do you convert it into BTC or not?",0.4404,0.139,0.0,0.0,0.0
+2021-02-16,24,"   He was smart enough to buy Bitcoin, I'm pretty sure he has it covered... the people who bought gold though... that's a different story.","He was smart enough to buy Bitcoin, I'm pretty sure he has it covered... the people who bought gold though... that's a different story.",0.802,0.291,0.0,0.19285714285714287,0.7263492063492063
+2021-02-17,24,There are still people that are sitting on the sidelines waiting for the $9k #Bitcoin CME gap to close before they'll long.,There are still people that are sitting on the sidelines waiting for the $9k #Bitcoin CME gap to close before they'll long.,0.0,0.0,0.0,-0.05,0.4
+2021-02-17,24,"Ok so the obvious question is... how much of this will  put in #Bitcoin?
+https://t.co/8kMTEpq5za",Ok so the obvious question is... how much of this will  put in #Bitcoin?,0.296,0.136,0.0,0.2333333333333333,0.39999999999999997
+2021-02-17,24,"Oh now it's $900 million worth of #Bitcoin. The speculative attack on the USD accelerates.
+https://t.co/RfBwaJQJkj",Oh now it's $900 million worth of #Bitcoin. The speculative attack on the USD accelerates.,-0.2023,0.17,0.16,0.3,0.1
+2021-02-17,24,"German listed company adding #Bitcoin to its treasury to hedge against the devaluation of the Euro.
+https://t.co/jfJ9IJiQwk",German listed company adding #Bitcoin to its treasury to hedge against the devaluation of the Euro.,0.2023,0.101,0.0,0.0,0.0
+2021-02-17,24,"   They are without a doubt one of the most incompetent teams out there. They also had a random number generator flaw, history of attacking Bitcoin, etc.","They are without a doubt one of the most incompetent teams out there. They also had a random number generator flaw, history of attacking Bitcoin, etc.",-0.6102,0.114,0.215,-0.11666666666666665,0.45555555555555555
+2021-02-17,24,   Everyone buys Bitcoin to get out of Tether and Bitcoin's price goes up even more. But it won't get closed down.,Everyone buys Bitcoin to get out of Tether and Bitcoin's price goes up even more. But it won't get closed down.,0.0,0.0,0.0,0.08148148148148147,0.2962962962962963
+2021-02-17,24,"No, I don't remember the Mississippi &amp; South Sea Bubbles of 1720 because I'm not 300 years old like you. 
+Most people do understand that since 40% of all dollars were printed in the last 12 months inflation is coming and #Bitcoin is the perfect hedge. 🤷‍♂️
+https://t.co/82zd6CfobO","No, I don't remember the Mississippi &amp; South Sea Bubbles of 1720 because I'm not 300 years old like you. Most people do understand that since 40% of all dollars were printed in the last 12 months inflation is coming and #Bitcoin is the perfect hedge. 🤷‍♂️",0.6124,0.118,0.042,0.4,0.44166666666666665
+2021-02-18,24," #Bitcoin is helping build the world's green energy infrastructure. You're welcome.
+Also this: https://t.co/BRA4VVKfbP",#Bitcoin is helping build the world's green energy infrastructure. You're welcome.Also this:,0.743,0.399,0.0,0.30000000000000004,0.6
+2021-02-19,24,"2017:
+Bitcoiners: $ETH is centralized and has Vitalik and Infura as single points of failure.
+Vitalik: a tx should be less than $.05
+2020:
+Ethheads: $BNB is centralized and has CZ and Binance as single points of failure.
+
+Will BNB flip ETH? Nah.
+Is the hypocrisy funny? Hilarious.",2017:Bitcoiners: $ETH is centralized and has Vitalik and Infura as single points of failure.Vitalik: a tx should be less than $.052020:Ethheads: $BNB is centralized and has CZ and Binance as single points of failure.Will BNB flip ETH? Nah.Is the hypocrisy funny? Hilarious.,0.1179,0.147,0.139,-0.027551020408163263,0.44217687074829926
+2021-02-19,24," Tether is boiling theoceans and destroying entire milky ways and that's why China, South Korea and India will ban Bitcoin after Satoshi admits he's a right wing extremist.","Tether is boiling theoceans and destroying entire milky ways and that's why China, South Korea and India will ban Bitcoin after Satoshi admits he's a right wing extremist.",-0.7184,0.066,0.216,0.028571428571428564,0.38690476190476186
+2021-02-19,24,"$1,000,000,000,000 marketcap, congrats to all the #Bitcoin hodlers.
+A special thanks for all the money printers in the world. We couldn't have done this without you. https://t.co/sEQUm4ru7K","$1,000,000,000,000 marketcap, congrats to all the #Bitcoin hodlers.A special thanks for all the money printers in the world. We couldn't have done this without you.",0.8402,0.281,0.0,0.2785714285714286,0.3857142857142857
+2021-02-20,24,"What he's really saying is that we should start working with the price of sats rather than the price of 1 full #Bitcoin. Kind of like the $TSLA stock split.
+https://t.co/95vzncOqNU",What he's really saying is that we should start working with the price of sats rather than the price of 1 full #Bitcoin. Kind of like the $TSLA stock split.,0.3612,0.079,0.0,0.3833333333333333,0.5499999999999999
+2021-02-21,24,"Oh this is my favorite take of the day.
+#Bitcoin doesn't care.
+Up only.
+https://t.co/hiFPyhe6rw",Oh this is my favorite take of the day.#Bitcoin doesn't care.Up only.,0.0956,0.161,0.141,0.25,1.0
+2021-02-21,24,"Honestly I'm just disappointed at the quality of fud.
+
+Maybe that's because the smart people either made up their mind and bought Bitcoin, decided it's not for them, decided to just ignore it or simply not post about it.","Honestly I'm just disappointed at the quality of fud.Maybe that's because the smart people either made up their mind and bought Bitcoin, decided it's not for them, decided to just ignore it or simply not post about it.",-0.25,0.12,0.162,0.016071428571428563,0.6625
+2021-02-22,25,So what's stopping  from keep doubling down and keep buying more #Bitcoin with an interest rate of 0%?,So what's stopping  from keep doubling down and keep buying more #Bitcoin with an interest rate of 0%?,0.2782,0.144,0.09,0.17222222222222222,0.3944444444444445
+2021-02-25,25,"For more context:
+CSW's law firm sent some letters to some devs asking them to return ""his"" coins to him. Obviously they can't and they won't but it's just another sad desperate story.
+
+Yes there are still people that actually believe he is Satoshi SMH.
+https://t.co/qcuk7Csumx","For more context:CSW's law firm sent some letters to some devs asking them to return ""his"" coins to him. Obviously they can't and they won't but it's just another sad desperate story.Yes there are still people that actually believe he is Satoshi SMH.",-0.8224,0.063,0.197,-0.13333333333333333,0.5833333333333334
+2021-02-27,25,"The $ETH maxi narrative went from ""We're definitely overtaking Bitcoin this year, it's old, slow, expensive and doesn't scale!""
+To panic: ""No, people don't use $DOT, $ADA and $BNB and it can't overtake ETH! We know ETH is old, slow and expensive but just wait until &lt;random date&gt;""","The $ETH maxi narrative went from ""We're definitely overtaking Bitcoin this year, it's old, slow, expensive and doesn't scale!""To panic: ""No, people don't use $DOT, $ADA and $BNB and it can't overtake ETH! We know ETH is old, slow and expensive but just wait until &lt;random date""",0.5081,0.085,0.0,-0.24017857142857144,0.4428571428571428
+2021-02-27,25, Tribalism makes perfect sense in a way. You're talking about the financial side of things and that makes people passionate. It's just hilarious that ETH people used to call Bitcoiners toxic maxis who aren't open to new things while they've become so much worse.,Tribalism makes perfect sense in a way. You're talking about the financial side of things and that makes people passionate. It's just hilarious that ETH people used to call Bitcoiners toxic maxis who aren't open to new things while they've become so much worse.,0.7522,0.188,0.065,0.1694805194805195,0.6292207792207792
+2021-02-27,25,"  They have actively attacked Bitcoin for years, their only real use is listing  portfolio coins so they can dump on retail. They've lost money on forks like $ETC and there have been many incidents..
+I recommend everyone to avoid Coinbase at all times.","They have actively attacked Bitcoin for years, their only real use is listing  portfolio coins so they can dump on retail. They've lost money on forks like $ETC and there have been many incidents..I recommend everyone to avoid Coinbase at all times.",-0.4703,0.139,0.197,0.14166666666666666,0.6000000000000001
+2021-02-27,25," It's a combination of ignorance because they're not smart enough to understand it, disgust with themselves for not buying when they first heard about it but of course also click-bait since they know how Bitcoiners react to articles.","It's a combination of ignorance because they're not smart enough to understand it, disgust with themselves for not buying when they first heard about it but of course also click-bait since they know how Bitcoiners react to articles.",-0.5898,0.0,0.146,0.047619047619047616,0.49206349206349204
+2021-03-03,26,  I love how you can convert your USD into Bitcoin when your PNL is positive while you still have your trade open and of course their free withdrawals.,I love how you can convert your USD into Bitcoin when your PNL is positive while you still have your trade open and of course their free withdrawals.,0.9022,0.316,0.0,0.28181818181818186,0.6113636363636363
+2021-03-05,26,"Stop selling your #Bitcoin so cheap to Saylor.
+https://t.co/Bl1pG3XqYr",Stop selling your #Bitcoin so cheap to Saylor.,-0.296,0.0,0.216,0.4,0.7
+2021-03-06,26,"Imagine shorting or selling your #Bitcoin.
+https://t.co/s5qQs4JnQY",Imagine shorting or selling your #Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-03-09,27," Sure, I use ETH too to make more Bitcoin.","Sure, I use ETH too to make more Bitcoin.",0.3182,0.247,0.0,0.5,0.6944444444444444
+2021-03-13,27,Very casual #Bitcoin pump to ATH.,Very casual #Bitcoin pump to ATH.,0.2716,0.295,0.0,-0.6500000000000001,1.0
+2021-03-13,27," Yes, Bitcoin purposely messing with my workout routine. 
+I was just about to go do my workout and now I'm again sitting here behind my computer.","Yes, Bitcoin purposely messing with my workout routine. I was just about to go do my workout and now I'm again sitting here behind my computer.",0.4019,0.101,0.0,-0.4,0.7
+2021-03-13,27,"I tweeted this a year ago... how fast things change. 
+So happy that #Bitcoin was invented.
+https://t.co/6N9zbiEq88",I tweeted this a year ago... how fast things change. So happy that #Bitcoin was invented.,0.6115,0.222,0.0,0.5,0.8
+2021-03-16,28,"This is actually quite an interesting article about #Bitcoin giveaway scams but to me it raises a lot of questions.
+ https://t.co/1HKSeG7SRC",This is actually quite an interesting article about #Bitcoin giveaway scams but to me it raises a lot of questions.,-0.1055,0.089,0.107,0.25,0.3
+2021-03-16,28,"I disagree with this statement.
+Well maybe people believing CSW is Satoshi are bigger ones but it's pretty close. https://t.co/vmjO0Pgkna",I disagree with this statement.Well maybe people believing CSW is Satoshi are bigger ones but it's pretty close.,0.6187,0.247,0.076,0.125,0.75
+2021-03-16,28,"No one stole his #Bitcoin. He sent the Bitcoin, no one forced him too. Sure it's fraud, but definitely not theft.
+And they're basically asking for full KYC of the entire blockchain and all wallets. Good luck with that. https://t.co/8ygAqIehgg","No one stole his #Bitcoin. He sent the Bitcoin, no one forced him too. Sure it's fraud, but definitely not theft.And they're basically asking for full KYC of the entire blockchain and all wallets. Good luck with that.",0.8151,0.248,0.144,0.20833333333333334,0.5606481481481481
+2021-03-17,28,"Reminder that there are only ever going to be 21 million #Bitcoin but there are 46.8 million millionaires in the world.
+You do the math.
+https://t.co/qYX6q8jamO",Reminder that there are only ever going to be 21 million #Bitcoin but there are 46.8 million millionaires in the world.You do the math.,0.0,0.0,0.0,0.0,1.0
+2021-03-19,28,"I've been thinking a lot lately about economic migration lately.
+For many of us #Bitcoin was the red pill we needed to see more clearly what's really going on in the world and the people running the governments. (I know, some you were already ""woke"" before you discovered BTC.)","I've been thinking a lot lately about economic migration lately.For many of us #Bitcoin was the red pill we needed to see more clearly what's really going on in the world and the people running the governments. (I know, some you were already ""woke"" before you discovered BTC.)",0.4576,0.06,0.0,0.11250000000000002,0.3729166666666667
+2021-03-19,28, Well I was thinking specifically tax-wise as a Bitcoiner it is very interesting at the moment 🤷‍♂️ but as I said: nothing is stopping you from shopping around and finding a perfect solution for yourself ;),Well I was thinking specifically tax-wise as a Bitcoiner it is very interesting at the moment 🤷‍♂️ but as I said: nothing is stopping you from shopping around and finding a perfect solution for yourself ;),0.9269,0.374,0.0,0.6333333333333333,0.8833333333333333
+2021-03-19,28,    67.5% of all energy is wasted. Bitcoin fixes this. https://t.co/lbrBb8NGON,67.5% of all energy is wasted. Bitcoin fixes this.,-0.2732,0.158,0.241,-0.2,0.0
+2021-03-19,28,"This is my new favorite chart for all the people complaining about #Bitcoin being wasteful.
+67.5% of all energy in US is wasted. Bitcoin fixes this. https://t.co/qTMNU12niU",This is my new favorite chart for all the people complaining about #Bitcoin being wasteful.67.5% of all energy in US is wasted. Bitcoin fixes this.,0.0258,0.154,0.151,0.14545454545454545,0.48484848484848486
+2021-03-21,28,"What if we do the same with professors of completely useless subjects? 
+Here's the difference:
+If you do this with Bitcoiners you slow down innovation in green energy, finance, censorship resistant and privacy tech and give people living in totalitarian states less chances. https://t.co/kcUyQxM9Kq","What if we do the same with professors of completely useless subjects? Here's the difference:If you do this with Bitcoiners you slow down innovation in green energy, finance, censorship resistant and privacy tech and give people living in totalitarian states less chances.",-0.2467,0.121,0.12,-0.2203703703703704,0.2300925925925926
+2021-03-22,29,"#Bitcoin is too volatile and not a store of value!
+We're still only in March, this year is going to be blow everyone's mind... well mostly the no-coiners.
+https://t.co/HmoluOEl6B","#Bitcoin is too volatile and not a store of value!We're still only in March, this year is going to be blow everyone's mind... well mostly the no-coiners.",0.0915,0.079,0.067,0.25,0.75
+2021-03-24,29,"This is actually the biggest news of the day. They will keep the #Bitcoin that they get.
+https://t.co/etP4Y6xbQS",This is actually the biggest news of the day. They will keep the #Bitcoin that they get.,0.0,0.0,0.0,0.0,0.1
+2021-03-24,29, Who buys a car and then demands a refund anyway? Those people shouldn't get any money back imo. Finalized transactions... just like Bitcoin 🤔,Who buys a car and then demands a refund anyway? Those people shouldn't get any money back imo. Finalized transactions... just like Bitcoin 🤔,0.3612,0.111,0.0,0.0,0.0
+2021-03-24,29,"  They are aware of the volatility, but they'll keep it all in Bitcoin since it's obvious they're trying to accumulate as much Bitcoin as possible.","They are aware of the volatility, but they'll keep it all in Bitcoin since it's obvious they're trying to accumulate as much Bitcoin as possible.",0.0,0.0,0.0,0.1125,0.4875
+2021-03-24,29,"They've been trying to pump ETH with ""NFTs are the future!"", then the person which created the biggest hype around it, cashes out the second he gets his ETH.
+
+Also not the sharpest tool in the shed or he would've converted at least part to Bitcoin.
+https://t.co/MLydenhxMb","They've been trying to pump ETH with ""NFTs are the future!"", then the person which created the biggest hype around it, cashes out the second he gets his ETH.Also not the sharpest tool in the shed or he would've converted at least part to Bitcoin.",0.3164,0.047,0.0,-0.09999999999999999,0.17500000000000002
+2021-03-24,29,"How does #Bitcoin fixt his?
+https://t.co/uH9icL8eLC",How does #Bitcoin fixt his?,0.0,0.0,0.0,0.0,0.0
+2021-03-25,29, Plan B being Bitcoin right?,Plan B being Bitcoin right?,0.0,0.0,0.0,0.2857142857142857,0.5357142857142857
+2021-03-25,29,Bears are desperately trying to make you sell your #Bitcoin to try to partially salvage their bad trades.,Bears are desperately trying to make you sell your #Bitcoin to try to partially salvage their bad trades.,-0.7269,0.0,0.276,-0.4666666666666666,0.6555555555555556
+2021-03-28,29,"ETH bagholders: ""why isn't ETH mooning? why are all other coins, includin Bitcoin, outperforming? Why are the fees still so high?""
+
+Also ETH bagholder: https://t.co/QgK2C1vY0q","ETH bagholders: ""why isn't ETH mooning? why are all other coins, includin Bitcoin, outperforming? Why are the fees still so high?""Also ETH bagholder:",0.0,0.0,0.0,0.0175,0.45749999999999996
+2021-03-28,29,"0.
+
+""If you don't believe me or don't get it, I don't have time to try to convince you, sorry."" - Satoshi 
+
+https://t.co/wywKudaWUH","0.""If you don't believe me or don't get it, I don't have time to try to convince you, sorry."" - Satoshi",0.25,0.091,0.0,-0.5,1.0
+2021-03-29,30, the one on the right is a Bitcoiner. https://t.co/TFY0Kc043q,the one on the right is a Bitcoiner.,0.0,0.0,0.0,0.2857142857142857,0.5357142857142857

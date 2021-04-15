@@ -1,0 +1,785 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-09-01,1,"Bitcoin Centrist is a good play on words. Centrist as in the center of the space, to give BTC its due. Centrist also as neither a nocoiner nor a maximalist. https://t.co/AT1xgy5wJw","Bitcoin Centrist is a good play on words. Centrist as in the center of the space, to give BTC its due. Centrist also as neither a nocoiner nor a maximalist.",0.6486,0.169,0.0,0.15833333333333333,0.3583333333333334
+2020-09-22,4,"  So if I understand correctly, it's similar to using the block header hash of the next Bitcoin block as a random number generator.
+
+It's not known to anyone in advance, it's confirmable to everyone after the fact, and it's globally accessible without man-in-the-middle issues.","So if I understand correctly, it's similar to using the block header hash of the next Bitcoin block as a random number generator.It's not known to anyone in advance, it's confirmable to everyone after the fact, and it's globally accessible without man-in-the-middle issues.",-0.6705,0.028,0.126,-0.03125,0.31875
+2020-09-27,4," Well, MMT does mean BTC holders will become millionaires. Along with everyone else, of course.
+
+Of course, prescriptive MMT doesn’t make any economic sense.
+The only logic behind it is that the state has guns. Krugman at least is smart enough to get this.
+https://t.co/CqOUTAWg7w","Well, MMT does mean BTC holders will become millionaires. Along with everyone else, of course.Of course, prescriptive MMT doesn’t make any economic sense.The only logic behind it is that the state has guns. Krugman at least is smart enough to get this.",0.5859,0.1,0.0,-0.08545918367346939,0.5900510204081633
+2020-09-27,4," Yes. But they can’t point those guns at the whole world to force them to hold dollars.
+
+The endgame of MMT is extremely predictable. Capital flight, the end of the dollar as a reserve currency, the end of the US as a global power, etc.
+
+Thank god for Satoshi.","Yes. But they can’t point those guns at the whole world to force them to hold dollars.The endgame of MMT is extremely predictable. Capital flight, the end of the dollar as a reserve currency, the end of the US as a global power, etc.Thank god for Satoshi.",0.743,0.142,0.0,0.0,0.3
+2020-09-27,4," It’s true that incumbency has an advantage. And buys you some time.
+
+But China is launching DCEP, and BTC is at $100B, and the US government is printing trillions of dollars.
+
+None of that augurs well for the US dollar over the long term.","It’s true that incumbency has an advantage. And buys you some time.But China is launching DCEP, and BTC is at $100B, and the US government is printing trillions of dollars.None of that augurs well for the US dollar over the long term.",0.7096,0.144,0.0,0.15,0.525
+2020-09-27,4," &gt; no matter how profligate the government gets...the dollar is the last wealth reserve
+
+This is a TINA argument. But the alternatives are coming (DCEP, BTC). As the US becomes increasingly nationalist and socialist, it just becomes a worse business partner for other countries.","no matter how profligate the government gets...the dollar is the last wealth reserveThis is a TINA argument. But the alternatives are coming (DCEP, BTC). As the US becomes increasingly nationalist and socialist, it just becomes a worse business partner for other countries.",-0.5423,0.088,0.159,-0.17500000000000002,0.34722222222222215
+2020-09-27,4," I’m bearish on the US, baseish on China, but bullish on the Internet.
+
+Bitcoin is currently the #35 currency globally. Will probably be top 10 after next run. And it’s valued by many Americans AND Chinese. Hence it’s the long run winner.
+https://t.co/EFNiCuT6dA https://t.co/TRHDBPdSgo","I’m bearish on the US, baseish on China, but bullish on the Internet.Bitcoin is currently the #35 currency globally. Will probably be top 10 after next run. And it’s valued by many Americans AND Chinese. Hence it’s the long run winner.",0.9052,0.215,0.0,0.1357142857142857,0.2571428571428571
+2020-09-27,4,"  Indeed, ask me about Bitcoin! It’s only gone from $0 to $100B in ten years.","Indeed, ask me about Bitcoin! It’s only gone from $0 to $100B in ten years.",0.0,0.0,0.0,0.0,0.5
+2020-09-27,4," BTC is very much above board these days. Mainstream and Wall Street adoption, etc. https://t.co/uDPGY5D00d https://t.co/B8FrJ0YlTu","BTC is very much above board these days. Mainstream and Wall Street adoption, etc.",0.0,0.0,0.0,0.0,0.1
+2020-09-28,5," Yeah, but the point is that they match up transactions in a crypto company's database with the public transactions on chain.
+
+And the latter are taken as being the gold standard of truth. Which means they understand how Bitcoin and Ethereum use cryptography for tamper resistance.","Yeah, but the point is that they match up transactions in a crypto company's database with the public transactions on chain.And the latter are taken as being the gold standard of truth. Which means they understand how Bitcoin and Ethereum use cryptography for tamper resistance.",0.5499,0.096,0.0,0.0,0.022222222222222223
+2020-09-28,5,"Some of the reasons why:
+
+1) It has much more philosophical depth than tech. Can’t understand BTC without history
+
+2) It has an international, remote-first, shared culture built around common memes
+
+3) It is technologically harder than most web apps, which has a selective effect","Some of the reasons why:1) It has much more philosophical depth than tech. Can’t understand BTC without history2) It has an international, remote-first, shared culture built around common memes3) It is technologically harder than most web apps, which has a selective effect",0.34,0.053,0.0,0.09999999999999999,0.25
+2020-09-28,5,"6) It is truly international capitalism, and steps into the vacuum as America descends into nationalist socialism.
+
+As such it’s what wins in the long run. Americans and Chinese don’t respect each others’ governments or currencies — but millions on both sides do hold Bitcoin.","6) It is truly international capitalism, and steps into the vacuum as America descends into nationalist socialism.As such it’s what wins in the long run. Americans and Chinese don’t respect each others’ governments or currencies — but millions on both sides do hold Bitcoin.",0.6542,0.134,0.0,0.04027777777777777,0.18333333333333335
+2020-10-23,8,"A key reason this is feasible: ride-sharing interfaces haven’t changed in years.
+
+That means you can freeze the frontend and decentralize the backend. Of course, the protocol version of Uber would be more complex, just like Bitcoin was more complex than PayPal. But it would win.","A key reason this is feasible: ride-sharing interfaces haven’t changed in years.That means you can freeze the frontend and decentralize the backend. Of course, the protocol version of Uber would be more complex, just like Bitcoin was more complex than PayPal. But it would win.",0.7759,0.156,0.0,0.19999999999999998,0.5333333333333333
+2020-10-23,8,"BTC and ETH may each handle close to a trillion dollars of volume this year.
+
+People outside the space simply do not understand the scale of the cryptoeconomy. https://t.co/2Z90Xzh2mp",BTC and ETH may each handle close to a trillion dollars of volume this year.People outside the space simply do not understand the scale of the cryptoeconomy.,0.0,0.0,0.0,0.0,0.20357142857142857
+2020-10-24,8,"Each represents a left/right fusion that’s bizarre by the standards of the 1980s consensus.
+
+It’s PRC vs MMT vs BTC.",Each represents a left/right fusion that’s bizarre by the standards of the 1980s consensus.It’s PRC vs MMT vs BTC.,-0.3182,0.0,0.113,0.4,0.6
+2020-10-24,8,"Bitcoin has been a store of value and medium of exchange for some time, but it’s also become a unit of account.
+
+Every investment in the cryptoeconomy is benchmarked against BTC. https://t.co/2eMDWMfTVb","Bitcoin has been a store of value and medium of exchange for some time, but it’s also become a unit of account.Every investment in the cryptoeconomy is benchmarked against BTC.",0.1779,0.055,0.0,0.0,0.0
+2020-11-18,12,Bitcoin is moving off exchanges. Price is moving up. Ecosystem has been building out. Halving has constrained supply. The all-time high may be just the beginning. https://t.co/HRWpxkvxiz,Bitcoin is moving off exchanges. Price is moving up. Ecosystem has been building out. Halving has constrained supply. The all-time high may be just the beginning.,-0.1027,0.0,0.051,0.16,0.5399999999999999
+2020-11-18,12,"I'd like to see someone replicate the graph showing decline in BTC held on exchanges. If sustained, it would mean we're starting to move into the age of fully decentralized crypto.
+
+Here are longer-term graphs from . Blue is BTC held on spot and derivatives exchanges. https://t.co/QdZGKFsHNm","I'd like to see someone replicate the graph showing decline in BTC held on exchanges. If sustained, it would mean we're starting to move into the age of fully decentralized crypto.Here are longer-term graphs from . Blue is BTC held on spot and derivatives exchanges.",0.3612,0.053,0.0,-0.10416666666666667,0.29583333333333334
+2020-11-24,13,Bitcoin is currently #27 on this ranking of the world's currencies by estimated market cap. Where will it be by the end of this run? https://t.co/th0bmuzIqW https://t.co/FabCpj9RrH,Bitcoin is currently #27 on this ranking of the world's currencies by estimated market cap. Where will it be by the end of this run?,0.0,0.0,0.0,0.0,0.4
+2020-11-30,14," I don't think anything should be touched in Bitcoin. But I think that if you're doing a new coin, perhaps with a founders' reward, a continuous reduction helps miners and others budget for the future in a much more predictable way.","I don't think anything should be touched in Bitcoin. But I think that if you're doing a new coin, perhaps with a founders' reward, a continuous reduction helps miners and others budget for the future in a much more predictable way.",0.743,0.16,0.0,0.10909090909090909,0.39488636363636365
+2020-12-02,14,"Just like you can send BTC and ETH back and forth between applications, blockchains allow you to share arbitrary state between applications.
+https://t.co/1KiiYCQ7Mp","Just like you can send BTC and ETH back and forth between applications, blockchains allow you to share arbitrary state between applications.",0.6808,0.248,0.0,-0.05,0.3
+2020-12-04,14,"Btw, I respect  for not just betting against  on Bitcoin but winning the bet (though arguably not the spirit of the bet). Writeup here:
+https://t.co/aKGomMQMG1","Btw, I respect  for not just betting against  on Bitcoin but winning the bet (though arguably not the spirit of the bet). Writeup here:",0.5224,0.215,0.138,0.5,0.75
+2020-12-05,14,"Abolish the police, but also empower them to shoot people running Bitcoin nodes. https://t.co/Kq7BjYp7YF","Abolish the police, but also empower them to shoot people running Bitcoin nodes.",-0.4767,0.0,0.193,0.0,0.0
+2020-12-10,15,"The thing is, from a narrow self interest perspective a tech person should be pro-MMT (as some printed money flows into tech) and a crypto person should be pro-MMT (as constant printing boosts BTC).
+
+But the upward redistribution of wealth by state fiat is unethical.","The thing is, from a narrow self interest perspective a tech person should be pro-MMT (as some printed money flows into tech) and a crypto person should be pro-MMT (as constant printing boosts BTC).But the upward redistribution of wealth by state fiat is unethical.",0.6369,0.171,0.066,-0.1,0.3666666666666667
+2020-12-10,15,"Grand bargain: everyone who doesn’t hold bitcoin stops commenting on BTC, and everyone who doesn’t hold dollars stops commenting on MMT. 😁 https://t.co/wAm8rJbXCS","Grand bargain: everyone who doesn’t hold bitcoin stops commenting on BTC, and everyone who doesn’t hold dollars stops commenting on MMT. 😁",0.3818,0.185,0.123,0.5,1.0
+2020-12-10,15," A fair ask. And I do owe that long form piece I’ve had in draft forever on MMT vs BTC.
+
+We both believe that money printing is very important, and are invested in minting/mining a trillion dollar coin.","A fair ask. And I do owe that long form piece I’ve had in draft forever on MMT vs BTC.We both believe that money printing is very important, and are invested in minting/mining a trillion dollar coin.",0.5256,0.117,0.0,0.38999999999999996,0.7666666666666666
+2020-12-11,15,"This was always the promise of Ethereum, but now that defi has hit $10B+ scale in 2020 it’s also the reality.
+
+Note that while this is a very valuable use case, it’s different from BTC’s role as digital gold and the next reserve currency.","This was always the promise of Ethereum, but now that defi has hit $10B+ scale in 2020 it’s also the reality.Note that while this is a very valuable use case, it’s different from BTC’s role as digital gold and the next reserve currency.",0.7383,0.132,0.0,0.05,0.22499999999999998
+2020-12-11,15,"Immutable money (BTC) and programmable money (ETH) are both valuable things, just very different.
+
+That said, while I’m happy folks have had success with defi, what’s more interesting to me are freedom-enhancing technologies in crypto like ENS/Handshake, ZEC, IPFS, perhaps EPNS.","Immutable money (BTC) and programmable money (ETH) are both valuable things, just very different.That said, while I’m happy folks have had success with defi, what’s more interesting to me are freedom-enhancing technologies in crypto like ENS/Handshake, ZEC, IPFS, perhaps EPNS.",0.9432,0.308,0.0,0.42000000000000004,0.556
+2020-12-11,15,"People really underestimate what Bitcoin’s win might look like.
+
+Gold’s market cap today is $9T, but it’s a shadow of its historical importance.
+
+A reorientation of the entire modern economy to be digital-gold-backed could increase that number dramatically.","People really underestimate what Bitcoin’s win might look like.Gold’s market cap today is $9T, but it’s a shadow of its historical importance.A reorientation of the entire modern economy to be digital-gold-backed could increase that number dramatically.",0.8424,0.271,0.04,0.24,0.30500000000000005
+2020-12-11,15,"Anything close to that of course will involve a tug-of-war between states and the network beyond anything we’ve ever seen.
+
+My confidence is really in the BTC ledger more than the protocol itself. Should the latter have some issue, we can import the ledger into another protocol.","Anything close to that of course will involve a tug-of-war between states and the network beyond anything we’ve ever seen.My confidence is really in the BTC ledger more than the protocol itself. Should the latter have some issue, we can import the ledger into another protocol.",0.5106,0.068,0.0,0.2333333333333333,0.2333333333333333
+2020-12-11,15,"WBTC has reduced many concerns about Bitcoin’s scalability.
+
+Trustless versions will eventually be developed for all major chains. You do an infrequent transaction, dock $10M of BTC or whatever on a new chain, and then go to work. https://t.co/ygKb5uxvaB","WBTC has reduced many concerns about Bitcoin’s scalability.Trustless versions will eventually be developed for all major chains. You do an infrequent transaction, dock $10M of BTC or whatever on a new chain, and then go to work.",-0.5106,0.0,0.082,0.19971590909090908,0.43863636363636366
+2020-12-11,15,"The trustless versions of WBTC like tBTC are worth watching. As they are proven on Ethereum the method will become standard for other chains as well.
+
+That’s how we scale BTC even if on-chain transactions are infrequent &amp; expensive. Chain interoperability.
+https://t.co/rYx4bznMGa",The trustless versions of WBTC like tBTC are worth watching. As they are proven on Ethereum the method will become standard for other chains as well.That’s how we scale BTC even if on-chain transactions are infrequent &amp; expensive. Chain interoperability.,0.296,0.136,0.069,-0.08125,0.29374999999999996
+2020-12-11,15," Backlinks.
+
+That is, Bitcoin is defended by:
+
+1) on-chain cryptography
+2) off-chain computer software (exchanges, wallets pointing to longest chain)
+3) off-chain mental software (humans valuing longest chain)
+
+The latter are backlinks. A copy doesn’t copy the backlinks.","Backlinks.That is, Bitcoin is defended by:1) on-chain cryptography2) off-chain computer software (exchanges, wallets pointing to longest chain)3) off-chain mental software (humans valuing longest chain)The latter are backlinks. A copy doesn’t copy the backlinks.",0.34,0.062,0.0,-0.05,0.1
+2020-12-11,15,"There are a bunch of fun things you can do with ZEC.
+
+zeudonyms: zcash pseudonyms
+localbitcoinz: local bitcoins but anon
+zignatures: pseudonymous digital signatures
+
+Set up a directory of sites like https://t.co/j2R29P7dyy?
+
+",There are a bunch of fun things you can do with ZEC.zeudonyms: zcash pseudonymslocalbitcoinz: local bitcoins but anonzignatures: pseudonymous digital signaturesSet up a directory of sites like,0.6597,0.162,0.0,0.09999999999999999,0.06666666666666667
+2020-12-12,15,"11) Civilization has a ripcord, a glass breaking approach people use when centralized institutions get too ossified. It’s called decentralization.
+
+Luther used it to argue for the “personal relationship with God”, disintermediating the Church. Washington used it. So did Satoshi.","11) Civilization has a ripcord, a glass breaking approach people use when centralized institutions get too ossified. It’s called decentralization.Luther used it to argue for the “personal relationship with God”, disintermediating the Church. Washington used it. So did Satoshi.",-0.34,0.0,0.061,0.0,0.3
+2020-12-13,15,"  The world’s financial system is going to be rebuilt on-chain. Bitcoin and Ethereum will both be major pieces of that, as will many other digital assets.","The world’s financial system is going to be rebuilt on-chain. Bitcoin and Ethereum will both be major pieces of that, as will many other digital assets.",0.1779,0.064,0.0,0.0875,0.275
+2020-12-13,15,"Today there are about 25 unicoins according to https://t.co/IFCG9444ug, compared to about 500 unicorns listed by CB Insights.
+
+Over the 2020s BTC will become the first trillion dollar coin, many more unicoins will arise, and many unicorns will issue coins of their own.","Today there are about 25 unicoins according to  compared to about 500 unicorns listed by CB Insights.Over the 2020s BTC will become the first trillion dollar coin, many more unicoins will arise, and many unicorns will issue coins of their own.",0.0,0.0,0.0,0.47000000000000003,0.5666666666666667
+2020-12-13,15,"Crypto is what comes after Silicon Valley. It’s a stronger culture, with common heroes and villains, and a more definite sense of purpose. It has the buccaneering spirit that tech once had, the playful relentlessness.
+
+This may be more widely recognized once BTC passes $1T.","Crypto is what comes after Silicon Valley. It’s a stronger culture, with common heroes and villains, and a more definite sense of purpose. It has the buccaneering spirit that tech once had, the playful relentlessness.This may be more widely recognized once BTC passes $1T.",0.7574,0.237,0.081,0.12,0.48
+2020-12-14,16," But persistent pseudonymity is neither real name nor anonymity, and has proven itself at small scale (Satoshi, Federalist Papers) and large (Reddit).
+
+See this talk on the Pseudonymous Economy. https://t.co/2mE07YurSk","But persistent pseudonymity is neither real name nor anonymity, and has proven itself at small scale (Satoshi, Federalist Papers) and large (Reddit).See this talk on the Pseudonymous Economy.",0.0,0.0,0.0,0.05476190476190476,0.3761904761904762
+2020-12-16,16,"Around $116k, BTC &gt; AAPL.
+
+That's the moment international cryptocurrency becomes the obvious long-term successor to SV-based technology. https://t.co/e7b9Mf519l","Around $116k, BTC  AAPL.That's the moment international cryptocurrency becomes the obvious long-term successor to SV-based technology.",0.2263,0.095,0.0,0.0,0.25
+2020-12-16,16,"AAPL market cap today is $2.17T
+BTC market cap is $391B
+BTC price is ~$21k
+BTC supply influence on market cap is real but small
+
+Hence $2.17T/$391B * $21k ~= $116k as the price when BTC &gt; today's AAPL in market cap. Though of course it's not a stationary target.",AAPL market cap today is $2.17TBTC market cap is $391BBTC price is ~$21kBTC supply influence on market cap is real but smallHence $2.17T/$391B * $21k ~= $116k as the price when BTC  today's AAPL in market cap. Though of course it's not a stationary target.,0.0,0.0,0.0,-0.024999999999999994,0.35000000000000003
+2020-12-17,16,Only invest in non-BTC what you can afford to lose. https://t.co/3fCDGAZzD3,Only invest in non-BTC what you can afford to lose.,-0.4019,0.0,0.213,0.0,1.0
+2020-12-17,16,"PS: for those who don’t get it, tweet is a joking reference to the common saying “only invest in BTC what you can afford to lose.”
+
+Past results no guarantee of future perfomance, this is not investment advice, IANAL, RTs not endorsement, do not fold, spindle, or mutilate, etc.","PS: for those who don’t get it, tweet is a joking reference to the common saying “only invest in BTC what you can afford to lose.”Past results no guarantee of future perfomance, this is not investment advice, IANAL, RTs not endorsement, do not fold, spindle, or mutilate, etc.",-0.0675,0.075,0.08,-0.1375,0.46875
+2020-12-17,16,"Every investment is now evaluated in BTC terms. That’s how BTC has quietly become the unit of account of the cryptoeconomy.
+
+Now, it is possible to outperform BTC over the long run, just like it’s possible to outperform an index fund in the fiat economy. But it’s hard.","Every investment is now evaluated in BTC terms. That’s how BTC has quietly become the unit of account of the cryptoeconomy.Now, it is possible to outperform BTC over the long run, just like it’s possible to outperform an index fund in the fiat economy. But it’s hard.",0.2732,0.05,0.028,-0.06833333333333333,0.655
+2020-12-17,16, It says that medium of exchange can be different from unit of account. I may buy an asset for USD while benchmarking it against BTC or the S&amp;P 500.,It says that medium of exchange can be different from unit of account. I may buy an asset for USD while benchmarking it against BTC or the S&amp;P 500.,0.3612,0.085,0.0,0.0,0.6
+2020-12-17,16,"Q&amp;A for tech people just tuning back in to crypto
+
+Q: can Bitcoin scale now?
+A: yes, see https://t.co/0ka5kyQjJM
+
+Q: are there real crypto apps now?
+A: yes, see https://t.co/GTIh3M3OHf
+
+Q: can Ethereum scale?
+A: yes, rollups today, ETH2 tomorrow
+
+Q: am I too late?
+A: no, welcome! https://t.co/iuJMntrupG","Q&amp;A for tech people just tuning back in to cryptoQ: can Bitcoin scale now?A: yes, see Q: are there real crypto apps now?A: yes, see Q: can Ethereum scale?A: yes, rollups today, ETH2 tomorrowQ: am I too late?A: no, welcome!",0.8793,0.215,0.038,-0.15,0.45
+2020-12-17,16,"Please note these are pragmatic answers for people writing code.
+
+There are other ways to scale BTC (eg trustless solutions like tBTC, Lightning) but wBTC is a simple &amp; imperfect solution that is working today.
+
+Similarly, rollups work today to scale some kinds of ETH apps.","Please note these are pragmatic answers for people writing code.There are other ways to scale BTC (eg trustless solutions like tBTC, Lightning) but wBTC is a simple &amp; imperfect solution that is working today.Similarly, rollups work today to scale some kinds of ETH apps.",0.1531,0.149,0.098,-0.041666666666666664,0.3773809523809524
+2020-12-17,16,Bitcoin is scarce. Dollars are abundant. https://t.co/o45i98EJV0,Bitcoin is scarce. Dollars are abundant.,0.0,0.0,0.0,0.6,0.95
+2020-12-17,16,"Very much agree that wBTC is a stopgap and we need trustless solutions like tBTC. And equivalents on other L1 chains. Of course, I also support ongoing development of Bitcoin-only scaling solutions.
+
+We'll need many different tools, as there are many different workloads for BTC. https://t.co/BzeWYgqeYM","Very much agree that wBTC is a stopgap and we need trustless solutions like tBTC. And equivalents on other L1 chains. Of course, I also support ongoing development of Bitcoin-only scaling solutions.We'll need many different tools, as there are many different workloads for BTC.",0.7251,0.216,0.063,0.18916666666666668,0.4725
+2020-12-17,16,"Step 3 then varies based on your interest.
+
+Developers should create apps, using BTC, ETH and other L1 chains, as well as crypto-adjacent tech like IPFS and dweb tools.
+
+Investors can look at  and coinmarketcap to figure out if they can beat BTC &amp; ETH. Most won't!","Step 3 then varies based on your interest.Developers should create apps, using BTC, ETH and other L1 chains, as well as crypto-adjacent tech like IPFS and dweb tools.Investors can look at  and coinmarketcap to figure out if they can beat BTC &amp; ETH. Most won't!",0.8398,0.192,0.0,0.25,0.4375
+2020-12-17,16,"Bitcoin was and is technology. But it's also media. We needed the code and the content to bring it this far.
+
+There is a lesson in that. https://t.co/qBQBBXPFsj",Bitcoin was and is technology. But it's also media. We needed the code and the content to bring it this far.There is a lesson in that.,0.0,0.0,0.0,0.1,1.0
+2020-12-17,16,"Legacy institutions weren't going to build anything like BTC, or cover it fairly. It's very difficult to make someone understand something when their livelihood depends on not understanding it.
+
+Thus, decentralized currency needed decentralized community &amp; decentralized content.","Legacy institutions weren't going to build anything like BTC, or cover it fairly. It's very difficult to make someone understand something when their livelihood depends on not understanding it.Thus, decentralized currency needed decentralized community &amp; decentralized content.",0.1298,0.102,0.066,-0.65,1.0
+2020-12-17,16,"  Yes. At the most fundamental level, Bitcoin is a technology that protects human rights against oppressive centralized states and corporations alike. https://t.co/qOM1EZHY7i","Yes. At the most fundamental level, Bitcoin is a technology that protects human rights against oppressive centralized states and corporations alike.",0.3182,0.195,0.105,0.25,0.3
+2020-12-18,16,"A mobile-optimized version of this could become the next coinmarketcap. Just show coin, stock, and currency performance against BTC. https://t.co/Q83GetCzDz","A mobile-optimized version of this could become the next coinmarketcap. Just show coin, stock, and currency performance against BTC.",0.0,0.0,0.0,0.0,0.0
+2020-12-18,16,"What’s the purpose of this site?
+
+Few understand the extent to which BTC and ETH have dominated just about every other asset in returns over the last decade.
+
+Only the very best performing private tech stocks can compare, and those aren’t accessible to the general public.","What’s the purpose of this site?Few understand the extent to which BTC and ETH have dominated just about every other asset in returns over the last decade.Only the very best performing private tech stocks can compare, and those aren’t accessible to the general public.",0.7902,0.137,0.0,0.12222222222222223,0.36092592592592593
+2020-12-18,16,"Ultimately, Bitcoin regulates the institutions that seek to regulate Bitcoin. https://t.co/8Ar5BK3A8s","Ultimately, Bitcoin regulates the institutions that seek to regulate Bitcoin.",0.0,0.0,0.0,0.0,1.0
+2020-12-24,17,This is not a theoretical worry.  has compiled a repository with many published physical attacks on Bitcoin users. https://t.co/WjlQrGUWBY,This is not a theoretical worry.  has compiled a repository with many published physical attacks on Bitcoin users.,-0.1265,0.118,0.143,0.16666666666666666,0.24761904761904763
+2020-12-24,17,"Miami is already the Singapore of Latin America. And Latin Americans understand the need for sound money.
+
+So: Miami should hold a conference connecting all the Latin American financiers with all the crypto &amp; tech people to talk Bitcoin! https://t.co/S6gBASiCZ7",Miami is already the Singapore of Latin America. And Latin Americans understand the need for sound money.So: Miami should hold a conference connecting all the Latin American financiers with all the crypto &amp; tech people to talk Bitcoin!,0.0,0.0,0.0,0.2,0.2
+2020-12-24,17,"As Wences Casares has discussed, the idea that the state could default, hyperinflate, or go communist is not theoretical to Latin Americans.
+
+Witness Argentina, Venezuela, Cuba respectively.
+
+So the use case for Bitcoin as a way to protect human rights is instantly understood.","As Wences Casares has discussed, the idea that the state could default, hyperinflate, or go communist is not theoretical to Latin Americans.Witness Argentina, Venezuela, Cuba respectively.So the use case for Bitcoin as a way to protect human rights is instantly understood.",0.6124,0.111,0.0,0.0,0.24166666666666667
+2020-12-26,17,"BTC &gt; NYT
+Ledger of record &gt; paper of record
+Argument from cryptography &gt; argument from authority
+
+Oracles already provide more reliable price feeds than Bloomberg or Reuters.
+
+Extend that. And replace declarations by media corporations with decentralized cryptographic truth. https://t.co/zIN6WDzOFc",BTC  NYTLedger of record  paper of recordArgument from cryptography  argument from authorityOracles already provide more reliable price feeds than Bloomberg or Reuters.Extend that. And replace declarations by media corporations with decentralized cryptographic truth.,-0.1779,0.114,0.108,0.5,0.5
+2020-12-27,17,"BTC will be the first trillion dollar coin
+
+MMT hardest hit https://t.co/Y40ozjq0xA",BTC will be the first trillion dollar coinMMT hardest hit,0.0,0.0,0.0,0.25,0.3333333333333333
+2020-12-27,17,"Of course, the trillion dollar (fiat) coin was only shocking in 2013. The state has already printed many trillions this year, so it’s old news.
+
+Still, very different to build $1T in value via the voluntary decentralized process of Bitcoin than to steal $1T via silent inflation.","Of course, the trillion dollar (fiat) coin was only shocking in 2013. The state has already printed many trillions this year, so it’s old news.Still, very different to build $1T in value via the voluntary decentralized process of Bitcoin than to steal $1T via silent inflation.",-0.5423,0.046,0.113,-0.06666666666666667,0.5966666666666668
+2020-12-28,18,Bitcoin: the decentral bank.,Bitcoin: the decentral bank.,0.0,0.0,0.0,0.0,0.0
+2020-12-28,18,   Fax machine guy has been wrong on Bitcoin since at least 2013. As has his employer. https://t.co/54DOHJUSTQ https://t.co/7CoyBMNyLZ,Fax machine guy has been wrong on Bitcoin since at least 2013. As has his employer.,-0.4767,0.0,0.154,-0.4,0.65
+2020-12-28,18,"Today there are many countries that do not want to pick sides in a second Cold War.
+
+In the fullness of time, BTC and crypto offer a third way: a decentralized movement that doesn’t depend on either superpower. https://t.co/YG0UyO2isN","Today there are many countries that do not want to pick sides in a second Cold War.In the fullness of time, BTC and crypto offer a third way: a decentralized movement that doesn’t depend on either superpower.",-0.6276,0.0,0.131,-0.024999999999999994,0.375
+2020-12-30,18,"Take the NYT crypto beat as an example. Woke whites who can’t code — like Popper — writing about how #Bitcoin is Evil since 2013. There are literally millions of people worldwide who are poorer, darker, and smarter on crypto.
+
+Why not give some diverse influencers a chance?","Take the NYT crypto beat as an example. Woke whites who can’t code — like Popper — writing about how #Bitcoin is Evil since 2013. There are literally millions of people worldwide who are poorer, darker, and smarter on crypto.Why not give some diverse influencers a chance?",-0.1027,0.138,0.127,-1.0,1.0
+2021-01-03,18,"One conclusion: gold's current market cap is not a ceiling for BTC.
+
+Because an economy that returns to a digital gold standard will value digital gold far beyond where a fiat economy values gold. https://t.co/ydNDPvIl99",One conclusion: gold's current market cap is not a ceiling for BTC.Because an economy that returns to a digital gold standard will value digital gold far beyond where a fiat economy values gold.,0.6249,0.145,0.0,0.02,0.27999999999999997
+2021-01-03,18,"It is not possible for the US government to mount a technical attack on #Bitcoin. They're barely able to mail paper checks.
+
+However, it is possible for them to mount a regulatory attack. And you are the regulatory defense. https://t.co/Dk3h0Y6VMU https://t.co/lrk9cdzGOs","It is not possible for the US government to mount a technical attack on #Bitcoin. They're barely able to mail paper checks.However, it is possible for them to mount a regulatory attack. And you are the regulatory defense.",-0.6908,0.034,0.142,0.125,0.68125
+2021-01-03,18,"  It cost $7.6M and took five years to repatriate 53,780 gold bars worth $27B back from the US to Germany.
+
+It's &gt;1000X faster and &gt;10X cheaper to move that much in #Bitcoin , even accounting for N&gt;&gt;6 confirmations. There's your 10X. https://t.co/ovESYpL0Vl","It cost $7.6M and took five years to repatriate 53,780 gold bars worth $27B back from the US to Germany.It's 1000X faster and 10X cheaper to move that much in #Bitcoin , even accounting for N6 confirmations. There's your 10X.",0.2263,0.045,0.0,0.16666666666666666,0.10000000000000002
+2021-01-03,18,"   &gt; 99.99999999% of people will never need to move $100 million worth of Bitcoin.
+
+That's just not true. Any company moving large amounts of money, like a two-sided marketplace or fintech, moves this much on a daily basis. And Bitcoin is the backhaul transfer of the next system.","99.99999999% of people will never need to move $100 million worth of Bitcoin.That's just not true. Any company moving large amounts of money, like a two-sided marketplace or fintech, moves this much on a daily basis. And Bitcoin is the backhaul transfer of the next system.",0.2658,0.088,0.047,0.06785714285714287,0.2357142857142857
+2021-01-04,18,"This is why  is so great. He nailed everything almost ten years ago, back when #Bitcoin was $3. https://t.co/eP7yJkQEEp","This is why  is so great. He nailed everything almost ten years ago, back when #Bitcoin was $3.",0.7384,0.226,0.0,0.26666666666666666,0.25
+2021-01-05,18, Public blockchains aren’t tech companies. They’re L1 chains like Bitcoin and Ethereum.,Public blockchains aren’t tech companies. They’re L1 chains like Bitcoin and Ethereum.,0.3612,0.185,0.0,0.0,0.06666666666666667
+2021-01-08,18,"The market will continue to soar. It’s an indicator that can be gamed by pushing a button.
+
+The correction may come not in the form of crashing stock prices but crashing dollar prices. #BTC",The market will continue to soar. It’s an indicator that can be gamed by pushing a button.The correction may come not in the form of crashing stock prices but crashing dollar prices. #BTC,0.0,0.0,0.0,0.0,0.0
+2021-01-08,18,"Someone should set up a dedicated, mobile-optimized, single purpose site that normalizes every stock and cryptocurrency return over any time period in BTC terms.
+
+This is a good first cut. https://t.co/1lYzDStoE0","Someone should set up a dedicated, mobile-optimized, single purpose site that normalizes every stock and cryptocurrency return over any time period in BTC terms.This is a good first cut.",0.5859,0.174,0.062,0.29285714285714287,0.38253968253968257
+2021-01-08,18,This is exactly why Bitcoin works. A simple monetary policy specifies a hard cap of 21 million BTC. Anyone with a computer can cryptographically verify this to confirm the supply has not been inflated. https://t.co/trzsdDAB7c,This is exactly why Bitcoin works. A simple monetary policy specifies a hard cap of 21 million BTC. Anyone with a computer can cryptographically verify this to confirm the supply has not been inflated.,-0.1027,0.0,0.043,-0.013888888888888895,0.3829365079365079
+2021-01-08,18," It’s just that as a v1: price of everything in BTC.
+
+You’d want it to be updated from stock feeds and other asset feeds daily, and pull lots of historical data, and do charts.
+
+Coinmarketcap was very simple as well, but it’s a massive business and harder than it looks.","It’s just that as a v1: price of everything in BTC.You’d want it to be updated from stock feeds and other asset feeds daily, and pull lots of historical data, and do charts.Coinmarketcap was very simple as well, but it’s a massive business and harder than it looks.",0.3781,0.092,0.0,-0.0375,0.30654761904761907
+2021-01-09,18,The most powerful algorithm in the world. #BTC,The most powerful algorithm in the world. #BTC,0.4754,0.306,0.0,0.4,0.75
+2021-01-10,18,"Decentralization of power away from the US isn’t just a moral imperative. It’s also technologically feasible and financially remunerative.
+
+For example, BTC outperforms every asset in the world over five years. https://t.co/m3I7ZDwuzS https://t.co/kZVmTjvq67","Decentralization of power away from the US isn’t just a moral imperative. It’s also technologically feasible and financially remunerative.For example, BTC outperforms every asset in the world over five years.",0.3612,0.075,0.0,0.0,0.125
+2021-01-10,18,"We can. Bitcoin is now more valuable than Facebook. Ethereum is worth $150B.
+
+Over the next decade, decentralized blockchain-based services will provide morally, technically, and financially superior alternatives to American &amp; Chinese tech companies alike.
+
+Rest of World FTW. https://t.co/9QnXi1CVsF","We can. Bitcoin is now more valuable than Facebook. Ethereum is worth $150B.Over the next decade, decentralized blockchain-based services will provide morally, technically, and financially superior alternatives to American &amp; Chinese tech companies alike.Rest of World FTW.",0.9105,0.258,0.0,0.21428571428571427,0.2285714285714286
+2021-01-12,19,"It felt like it was too late when Bitcoin arrived in 2009, after $787B in stimulus. It was actually right on time.
+
+Redouble your efforts to build open, decentralized protocols. The world will adopt them. The moral, economic, and technological rationales are now obvious. https://t.co/AMDaylb8Zh","It felt like it was too late when Bitcoin arrived in 2009, after $787B in stimulus. It was actually right on time.Redouble your efforts to build open, decentralized protocols. The world will adopt them. The moral, economic, and technological rationales are now obvious.",0.4939,0.089,0.0,0.030952380952380953,0.430952380952381
+2021-01-14,19,"Thesis: the crypto version of any product ends up being far more valuable than the original.
+
+Bitcoin is already more valuable than PayPal and will eventually be more valuable than gold.
+
+And the various defi apps on Ethereum will be more valuable than their fintech cognates.",Thesis: the crypto version of any product ends up being far more valuable than the original.Bitcoin is already more valuable than PayPal and will eventually be more valuable than gold.And the various defi apps on Ethereum will be more valuable than their fintech cognates.,0.942,0.279,0.0,0.3535714285714286,0.6071428571428571
+2021-01-14,19,At $700B it’s now clear that Bitcoin was the most important technology of the last decade. The next Google or Facebook wasn’t a company at all. https://t.co/8OnD7nPAAI,At $700B it’s now clear that Bitcoin was the most important technology of the last decade. The next Google or Facebook wasn’t a company at all.,0.5709,0.164,0.0,0.2,0.39
+2021-01-14,19,"- Bitcoin itself (still early relative to 99%)
+- Ethereum, crypto in general
+- Startup cities
+- Reversing aging
+- Brain-machine-interface
+- Transhumanism
+- Robotics
+- Digital nomadism, in green zones at least
+- India, rest-of-world tech in general
+- AI-assisted content creation https://t.co/Uqi1clAR5c","- Bitcoin itself (still early relative to 99%)- Ethereum, crypto in general- Startup cities- Reversing aging- Brain-machine-interface- Transhumanism- Robotics- Digital nomadism, in green zones at least- India, rest-of-world tech in general- AI-assisted content creation",0.2732,0.06,0.0,-0.04285714285714285,0.2857142857142857
+2021-01-16,19,"First, the crypto ecosystem has survived Silk Road, Mt Gox, the DAO hack, the Bitcoin civil war, the Chinese crypto crackdown of 2017, and countless BTC obituaries.
+
+From 2017: https://t.co/DU6XIoaq9n","First, the crypto ecosystem has survived Silk Road, Mt Gox, the DAO hack, the Bitcoin civil war, the Chinese crypto crackdown of 2017, and countless BTC obituaries.From 2017:",-0.1531,0.094,0.111,0.08333333333333333,0.27777777777777773
+2021-01-16,19,"Fifth, the amount of USDT printed by Tether is dwarfed by the amount of USD printed by the state. Even if USDT fails or is subject to haircut (eg 70 cents on the Tether), I think the abundance of printed USD will drive up the price of BTC in USD terms. https://t.co/pv1xVWbR5J","Fifth, the amount of USDT printed by Tether is dwarfed by the amount of USD printed by the state. Even if USDT fails or is subject to haircut (eg 70 cents on the Tether), I think the abundance of printed USD will drive up the price of BTC in USD terms.",-0.4215,0.0,0.053,-0.3333333333333333,0.31666666666666665
+2021-01-17,19,"The reason people got into Bitcoin is to prove the establishment wrong. To show that there is a better way than bailouts, inflation, surveillance, &amp; centralized control.
+
+The money helps, but it wasn't there early on. The point was always to build the alternative, to spur reform. https://t.co/82c3mAQn5I","The reason people got into Bitcoin is to prove the establishment wrong. To show that there is a better way than bailouts, inflation, surveillance, &amp; centralized control.The money helps, but it wasn't there early on. The point was always to build the alternative, to spur reform.",0.1779,0.075,0.041,0.03333333333333333,0.5666666666666667
+2021-01-17,19,"Someone should try this with WBTC and compare total experience of wrap, loopring send/receive, unwrap to other L2 options.
+
+Loopring vs Lightning benchmark? https://t.co/klrAIIdBSK","Someone should try this with WBTC and compare total experience of wrap, loopring send/receive, unwrap to other L2 options.Loopring vs Lightning benchmark?",0.0,0.0,0.0,-0.0625,0.5625
+2021-01-17,19,"Yes, I know the wrap/unwrap of WBTC is trusted albeit decentralized (many different parties can redeem), so it’s not exactly apples-to-apples.
+
+So go ahead and include that in your review. Look at speed, cost, trust, decentralization, and user friendliness.","Yes, I know the wrap/unwrap of WBTC is trusted albeit decentralized (many different parties can redeem), so it’s not exactly apples-to-apples.So go ahead and include that in your review. Look at speed, cost, trust, decentralization, and user friendliness.",0.93,0.31,0.0,0.125,0.45
+2021-01-17,19," Coinbase send between accounts is centralized — fast &amp; has no fee but only works between accounts.
+
+WBTC is intermediate. You can wrap  it at site A and unwrap it at site B. I’m assuming no redlisting, haven’t tried the NxN matrix of all wrap/unwrap combinations.","Coinbase send between accounts is centralized — fast &amp; has no fee but only works between accounts.WBTC is intermediate. You can wrap  it at site A and unwrap it at site B. I’m assuming no redlisting, haven’t tried the NxN matrix of all wrap/unwrap combinations.",-0.5267,0.0,0.095,0.1,0.8
+2021-01-18,20,"The most important point is that Bitcoin is a battery.
+
+It's actually a breakthrough in energy storage that helps match up production and consumption. See this article from Davos in 2018: https://t.co/SdJQW7jNSp https://t.co/GQTdNYzgJj https://t.co/PPYM2mDQ6T",The most important point is that Bitcoin is a battery.It's actually a breakthrough in energy storage that helps match up production and consumption. See this article from Davos in 2018:,0.6997,0.19,0.0,0.3,0.5333333333333333
+2021-01-18,20,"A non-obvious point about the power grid is that it's hard to store energy efficiently, so balancing is important. Historically the demand side was more volatile, but renewables have made supply also volatile.
+
+Bitcoin gives a different way to store energy, as mined BTC. https://t.co/4TJcWUnMwz","A non-obvious point about the power grid is that it's hard to store energy efficiently, so balancing is important. Historically the demand side was more volatile, but renewables have made supply also volatile.Bitcoin gives a different way to store energy, as mined BTC.",0.6288,0.161,0.052,0.12166666666666667,0.5283333333333333
+2021-01-18,20,"I'm not an investor, but this is Layer1's model: using BTC to smooth out demand on the grid.
+
+Mining may actually *improve* economics of renewables because it turns random spikes in supply (eg windy days) into BTC when demand doesn't spike in concert.
+https://t.co/hzcn8JZMlX https://t.co/zgUEsW9fN5","I'm not an investor, but this is Layer1's model: using BTC to smooth out demand on the grid.Mining may actually *improve* economics of renewables because it turns random spikes in supply (eg windy days) into BTC when demand doesn't spike in concert.",-0.3612,0.0,0.075,-0.033333333333333326,0.3666666666666667
+2021-01-18,20," Ah, but BTC is internationally accepted money, so you *can* buy energy at any destination. And store indefinitely, and transmit losslessly.
+
+All energy storage reduces to cost effectiveness. This gives another tool. See: 
+
+- https://t.co/8Qbr82DJNY
+- https://t.co/SdJQW7jNSp https://t.co/8QI7sh5Atg","Ah, but BTC is internationally accepted money, so you *can* buy energy at any destination. And store indefinitely, and transmit losslessly.All energy storage reduces to cost effectiveness. This gives another tool. See: - -",0.7876,0.194,0.0,0.0,0.0
+2021-01-18,20," Think about the economics of the renewable power generation company. If you are throwing away power when supply exceeds demand (a gust of wind, a sunny day), you are less profitable. That means less renewables. Or, you can instead store that in BTC. https://t.co/G6zRCXxFA0","Think about the economics of the renewable power generation company. If you are throwing away power when supply exceeds demand (a gust of wind, a sunny day), you are less profitable. That means less renewables. Or, you can instead store that in BTC.",0.6003,0.115,0.032,-0.16666666666666666,0.06666666666666667
+2021-01-18,20,"  You got the idea. But I don't think it's disingenuous at all.
+
+It's basically a way of achieving the same goal by changing the *form* from actual energy to BTC, then storing and transmitting it losslessly.
+
+Analogous to scanning a document &amp; turning it from physical to digital.","You got the idea. But I don't think it's disingenuous at all.It's basically a way of achieving the same goal by changing the *form* from actual energy to BTC, then storing and transmitting it losslessly.Analogous to scanning a document &amp; turning it from physical to digital.",0.2732,0.046,0.0,0.0,0.09196428571428572
+2021-01-18,20,"  Because you can put a power sink of Bitcoin mining where you want, when you want, at the magnitude you want, at some cost, &amp; turn that into at least *some* BTC with some probability.
+
+Normal demand on the grid isn't like that; you can't move it around in space &amp; time like that.","Because you can put a power sink of Bitcoin mining where you want, when you want, at the magnitude you want, at some cost, &amp; turn that into at least *some* BTC with some probability.Normal demand on the grid isn't like that; you can't move it around in space &amp; time like that.",-0.4253,0.069,0.101,-0.075,0.5249999999999999
+2021-01-18,20,"No, a transaction is not a ""huge waste of energy"". You can store &amp; send BTC ~losslessly.
+
+As for terminology, recall that we refer to a ""document"" both as a piece of paper &amp; as a series of bytes in a datacenter. These are physical &amp; digital representations. So too for batteries. https://t.co/bC5T2Zriz7","No, a transaction is not a ""huge waste of energy"". You can store &amp; send BTC ~losslessly.As for terminology, recall that we refer to a ""document"" both as a piece of paper &amp; as a series of bytes in a datacenter. These are physical &amp; digital representations. So too for batteries.",-0.2095,0.046,0.082,-0.1,0.26071428571428573
+2021-01-18,20,"By ~losslessly I mean close to losslessly. There are fees on transaction, but should be small in % terms relative to amount of BTC sent. Storage also has costs depending on how secure you want to go.
+
+May be better than physical energy storage, depending on use case. A new tool.","By ~losslessly I mean close to losslessly. There are fees on transaction, but should be small in % terms relative to amount of BTC sent. Storage also has costs depending on how secure you want to go.May be better than physical energy storage, depending on use case. A new tool.",0.8765,0.201,0.0,0.0676948051948052,0.39784322820037105
+2021-01-18,20," Take a look at WBTC, RenBTC, and Loopring","Take a look at WBTC, RenBTC, and Loopring",0.0,0.0,0.0,0.0,0.0
+2021-01-19,20," Hayek is good, Satoshi is better. 
+
+Few theories survive experiment. If you run a 2-sided marketplace, for example, you'll find contra Hayek that not *all* knowledge is local.
+
+Sidecar lost to Uber because drivers set prices, vs setting them centrally.
+https://t.co/ymADWt9GGK","Hayek is good, Satoshi is better. Few theories survive experiment. If you run a 2-sided marketplace, for example, you'll find contra Hayek that not *all* knowledge is local.Sidecar lost to Uber because drivers set prices, vs setting them centrally.",0.5423,0.129,0.051,0.2,0.29000000000000004
+2021-01-19,20,"    Crypto is absolutely used as a medium of exchange.
+
+Ethereum did more than $1T in volume last year. Bitcoin was ~$800B. That's more than PayPal's annualized volume. And doesn't include all the coins and tokens; see https://t.co/c3ZAiU9bNw for more. https://t.co/H65ujxs5fI",Crypto is absolutely used as a medium of exchange.Ethereum did more than $1T in volume last year. Bitcoin was ~$800B. That's more than PayPal's annualized volume. And doesn't include all the coins and tokens; see  for more.,0.0,0.0,0.0,0.33999999999999997,0.49333333333333335
+2021-01-19,20,"    Precisely. And the interesting thing for open-minded progressives is that crypto shows that many non-Austrian ideas do empirically work.
+
+For ex: while I am very pro-BTC, I was surprised by how well ""printing money"" worked for digital assets (though analogy to cap tables helps).","Precisely. And the interesting thing for open-minded progressives is that crypto shows that many non-Austrian ideas do empirically work.For ex: while I am very pro-BTC, I was surprised by how well ""printing money"" worked for digital assets (though analogy to cap tables helps).",0.7693,0.186,0.0,0.275,0.475
+2021-01-19,20,"With  we shipped USDC which does &gt;$500M in daily transactions. Also:
+
+- Ethereum did $1T in 2020
+- Bitcoin did $800B
+- Add in other stablecoins: https://t.co/c3ZAiU9bNw
+- And defi: https://t.co/GTIh3M3OHf
+- And other digital assets
+
+Crypto is a medium of exchange. https://t.co/kLVreju122 https://t.co/P7kPaBlTqv",With  we shipped USDC which does $500M in daily transactions. Also:- Ethereum did $1T in 2020- Bitcoin did $800B- Add in other stablecoins: - And defi: - And other digital assetsCrypto is a medium of exchange.,0.1779,0.044,0.0,-0.0625,0.1875
+2021-01-20,20,"BTC &gt; PRC + MMT
+
+Crypto Capital over both Communist Capital and Woke Capital, in the long run. https://t.co/MWwjGBiCQs","BTC  PRC + MMTCrypto Capital over both Communist Capital and Woke Capital, in the long run.",0.0,0.0,0.0,-0.05,0.4
+2021-01-21,20,"First, much respect to all that  has done for Bitcoin.
+
+But this illustrates the risks of having a single canonical Bitcoin client hosted at GitHub with named developers.
+
+Only decentralized development, pseudonymity, and multiple clients can forestall such attacks. 🧵 https://t.co/lw9i5pDEBB","First, much respect to all that  has done for Bitcoin.But this illustrates the risks of having a single canonical Bitcoin client hosted at GitHub with named developers.Only decentralized development, pseudonymity, and multiple clients can forestall such attacks. 🧵",-0.2263,0.07,0.113,0.0630952380952381,0.3746031746031746
+2021-01-21,20,"As a freedom maximalist, any point of centralization is a vulnerability. We need:
+
+- multiple widely adopted clients for BTC
+- tools to import the BTC ledger into other chains, like trustless versions of WBTC/RenBTC 
+- other coins as backups
+- legal &amp; activism
+
+Defense in depth.","As a freedom maximalist, any point of centralization is a vulnerability. We need:- multiple widely adopted clients for BTC- tools to import the BTC ledger into other chains, like trustless versions of WBTC/RenBTC - other coins as backups- legal &amp; activismDefense in depth.",0.5423,0.194,0.104,-0.029999999999999992,0.26999999999999996
+2021-01-21,20,"The idea of cryptocurrency will not vanish from this earth. But any insufficiently decentralized protocol will get attacked.
+
+Bitcoin is highly decentralized in terms of hodlers, wallets, etc. But could use more at client &amp; repo level. See this from 2017:
+https://t.co/mHTWheLfsb","The idea of cryptocurrency will not vanish from this earth. But any insufficiently decentralized protocol will get attacked.Bitcoin is highly decentralized in terms of hodlers, wallets, etc. But could use more at client &amp; repo level. See this from 2017:",-0.4588,0.0,0.068,0.33,0.52
+2021-01-22,20,"Impressive post by  on how to further decentralize Bitcoin’s distribution, release process, development, and core node software itself!
+
+A few ideas cited:
+- mirrors for bitcoincore
+- ’s libbitcoin_kernel
+- ’s decentralized github
+https://t.co/JmNcefFCuc https://t.co/BEBegh3Rp3","Impressive post by  on how to further decentralize Bitcoin’s distribution, release process, development, and core node software itself!A few ideas cited:- mirrors for bitcoincore- ’s libbitcoin_kernel- ’s decentralized github",0.5562,0.107,0.0,0.26666666666666666,0.5333333333333333
+2021-01-22,20,"This is a huge step forward towards making Bitcoin a true protocol with multiple implementations.
+
+ recommends that the libbitcoin_kernel software by  be shared as a way to take care of the critical consensus parts — that seems a reasonable compromise.",This is a huge step forward towards making Bitcoin a true protocol with multiple implementations. recommends that the libbitcoin_kernel software by  be shared as a way to take care of the critical consensus parts — that seems a reasonable compromise.,0.8519,0.287,0.052,0.19,0.5900000000000001
+2021-01-22,20,"This is actually an excellent goal. What will be the first government domain to host the Bitcoin whitepaper?
+
+Some places it might happen first:
+
+- : Miami
+- : Estonia
+- : Israel
+- : India
+- : Wyoming
+- : Texas https://t.co/ICqTw0tn6Y",This is actually an excellent goal. What will be the first government domain to host the Bitcoin whitepaper?Some places it might happen first:- : Miami- : Estonia- : Israel- : India- : Wyoming- : Texas,0.5719,0.11,0.0,0.5,0.5555555555555555
+2021-01-23,20,"Courageous article by Noah.
+
+This a situation where the 50 IQ and 150 IQ guy shake hands and say the obvious thing: buy Bitcoin. https://t.co/kf1FOgp6GR",Courageous article by Noah.This a situation where the 50 IQ and 150 IQ guy shake hands and say the obvious thing: buy Bitcoin.,0.4019,0.125,0.063,0.0,0.5
+2021-01-23,20,"If we need warning signals, the obvious one is the depreciation of USD vs BTC by several orders of magnitude.
+
+The same technologists who forecast everything from cloud computing to the coronavirus bet on crypto. The same officials who missed everything have the opposite take. 🤷‍♂️ https://t.co/p7PhZUG6EW https://t.co/kleQFsVr1s","If we need warning signals, the obvious one is the depreciation of USD vs BTC by several orders of magnitude.The same technologists who forecast everything from cloud computing to the coronavirus bet on crypto. The same officials who missed everything have the opposite take. 🤷‍♂️",-0.5574,0.0,0.091,0.0,0.15
+2021-01-23,20," The rise of BTC against USD is a sustained 100,000X+ over 10+ years, and was predicted in advance by Hal Finney.
+
+I can’t think of a macroeconomic signal less noisy than that. https://t.co/KIW9Jdwfs7","The rise of BTC against USD is a sustained 100,000X+ over 10+ years, and was predicted in advance by Hal Finney.I can’t think of a macroeconomic signal less noisy than that.",-0.1045,0.0,0.046,-0.16666666666666666,0.06666666666666667
+2021-01-23,20,"Postscript: any indicator within the system will be gamed.
+
+Other countries have even censored real inflation rates.
+
+The only way to bet against the system is from the outside. Build the exit. Buy BTC. And trust only decentralized cryptographic truth.
+https://t.co/uDOzhvvfhL https://t.co/i3L3uHOFmM",Postscript: any indicator within the system will be gamed.Other countries have even censored real inflation rates.The only way to bet against the system is from the outside. Build the exit. Buy BTC. And trust only decentralized cryptographic truth.,0.6124,0.121,0.035,0.015000000000000003,0.545
+2021-01-23,20,  Buy Bitcoin: now the most conventional take of them all.,Buy Bitcoin: now the most conventional take of them all.,0.0,0.0,0.0,0.17857142857142858,0.4285714285714286
+2021-01-23,20,"When reform is impossible, when words of caution fall on deaf ears, you exit &amp; build something new.
+
+Satoshi showed the world how to exit fiat currency through encryption. Now we have an external vantage point to test the establishment’s claims. And they are found wanting.","When reform is impossible, when words of caution fall on deaf ears, you exit &amp; build something new.Satoshi showed the world how to exit fiat currency through encryption. Now we have an external vantage point to test the establishment’s claims. And they are found wanting.",0.0,0.0,0.0,-0.17676767676767677,0.5181818181818182
+2021-01-24,20," &gt; Bitcoin doesn't scale
+
+Look at WBTC, RenBTC, and Loopring for new L2 options","Bitcoin doesn't scaleLook at WBTC, RenBTC, and Loopring for new L2 options",0.0,0.0,0.0,0.13636363636363635,0.45454545454545453
+2021-01-24,20,"Yes. Pseudonymity is how we prevent both discrimination &amp; cancellation.
+
+It combines societal trends like blind auditions, ban-the-box, and not asking immigration status in interviews, with technological trends like multiple accounts, crypto, and AI avatars.
+
+We all go Satoshi. https://t.co/cOIADqEVP6","Yes. Pseudonymity is how we prevent both discrimination &amp; cancellation.It combines societal trends like blind auditions, ban-the-box, and not asking immigration status in interviews, with technological trends like multiple accounts, crypto, and AI avatars.We all go Satoshi.",0.6249,0.189,0.058,-0.25,0.3333333333333333
+2021-01-25,21," Scarcity exists. Crypto allows us to represent scarcity digitally. Once we can faithfully represent it, we can measure it and reduce it in different ways.
+
+For example: true progress means reducing the price of a drug in BTC terms, once BTC flattens out at its terminal price.","Scarcity exists. Crypto allows us to represent scarcity digitally. Once we can faithfully represent it, we can measure it and reduce it in different ways.For example: true progress means reducing the price of a drug in BTC terms, once BTC flattens out at its terminal price.",0.8126,0.163,0.0,0.11666666666666665,0.4166666666666667
+2021-01-25,21,"It’s not irrational. If you’re running a large fund, or you are very risk-averse, then you may well want to invest in finished products. That’s the Buffett model: go after blue chip cash cows.
+
+For an early adopter, though, it is amazing that BTC is now in that “safe” category!","It’s not irrational. If you’re running a large fund, or you are very risk-averse, then you may well want to invest in finished products. That’s the Buffett model: go after blue chip cash cows.For an early adopter, though, it is amazing that BTC is now in that “safe” category!",0.819,0.175,0.0,0.2898809523809524,0.42142857142857143
+2021-01-25,21," Stablecoins, ENS, NFTs, Dark Forest, defi, WBTC/RenBTC/Loopring...there’s a lot of stuff happening.
+
+Metamask has 1M MAUs, take a look at all the sites that use it.
+
+Digital gold is a critical part of the future, but so is decentralized login (ENS), decentralized social, etc.","Stablecoins, ENS, NFTs, Dark Forest, defi, WBTC/RenBTC/Loopring...there’s a lot of stuff happening.Metamask has 1M MAUs, take a look at all the sites that use it.Digital gold is a critical part of the future, but so is decentralized login (ENS), decentralized social, etc.",-0.1655,0.0,0.04,-0.023333333333333334,0.2783333333333334
+2021-01-25,21," 🙂 How many times has Google’s backend changed?
+
+Yes, there are new considerations for blockchains, which combine aspects of web services (single API, global state) &amp; protocols (decentralization).
+
+But BTC is unusual in that its value prop is stasis. Most tech isn’t like that.","🙂 How many times has Google’s backend changed?Yes, there are new considerations for blockchains, which combine aspects of web services (single API, global state) &amp; protocols (decentralization).But BTC is unusual in that its value prop is stasis. Most tech isn’t like that.",0.7823,0.164,0.0,0.21082251082251083,0.44480519480519476
+2021-01-25,21," The main threat to Bitcoin is that regulatory or technical attacks arise that it’s not able to deal with — due to being a finished product.
+
+We saw core taking down the whitepaper, and China could go after BTC with the Great Firewall. I can see many solutions but risk exists.","The main threat to Bitcoin is that regulatory or technical attacks arise that it’s not able to deal with — due to being a finished product.We saw core taking down the whitepaper, and China could go after BTC with the Great Firewall. I can see many solutions but risk exists.",-0.4404,0.073,0.127,0.13373015873015873,0.4246031746031746
+2021-01-26,21,"Focusing solely on the billions of possibly missing tethers ignores the trillions of newly introduced dollars.
+
+You have to analyze it as a system. And at the system level the countervailing force is clear.
+
+If USDT fails, BTC may drop. But MMT will bring it back — and more. See: https://t.co/WsjeNTSb3S","Focusing solely on the billions of possibly missing tethers ignores the trillions of newly introduced dollars.You have to analyze it as a system. And at the system level the countervailing force is clear.If USDT fails, BTC may drop. But MMT will bring it back — and more. See:",-0.6808,0.047,0.165,0.006060606060606062,0.2813131313131313
+2021-01-26,21,"🇪🇪 Estonia wins! Is it the first state in the world to post the Bitcoin whitepaper at a .gov URL?
+
+Everyone should try getting the whitepaper up on the .gov domain of their city or country. A first step towards a technologically progressive jurisdiction.
+https://t.co/OEhVhHIOHK https://t.co/vGcMo0kB9b",🇪🇪 Estonia wins! Is it the first state in the world to post the Bitcoin whitepaper at a .gov URL?Everyone should try getting the whitepaper up on the .gov domain of their city or country. A first step towards a technologically progressive jurisdiction.,0.6114,0.087,0.0,0.2916666666666667,0.2888888888888889
+2021-01-26,21,"When a city or state puts up the Bitcoin whitepaper up at a public URL it costs them nothing. But it’s a powerful symbol of being a crypto friendly jurisdiction, and will attract the right talent.
+
+Perhaps ’s Miami is next?","When a city or state puts up the Bitcoin whitepaper up at a public URL it costs them nothing. But it’s a powerful symbol of being a crypto friendly jurisdiction, and will attract the right talent.Perhaps ’s Miami is next?",0.7326,0.194,0.053,0.19214285714285714,0.4204761904761905
+2021-01-26,21,"🇨🇴 And Colombia’s government has also posted the Bitcoin whitepaper!  is an advisor to the Colombian President, the official government site is https://t.co/Car1PEKke8 and this is their URL shortener. https://t.co/PoKXgSRGJ0","🇨🇴 And Colombia’s government has also posted the Bitcoin whitepaper!  is an advisor to the Colombian President, the official government site is  and this is their URL shortener.",0.0,0.0,0.0,0.0,0.0
+2021-01-27,21,"And this is why the ~80% of the world that is neither American nor Chinese will align behind Bitcoin. Between Woke Capital and Communist Capital, they choose neither. They choose Crypto Capital. https://t.co/nIrn5vDRRx","And this is why the ~80% of the world that is neither American nor Chinese will align behind Bitcoin. Between Woke Capital and Communist Capital, they choose neither. They choose Crypto Capital.",0.0,0.0,0.0,-0.13333333333333333,0.2333333333333333
+2021-01-27,21,"Note that while the US will never support RMB dominance, and the PRC is turning against USD dominance, there are millions of Americans and Chinese who respect BTC.
+
+As the 2nd choice of America &amp; China, and the 1st choice of the rest of the world, crypto is the long term winner.","Note that while the US will never support RMB dominance, and the PRC is turning against USD dominance, there are millions of Americans and Chinese who respect BTC.As the 2nd choice of America &amp; China, and the 1st choice of the rest of the world, crypto is the long term winner.",0.5358,0.116,0.092,-0.016666666666666666,0.13333333333333333
+2021-01-27,21,☀️ The city of Miami just posted the #Bitcoin whitepaper on their website! This is a simple but powerful move that any jurisdiction can make to show they are in favor of technological progress. Who will follow Miami's example? https://t.co/YQm0m1HKHD,☀️ The city of Miami just posted the #Bitcoin whitepaper on their website! This is a simple but powerful move that any jurisdiction can make to show they are in favor of technological progress. Who will follow Miami's example?,0.9051,0.238,0.0,0.15,0.6785714285714286
+2021-01-27,21,"Boom! Here's , chair of the Congressional Blockchain caucus posting the Bitcoin whitepaper on the House website. Clean URL!
+https://t.co/hdoYLd2olC","Boom! Here's , chair of the Congressional Blockchain caucus posting the Bitcoin whitepaper on the House website. Clean URL!",0.508,0.154,0.0,0.45833333333333337,0.7000000000000001
+2021-01-27,21,Here is Representative  of the House Financial Services Committee standing up for open source innovation in finance by posting the Bitcoin whitepaper! https://t.co/5HVGrHgO2r,Here is Representative  of the House Financial Services Committee standing up for open source innovation in finance by posting the Bitcoin whitepaper!,0.4389,0.116,0.0,0.0,0.25
+2021-01-27,21,"🇪🇪 Estonia: the first state to post the Bitcoin whitepaper as a symbol. A world leader in e-government, it's no surprise they saw the value of crypto early. Their  program recruits technological progressives to set up in Estonia. Check it out! https://t.co/M3ZWVoTiap","🇪🇪 Estonia: the first state to post the Bitcoin whitepaper as a symbol. A world leader in e-government, it's no surprise they saw the value of crypto early. Their  program recruits technological progressives to set up in Estonia. Check it out!",0.3802,0.109,0.05,0.1875,0.31666666666666665
+2021-01-27,21,"      Chainlink is indeed awesome and  is a friend. Mayor Schieve, I think we would both be impressed if you posted the Bitcoin whitepaper at https://t.co/lY0rqpLurz!","Chainlink is indeed awesome and  is a friend. Mayor Schieve, I think we would both be impressed if you posted the Bitcoin whitepaper at",0.8932,0.348,0.0,1.0,1.0
+2021-01-27,21,🇨🇴 Colombia: the first nation state in the Americas to symbolically post the Bitcoin whitepaper.  is an advisor to the Colombian President &amp; former Vice-Minister of Digital Economy. The country is becoming a regional center for crypto! https://t.co/zyavyCaSJN https://t.co/uGl8Cwkfhd,🇨🇴 Colombia: the first nation state in the Americas to symbolically post the Bitcoin whitepaper.  is an advisor to the Colombian President &amp; former Vice-Minister of Digital Economy. The country is becoming a regional center for crypto!,0.0,0.0,0.0,0.11499999999999999,0.2566666666666667
+2021-01-27,21,"I'm working with  on a https://t.co/3yc96g8t1Z page to honor the nations, cities, elected officials, companies, and individuals who have posted the #Bitcoin whitepaper as a symbol of technological progress. Please reply to this tweet with candidates for inclusion!","I'm working with  on a  page to honor the nations, cities, elected officials, companies, and individuals who have posted the #Bitcoin whitepaper as a symbol of technological progress. Please reply to this tweet with candidates for inclusion!",0.8221,0.207,0.0,0.0,0.0
+2021-01-27,21,"Here we go!
+
+A list of symbolic mirrors of the whitepaper at https://t.co/iUUtFQxP0P, the site Satoshi himself registered.
+
+Pride of place goes to , , , ,  for their early support.
+
+Adding more! https://t.co/IktSWGC89t https://t.co/eOL4mtCald","Here we go!A list of symbolic mirrors of the whitepaper at  the site Satoshi himself registered.Pride of place goes to , , , ,  for their early support.Adding more!",0.6892,0.169,0.0,0.3625,0.4
+2021-01-28,21,"What I like about the prospect of an upcrash is that it discourages cynicism &amp; shorting. 
+
+On the margins, better to invest in building than to bet on (and try to cause) someone else’s failure for profit.
+
+More Bitcoins, more Teslas. Haters wept! And found something better to do. https://t.co/kE3nv80bC2","What I like about the prospect of an upcrash is that it discourages cynicism &amp; shorting. On the margins, better to invest in building than to bet on (and try to cause) someone else’s failure for profit.More Bitcoins, more Teslas. Haters wept! And found something better to do.",-0.5475,0.196,0.233,0.3616666666666667,0.45999999999999996
+2021-01-29,21,"It’s happening. #Bitcoin becomes the flag of technology, and all web services gradually get rebuilt on crypto.
+
+We’re going back to our roots: encryption, privacy, peer-to-peer, the rights of the individual, free expression, and decentralization of power. https://t.co/kjvl5GmIpK https://t.co/C0kBpVLF0O","It’s happening. #Bitcoin becomes the flag of technology, and all web services gradually get rebuilt on crypto.We’re going back to our roots: encryption, privacy, peer-to-peer, the rights of the individual, free expression, and decentralization of power.",0.5106,0.08,0.0,0.13333333333333333,0.4000000000000001
+2021-01-29,21,"The Bit Signal
+
+- for websites: host bitcoin.pdf
+- for individuals: #Bitcoin in bio
+- for companies: hold #BTC in treasury
+
+Who is putting up the Bit Signal? https://t.co/0QkxQzjveg https://t.co/62lwdwG10H",The Bit Signal- for websites: host bitcoin.pdf- for individuals: #Bitcoin in bio- for companies: hold #BTC in treasuryWho is putting up the Bit Signal?,0.2023,0.065,0.0,0.0,0.0
+2021-02-02,22,"""I put my faith in Bitcoin. I put my faith in Elon Musk...What will make change possible are the same technologies that led us into this mess—this time, putting privacy and freedom first."" https://t.co/Yitt3xeTtw","""I put my faith in Bitcoin. I put my faith in Elon Musk...What will make change possible are the same technologies that led us into this mess—this time, putting privacy and freedom first.""",0.8689,0.246,0.0,0.08333333333333333,0.4861111111111111
+2021-02-02,22,"Just like access to Twitter became a national security issue by 2020, access to Bitcoin will become a national security issue by 2030.","Just like access to Twitter became a national security issue by 2020, access to Bitcoin will become a national security issue by 2030.",0.743,0.289,0.0,0.0,0.0
+2021-02-03,22,"At $200k per BTC, assuming other fortunes stay constant, Satoshi Nakamoto's estimated holdings of ~1M BTC would make him the world's richest person at $200B. (Elon is currently at $192B).","At $200k per BTC, assuming other fortunes stay constant, Satoshi Nakamoto's estimated holdings of ~1M BTC would make him the world's richest person at $200B. (Elon is currently at $192B).",0.5267,0.105,0.0,-0.041666666666666664,0.36944444444444446
+2021-02-03,22," Right, referring to the Patoshi pattern here.
+
+Satoshi was certainly sophisticated enough to mine from multiple clients. Could very well have mined some with a different pattern and moved those.","Right, referring to the Patoshi pattern here.Satoshi was certainly sophisticated enough to mine from multiple clients. Could very well have mined some with a different pattern and moved those.",0.8122,0.244,0.0,0.16428571428571428,0.48928571428571427
+2021-02-03,22,Bitcoin and defi have much stronger fundamentals than gold and tradfi.,Bitcoin and defi have much stronger fundamentals than gold and tradfi.,0.3818,0.206,0.0,0.2,0.2
+2021-02-03,22,"Satoshi, Finney, Szabo, Bernanke. https://t.co/Awl1fhGBDa","Satoshi, Finney, Szabo, Bernanke.",0.0,0.0,0.0,0.0,0.0
+2021-02-04,22,"As background:
+
+- Crypto is now a $1T industry
+- Bitcoin and Ethereum have enabled &gt;$1T in annual transaction volume
+- Decentralized finance has ~$30B in assets
+- https://t.co/2m6HExjpJl is more popular than the Wall Street Journal!
+
+It is now a global phenomenon. https://t.co/l8dQ8uurku",As background:- Crypto is now a $1T industry- Bitcoin and Ethereum have enabled $1T in annual transaction volume- Decentralized finance has ~$30B in assets-  is more popular than the Wall Street Journal!It is now a global phenomenon.,0.623,0.124,0.0,0.4166666666666667,0.4666666666666666
+2021-02-04,22,"NATIONAL SECURITY
+
+Crypto defends India's national security by foiling deplatforming.
+
+Bitcoin prevents financial deplatforming. Digital gold is a rail of last resort for crises like 2008.
+
+And Ethereum prevents social deplatforming. Create social networks the US can't shut down. https://t.co/oJ85QZRVZE",NATIONAL SECURITYCrypto defends India's national security by foiling deplatforming.Bitcoin prevents financial deplatforming. Digital gold is a rail of last resort for crises like 2008.And Ethereum prevents social deplatforming. Create social networks the US can't shut down.,0.8668,0.278,0.0,-0.01481481481481482,0.08148148148148149
+2021-02-04,22,"FOREIGN INVESTMENT
+
+A favorable crypto policy would attract billions in investment to India, causing capital landing rather than capital flight.
+
+Bitcoin is very popular among CEOs and investors. And at $200k per BTC, an estimated 50% of global billionaires will come from crypto. https://t.co/mFBZgPJCuF","FOREIGN INVESTMENTA favorable crypto policy would attract billions in investment to India, causing capital landing rather than capital flight.Bitcoin is very popular among CEOs and investors. And at $200k per BTC, an estimated 50% of global billionaires will come from crypto.",0.8268,0.179,0.0,0.21833333333333335,0.375
+2021-02-07,22,"  Crypto is actually both. It uses technical truths to constrain social consensus. As such it’s an innovation in social technology.
+
+(I take no position on the BTC/ETH thing)",Crypto is actually both. It uses technical truths to constrain social consensus. As such it’s an innovation in social technology.(I take no position on the BTC/ETH thing),0.4939,0.166,0.067,0.013333333333333332,0.16666666666666666
+2021-02-07,22,"  1) Bitcoin mining is $5-10B, so that plus one or two of the major exchanges puts us comfortably over $10B. https://t.co/D1vRDLI54e
+
+2) But then there's all this unlabeled on-chain transaction volume, ~$2T on BTC &amp; ETH.
+
+What % is for goods &amp; services?
+https://t.co/aK8WQ5qPDM https://t.co/yxVPddAkEk","1) Bitcoin mining is $5-10B, so that plus one or two of the major exchanges puts us comfortably over $10B. 2) But then there's all this unlabeled on-chain transaction volume, ~$2T on BTC &amp; ETH.What % is for goods &amp; services?",0.4215,0.061,0.0,0.23125,0.65
+2021-02-08,23,"Tesla bought Bitcoin.
+Every company will buy Bitcoin.
+Every country will buy Bitcoin.
+India should buy Bitcoin. https://t.co/6KmzJF3ZSe",Tesla bought Bitcoin.Every company will buy Bitcoin.Every country will buy Bitcoin.India should buy Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-02-08,23,"Every company will buy Bitcoin — and eventually many different kinds of digital assets just to operate their business.
+
+They’ll need them to pay for transaction fees, decentralized compute, decentralized file storage. Like paid API keys.
+
+But it starts by holding digital gold. https://t.co/Z9EhX4169n","Every company will buy Bitcoin — and eventually many different kinds of digital assets just to operate their business.They’ll need them to pay for transaction fees, decentralized compute, decentralized file storage. Like paid API keys.But it starts by holding digital gold.",0.4215,0.092,0.031,0.125,0.275
+2021-02-08,23,"Talking about why India should buy Bitcoin, modify IndiaStack to support crypto, and build a stockchain. On CNBC in 45 minutes! https://t.co/CNwmn691Kp","Talking about why India should buy Bitcoin, modify IndiaStack to support crypto, and build a stockchain. On CNBC in 45 minutes!",0.4574,0.13,0.0,0.0,0.0
+2021-02-08,23,"Miami: the first city to buy BTC.
+
+Who will be the first country? https://t.co/IHUl1XtwpV",Miami: the first city to buy BTC.Who will be the first country?,0.0,0.0,0.0,0.25,0.3333333333333333
+2021-02-09,23,"It's ongoing. And can be done via cryptoprotocols &amp; open source projects, not just for-profit companies.
+
+USD → BTC 🪙
+Universities → MOOCs, ISAs 🎓
+Legal system → smart contracts 💻
+Political parties → new social networks 🤔
+
+Build replacements. Help others. Make billions. https://t.co/AEUt3plMbQ","It's ongoing. And can be done via cryptoprotocols &amp; open source projects, not just for-profit companies.USD → BTC 🪙Universities → MOOCs, ISAs 🎓Legal system → smart contracts 💻Political parties → new social networks 🤔Build replacements. Help others. Make billions.",0.8225,0.225,0.0,0.09733044733044732,0.3273448773448774
+2021-02-11,23,"Actually, it's the opposite. BTC makes renewables more competitive.
+
+""instead of switching the turbines off…clean power that is not being sold to the grid or stored can now accumulate value as [BTC]. This financial incentive can help make a substantial impact on decarbonization"" https://t.co/X766S4Pu1p https://t.co/z4DLSngexu","Actually, it's the opposite. BTC makes renewables more competitive.""instead of switching the turbines off…clean power that is not being sold to the grid or stored can now accumulate value as [BTC]. This financial incentive can help make a substantial impact on decarbonization""",0.8553,0.226,0.0,0.125,0.15
+2021-02-11,23,"BTC is the unit of the account of the cryptoeconomy (see Coinmarketcap) and increasingly the stock market — every investment is benchmarked in BTC terms.
+
+Scalability is happening with WBTC, RenBTC, Loopring, optimistic rollups, Cairo, zk-rollups, and new L1 chains.
+
+Could go on.","BTC is the unit of the account of the cryptoeconomy (see Coinmarketcap) and increasingly the stock market — every investment is benchmarked in BTC terms.Scalability is happening with WBTC, RenBTC, Loopring, optimistic rollups, Cairo, zk-rollups, and new L1 chains.Could go on.",0.3182,0.053,0.0,0.13636363636363635,0.45454545454545453
+2021-02-11,23, Asking how much USD you’d accept for one BTC is like asking how many shares of BBI you’d accept for one share of NFLX. https://t.co/zTSqDvq4dQ,Asking how much USD you’d accept for one BTC is like asking how many shares of BBI you’d accept for one share of NFLX.,0.8779,0.377,0.0,0.35,0.35
+2021-02-11,23," A better way of putting may be to ask the question in physical terms. How many bars of gold would you accept for one BTC?
+
+The basic error in people’s thinking is that the USD will remain a going concern with 100% probability. We’ve seen many currencies fail.",A better way of putting may be to ask the question in physical terms. How many bars of gold would you accept for one BTC?The basic error in people’s thinking is that the USD will remain a going concern with 100% probability. We’ve seen many currencies fail.,-0.1779,0.102,0.115,0.16666666666666666,0.3446428571428571
+2021-02-11,23," I think this actually depends on consumption.
+
+The only reasons to hold USD over BTC are (a) if needed for short-term expenses or (b) if you think BTC may encounter issues &amp; another crypto may win.
+
+So, rather than % of net worth, have N years runway in USD and rest in crypto.","I think this actually depends on consumption.The only reasons to hold USD over BTC are (a) if needed for short-term expenses or (b) if you think BTC may encounter issues &amp; another crypto may win.So, rather than % of net worth, have N years runway in USD and rest in crypto.",0.6908,0.106,0.0,0.22000000000000003,0.32
+2021-02-12,23,"""To kill Bitcoin, I guess you’d have to have governments basically go around and confiscate everyone’s wallets somehow. So the near un-killability of Bitcoin seems like something that adds to its fundamental value.""
+https://t.co/xiv56Z8kEV","""To kill Bitcoin, I guess you’d have to have governments basically go around and confiscate everyone’s wallets somehow. So the near un-killability of Bitcoin seems like something that adds to its fundamental value.""",-0.4939,0.065,0.123,0.1,0.4
+2021-02-12,23,What you can’t kill will make you stronger. Embrace the Bitcoin boom over futile bans. https://t.co/JE2G7OmgEo,What you can’t kill will make you stronger. Embrace the Bitcoin boom over futile bans.,-0.5719,0.2,0.31,0.0,0.0
+2021-02-12,23,"This is progress. Fmr Finance Secretary Garg states that cryptoassets may be allowed, so long as they aren't used as currencies.
+
+The use case for BTC &amp; ETH is currently quite different from the role the INR fills, so a solution may be possible here. https://t.co/SLzmASWGDx","This is progress. Fmr Finance Secretary Garg states that cryptoassets may be allowed, so long as they aren't used as currencies.The use case for BTC &amp; ETH is currently quite different from the role the INR fills, so a solution may be possible here.",0.6995,0.119,0.0,-0.0125,0.6
+2021-02-13,23,"Answer: the Ledger of Record
+
+People know that Bitcoin is a way to get global consensus on how much BTC each person holds, but it's not yet widely understood that the concept can be extended to a much larger class of facts via crypto oracles.
+
+See thread:
+https://t.co/ekwa8VFuAz https://t.co/WGhQkOweXx","Answer: the Ledger of RecordPeople know that Bitcoin is a way to get global consensus on how much BTC each person holds, but it's not yet widely understood that the concept can be extended to a much larger class of facts via crypto oracles.See thread:",0.0,0.0,0.0,0.025,0.275
+2021-02-13,23,"Thread on ledger of record. Key concept is that it's NOT just all-out information war. It's a set of algorithms &amp; data structures that allow us to achieve consensus on truth in an adversarial environment. BTC, generalized.
+
+For trust, substitute compute.
+https://t.co/incnJFhafB","Thread on ledger of record. Key concept is that it's NOT just all-out information war. It's a set of algorithms &amp; data structures that allow us to achieve consensus on truth in an adversarial environment. BTC, generalized.For trust, substitute compute.",0.0258,0.15,0.128,0.0,1.0
+2021-02-20,24,"For the same reason every tech company not named Microsoft or Apple eventually got behind Linux, every country not named America or China will eventually get behind Bitcoin.
+
+(PS: Apple uses BSD &amp; Microsoft runs Linux now too. So America &amp; China may just be the last adopters.) https://t.co/Mhm0RK6Y8S","For the same reason every tech company not named Microsoft or Apple eventually got behind Linux, every country not named America or China will eventually get behind Bitcoin.(PS: Apple uses BSD &amp; Microsoft runs Linux now too. So America &amp; China may just be the last adopters.)",0.0,0.0,0.0,-0.2,0.39791666666666664
+2021-02-20,24,NB: I am aware that OS X is based on BSD and Apple has in this sense been Unix-based for roughly two decades. But the fact that Homebrew is a third party service shows that Apple has kept Linux &amp; open source somewhat at arm’s length. Perhaps like China &amp; its digital yuan vs BTC?,NB: I am aware that OS X is based on BSD and Apple has in this sense been Unix-based for roughly two decades. But the fact that Homebrew is a third party service shows that Apple has kept Linux &amp; open source somewhat at arm’s length. Perhaps like China &amp; its digital yuan vs BTC?,0.6369,0.094,0.0,0.03,0.22999999999999998
+2021-02-21,24," Yes - I think  believes BTC is bannable?
+
+Mr. Burry, if you're interested, I've written up a long-form case here (in the context of India) on why it's essentially impossible to technically, socially, or politically ""ban"" all cryptocurrencies.
+https://t.co/J07Z9ClVhe","Yes - I think  believes BTC is bannable?Mr. Burry, if you're interested, I've written up a long-form case here (in the context of India) on why it's essentially impossible to technically, socially, or politically ""ban"" all cryptocurrencies.",0.6597,0.137,0.0,-0.13888888888888887,0.5333333333333333
+2021-02-21,24,"Crypto is a global phenomenon. In every unfree regime, the orange coin will represent what blue jeans did decades ago: a universal symbol of freedom and prosperity. #BTC https://t.co/BZ7QgAEQ24","Crypto is a global phenomenon. In every unfree regime, the orange coin will represent what blue jeans did decades ago: a universal symbol of freedom and prosperity. #BTC",0.6369,0.139,0.0,0.0,0.03333333333333333
+2021-02-21,24,I see a bright future for India. #Bitcoin 🇮🇳 https://t.co/6NsIlZ0qN5,I see a bright future for India. #Bitcoin 🇮🇳,0.4404,0.293,0.0,0.35000000000000003,0.46249999999999997
+2021-02-21,24,"Read these two pieces:
+
+1) Why India Should Buy Bitcoin
+https://t.co/zLDLnpPbca
+
+2) How India Legalizes Crypto
+https://t.co/J07Z9ClVhe
+
+       ",Read these two pieces:1) Why India Should Buy Bitcoin2) How India Legalizes Crypto,0.0,0.0,0.0,0.0,0.0
+2021-02-21,24," This meme but unironically 🙂
+
+Printed money floods into the market chasing many assets. Some get bid up high.
+
+Only those with strong fundamentals like BTC survive the “crash”, which in this context may take the form of dollar inflation rather than a fall in nominal stock prices https://t.co/ytBbLyjehj","This meme but unironically 🙂Printed money floods into the market chasing many assets. Some get bid up high.Only those with strong fundamentals like BTC survive the “crash”, which in this context may take the form of dollar inflation rather than a fall in nominal stock prices",0.8674,0.181,0.0,0.2733333333333333,0.6933333333333334
+2021-02-21,24,"  We’ll see. Place your bets, we’ve placed ours.
+
+One point against mere correlation is that BTC/ETH are among the best performing assets of all time.
+
+Another is that digital assets are fundamentally different from stocks in that they are bearer instruments, and seizure-resistant.","We’ll see. Place your bets, we’ve placed ours.One point against mere correlation is that BTC/ETH are among the best performing assets of all time.Another is that digital assets are fundamentally different from stocks in that they are bearer instruments, and seizure-resistant.",0.765,0.16,0.0,0.125,0.35
+2021-02-21,24,"They are going to run the “Bitcoin has no value” meme until somewhere around $100k-$1M, when they will flip to the “Bitcoin is too valuable” narrative. https://t.co/xv60ZkzAre","They are going to run the “Bitcoin has no value” meme until somewhere around $100k-$1M, when they will flip to the “Bitcoin is too valuable” narrative.",-0.296,0.0,0.078,0.0,0.0
+2021-02-22,25," I don't know, because official statistics tend to be manipulated when push comes to shove, whether Venezuelan, American, or Argentinian.
+
+That's why shadow statistics, like the BTC price or the Billion Prices Project, are more valuable in time of crisis. https://t.co/RpvrDfeuCu https://t.co/dxpoAaVVop","I don't know, because official statistics tend to be manipulated when push comes to shove, whether Venezuelan, American, or Argentinian.That's why shadow statistics, like the BTC price or the Billion Prices Project, are more valuable in time of crisis.",-0.204,0.119,0.135,0.25,0.25
+2021-02-23,25," &gt; On that score, crypto massively lagging many, many fiat currencies still
+
+I don’t think that’s true. BTC and ETH each did ~$1T of volume last year. And fees show that this isn’t just people sending to self. https://t.co/lrVHQI8SfU","On that score, crypto massively lagging many, many fiat currencies stillI don’t think that’s true. BTC and ETH each did ~$1T of volume last year. And fees show that this isn’t just people sending to self.",0.1779,0.068,0.051,0.27,0.5433333333333333
+2021-02-24,25,"Be like Elon
+Hear his lessons
+Buy BTC
+Block NYT
+Build electric cars
+Bring us to Mars https://t.co/LPcuIIgsGh",Be like ElonHear his lessonsBuy BTCBlock NYTBuild electric carsBring us to Mars,-0.1027,0.117,0.136,0.0,0.0
+2021-02-24,25,"“If [the Reserve Bank of India] chooses to be visionary...it should consider Bitcoin akin to a reserve and engage in buying about $5B worth”
+
+Phenomenal piece in the Financial Express by IAS officer  on why India should embrace cryptocurrency. https://t.co/gzijcB1X79 https://t.co/2Lvru5ehyA",“If [the Reserve Bank of India] chooses to be visionary...it should consider Bitcoin akin to a reserve and engage in buying about $5B worth”Phenomenal piece in the Financial Express by IAS officer  on why India should embrace cryptocurrency.,0.5719,0.11,0.0,0.26666666666666666,0.19999999999999998
+2021-02-25,25,"AMMs boost BTC. Here's why.
+
+- All assets trade against all assets in the defi matrix
+- Automated market makers give liquidity for rare pairs
+- Everything is marked-to-market 24/7
+- Value of cash drops, as you can liquidate instantly
+- The new no-op is to keep your assets in BTC","AMMs boost BTC. Here's why.- All assets trade against all assets in the defi matrix- Automated market makers give liquidity for rare pairs- Everything is marked-to-market 24/7- Value of cash drops, as you can liquidate instantly- The new no-op is to keep your assets in BTC",0.802,0.199,0.0,0.14545454545454545,0.6737373737373736
+2021-02-25,25,"Basically, automated market makers like  boost BTC in the long term, because they allow *everything* to be priced in BTC terms, and *anyone* to switch out of BTC into their asset of choice.
+
+Though in practice this may mean WBTC/RenBTC [or ETH!] rather than BTC itself.","Basically, automated market makers like  boost BTC in the long term, because they allow *everything* to be priced in BTC terms, and *anyone* to switch out of BTC into their asset of choice.Though in practice this may mean WBTC/RenBTC [or ETH!] rather than BTC itself.",0.8356,0.191,0.0,-0.2203125,0.54375
+2021-02-25,25,  It's already there. BTC is the unit of account for the cryptoeconomy and every chart measures appreciation/decline of an asset in BTC terms. https://t.co/Lh72EoEqqn https://t.co/IFjhOulJu7,It's already there. BTC is the unit of account for the cryptoeconomy and every chart measures appreciation/decline of an asset in BTC terms.,0.3612,0.094,0.0,0.0,0.0
+2021-02-25,25,You don’t need to know history to understand JavaScript. You do need it to understand Bitcoin. That limited the early market. https://t.co/ntkkKQJZAU,You don’t need to know history to understand JavaScript. You do need it to understand Bitcoin. That limited the early market.,-0.2263,0.0,0.083,0.01428571428571429,0.22142857142857142
+2021-02-26,25,"The argument that Bitcoin is ""risk-on"" or highly correlated with the market doesn't hold over long time frames.
+
+Look at the 10+ year chart for BTC, up &gt;10000X. Does that look like it tracks the S&amp;P 500, up ~4X in that time period? https://t.co/yq6UXGuyyZ","The argument that Bitcoin is ""risk-on"" or highly correlated with the market doesn't hold over long time frames.Look at the 10+ year chart for BTC, up 10000X. Does that look like it tracks the S&amp;P 500, up ~4X in that time period?",0.0,0.053,0.053,0.055,0.47
+2021-02-26,25,"VC ➞ YC ➞ BTC
+
+Meaning zero offense to my friends in VC or YC! But crypto is creating the third generation of technology investors. Even less institutional than the last.",VC ➞ YC ➞ BTCMeaning zero offense to my friends in VC or YC! But crypto is creating the third generation of technology investors. Even less institutional than the last.,0.5562,0.166,0.06,-0.05555555555555555,0.044444444444444446
+2021-02-26,25," - Form a matrix of daily prices
+- Rows are days, columns are assets
+- Let column 1 be BTC/USD &amp; column 2 be S&amp;P 500
+- Form a new matrix of daily price % increase/decrease
+- Plot col 1 vs col 2
+- Calculate sample correlation (or a more robust measure of statistical dependence) https://t.co/59TgUr7qKI","- Form a matrix of daily prices- Rows are days, columns are assets- Let column 1 be BTC/USD &amp; column 2 be S&amp;P 500- Form a new matrix of daily price % increase/decrease- Plot col 1 vs col 2- Calculate sample correlation (or a more robust measure of statistical dependence)",0.5256,0.099,0.0,0.1590909090909091,0.23863636363636365
+2021-02-26,25," Folks saying BTC/USD is ""risk on"" are saying daily % increases/decreases will track with S&amp;P 500. That they go up &amp; down together.
+
+Visually, they're saying a scatterplot of z-scores (or alternative normalization) against each other would look more like plot 2 than plot 1 below. https://t.co/td5Rr3p5X3","Folks saying BTC/USD is ""risk on"" are saying daily % increases/decreases will track with S&amp;P 500. That they go up &amp; down together.Visually, they're saying a scatterplot of z-scores (or alternative normalization) against each other would look more like plot 2 than plot 1 below.",0.1761,0.061,0.046,0.04388888888888889,0.2327777777777778
+2021-02-26,25," Would be a useful exercise to do this. If someone has last 3650 days of BTC/USD + S&amp;P we could do it in five minutes.
+
+Could eyeball scatterplot to see if linear dependence doesn't hold (or do mutual information). Or do cross correlation to see if you can get a lagged predictor. https://t.co/CGLQvmIcjt",Would be a useful exercise to do this. If someone has last 3650 days of BTC/USD + S&amp;P we could do it in five minutes.Could eyeball scatterplot to see if linear dependence doesn't hold (or do mutual information). Or do cross correlation to see if you can get a lagged predictor.,0.1779,0.055,0.041,0.09999999999999999,0.022222222222222223
+2021-02-27,25,"Yes, the tweet would benefit from a bit of copy editing. And yes, there are exactly 100M satoshis in one BTC (rather than approximately 100M).
+
+Still, this is progress.","Yes, the tweet would benefit from a bit of copy editing. And yes, there are exactly 100M satoshis in one BTC (rather than approximately 100M).Still, this is progress.",0.8807,0.318,0.0,-0.07500000000000001,0.425
+2021-02-28,25," Actually, BTC is already the unit of account of the cryptoeconomy.
+
+Smart crypto investors benchmark their returns in BTC terms, because few investments compete with the opportunity cost of buying BTC.
+
+Go browse https://t.co/IFCG9444ug for details. https://t.co/rQkJcsZ7OD","Actually, BTC is already the unit of account of the cryptoeconomy.Smart crypto investors benchmark their returns in BTC terms, because few investments compete with the opportunity cost of buying BTC.Go browse  for details.",0.6705,0.136,0.0,0.0047619047619047545,0.28095238095238095
+2021-03-02,26," Barnes &amp; Noble ➞ Amazon
+Windows ➞ Linux
+Blockbuster ➞ Netflix
+Blackberry ➞ iPhone
+Kodak ➞ Instagram
+Taxis ➞ Uber
+Hotels ➞ Airbnb
+SF ➞ Miami
+USD ➞ BTC
+Wall Street ➞ defi
+🇺🇸 ➞ ?https://t.co/O9wZItjcmT",Barnes &amp; Noble ➞ AmazonWindows ➞ LinuxBlockbuster ➞ NetflixBlackberry ➞ iPhoneKodak ➞ InstagramTaxis ➞ UberHotels ➞ AirbnbSF ➞ MiamiUSD ➞ BTCWall Street ➞ defi🇺🇸 ➞ ?,0.8225,0.281,0.0,0.6,0.9
+2021-03-03,26,"This isn’t the intended outcome of antitrust, to be clear, just like quantitative easing wasn’t done to boost tech stocks &amp; MMT isn’t meant to moon BTC.
+
+But what antitrust will do is (a) weaken incumbents, (b) push tech overseas, (c) boost the value of decentralization.","This isn’t the intended outcome of antitrust, to be clear, just like quantitative easing wasn’t done to boost tech stocks &amp; MMT isn’t meant to moon BTC.But what antitrust will do is (a) weaken incumbents, (b) push tech overseas, (c) boost the value of decentralization.",0.8779,0.263,0.049,0.10000000000000002,0.3833333333333333
+2021-03-05,26,"This is one of the big reasons BTC &gt; YC &gt; VC*
+
+Crypto is the third phase of startup investing. International, remote-first, pseudonymous, and digital-native from the beginning. The only connection you need is an internet connection.
+
+* Again, with zero offense to my YC/VC friends https://t.co/103nlh5MVw","This is one of the big reasons BTC  YC  VC*Crypto is the third phase of startup investing. International, remote-first, pseudonymous, and digital-native from the beginning. The only connection you need is an internet connection.* Again, with zero offense to my YC/VC friends",0.2732,0.063,0.041,0.0,0.275
+2021-03-07,26," Hope remains. Cryptography gives us a shot at global objective truth.
+
+Everyone in every country agrees who holds how much BTC, the kind of thing people normally fight over.
+
+And through crypto oracles, that can be extended to consensus on many other kinds of contentious facts.","Hope remains. Cryptography gives us a shot at global objective truth.Everyone in every country agrees who holds how much BTC, the kind of thing people normally fight over.And through crypto oracles, that can be extended to consensus on many other kinds of contentious facts.",0.296,0.135,0.093,0.1892857142857143,0.3892857142857143
+2021-03-07,26," Look on the bright side: SF/Seattle is a huge implicit advocate of tech decentralization.
+
+They are solving the problem of too much concentration of wealth &amp; talent in one monoculture by driving tech to exit &amp; disperse worldwide! Very generous.
+
+Like MMT as stimulus for BTC...",Look on the bright side: SF/Seattle is a huge implicit advocate of tech decentralization.They are solving the problem of too much concentration of wealth &amp; talent in one monoculture by driving tech to exit &amp; disperse worldwide! Very generous.Like MMT as stimulus for BTC...,0.9482,0.338,0.045,0.3875,0.5499999999999999
+2021-03-08,27,"   It’s not really just BTC but the set of all chains that’s the next step after the web. Much easier to index 1000 chains than billions of webpages.
+
+Following the chaintip solves the freshness &amp; politeness problems at the same time; updates get pushed to you, vs scraping the site.","It’s not really just BTC but the set of all chains that’s the next step after the web. Much easier to index 1000 chains than billions of webpages.Following the chaintip solves the freshness &amp; politeness problems at the same time; updates get pushed to you, vs scraping the site.",0.4215,0.112,0.062,0.02,0.125
+2021-03-08,27," Search plays a role because if all posts and users are in a single public chain, ANYONE can build a search engine for the data — just like anyone can build a block explorer for BTC or ETH.
+
+That’s just one aspect. Should write a longer post! Twitter too brief. Good chat though.","Search plays a role because if all posts and users are in a single public chain, ANYONE can build a search engine for the data — just like anyone can build a block explorer for BTC or ETH.That’s just one aspect. Should write a longer post! Twitter too brief. Good chat though.",0.5848,0.144,0.054,0.15714285714285714,0.3035714285714286
+2021-03-08,27,"  &gt; The hard part is not syncing shared state
+
+Syncing shared state in an *adversarial* environment is indeed the hard part. That’s why PayPal doesn’t put the root password to its database on the web, but anyone can read from, write to, and download the full Bitcoin blockchain.","The hard part is not syncing shared stateSyncing shared state in an *adversarial* environment is indeed the hard part. That’s why PayPal doesn’t put the root password to its database on the web, but anyone can read from, write to, and download the full Bitcoin blockchain.",-0.3476,0.0,0.11,-0.07777777777777779,0.5444444444444444
+2021-03-10,27,"Today, Bitcoin mining serves as an economic battery that makes renewables more price-competitive.
+
+Tomorrow, it's a massive global incentive to accelerate cheap, clean forms of renewable energy...like nuclear power. 
+
+Read the Seetee letter in full:
+https://t.co/UagvoKYY16 https://t.co/z8ntQ2JBzp","Today, Bitcoin mining serves as an economic battery that makes renewables more price-competitive.Tomorrow, it's a massive global incentive to accelerate cheap, clean forms of renewable energy...like nuclear power. Read the Seetee letter in full:",0.6369,0.133,0.0,0.25952380952380955,0.5214285714285715
+2021-03-10,27,"Insofar as Bitcoin mining* improves the profitability of renewables relative to traditional sources by capturing stranded electricity, it accelerates the shift to clean energy.
+
+*and crypto mining more generally, including 's work on ProgPow
+
+https://t.co/SdJQW72ctP","Insofar as Bitcoin mining* improves the profitability of renewables relative to traditional sources by capturing stranded electricity, it accelerates the shift to clean energy.*and crypto mining more generally, including 's work on ProgPow",0.8271,0.238,0.0,0.18333333333333335,0.49000000000000005
+2021-03-12,27,"Glenn and  were early advocates for encryption to defend human rights against abusive corporations &amp; states alike.
+
+Satoshi was a pioneer in the use of encryption to stop seizures by the same corporations &amp; states.
+
+These are two halves of the same worldview. 🧵 https://t.co/P5xas6QPey",Glenn and  were early advocates for encryption to defend human rights against abusive corporations &amp; states alike.Satoshi was a pioneer in the use of encryption to stop seizures by the same corporations &amp; states.These are two halves of the same worldview. 🧵,-0.7506,0.0,0.135,0.01,0.13
+2021-03-12,27,"Memers can monetize privately.
+
+- use real names, pseudonyms, or be anonymous
+- persistent pseudonyms are distinct from anonymity
+- digital sigs allow persistent pseudonymity (eg “Satoshi”)
+- on-chain tracking will eventually be at creator discretion, via view keys or equivalent https://t.co/ftynyeA3xX","Memers can monetize privately.- use real names, pseudonyms, or be anonymous- persistent pseudonyms are distinct from anonymity- digital sigs allow persistent pseudonymity (eg “Satoshi”)- on-chain tracking will eventually be at creator discretion, via view keys or equivalent",0.2263,0.049,0.0,0.125,0.24375000000000002
+2021-03-13,27,"BPI &gt; CPI
+
+Who wants to build the Bitcoin price index? Scrape data like the Billion Prices Project. Use exchange rates to log daily prices in BTC terms. Put it on chain so it’s timestamped, free, and uncensorable.
+
+Now you have a global inflation index. https://t.co/snqIEaLhvL https://t.co/3XRKWUNUn2","BPI  CPIWho wants to build the Bitcoin price index? Scrape data like the Billion Prices Project. Use exchange rates to log daily prices in BTC terms. Put it on chain so it’s timestamped, free, and uncensorable.Now you have a global inflation index.",0.7239,0.121,0.0,0.15000000000000002,0.225
+2021-03-13,27,"I have a feeling a Bitcoin Price Index could become a very high traffic site, like Coinmarketcap, if inflation really starts ticking up.
+
+All the crypto tools for censorship resistance could be useful too. Because nations may censor real inflation rates. https://t.co/uDOzhvvfhL https://t.co/lqf9Bal3m1","I have a feeling a Bitcoin Price Index could become a very high traffic site, like Coinmarketcap, if inflation really starts ticking up.All the crypto tools for censorship resistance could be useful too. Because nations may censor real inflation rates.",0.4404,0.154,0.067,0.22699999999999998,0.3005
+2021-03-13,27,"All you needed to do to build wealth over the 2010s was to hold some in Bitcoin.
+
+All you need to do to lose wealth over the 2020s is to hold it all in dollars.",All you needed to do to build wealth over the 2010s was to hold some in Bitcoin.All you need to do to lose wealth over the 2020s is to hold it all in dollars.,0.5719,0.156,0.066,0.0,0.0
+2021-03-16,28,"The value of inflated cash declines because of two factors:
+
+1) Upside. Why hold cash when you can hold BTC or another high upside asset?
+
+2) Liquidity. Why hold cash when you can instantly swap out of any other now-liquid asset? Algorithmic liquidity reduces need for currency. https://t.co/j6oeZLyo3u",The value of inflated cash declines because of two factors:1) Upside. Why hold cash when you can hold BTC or another high upside asset?2) Liquidity. Why hold cash when you can instantly swap out of any other now-liquid asset? Algorithmic liquidity reduces need for currency.,0.7757,0.147,0.0,0.011666666666666667,0.5272222222222221
+2021-03-19,28," Oh, I recognize there are many forms of legerdemain by which to mask the degree of money printing.
+
+I also know the exact timeline for the switch of reserve currencies is hard to predict. Hence, long BTC.
+
+But like the switch from DVD to streaming video, that switch is coming.","Oh, I recognize there are many forms of legerdemain by which to mask the degree of money printing.I also know the exact timeline for the switch of reserve currencies is hard to predict. Hence, long BTC.But like the switch from DVD to streaming video, that switch is coming.",0.2732,0.05,0.028,0.10208333333333333,0.4229166666666666
+2021-03-19,28,"  I already have. Bitcoin is the long short of the system.
+
+For example, I could bet you that the USD/BTC rate would be &gt;$1M by 2030 (this may be conservative!), but better to just hold BTC.","I already have. Bitcoin is the long short of the system.For example, I could bet you that the USD/BTC rate would be $1M by 2030 (this may be conservative!), but better to just hold BTC.",0.63,0.112,0.0,0.15,0.39999999999999997
+2021-03-19,28,"  I actually agree with this. Central bank digital currencies will be an important part of the future.
+
+But we are entering the age of global monetary competition. Just like the dollar disciplined the Venezuelan bolivar, Bitcoin will discipline the dollar. https://t.co/xoP9uL9ITx","I actually agree with this. Central bank digital currencies will be an important part of the future.But we are entering the age of global monetary competition. Just like the dollar disciplined the Venezuelan bolivar, Bitcoin will discipline the dollar.",0.7003,0.155,0.0,0.06666666666666667,0.24583333333333335
+2021-03-19,28,"Crypto &gt; tech &gt; desktop software
+
+It’s much more than a backend change, it’s a cultural change.
+
+On disk → online → on chain
+Closed source → open source → open state
+VC → YC → BTC https://t.co/zpmm1gS5nq","Crypto  tech  desktop softwareIt’s much more than a backend change, it’s a cultural change.On disk → online → on chainClosed source → open source → open stateVC → YC → BTC",0.0,0.0,0.0,0.1,0.33999999999999997
+2021-03-19,28,"A lot of people didn’t get the internet in the early days because they didn’t get open source. Why make the codebase open to anyone?
+
+A lot of people didn’t get BTC in the early days because they didn’t get open state. Why make the database open to anyone?
+https://t.co/JTdP79Alpa https://t.co/B3TMOtmHuA",A lot of people didn’t get the internet in the early days because they didn’t get open source. Why make the codebase open to anyone?A lot of people didn’t get BTC in the early days because they didn’t get open state. Why make the database open to anyone?,0.0,0.0,0.0,0.03333333333333333,0.43333333333333335
+2021-03-19,28,"   BTC did close to a trillion dollars in volume last year. Yes, it’s a medium of exchange. https://t.co/CxB88JQU7j","BTC did close to a trillion dollars in volume last year. Yes, it’s a medium of exchange.",0.4019,0.153,0.0,0.0,0.06666666666666667
+2021-03-23,29,"Many asking how they can bet on the Indian economy.
+
+In theory you’d buy the rupee, just like buying BTC/ETH is going long on the cryptoeconomy.
+
+In practice it might be more like buying an index of the top Indian tech cos and VCs.
+
+But there’s something to the naive idea... 🧵","Many asking how they can bet on the Indian economy.In theory you’d buy the rupee, just like buying BTC/ETH is going long on the cryptoeconomy.In practice it might be more like buying an index of the top Indian tech cos and VCs.But there’s something to the naive idea... 🧵",0.5719,0.122,0.038,0.22999999999999998,0.58
+2021-03-24,29,"   is a product genius - and as question is phrased I understand why he responded like that
+
+But one important point is that diligencing a founder != knowing their “real” name.
+
+Eg Satoshi and many defi protocols can be diligenced. Maybe crypto permits this more easily?",is a product genius - and as question is phrased I understand why he responded like thatBut one important point is that diligencing a founder != knowing their “real” name.Eg Satoshi and many defi protocols can be diligenced. Maybe crypto permits this more easily?,0.7419,0.157,0.0,0.42666666666666664,0.6266666666666667
+2021-03-24,29,Not investing in pseudonymous founders? Guess you missed Bitcoin.,Not investing in pseudonymous founders? Guess you missed Bitcoin.,-0.296,0.0,0.216,0.0,0.0
+2021-03-24,29,"Pseudonymity was the shield that allowed Satoshi to change the world.
+
+What other epochal discoveries or innovations might be made by pseudonymous pioneers?
+
+One might look for important areas of science and engineering where personal attacks abound... https://t.co/PTsglTBZgP",Pseudonymity was the shield that allowed Satoshi to change the world.What other epochal discoveries or innovations might be made by pseudonymous pioneers?One might look for important areas of science and engineering where personal attacks abound...,-0.2732,0.044,0.071,0.09166666666666667,0.5583333333333333
+2021-03-25,29,"I’m really surprised at how many professional tech investors *still* don’t get crypto, even as a $2T industry, even after 10 years of growth, even with BTC alone more valuable than every unicorn over the last decade combined.","I’m really surprised at how many professional tech investors *still* don’t get crypto, even as a $2T industry, even after 10 years of growth, even with BTC alone more valuable than every unicorn over the last decade combined.",0.734,0.19,0.046,0.24,0.4133333333333334
+2021-03-25,29,"How many graphs have you ever seen in your life that are this big and growing this fast?
+
+Even in the likely event of overshoot and correction, it’s so obvious that crypto is the future. By 2030 BTC alone may be worth more than all public tech companies combined. https://t.co/ivSIvQ7KUe","How many graphs have you ever seen in your life that are this big and growing this fast?Even in the likely event of overshoot and correction, it’s so obvious that crypto is the future. By 2030 BTC alone may be worth more than all public tech companies combined.",0.1531,0.068,0.038,0.16666666666666666,0.387962962962963
+2021-03-25,29," I mean, both/and. Buying BTC or ETH is analogous to a growth round, whereas startup protocols are like seed.
+
+Many important differences around exits, custody, liquidity for coin tables vs cap tables though.","I mean, both/and. Buying BTC or ETH is analogous to a growth round, whereas startup protocols are like seed.Many important differences around exits, custody, liquidity for coin tables vs cap tables though.",0.7096,0.198,0.0,0.09687500000000002,0.646875
+2021-03-28,29,"AI came out of decades of academic CS and is continuous with pre-existing work. 
+
+Mobile was driven by Apple &amp; Google, huge name brands.
+
+But crypto started with a nameless brand (Satoshi) and is discontinuous with decades of academic economics.
+
+Need first principles to get it.","AI came out of decades of academic CS and is continuous with pre-existing work. Mobile was driven by Apple &amp; Google, huge name brands.But crypto started with a nameless brand (Satoshi) and is discontinuous with decades of academic economics.Need first principles to get it.",0.3182,0.05,0.0,0.030000000000000016,0.42666666666666664
+2021-03-29,30,"Good (implicit) review of the state-of-the-art on Ethereum L2 vs Lightning.
+
+Eric lost the bet because it was denominated in dollar terms and BTC rose in price.
+
+But it’d be good to see the base unit result. That is, what was the relative increase of BTC into LN vs ETH into L2? https://t.co/pAfAKjVla2","Good (implicit) review of the state-of-the-art on Ethereum L2 vs Lightning.Eric lost the bet because it was denominated in dollar terms and BTC rose in price.But it’d be good to see the base unit result. That is, what was the relative increase of BTC into LN vs ETH into L2?",0.7003,0.136,0.039,0.23999999999999994,0.6300000000000001
+2021-03-29,30,"Btw, don’t take this as a troll. I am supportive of  and ’s efforts to do L2 on BTC, as well as all the Ethereum scaling technologies like , and the other L1 chains.
+
+Head-to-head technological benchmarking is important and helps us all improve.","Btw, don’t take this as a troll. I am supportive of  and ’s efforts to do L2 on BTC, as well as all the Ethereum scaling technologies like , and the other L1 chains.Head-to-head technological benchmarking is important and helps us all improve.",0.9022,0.287,0.0,0.25833333333333336,0.7916666666666666
+2021-03-29,30," You might write up a post with a number of such benchmarks that we can track over time.
+
+Right now my bet is on something like trustless WBTC (perhaps RenBTC?) to scale BTC, with instant sends on exchanges as the short term hack, but always happy to be proven wrong.","You might write up a post with a number of such benchmarks that we can track over time.Right now my bet is on something like trustless WBTC (perhaps RenBTC?) to scale BTC, with instant sends on exchanges as the short term hack, but always happy to be proven wrong.",0.1655,0.139,0.11,0.09761904761904765,0.6503968253968253
+2021-03-30,30,Bitcoin did not go mainstream. Mainstream went Bitcoin. https://t.co/zZ6pS8OEzY,Bitcoin did not go mainstream. Mainstream went Bitcoin.,0.0,0.0,0.0,0.0,0.0

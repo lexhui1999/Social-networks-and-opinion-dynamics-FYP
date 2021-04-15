@@ -1,0 +1,557 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-09-01,1,"1 year $BTC Chart vs $USD Chart 
+
+#Bitcoin $DXY #Cryptocurrency https://t.co/wWfg5z2VHH",1 year $BTC Chart vs $USD Chart #Bitcoin $DXY #Cryptocurrency,0.0,0.0,0.0,0.0,0.0
+2020-09-11,2,"The founder of  wanted me to pass this message on to all the #crypto people
+
+#Bitcoin $BTC #Cryptocurrency https://t.co/WgqirpdpFD",The founder of  wanted me to pass this message on to all the #crypto people#Bitcoin $BTC #Cryptocurrency,0.0,0.0,0.0,0.0,0.0
+2020-09-16,3,"Kraken Exchange wins approval to create America’s first #crypto bank
+
+#Bitcoin $BTC #Cryptocurrency https://t.co/JegIyvJgJ8",Kraken Exchange wins approval to create America’s first #crypto bank#Bitcoin $BTC #Cryptocurrency,0.836,0.447,0.0,0.275,0.26666666666666666
+2020-09-19,3,"Last 6 months: 
+
+#Link $LINK +344%
+#Ethereum $ETH +180%
+#Monero $XMR +110%
+#StellarLumens $XLM +99%
+#Zcash $ZEC +78%
+#Bitcoin $BTC +68%
+#Ripple $XRP +57% 
+#Litecoin $LTC +23%",Last 6 months: #Link $LINK +344%#Ethereum $ETH +180%#Monero $XMR +110%#StellarLumens $XLM +99%#Zcash $ZEC +78%#Bitcoin $BTC +68%#Ripple $XRP +57% #Litecoin $LTC +23%,0.0,0.0,0.0,0.0,0.06666666666666667
+2020-09-19,3,"Last 3 months: 
+
+#Link $LINK +125% 
+#Ethereum $ETH +58%
+#Monero $XMR +42%
+#Ripple $XRP +32%
+#Bitcoin $BTC +14%
+#StellarLumens $XLM +10% 
+#Zcash $ZEC +9% 
+#Litecoin $LTC +9%
+
+#Cryptocurrency",Last 3 months: #Link $LINK +125% #Ethereum $ETH +58%#Monero $XMR +42%#Ripple $XRP +32%#Bitcoin $BTC +14%#StellarLumens $XLM +10% #Zcash $ZEC +9% #Litecoin $LTC +9%#Cryptocurrency,0.0,0.0,0.0,0.0,0.06666666666666667
+2020-09-28,5,"Demand for #Bitcoin is rising, but there is less than 2.5 million $BTC left to mine #Cryptocurrency https://t.co/syD5JLghYO","Demand for #Bitcoin is rising, but there is less than 2.5 million $BTC left to mine #Cryptocurrency",-0.0644,0.0,0.068,-0.08333333333333333,0.03333333333333333
+2020-10-08,6,"BREAKING:  Invests $50 Million in #Bitcoin
+
+“Bitcoin could be more ubiquitous currency in future.” - Square CFO
+
+Jack Dorsey  (CEO of  and ) is all in on $BTC 
+
+#Cryptocurrency",BREAKING:  Invests $50 Million in #Bitcoin“Bitcoin could be more ubiquitous currency in future.” - Square CFOJack Dorsey  (CEO of  and ) is all in on $BTC #Cryptocurrency,0.0,0.0,0.0,0.25,0.3125
+2020-10-13,7,"New  Report Explains Why Trillions of Dollars Could Move Into #Bitcoin in the Coming Years 
+
+$BTC #Cryptocurrency https://t.co/SpQLikwaKV",New  Report Explains Why Trillions of Dollars Could Move Into #Bitcoin in the Coming Years $BTC #Cryptocurrency,0.0,0.0,0.0,0.13636363636363635,0.45454545454545453
+2020-10-14,7,"Coinbase Holds More Than $11 Billion Of #Bitcoin In Cold Storage 
+
+ #Cryptocurrency $BTC  https://t.co/daDYEMjEJc",Coinbase Holds More Than $11 Billion Of #Bitcoin In Cold Storage  #Cryptocurrency $BTC,0.0,0.0,0.0,-0.04999999999999999,0.75
+2020-10-20,8,#Bitcoin Hits $12K as Its Dominance Surpasses 60 Percent First Time Since August $BTC #Cryptocurrency https://t.co/w1LQKbuFfE,#Bitcoin Hits $12K as Its Dominance Surpasses 60 Percent First Time Since August $BTC #Cryptocurrency,0.2023,0.107,0.0,0.25,0.3333333333333333
+2020-10-21,8,"JUST IN:  to allow #cryptocurrency buying, selling and shopping on its network #Bitcoin #Ethereum  https://t.co/YH92TG4TEa","JUST IN:  to allow #cryptocurrency buying, selling and shopping on its network #Bitcoin #Ethereum",0.2263,0.119,0.0,0.0,0.0
+2020-10-23,8,"""I came to the conclusion that $BTC was going to be the best of the inflation trades. #Bitcoin has a lot of characteristics of being an early investor in a tech company...it's like investing with Steve Jobs and Apple."" - Billionaire Paul Tudor Jones
+ https://t.co/rWWb8JGGVk","""I came to the conclusion that $BTC was going to be the best of the inflation trades. #Bitcoin has a lot of characteristics of being an early investor in a tech company...it's like investing with Steve Jobs and Apple."" - Billionaire Paul Tudor Jones",0.7717,0.143,0.0,0.55,0.3
+2020-10-26,9,"JPMorgan Sees #Bitcoin Rising Up To 10x As Millennials Flood Into The ""Alternative"" Currency $BTC #Cryptocurrency 
+ https://t.co/8A3UInBsqR","JPMorgan Sees #Bitcoin Rising Up To 10x As Millennials Flood Into The ""Alternative"" Currency $BTC #Cryptocurrency",0.0,0.0,0.0,0.0,0.0
+2020-10-27,9,"Someone Just Sent $1 Billion in #Bitcoin, Paid Only $3 in Fees $BTC #Cryptocurrency https://t.co/PwClnADlqA","Someone Just Sent $1 Billion in #Bitcoin, Paid Only $3 in Fees $BTC #Cryptocurrency",0.0,0.0,0.0,0.0,1.0
+2020-11-04,10,"#Bitcoin doesn’t care who wins the election 
+
+💲1️⃣4️⃣,1️⃣0️⃣0️⃣ 
+
+$BTC is the best performing asset, this year, last 5 years and last 10 years #HODL","#Bitcoin doesn’t care who wins the election 💲1️⃣4️⃣,1️⃣0️⃣0️⃣ $BTC is the best performing asset, this year, last 5 years and last 10 years #HODL",0.9274,0.417,0.0,0.325,0.15833333333333333
+2020-11-05,10,$USD 1 Year Chart vs #Bitcoin 1 Year Chart https://t.co/HW0YYeOFm1,$USD 1 Year Chart vs #Bitcoin 1 Year Chart,0.0,0.0,0.0,0.0,0.0
+2020-11-05,10,#Bitcoin chart https://t.co/fMZf2Tmnwq,#Bitcoin chart,0.0,0.0,0.0,0.0,0.0
+2020-11-07,10,"Joe Biden is expected to hire #bitcoin-friendly, Gary Gensler, to help oversee Wall Street $BTC #Cryptocurrency https://t.co/Z6wUd8TBlX","Joe Biden is expected to hire #bitcoin-friendly, Gary Gensler, to help oversee Wall Street $BTC #Cryptocurrency",0.4019,0.144,0.0,-0.1,0.4
+2020-11-08,10,"JPMorgan Says Institutions Ditching Gold ETFs for #Bitcoin $BTC #Cryptocurrency 
+ https://t.co/JkbeWkLEtT",JPMorgan Says Institutions Ditching Gold ETFs for #Bitcoin $BTC #Cryptocurrency,0.0,0.0,0.0,0.0,0.0
+2020-11-09,11,"""If the #Gold bet works, the #Bitcoin bet will probably work better."" - Stanley Druckenmiller (Billionaire hedge fund manager) https://t.co/FcqidWGftn","""If the #Gold bet works, the #Bitcoin bet will probably work better."" - Stanley Druckenmiller (Billionaire hedge fund manager)",0.0,0.0,0.0,0.5,0.5
+2020-11-12,11,"If you have a  account in the US, you can now buy, sell and hold cryptocurrencies #Bitcoin  #Ethereum #BitcoinCash #Litecoin https://t.co/sxpI1yG9mP","If you have a  account in the US, you can now buy, sell and hold cryptocurrencies #Bitcoin  #Ethereum #BitcoinCash #Litecoin",0.0,0.0,0.0,0.0,0.0
+2020-11-12,11,PayPal offering no fees until 12/31/2020 #Cryptocurrency #Bitcoin #Ethereum https://t.co/D3t47jmhxo,PayPal offering no fees until 12/31/2020 #Cryptocurrency #Bitcoin #Ethereum,-0.296,0.0,0.196,0.0,0.0
+2020-11-13,11,"#Bitcoin  price 1 year before its first halving: $2.55 
+
+$BTC price 1 year after its first halving: $1,037
+
+#Zcash ᙇ price 1 year before its first halving: $34.14 
+
+$ZEC price 1 year after its first halving: ?
+
+First ever halving for #Zcash ᙇ is in 4 days.
+
+Remind me in 1 year","#Bitcoin  price 1 year before its first halving: $2.55 $BTC price 1 year after its first halving: $1,037#Zcash ᙇ price 1 year before its first halving: $34.14 $ZEC price 1 year after its first halving: ?First ever halving for #Zcash ᙇ is in 4 days.Remind me in 1 year",0.0,0.0,0.0,0.25,0.3333333333333333
+2020-11-16,12,Banks are now bullish on #Bitcoin https://t.co/a3D3KdeAAP,Banks are now bullish on #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-11-17,12,"#Bitcoin vs #Gold 
+
+Last year: 
+$BTC 101%
+$Gold 28%
+
+Last 5 years: 
+$BTC 5,073%
+$Gold 70%
+
+Chart below: If you invested $1 in #Bitcoin vs $1 in #Gold https://t.co/rbHjtRrWAv","#Bitcoin vs #Gold Last year: $BTC 101%$Gold 28%Last 5 years: $BTC 5,073%$Gold 70%Chart below: If you invested $1 in #Bitcoin vs $1 in #Gold",0.0,0.0,0.0,0.0,0.06666666666666667
+2020-11-17,12,HOLD #Bitcoin https://t.co/HV5ogxmXZQ,HOLD #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-11-18,12,"#Bitcoin vs #Gold 
+
+Sorry  https://t.co/zOWp9mBvot",#Bitcoin vs #Gold Sorry,-0.0772,0.0,0.245,-0.5,1.0
+2020-11-18,12,"Mexico’s second richest man invests 10% of his liquid portfolio in #Bitcoin 
+
+The herd is coming! $BTC #Cryptocurrency 
+
+https://t.co/7Cqq73ViJH",Mexico’s second richest man invests 10% of his liquid portfolio in #Bitcoin The herd is coming! $BTC #Cryptocurrency,0.5707,0.17,0.0,0.0,0.0
+2020-11-19,12,"#Bitcoin vs #Gold 
+
+1 month chart https://t.co/mZxXzVNXe5",#Bitcoin vs #Gold 1 month chart,0.0,0.0,0.0,0.0,0.0
+2020-11-20,12,#Bitcoin is here to stay  https://t.co/9qbzhpBhgv,#Bitcoin is here to stay,0.0,0.0,0.0,0.0,0.0
+2020-11-20,12,"""It's killing it this year — it's just crushing all other hedges and asset classes this year, but in 2021 I think #Bitcoin could be the year of the fireworks... the best is probably yet to come."" https://t.co/DZh31WQGja","""It's killing it this year — it's just crushing all other hedges and asset classes this year, but in 2021 I think #Bitcoin could be the year of the fireworks... the best is probably yet to come.""",0.6249,0.172,0.101,0.425,0.525
+2020-11-22,12,"JPMorgan admits it was wrong about end of #Bitcoin bull run. Now has a $140,000 price target $BTC https://t.co/0ifHOaMnUY","JPMorgan admits it was wrong about end of #Bitcoin bull run. Now has a $140,000 price target $BTC",-0.2263,0.103,0.146,-0.5,0.9
+2020-11-22,12,#Crypto Market $BTC $ETH $XRP $XLM $ZEC $LINK $PNK $ADA https://t.co/CrvqAWbwYY,#Crypto Market $BTC $ETH $XRP $XLM $ZEC $LINK $PNK $ADA,0.0,0.0,0.0,0.0,0.0
+2020-11-23,13,"Serious question. 
+
+Why own #Gold, when you can just buy #Bitcoin? 
+
+Do you honestly think millennials and the next generation is going to buy $gold over #bitcoin? 
+
+Is the world going digital or not?","Serious question. Why own #Gold, when you can just buy #Bitcoin? Do you honestly think millennials and the next generation is going to buy $gold over #bitcoin? Is the world going digital or not?",0.5007,0.096,0.035,0.17333333333333334,0.5133333333333333
+2020-11-24,13,#Bitcoin vs #Gold https://t.co/kipRtvKwuN,#Bitcoin vs #Gold,0.0,0.0,0.0,0.0,0.0
+2020-11-25,13,“ I don't think it's that crazy to see $100K #bitcoin  price by the end of 2021.” -  https://t.co/dWCpPC7Z2R,“ I don't think it's that crazy to see $100K #bitcoin  price by the end of 2021.” -,-0.34,0.0,0.138,-0.6,0.9
+2020-11-28,13,Does history repeat itself? #Bitcoin https://t.co/QLuH4bde8x,Does history repeat itself? #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-11-30,14,Russia to Recognize #Bitcoin as Property With Legal Protection $BTC #Cryptocurrency https://t.co/zVQcAOr4lv,Russia to Recognize #Bitcoin as Property With Legal Protection $BTC #Cryptocurrency,0.128,0.12,0.0,0.2,0.2
+2020-11-30,14,"$50 #Bitcoin GIVEAWAY! 
+
+You must #RETWEET and #LIKE this tweet to ENTER
+
+Get your favorite $BTC $ETH $XRP $XLM $LINK $ZEC $XMR $LTC $DOGE $ADA swag
+
+#CyberMonday use code: Cryptomoon for 10% OFF your order!
+
+Winner will be picked in 3 days! 
+
+https://t.co/WPQGz6wRdu",$50 #Bitcoin GIVEAWAY! You must #RETWEET and #LIKE this tweet to ENTERGet your favorite $BTC $ETH $XRP $XLM $LINK $ZEC $XMR $LTC $DOGE $ADA swag#CyberMonday use code: Cryptomoon for 10% OFF your order!Winner will be picked in 3 days!,0.826,0.161,0.0,0.78125,1.0
+2020-11-30,14,"BREAKING: #Bitcoin has set a new all-time high after trading above $19,783 $BTC #Cryptocurrency  https://t.co/2vGHEuYKEA","BREAKING: #Bitcoin has set a new all-time high after trading above $19,783 $BTC #Cryptocurrency",0.0,0.0,0.0,0.0987878787878788,0.3648484848484848
+2020-12-01,14,"Visa is partnering with #cryptocurrency startup BlockFi to offer a credit card that rewards purchases with #Bitcoin rather than airline miles or cash
+ https://t.co/GIucRqLNst",Visa is partnering with #cryptocurrency startup BlockFi to offer a credit card that rewards purchases with #Bitcoin rather than airline miles or cash,0.6908,0.213,0.0,0.0,0.0
+2020-12-02,14,This metric suggests #Bitcoin price can go as high as $590K this bull run $BTC #Cryptocurrency https://t.co/rtzgFWGLl0,This metric suggests #Bitcoin price can go as high as $590K this bull run $BTC #Cryptocurrency,0.0,0.0,0.0,0.16,0.5399999999999999
+2020-12-03,14,"#Bitcoin GIVEAWAY! 
+
+$100 worth of $BTC
+
+MUST RETWEET THIS TWEET TO ENTER 🔥 
+
+Winner announced in 1 week! 
+
+$ETH $XRP $LINK $LTC $ADA $XLM $XMR $ZEC $DOGE #HODL 
+
+#Crypto CLOTHING STORE! 
+
+Get your #crypto swag below! 
+
+THREAD 🔽🔽🔽🔽🔽🔽🔽🔽",#Bitcoin GIVEAWAY! $100 worth of $BTCMUST RETWEET THIS TWEET TO ENTER 🔥 Winner announced in 1 week! $ETH $XRP $LINK $LTC $ADA $XLM $XMR $ZEC $DOGE #HODL #Crypto CLOTHING STORE! Get your #crypto swag below! THREAD 🔽🔽🔽🔽🔽🔽🔽🔽,0.7825,0.168,0.0,0.5859375,0.1
+2020-12-03,14,"3D LED #Bitcoin Lamp 
+
+LINK 🔽 
+https://t.co/DdnnxTq8GQ https://t.co/bUEBeUgztI",3D LED #Bitcoin Lamp LINK 🔽,0.0,0.0,0.0,0.0,0.0
+2020-12-03,14,"#Bitcoin Hats #HODL $BTC
+
+LINK 🔽
+https://t.co/qZAbLQeeVQ https://t.co/EvpPYDuv0i",#Bitcoin Hats #HODL $BTCLINK 🔽,0.0,0.0,0.0,0.0,0.0
+2020-12-03,14,"MORE SHIRTS! $BTC $ETH $XRP $LINK $ADA $LTC $XLM $ZEC $DOGE $XMR #HODL 
+
+LINK 🔽
+https://t.co/7CKRZbCWcD
+
+ENJOY! #Cryptocurrency",MORE SHIRTS! $BTC $ETH $XRP $LINK $ADA $LTC $XLM $ZEC $DOGE $XMR #HODL LINK 🔽ENJOY! #Cryptocurrency,0.6723,0.22,0.0,0.5625,0.5
+2020-12-07,15,U.S. Treasury says there is strong support across G7 on need to regulate digital currencies #Bitcoin,U.S. Treasury says there is strong support across G7 on need to regulate digital currencies #Bitcoin,0.7783,0.375,0.0,0.21666666666666665,0.36666666666666664
+2020-12-09,15,JPMorgan Says #Gold Will Suffer for Years Because of #Bitcoin https://t.co/hYI7dYPqM1,JPMorgan Says #Gold Will Suffer for Years Because of #Bitcoin,-0.5423,0.0,0.259,0.0,0.0
+2020-12-10,15,"$235 billion insurance company 
+ joins the #Bitcoin club with $100 million purchase $BTC https://t.co/k4ROdlyTgC",$235 billion insurance company  joins the #Bitcoin club with $100 million purchase $BTC,0.0,0.0,0.0,0.0,0.0
+2020-12-10,15,"“Other return-hungry #insurance companies have also bought #bitcoin for their general accounts through his firm. Interest rates... and a depreciating dollar have made bitcoin appear more attractive."" - Ross Stevens, the founder and executive chairman of NYDIG","“Other return-hungry #insurance companies have also bought #bitcoin for their general accounts through his firm. Interest rates... and a depreciating dollar have made bitcoin appear more attractive."" - Ross Stevens, the founder and executive chairman of NYDIG",0.4588,0.081,0.0,0.205,0.5549999999999999
+2020-12-14,16,"#Monero has been very impressive this year. It will be top 5 soon in market cap. 
+
+$XMR has a lower supply then #Bitcoin 
+
+Privacy will be valued  
+
+#Cryptocurrency https://t.co/BnEEb94l5q",#Monero has been very impressive this year. It will be top 5 soon in market cap. $XMR has a lower supply then #Bitcoin Privacy will be valued  #Cryptocurrency,0.7264,0.248,0.066,0.75,0.75
+2020-12-15,16,JPMorgan Estimates Institutions Could Put $600 Billion Into #Bitcoin https://t.co/3zCh8xwP83,JPMorgan Estimates Institutions Could Put $600 Billion Into #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-12-15,16,"Asset class returns over the last 10 years $BTC $QQQ $SPY $IWM $GLD 
+
+#Bitcoin is your winner, +6271233% over the last 10 years, with an average of +203.5% every year https://t.co/XzzpjUJKnE","Asset class returns over the last 10 years $BTC $QQQ $SPY $IWM $GLD #Bitcoin is your winner, +6271233% over the last 10 years, with an average of +203.5% every year",0.743,0.178,0.0,-0.049999999999999996,0.17777777777777778
+2020-12-16,16,#Bitcoin 📈      VS      $USD 📉 https://t.co/1uInteAWXN,#Bitcoin 📈      VS      $USD 📉,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,"#Bitcoin 2️⃣0️⃣,0️⃣0️⃣0️⃣ 🔥🔥🔥 https://t.co/AJcBfnSGFc","#Bitcoin 2️⃣0️⃣,0️⃣0️⃣0️⃣ 🔥🔥🔥",0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,"Last time CME announced #Bitcoin futures, $BTC went parabolic...
+
+#Ethereum is next https://t.co/G6OX02ubA8","Last time CME announced #Bitcoin futures, $BTC went parabolic...#Ethereum is next",0.0,0.0,0.0,0.0,0.03333333333333333
+2020-12-16,16,"#Bitcoin Whale Emerges With $1 Billion, Alan Howard’s Backing $BTC #Cryptocurrency https://t.co/56E2uJ0mND","#Bitcoin Whale Emerges With $1 Billion, Alan Howard’s Backing $BTC #Cryptocurrency",0.0258,0.091,0.0,0.0,0.0
+2020-12-16,16,#Bitcoin https://t.co/0xKUJytq1S,#Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,100k #Bitcoin Target https://t.co/4CN7PHO3VJ,100k #Bitcoin Target,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,"“Our fundamental work shows that #Bitcoin should be worth about $400,000."" https://t.co/0fihMyQc0y","“Our fundamental work shows that #Bitcoin should be worth about $400,000.""",0.2263,0.147,0.0,0.3,0.1
+2020-12-16,16,The #Bitcoin rally is just getting started 🔥 $BTC #Cryptocurrency  https://t.co/xMKG1ilxch,The #Bitcoin rally is just getting started 🔥 $BTC #Cryptocurrency,0.0,0.0,0.0,0.0,0.0
+2020-12-17,16,UPDATE: #Bitcoin📈 vs $USD 📉 https://t.co/HZuvlIy2Aq,UPDATE: #Bitcoin📈 vs $USD 📉,0.0,0.0,0.0,0.0,0.0
+2020-12-17,16,"#Bitcoin $22,500
+
+Last: 
+
+24 hours: +14%
+Week: +23%
+Month: +32%
+3 Months: +105%
+6 Months: +142%
+1 Year: +213%
+2 Years: +495%
+10 Years: +6271233%
+
+$BTC T-Shirts 🔽
+https://t.co/YXfNnouZ00 https://t.co/3RKIobS7en","#Bitcoin $22,500Last: 24 hours: +14%Week: +23%Month: +32%3 Months: +105%6 Months: +142%1 Year: +213%2 Years: +495%10 Years: +6271233%$BTC T-Shirts 🔽",0.0,0.0,0.0,0.0,0.06666666666666667
+2020-12-17,16,#Bitcoin https://t.co/X9EAhbqYWN,#Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-12-17,16,“$150K - $200K looks like the base case [for #Bitcoin ] - I think we could pull forward the next cycle and go to $0.5M to $1M in the 2021-2022 timeframe” https://t.co/EiLKGQmZTT,“$150K - $200K looks like the base case [for #Bitcoin ] - I think we could pull forward the next cycle and go to $0.5M to $1M in the 2021-2022 timeframe”,0.3612,0.085,0.0,-0.4,0.5
+2020-12-18,16,Ready for the orange 🍊 dots #Bitcoin https://t.co/pmB4qFYIm5,Ready for the orange 🍊 dots #Bitcoin,0.3612,0.294,0.0,0.2,0.5
+2020-12-18,16,“You're going to see every single financial institution forced into this space.” #Bitcoin $BTC #Cryptocurrency https://t.co/BSYO9sHQAt,“You're going to see every single financial institution forced into this space.” #Bitcoin $BTC #Cryptocurrency,-0.4588,0.0,0.167,-0.12380952380952381,0.13809523809523808
+2020-12-20,16,CEO of  is a #Bitcoin Fan https://t.co/1pVTie0uY7,CEO of  is a #Bitcoin Fan,0.3182,0.315,0.0,0.0,0.0
+2020-12-20,16,👀👀  #Bitcoin $TSLA https://t.co/2aBSCdMqUv,👀👀  #Bitcoin $TSLA,0.0,0.0,0.0,0.0,0.0
+2020-12-24,17,The hardest money that has ever been created #Bitcoin  https://t.co/TOWlI49fg5,The hardest money that has ever been created #Bitcoin,0.25,0.182,0.0,0.0,0.0
+2020-12-25,17,"#Bitcoin All-Time High!
+
+Merry Christmas! 🎄🎁",#Bitcoin All-Time High!Merry Christmas! 🎄🎁,0.6229,0.45,0.0,0.25,0.5399999999999999
+2020-12-26,17,"New #Bitcoin All-Time High! 
+
+Merry Christmas 🎁🎄 
+
+2️⃣5️⃣,0️⃣0️⃣0️⃣ 🔥🔥🔥","New #Bitcoin All-Time High! Merry Christmas 🎁🎄 2️⃣5️⃣,0️⃣0️⃣0️⃣ 🔥🔥🔥",0.5848,0.322,0.0,0.16818181818181818,0.4972727272727272
+2020-12-26,17,"#Bitcoin going for $30,000 $BTC","#Bitcoin going for $30,000 $BTC",0.0,0.0,0.0,0.0,0.0
+2020-12-26,17,The largest financial service in the world is now #Bitcoin https://t.co/z7pk9wCO36,The largest financial service in the world is now #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-12-26,17,"Screenshot of one of the first #Bitcoin  order books (April, 2010) 
+
+2,500 $BTC for $8.75 
+
+#Cryptocurrency https://t.co/q1uSkb2hwj","Screenshot of one of the first #Bitcoin  order books (April, 2010) 2,500 $BTC for $8.75 #Cryptocurrency",0.0,0.0,0.0,0.25,0.3333333333333333
+2020-12-27,17,"$ETH $BCH breaking out! 
+
+Last Hour: 
+#BitcoinCash +8% 
+#Ethereum +7%",$ETH $BCH breaking out! Last Hour: #BitcoinCash +8% #Ethereum +7%,0.0,0.0,0.0,0.0,0.06666666666666667
+2020-12-29,18,"#Bitcoin price to grow 'ten times by end of 2022' as JP Morgan estimates value of $650,000 $BTC #Cryptocurrency https://t.co/Hyf8zgV2u0","#Bitcoin price to grow 'ten times by end of 2022' as JP Morgan estimates value of $650,000 $BTC #Cryptocurrency",0.6037,0.215,0.0,0.0,0.0
+2020-12-29,18,Paid in #Bitcoin   https://t.co/DB5mQO8def,Paid in #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-12-30,18,"2️⃣8️⃣,0️⃣0️⃣0️⃣ #Bitcoin","2️⃣8️⃣,0️⃣0️⃣0️⃣ #Bitcoin",0.0,0.0,0.0,0.0,0.0
+2020-12-30,18,VanEck files SEC registration for #Bitcoin ETF again https://t.co/UNSQLd2JfM,VanEck files SEC registration for #Bitcoin ETF again,0.0,0.0,0.0,-0.1,0.6
+2020-12-30,18,#Bitcoin 30k+ incoming 🚀🚀 $BTC https://t.co/7DpKNix58t,#Bitcoin 30k+ incoming 🚀🚀 $BTC,0.0,0.0,0.0,0.0,0.0
+2020-12-30,18,"#Bitcoin 2️⃣9️⃣,0️⃣0️⃣0️⃣ 🔥🔥","#Bitcoin 2️⃣9️⃣,0️⃣0️⃣0️⃣ 🔥🔥",0.0,0.0,0.0,0.0,0.0
+2020-12-30,18,Bullish on #Bitcoin  $BTC https://t.co/pAsuRTJ7gg,Bullish on #Bitcoin  $BTC,0.0,0.0,0.0,0.0,0.0
+2020-12-31,18,Organic #Bitcoin https://t.co/FGVko5g5gi,Organic #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-02,18,"#Bitcoin 3️⃣1️⃣,0️⃣0️⃣0️⃣","#Bitcoin 3️⃣1️⃣,0️⃣0️⃣0️⃣",0.0,0.0,0.0,0.0,0.0
+2021-01-02,18,"Be careful everyone, a correction is coming and it will be violent #Bitcoin 
+
+Long-term BULL $BTC https://t.co/0dRLc3aL8D","Be careful everyone, a correction is coming and it will be violent #Bitcoin Long-term BULL $BTC",-0.5106,0.082,0.2,-0.45,1.0
+2021-01-02,18,"#Bitcoin is going parabolic 
+
+$BTC 3️⃣3️⃣,0️⃣0️⃣0️⃣","#Bitcoin is going parabolic $BTC 3️⃣3️⃣,0️⃣0️⃣0️⃣",0.0,0.0,0.0,0.0,0.0
+2021-01-02,18,#Bitcoin - The definition of organic growth! $BTC https://t.co/YLevQercx3,#Bitcoin - The definition of organic growth! $BTC,0.4389,0.292,0.0,0.0,0.0
+2021-01-03,18,"#Bitcoin 3️⃣4️⃣,0️⃣0️⃣0️⃣","#Bitcoin 3️⃣4️⃣,0️⃣0️⃣0️⃣",0.0,0.0,0.0,0.0,0.0
+2021-01-03,18,"Why #Bitcoin Could Be in Early Days of Super Cycle to $1,000,000 $BTC #Cryptocurrency https://t.co/PJR2sIWACP","Why #Bitcoin Could Be in Early Days of Super Cycle to $1,000,000 $BTC #Cryptocurrency",0.5994,0.218,0.0,0.21666666666666667,0.4833333333333333
+2021-01-03,18,"Huge believer in $XHV 
+
+Trading on  
+
+#Monero Fork $XMR
+Has a less supply than #Bitcoin 14,258,109 XHV
+
+A DeFi ecosystem of private assets  https://t.co/KJbwxEldT1","Huge believer in $XHV Trading on  #Monero Fork $XMRHas a less supply than #Bitcoin 14,258,109 XHVA DeFi ecosystem of private assets",0.4588,0.167,0.0,0.0777777777777778,0.44722222222222224
+2021-01-04,18,MASSIVE NEWS #Bitcoin $BTC $ETH https://t.co/zcae7ZChIa,MASSIVE NEWS #Bitcoin $BTC $ETH,0.0,0.0,0.0,0.0,1.0
+2021-01-06,18,"#Bitcoin 3️⃣5️⃣,0️⃣0️⃣0️⃣ 🔥🔥 $BTC","#Bitcoin 3️⃣5️⃣,0️⃣0️⃣0️⃣ 🔥🔥 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-01-06,18,#Bitcoin vs #Gold  https://t.co/TvCChjAsVH,#Bitcoin vs #Gold,0.0,0.0,0.0,0.0,0.0
+2021-01-06,18,"#Bitcoin 3️⃣6️⃣,0️⃣0️⃣0️⃣ 🔥🔥
+
+Last Week: +25%
+Month: +87%
+3 Months: +230%
+6 Months: +286%
+Year: +346%
+
+$BTC Shirts 🔽
+https://t.co/YXfNnouZ00 https://t.co/gcM58AdeR9","#Bitcoin 3️⃣6️⃣,0️⃣0️⃣0️⃣ 🔥🔥Last Week: +25%Month: +87%3 Months: +230%6 Months: +286%Year: +346%$BTC Shirts 🔽",0.0,0.0,0.0,0.0,0.06666666666666667
+2021-01-06,18,If you invested your $1200 stimulus check in #Bitcoin https://t.co/8ezePUk3o5,If you invested your $1200 stimulus check in #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-07,18,"#Bitcoin is now worth more than  
+
+The same day  became the riches person in the world, $BTC surpassed $TSLA market cap https://t.co/PqjJKwoYIX","#Bitcoin is now worth more than  The same day  became the riches person in the world, $BTC surpassed $TSLA market cap",0.6486,0.209,0.0,0.26666666666666666,0.24166666666666667
+2021-01-07,18,"#Bitcoin 3️⃣9️⃣,0️⃣0️⃣0️⃣ $BTC","#Bitcoin 3️⃣9️⃣,0️⃣0️⃣0️⃣ $BTC",0.0,0.0,0.0,0.0,0.0
+2021-01-07,18,#Bitcoin is here to save us $BTC https://t.co/Ulyh06T7aJ,#Bitcoin is here to save us $BTC,0.4939,0.314,0.0,0.0,0.0
+2021-01-07,18,"#Bitcoin 4️⃣0️⃣,0️⃣0️⃣0️⃣ 🔥 $BTC","#Bitcoin 4️⃣0️⃣,0️⃣0️⃣0️⃣ 🔥 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-01-07,18,#Bitcoin 1 million dollar price target  https://t.co/wUTlCZYGfC,#Bitcoin 1 million dollar price target,0.0,0.0,0.0,0.0,0.0
+2021-01-08,18,"#Bitcoin 4️⃣1️⃣,0️⃣0️⃣0️⃣ 🔥 $BTC","#Bitcoin 4️⃣1️⃣,0️⃣0️⃣0️⃣ 🔥 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-01-08,18,"Where is all the #gold money going?? 
+
+#Bitcoin $BTC https://t.co/PvGSEhGxnM",Where is all the #gold money going?? #Bitcoin $BTC,0.0,0.0,0.0,0.0,0.0
+2021-01-09,18,"The richest man in the world wouldn’t turn down being paid in #Bitcoin  
+
+ $TSLA $BTC https://t.co/2a8Is3dgjQ",The richest man in the world wouldn’t turn down being paid in #Bitcoin   $TSLA $BTC,0.5267,0.185,0.0,-0.15555555555555559,0.2888888888888889
+2021-01-09,18,"Elon Musk, the world’s richest man, wants to be paid in #bitcoin  https://t.co/0pM5X6fn8V","Elon Musk, the world’s richest man, wants to be paid in #bitcoin",0.5267,0.221,0.0,0.2,0.1
+2021-01-12,19,"Banks are now making you pay them to hold your money... 
+
+#Bitcoin is here to save you $BTC https://t.co/222hvJLl5h",Banks are now making you pay them to hold your money... #Bitcoin is here to save you $BTC,0.4215,0.148,0.065,0.0,0.0
+2021-01-12,19,Peacefully protest with #Bitcoin  https://t.co/8lmNouLMpG,Peacefully protest with #Bitcoin,0.34,0.405,0.238,0.25,0.5
+2021-01-13,19,"IMO $XHV will be the best performing #crypto in 2021 
+
+Current Price: $3.50  
+
+What else will have a better ROI? Comment below with the price as well!
+
+$BTC $ETH $XRP $XLM $LINK 
+
+https://t.co/LPCL6f9XnB",IMO $XHV will be the best performing #crypto in 2021 Current Price: $3.50  What else will have a better ROI? Comment below with the price as well!$BTC $ETH $XRP $XLM $LINK,0.8588,0.247,0.0,0.5416666666666666,0.39999999999999997
+2021-01-13,19,Bull market is just getting started #Bitcoin #Cryptocurrency https://t.co/9P0mroqaaF,Bull market is just getting started #Bitcoin #Cryptocurrency,0.0,0.0,0.0,0.0,0.0
+2021-01-14,19,#Bitcoin https://t.co/SGtUKtNS0j,#Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-14,19,Miami Mayor may invest government funds in #Bitcoin   https://t.co/t2CMEjRCFL,Miami Mayor may invest government funds in #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-15,19,4k to 40k #Bitcoin $BTC https://t.co/9LFCXljGTQ,4k to 40k #Bitcoin $BTC,0.0,0.0,0.0,0.0,0.0
+2021-01-18,20,"If you want the most secure and private cellphone service than use 
+
+Hacking and SIM swapping will only get more popular.  also gives you 5M in insurance on your phone.
+
+Protect your data and #crypto
+
+#Bitcoin $BTC $ETH $LINK $XRP $DOT #DeFi 
+
+https://t.co/SBKVE4Pkr8",If you want the most secure and private cellphone service than use Hacking and SIM swapping will only get more popular.  also gives you 5M in insurance on your phone.Protect your data and #crypto#Bitcoin $BTC $ETH $LINK $XRP $DOT #DeFi,0.8265,0.199,0.0,0.3333333333333333,0.6458333333333334
+2021-01-18,20,The Federal Reserve cut rates to 0 and #Bitcoin went parabolic 📈 https://t.co/TsOrEwKxMm,The Federal Reserve cut rates to 0 and #Bitcoin went parabolic 📈,-0.2732,0.0,0.174,0.0,0.0
+2021-01-19,20,"$XHV integrating with  very soon 
+
+Keep an eye on  
+
+14,363,267 Total Supply (Yes, less than #Bitcoin and yes it’s a $XMR fork) 
+
+BIG things coming #Haven #Monero https://t.co/XxvA1EGoie","$XHV integrating with  very soon Keep an eye on  14,363,267 Total Supply (Yes, less than #Bitcoin and yes it’s a $XMR fork) BIG things coming #Haven #Monero",0.4019,0.094,0.0,0.008333333333333338,0.3041666666666667
+2021-01-20,20,"#Bitcoin Price on Presidential Inauguration Day $BTC 
+
+January 21, 2013 - $14 
+January 20, 2017 - $917
+January 20, 2021 - $35,000","#Bitcoin Price on Presidential Inauguration Day $BTC January 21, 2013 - $14 January 20, 2017 - $917January 20, 2021 - $35,000",0.0,0.0,0.0,0.0,0.0
+2021-01-22,20,"“#Cryptocurrency could replace #gold, #bonds, the S&amp;P 500 and even the Dow as the primary monetary index” -  CEO
+
+#Bitcoin $BTC https://t.co/l4f5hVHD8I","“#Cryptocurrency could replace #gold, #bonds, the S&amp;P 500 and even the Dow as the primary monetary index” -  CEO#Bitcoin $BTC",0.0,0.0,0.0,0.4,0.5
+2021-01-22,20,"$ZCL might pull another massive spike
+
+ is having another fork soon #Bitcoin Private 2.0 
+
+Keep an eye on #Zclassic ",$ZCL might pull another massive spike is having another fork soon #Bitcoin Private 2.0 Keep an eye on #Zclassic,0.0,0.0,0.0,0.0,0.6875
+2021-01-23,20,"The last time $ZCL had a fork, it hit $248
+
+ hit $248 when #Bitcoin was 17k in 2018
+
+Now we have 32k $BTC and $ZCL is on less exchanges, meaning not much liquidity. When you have a lot of demand and low liquidity, you see 🚀
+
+Total Supply - 9,096,834 $ZCL https://t.co/vY9QN7Ir11","The last time $ZCL had a fork, it hit $248 hit $248 when #Bitcoin was 17k in 2018Now we have 32k $BTC and $ZCL is on less exchanges, meaning not much liquidity. When you have a lot of demand and low liquidity, you see 🚀Total Supply - 9,096,834 $ZCL",-0.3818,0.0,0.073,-0.05333333333333333,0.27666666666666667
+2021-01-24,20,"Over the last 11 years, #Bitcoin averages +203% every year $BTC","Over the last 11 years, #Bitcoin averages +203% every year $BTC",0.0,0.0,0.0,0.0,0.06666666666666667
+2021-01-28,21,"Imagine what  could do with $ZCL 
+
+Only on two exchanges, currently $0.50 cents and has a total supply of 9,101,237. 
+
+  #wallstreetbets #bitcoin   https://t.co/d9HFZGKQpt","Imagine what  could do with $ZCL Only on two exchanges, currently $0.50 cents and has a total supply of 9,101,237.   #wallstreetbets #bitcoin",0.0,0.0,0.0,0.0,0.7166666666666667
+2021-01-29,21,The bio of the richest person in the world #Bitcoin https://t.co/n8zxJQd9o2,The bio of the richest person in the world #Bitcoin,0.5267,0.254,0.0,0.0,0.0
+2021-01-29,21,"  All I heard you say is, buy #bitcoin","All I heard you say is, buy #bitcoin",0.0,0.0,0.0,0.0,0.0
+2021-01-30,21,"Visa Could Add #Crypto to Its Payments Network, Says CEO #Bitcoin 
+https://t.co/IGPBuLUHDN","Visa Could Add #Crypto to Its Payments Network, Says CEO #Bitcoin",0.0,0.0,0.0,0.0,0.0
+2021-02-01,22,Elon Musk says he’s a supporter of #bitcoin and thinks it will get ‘broad acceptance’ in finance $BTC #Cryptocurrency https://t.co/uLA7QsnXpi,Elon Musk says he’s a supporter of #bitcoin and thinks it will get ‘broad acceptance’ in finance $BTC #Cryptocurrency,0.2732,0.104,0.0,0.0625,0.3125
+2021-02-03,22,Visa is working with Anchorage to allow customers at traditional banks to buy and sell digital assets such as #Bitcoin $BTC #Cryptocurrency https://t.co/CqjH9moLDj,Visa is working with Anchorage to allow customers at traditional banks to buy and sell digital assets such as #Bitcoin $BTC #Cryptocurrency,0.3818,0.146,0.0,0.0,0.4166666666666667
+2021-02-03,22,PayPal is investing in a new business unit focused on #crypto and digital currencies #Bitcoin https://t.co/zpysAf4wgl,PayPal is investing in a new business unit focused on #crypto and digital currencies #Bitcoin,0.3818,0.157,0.0,0.06818181818181818,0.22727272727272727
+2021-02-05,22,#Bitcoin https://t.co/pNir22mdTG,#Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-05,22,"German prosecutors have confiscated more than $60 million worth of #bitcoin. The problem is, they can’t unlock the money because the owner won’t give them the password $BTC #Cryptocurrency  https://t.co/XDuF6tNXEi","German prosecutors have confiscated more than $60 million worth of #bitcoin. The problem is, they can’t unlock the money because the owner won’t give them the password $BTC #Cryptocurrency",-0.2023,0.058,0.083,0.26666666666666666,0.19999999999999998
+2021-02-06,22,#Bitcoin 4️⃣0️⃣0️⃣0️⃣0️⃣,#Bitcoin 4️⃣0️⃣0️⃣0️⃣0️⃣,0.0,0.0,0.0,0.0,0.0
+2021-02-06,22,#Bitcoin whales at the bar $BTC https://t.co/FpTfGsA0At,#Bitcoin whales at the bar $BTC,0.0,0.0,0.0,0.0,0.0
+2021-02-07,22,"#DogeCoin is going to replace #Bitcoin and there’s nothing you can do about it 
+
+$DOGE &gt; $BTC https://t.co/kYVtmiw3cH",#DogeCoin is going to replace #Bitcoin and there’s nothing you can do about it $DOGE  $BTC,0.0,0.0,0.0,0.0,0.0
+2021-02-08,23,BREAKING:  has bought $1.5 Billion in #Bitcoin  https://t.co/ZBPw7hiCBQ,BREAKING:  has bought $1.5 Billion in #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-08,23,"Not only did  buy $1.5 billion in #Bitcoin, they also are going to be accepting #crypto payments $TSLA $BTC https://t.co/1q4jhdFbwQ","Not only did  buy $1.5 billion in #Bitcoin, they also are going to be accepting #crypto payments $TSLA $BTC",0.3818,0.12,0.0,0.0,1.0
+2021-02-08,23,"Betting BIG on #Bitcoin 
+
+  added $BTC to the balance sheet 
+
+Who’s next? https://t.co/NCWQbEl4CQ",Betting BIG on #Bitcoin   added $BTC to the balance sheet Who’s next?,0.0,0.0,0.0,0.0,0.05
+2021-02-09,23,#Bitcoin 4️⃣7️⃣0️⃣0️⃣0️⃣ 🔥📈 $BTC,#Bitcoin 4️⃣7️⃣0️⃣0️⃣0️⃣ 🔥📈 $BTC,0.0,0.0,0.0,0.0,0.0
+2021-02-09,23,"#Bitcoin cannot be stopped 📈
+
+Last: 
+24 Hours +20%
+Week +39%
+3 Months +200%
+6 Months +298%
+1 Year +387%
+2 Years +1,201%
+
+$BTC T-Shirts 🔽
+https://t.co/YXfNnouZ00 https://t.co/I4ndUmEWh4","#Bitcoin cannot be stopped 📈Last: 24 Hours +20%Week +39%3 Months +200%6 Months +298%1 Year +387%2 Years +1,201%$BTC T-Shirts 🔽",0.1695,0.074,0.0,0.0,0.06666666666666667
+2021-02-09,23,"5️⃣0️⃣,0️⃣0️⃣0️⃣ #BITCOIN THIS WEEK!","5️⃣0️⃣,0️⃣0️⃣0️⃣ #BITCOIN THIS WEEK!",0.0,0.0,0.0,0.0,0.0
+2021-02-09,23,"But sir,  said #bitcoin may never go above $40,000 again! https://t.co/tahjc3H6CI","But sir,  said #bitcoin may never go above $40,000 again!",0.0,0.0,0.0,0.0,0.1
+2021-02-09,23,  xBTC is getting added,xBTC is getting added,0.0,0.0,0.0,0.0,0.0
+2021-02-09,23,  xBTC https://t.co/ihNOjdo1Qb,xBTC,0.0,0.0,0.0,0.0,0.0
+2021-02-10,23,"“You have   . You're going to see a lot of other visionary leaders and disruptive companies actually realizing it has really moved from why to why not.” -  
+
+#Bitcoin #Cryptocurrency $BTC https://t.co/MO1FXqVCXm",“You have   . You're going to see a lot of other visionary leaders and disruptive companies actually realizing it has really moved from why to why not.” -  #Bitcoin #Cryptocurrency $BTC,0.2732,0.104,0.07,0.025000000000000005,0.225
+2021-02-10,23,The first commercial bank in the United States to allow its customers to buy #Bitcoin using their ATMs is HERE $BTC https://t.co/Swyrr8eONb,The first commercial bank in the United States to allow its customers to buy #Bitcoin using their ATMs is HERE $BTC,0.5719,0.19,0.0,0.125,0.16666666666666666
+2021-02-10,23,You can now buy a  with #Bitcoin https://t.co/R59ZKADafE,You can now buy a  with #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-10,23,Mastercard will let merchants accept payments in #Bitcoin and #Crypto this year https://t.co/DhmG3jDYqS,Mastercard will let merchants accept payments in #Bitcoin and #Crypto this year,0.3818,0.178,0.0,0.0,0.0
+2021-02-11,23,CEO of  says the company will accept #Bitcoin if there's a need for it $BTC #Cryptocurrency https://t.co/z0h7zYznOZ,CEO of  says the company will accept #Bitcoin if there's a need for it $BTC #Cryptocurrency,0.3818,0.148,0.0,0.0,0.0
+2021-02-11,23,BREAKING:  will add #crypto to  wallets #Bitcoin https://t.co/DGoceUXOdG,BREAKING:  will add #crypto to  wallets #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-11,23,The Mayor of NYC #Bitcoin $BTC https://t.co/YBlmLeERds,The Mayor of NYC #Bitcoin $BTC,0.0,0.0,0.0,0.0,0.0
+2021-02-12,23,BREAKING: The first #Bitcoin ETF in North America has been approved! $BTC 📈 https://t.co/zh5vJt8t8E,BREAKING: The first #Bitcoin ETF in North America has been approved! $BTC 📈,0.4753,0.205,0.0,0.3125,0.3333333333333333
+2021-02-12,23,"Someone check on  
+
+If you want a very stable commodity then buy #Gold 
+
+If you want the best performing asset over the last 10 years then buy #Bitcoin https://t.co/V1a4Z7odRF",Someone check on  If you want a very stable commodity then buy #Gold If you want the best performing asset over the last 10 years then buy #Bitcoin,0.8687,0.339,0.0,0.39999999999999997,0.2222222222222222
+2021-02-12,23,$BCH is ready to pump #Bitcoin Cash https://t.co/jFdO3JwQgt,$BCH is ready to pump #Bitcoin Cash,0.3612,0.263,0.0,0.2,0.5
+2021-02-12,23,"$BCH will be over $1,000 soon
+
+Now $541 #Bitcoin Cash","$BCH will be over $1,000 soonNow $541 #Bitcoin Cash",0.0,0.0,0.0,0.0,0.0
+2021-02-12,23,"#Bitcoin Welcomes , , ,  To The #Cryptocurrency Party https://t.co/eg3Edh1eeb","#Bitcoin Welcomes , , ,  To The #Cryptocurrency Party",0.6597,0.519,0.0,0.0,0.0
+2021-02-13,23,"Send it $BCH
+
+It’s time 🚀 #Bitcoin Cash https://t.co/HYd4p69Kvq",Send it $BCHIt’s time 🚀 #Bitcoin Cash,0.0,0.0,0.0,0.0,0.0
+2021-02-14,23,$BCH now $722 #Bitcoin Cash https://t.co/qqe5aKu3O7,$BCH now $722 #Bitcoin Cash,0.0,0.0,0.0,0.0,0.0
+2021-02-14,23,$BCH just getting started #Bitcoin Cash https://t.co/RTRf4hK6LK,$BCH just getting started #Bitcoin Cash,0.0,0.0,0.0,0.0,0.0
+2021-02-14,23,"Take me back to 12/28/2009 #Bitcoin   
+
+You could of bought 1,578.78 $BTC for $1 https://t.co/B9Wz9PZECP","Take me back to 12/28/2009 #Bitcoin   You could of bought 1,578.78 $BTC for $1",0.0,0.0,0.0,0.0,0.0
+2021-02-15,24,"Super rich hold $32 trillion in offshore havens $XHV 
+
+ is adding: 
+
+ - Fiat (9 currencies including xUSD, xEUR, xGBP, xUSD, xCNY, xJPY, xAUD, xCAD, xINR)
+- #Bitcoin (xBTC) #Ethereum (xETH)
+- Precious metals (xGOLD, xSILV)
+
+#BULLISH #Privacy 
+https://t.co/aukJXj0MTM","Super rich hold $32 trillion in offshore havens $XHV  is adding:  - Fiat (9 currencies including xUSD, xEUR, xGBP, xUSD, xCNY, xJPY, xAUD, xCAD, xINR)- #Bitcoin (xBTC) #Ethereum (xETH)- Precious metals (xGOLD, xSILV)#BULLISH #Privacy",0.9042,0.259,0.0,0.40277777777777773,0.8055555555555555
+2021-02-15,24,"$BCH 🌙 Time 📈 #Bitcoin Cash
+
+Hate all you want on $BCH but it’s still going to explode 🚀",$BCH 🌙 Time 📈 #Bitcoin CashHate all you want on $BCH but it’s still going to explode 🚀,-0.296,0.066,0.134,-0.8,0.9
+2021-02-16,24,"FULL SEND 🚀🚀 #Bitcoin 📈 
+
+UP ONLY $BTC #wallstreetsbets https://t.co/0YIDwcPu6b",FULL SEND 🚀🚀 #Bitcoin 📈 UP ONLY $BTC #wallstreetsbets,0.0,0.0,0.0,0.175,0.775
+2021-02-16,24,"#Bitcoin 5️⃣0️⃣,0️⃣0️⃣0️⃣ 🚀🔥🌙📈","#Bitcoin 5️⃣0️⃣,0️⃣0️⃣0️⃣ 🚀🔥🌙📈",0.0,0.0,0.0,0.0,0.0
+2021-02-16,24,#Gold vs #Bitcoin https://t.co/HrydMHhPEv,#Gold vs #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-17,24,#Bitcoin https://t.co/QAJT0sWQ83,#Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-17,24,"#Bitcoin 5️⃣2️⃣,0️⃣0️⃣0️⃣ 📈 $BTC","#Bitcoin 5️⃣2️⃣,0️⃣0️⃣0️⃣ 📈 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-02-19,24,"#Bitcoin 5️⃣3️⃣,0️⃣0️⃣0️⃣ 📈 $BTC","#Bitcoin 5️⃣3️⃣,0️⃣0️⃣0️⃣ 📈 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-02-19,24,#Bitcoin just reached a $1 trillion market cap for the first time in history $BTC 📈📈📈📈📈📈📈📈📈📈 https://t.co/28DpvMYBVz,#Bitcoin just reached a $1 trillion market cap for the first time in history $BTC 📈📈📈📈📈📈📈📈📈📈,0.1027,0.085,0.0,0.25,0.3333333333333333
+2021-02-19,24,Hopefully this guy is still HODLing. Celebrating #Bitcoin going over $100 for the first time $BTC https://t.co/TJ0mi4zYVZ,Hopefully this guy is still HODLing. Celebrating #Bitcoin going over $100 for the first time $BTC,0.7506,0.299,0.0,0.25,0.3333333333333333
+2021-02-21,24,#Bitcoin $250k Price Target 📈 $BTC https://t.co/X5x9RgjXvM,#Bitcoin $250k Price Target 📈 $BTC,0.0,0.0,0.0,0.0,0.0
+2021-02-21,24,"#Bitcoin 5️⃣8️⃣,0️⃣0️⃣0️⃣ 📈 $BTC","#Bitcoin 5️⃣8️⃣,0️⃣0️⃣0️⃣ 📈 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-02-22,25,"Coinbase Valued At $100 Billion, More Than CME, ICE, CBOE And Nasdaq #Bitcoin #Cryptocurrency #IPO https://t.co/oVoelLhtOO","Coinbase Valued At $100 Billion, More Than CME, ICE, CBOE And Nasdaq #Bitcoin #Cryptocurrency #IPO",0.4404,0.162,0.0,0.5,0.5
+2021-02-23,25,#Bitcoin is for saving $BTC https://t.co/EH9BFt9Hkg,#Bitcoin is for saving $BTC,0.0,0.0,0.0,0.0,0.0
+2021-02-24,25,"A Dubai businessman is pledging to buy 100,000 #Bitcoin worth up to $4.8 billion $BTC #Cryptocurrency 
+https://t.co/RSW59J2J0e","A Dubai businessman is pledging to buy 100,000 #Bitcoin worth up to $4.8 billion $BTC #Cryptocurrency",0.2263,0.112,0.0,0.3,0.1
+2021-02-27,25,Just deposited my life savings in my  #HODL #Bitcoin https://t.co/ThYksHXVlK,Just deposited my life savings in my  #HODL #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-27,25,Buy #Bitcoin https://t.co/MWAjwLklmj https://t.co/0ccgeYDmjD,Buy #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-28,25,Get ready 📈 #Bitcoin #ALTSEASON https://t.co/tr3qfyMLdV,Get ready 📈 #Bitcoin #ALTSEASON,0.3612,0.385,0.0,0.2,0.5
+2021-03-01,26,The greatest transfer of wealth is happening #HODL #Bitcoin,The greatest transfer of wealth is happening #HODL #Bitcoin,0.8126,0.514,0.0,1.0,1.0
+2021-03-01,26,"#Bitcoin could become the “currency of choice for international trade”, says  https://t.co/VNmArGkeXt","#Bitcoin could become the “currency of choice for international trade”, says",0.0,0.0,0.0,0.0,0.0
+2021-03-01,26,"A lot of money is on the sidelines (waiting for a crash) We aren’t crashing, need a melt up first. FOMO is coming and you will see soon. Everything is going to explode 📈 #stocks #crypto #bitcoin $spy $btc $qqq","A lot of money is on the sidelines (waiting for a crash) We aren’t crashing, need a melt up first. FOMO is coming and you will see soon. Everything is going to explode 📈 #stocks #crypto #bitcoin $spy $btc $qqq",0.0,0.0,0.0,0.25,0.3333333333333333
+2021-03-02,26,  GoLd Is BeTtEr ThAn #BiTcOiN https://t.co/0OuEfJ3sT9,GoLd Is BeTtEr ThAn #BiTcOiN,0.4404,0.367,0.0,0.5,0.5
+2021-03-03,26,Will see $100k+ #Bitcoin sooner than you think 📈 $BTC,Will see $100k+ #Bitcoin sooner than you think 📈 $BTC,0.0,0.0,0.0,0.0,0.0
+2021-03-03,26,"Everyone loves passive income!
+
+You can get a  masternode (10,000) $CRW for around $1500 
+
+Make passive income while you #HODL
+
+- #Bitcoin codebase 0.21 upgrade being released
+- Trading on   
+
+https://t.co/15kUQJ5dZa","Everyone loves passive income!You can get a  masternode (10,000) $CRW for around $1500 Make passive income while you #HODL- #Bitcoin codebase 0.21 upgrade being released- Trading on",0.7644,0.233,0.0,0.0,0.0
+2021-03-05,26,"MicroStrategy Acquires Additional $10 Million in #Bitcoin  
+
+ now holds 91,064 bitcoins acquired for ~ $2.196 billion at an average price of ~ $24,119 per #Bitcoin https://t.co/v2gVDjqMVE","MicroStrategy Acquires Additional $10 Million in #Bitcoin   now holds 91,064 bitcoins acquired for ~ $2.196 billion at an average price of ~ $24,119 per #Bitcoin",0.0,0.0,0.0,-0.15,0.39999999999999997
+2021-03-07,26,"I like #Monero but numbers don’t lie 
+
+$XMR / $BTC Pair 
+
+Last month +0.64%
+3 months -47%
+6 months -50%
+1 year -49% 
+2 years -68%
+
+$XHV (#Monero Fork) 
+
+$XHV / $BTC Pair 
+
+Last month +44%
+3 months +114%
+6 months +46%
+1 year +449%
+2 years +208%
+
+  #Privacy",I like #Monero but numbers don’t lie $XMR / $BTC Pair Last month +0.64%3 months -47%6 months -50%1 year -49% 2 years -68%$XHV (#Monero Fork) $XHV / $BTC Pair Last month +44%3 months +114%6 months +46%1 year +449%2 years +208%  #Privacy,0.1901,0.045,0.0,0.0,0.06666666666666667
+2021-03-07,26,"Why $1 Million #Bitcoin  Is Coming 
+
+“A $3.5 billion purchase triggered an explosion of $30,000. Imagine what a $10 billion purchase from  would unleash.” 
+https://t.co/l7sqKws91m","Why $1 Million #Bitcoin  Is Coming “A $3.5 billion purchase triggered an explosion of $30,000. Imagine what a $10 billion purchase from  would unleash.”",0.0,0.0,0.0,0.0,0.0
+2021-03-09,27,Where are we? #Bitcoin $BTC https://t.co/ZpszYGlWF3,Where are we? #Bitcoin $BTC,0.0,0.0,0.0,0.0,0.0
+2021-03-09,27,JPMorgan Plans to Launch Basket Product of Companies with Exposure to #Bitcoin https://t.co/a1rKiBP8Kf,JPMorgan Plans to Launch Basket Product of Companies with Exposure to #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-03-10,27,"#Bitcoin 5️⃣6️⃣,0️⃣0️⃣0️⃣ 📈 $BTC","#Bitcoin 5️⃣6️⃣,0️⃣0️⃣0️⃣ 📈 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-03-10,27,"#Bitcoin 5️⃣7️⃣,0️⃣0️⃣0️⃣ 📈 $BTC","#Bitcoin 5️⃣7️⃣,0️⃣0️⃣0️⃣ 📈 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-03-11,27,"#Bitcoin 5️⃣8️⃣,0️⃣0️⃣0️⃣ 📈 $BTC","#Bitcoin 5️⃣8️⃣,0️⃣0️⃣0️⃣ 📈 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-03-13,27,"#Bitcoin 6️⃣0️⃣,0️⃣0️⃣0️⃣ 📈 $BTC","#Bitcoin 6️⃣0️⃣,0️⃣0️⃣0️⃣ 📈 $BTC",0.0,0.0,0.0,0.0,0.0
+2021-03-13,27,"Look at your altcoin $BTC trading pair. See how it’s doing compared to #Bitcoin
+
+For example: 
+
+$XHV / $BTC Pair
+
+1 Month +32%
+3 Months +147%
+1 Year +544%
+
+It’s great #Bitcoin is making all-time highs but  continues to outperform $BTC by A LOT 📈📈
+
+#HODL",Look at your altcoin $BTC trading pair. See how it’s doing compared to #BitcoinFor example: $XHV / $BTC Pair1 Month +32%3 Months +147%1 Year +544%It’s great #Bitcoin is making all-time highs but  continues to outperform $BTC by A LOT 📈📈#HODL,0.3716,0.06,0.0,0.8,0.75
+2021-03-13,27,"We just getting started. Everything besides #gold is going to go up. Sorry  
+
+#Bitcoin 150k
+S&amp;P 5,000
+$XHV $500+ 
+$FIRO $200+
+$ETH $10,000
+$ZEN $250+
+$ZEC $1,000+
+
+#HODL 📈📈📈📈📈📈","We just getting started. Everything besides #gold is going to go up. Sorry  #Bitcoin 150kS&amp;P 5,000$XHV $500+ $FIRO $200+$ETH $10,000$ZEN $250+$ZEC $1,000+#HODL 📈📈📈📈📈📈",-0.0772,0.0,0.044,-0.5,1.0
+2021-03-13,27,IMO we’re going to see the melt up of our lifetime. The biggest transfer of wealth is happening right now. #HODL #Bitcoin #Stocks #UpOnly #Crypto,IMO we’re going to see the melt up of our lifetime. The biggest transfer of wealth is happening right now. #HODL #Bitcoin #Stocks #UpOnly #Crypto,0.4939,0.118,0.0,0.2857142857142857,0.5357142857142857
+2021-03-14,27,"$FIRO and $XHV are my 🔒’s 
+
+Been talking about  under $3 and  under $6.
+
+$XHV already up 300-400%
+$FIRO is next 
+
+End of Year Price Targets 
+$XHV $500+
+$FIRO $200+ 
+#Bitcoin 150k+ 
+
+All trading on  
+
+#HODL #WallStreetBets #Crypto",$FIRO and $XHV are my 🔒’s Been talking about  under $3 and  under $6.$XHV already up 300-400%$FIRO is next End of Year Price Targets $XHV $500+$FIRO $200+ #Bitcoin 150k+ All trading on  #HODL #WallStreetBets #Crypto,0.0,0.0,0.0,0.0,0.0
+2021-03-14,27,"One year ago 
+
+#Bitcoin $ETH $XRP $LTC $BNB https://t.co/rtsB6g59N8",One year ago #Bitcoin $ETH $XRP $LTC $BNB,0.0,0.0,0.0,0.0,0.0
+2021-03-17,28,"Morgan Stanley becomes the first big U.S. bank to offer its wealthy clients access to #Bitcoin funds $BTC #Cryptocurrency 
+ https://t.co/NKgaWOQ97L",Morgan Stanley becomes the first big U.S. bank to offer its wealthy clients access to #Bitcoin funds $BTC #Cryptocurrency,0.3612,0.116,0.0,0.25,0.4777777777777778
+2021-03-17,28,"We are about to enter the melt up phase and this melt up will last awhile 🚀🚀🚀🚀  #Bitcoin 100k+ will be here sooner than you think! 
+
+#UpOnly #Stocks $BTC $XHV $FIRO $ZEN $ETH $ZEC $LINK $MANA https://t.co/zjxPYbn4Ha",We are about to enter the melt up phase and this melt up will last awhile 🚀🚀🚀🚀  #Bitcoin 100k+ will be here sooner than you think! #UpOnly #Stocks $BTC $XHV $FIRO $ZEN $ETH $ZEC $LINK $MANA,0.0,0.0,0.0,0.0,0.06666666666666667
+2021-03-17,28,Visa Plans to Enable #Bitcoin Payments at 70 Million Merchants $BTC  https://t.co/bjmnOBUasC,Visa Plans to Enable #Bitcoin Payments at 70 Million Merchants $BTC,0.0,0.0,0.0,0.0,0.0
+2021-03-19,28,Pay your taxes people. The best #crypto tax software is  #Bitcoin,Pay your taxes people. The best #crypto tax software is  #Bitcoin,0.5859,0.288,0.096,1.0,0.3
+2021-03-24,29,"You can officially buy a  with #Bitcoin  
+
+$TSLA $BTC  https://t.co/bdjg1n9Woq",You can officially buy a  with #Bitcoin  $TSLA $BTC,0.0,0.0,0.0,0.0,0.0
+2021-03-26,29,"BTCS Expands its Ethereum 2.0 Staking Operation to 200 Nodes 
+#Ethereum $ETH #Staking $BTCS #Bitcoin $BTC #Crypto #ad #CryptoNews
+https://t.co/Ir1eZpyTgw",BTCS Expands its Ethereum 2.0 Staking Operation to 200 Nodes #Ethereum $ETH #Staking $BTCS #Bitcoin $BTC #Crypto #ad #CryptoNews,0.1027,0.069,0.0,0.0,0.0
+2021-03-26,29,"Follow  on #BitClout 
+
+https://t.co/gyAXuRe0sk
+
+BC1YLgkoSCWRdjn3uJucJeRKTBGhbm3eSGuBafvTaJRbwbGyCRPEDek
+
+Will be doing giveaways! #Bitcoin ",Follow  on #BitClout BC1YLgkoSCWRdjn3uJucJeRKTBGhbm3eSGuBafvTaJRbwbGyCRPEDekWill be doing giveaways! #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-03-29,30,Miami Mayor Wants to Build a #Bitcoin Mining Hub $BTC https://t.co/uqi2exua7v,Miami Mayor Wants to Build a #Bitcoin Mining Hub $BTC,0.0,0.0,0.0,0.2,0.1
+2021-03-29,30,#Bitcoin vs #Gold https://t.co/4xx1EbxzBf,#Bitcoin vs #Gold,0.0,0.0,0.0,0.0,0.0
+2021-03-30,30,Chipotle accepting #Bitcoin? 👀 https://t.co/wanA9sPT0J,Chipotle accepting #Bitcoin? 👀,0.3818,0.464,0.0,0.0,0.0

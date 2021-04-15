@@ -1,0 +1,1123 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-09-01,1,"Like all good decisions, holding #Bitcoin just looks better with time.","Like all good decisions, holding #Bitcoin just looks better with time.",0.8074,0.509,0.0,0.6,0.55
+2020-09-03,1,"Episode 8 of #Bitcoin Fixes This. I talk to  about self-sovereignty, cypherpunk ethic and Bitcoin's role in conserving our freedoms
+
+https://t.co/FIgyNURY5L https://t.co/JIxckHsLbL","Episode 8 of #Bitcoin Fixes This. I talk to  about self-sovereignty, cypherpunk ethic and Bitcoin's role in conserving our freedoms",0.296,0.104,0.0,0.0,0.0
+2020-09-04,1,Who are some Bitcoiners that people don't know are Bitcoiners?,Who are some Bitcoiners that people don't know are Bitcoiners?,0.0,0.0,0.0,0.0,0.0
+2020-09-05,1,"Plot twist: After robot kills Satoshi, the robot realizes the evil that the Fed represents, assumes Satoshi's identity and creates Bitcoin. https://t.co/EgipvuqKoo","Plot twist: After robot kills Satoshi, the robot realizes the evil that the Fed represents, assumes Satoshi's identity and creates Bitcoin.",-0.7783,0.072,0.272,-1.0,1.0
+2020-09-05,1,"#Bitcoin is 90% saving, 10% gambling
+altcoins are 90% gambling, 10% saving
+
+few understand this","#Bitcoin is 90% saving, 10% gamblingaltcoins are 90% gambling, 10% savingfew understand this",0.0,0.0,0.0,-0.2,0.1
+2020-09-06,1,"#Bitcoin has a functioning immune system, altcoins do not.","#Bitcoin has a functioning immune system, altcoins do not.",0.296,0.239,0.0,0.0,0.0
+2020-09-06,1,  #Bitcoin is the wild west. There's plenty of room.,#Bitcoin is the wild west. There's plenty of room.,0.0,0.0,0.0,0.1,0.4
+2020-09-07,2,"I want to express my appreciation for     and meshcollider who have the hard job of maintaining Bitcoin Core.
+
+Being an open source developer is often a thankless job with lots of people complaining, so show them some love.","I want to express my appreciation for     and meshcollider who have the hard job of maintaining Bitcoin Core.Being an open source developer is often a thankless job with lots of people complaining, so show them some love.",0.765,0.205,0.074,0.06944444444444443,0.5472222222222222
+2020-09-07,2,"DeFi is the latest craze created from envy, 's multisig guide, Bitcoin dev tool sapio, mempool marketplace, price manipulation from the fed and more!
+Bitcoin Tech Talk Issue #204
+
+https://t.co/F3QOsPr9tz","DeFi is the latest craze created from envy, 's multisig guide, Bitcoin dev tool sapio, mempool marketplace, price manipulation from the fed and more!Bitcoin Tech Talk Issue #204",-0.4926,0.058,0.181,0.5625,0.7
+2020-09-07,2,#Bitcoin got a little more antifragile today.,#Bitcoin got a little more antifragile today.,0.0,0.0,0.0,0.15625,0.5
+2020-09-08,2,DeFi-mania is just the latest stupidity arising from #Bitcoin envy.,DeFi-mania is just the latest stupidity arising from #Bitcoin envy.,-0.6124,0.0,0.385,-0.04999999999999999,0.95
+2020-09-10,2,"#Bitcoin Fixes This Episode #9: Listener Questions! Everything from Communism to Quantum Computing.
+
+https://t.co/t22lnyZSQx",#Bitcoin Fixes This Episode #9: Listener Questions! Everything from Communism to Quantum Computing.,0.0,0.0,0.0,0.0,0.0
+2020-09-11,2,"Synthetic BTC = Synthetic Meat
+
+Artificial, dangerous and smells weird","Synthetic BTC = Synthetic MeatArtificial, dangerous and smells weird",-0.5859,0.0,0.407,-0.5666666666666667,0.9666666666666667
+2020-09-12,2,#Bitcoin advocates are government cynics. We don't put hope in those who are in power.,#Bitcoin advocates are government cynics. We don't put hope in those who are in power.,-0.4031,0.0,0.222,0.0,0.0
+2020-09-14,3,"SJW infiltration at Bitcoin Core? Miniscript wallets, DoS vulnerabilities, Discrete Log Contracts, Flaring potential, Bitmain's hail mary, yet another BCH fork.
+
+Bitcoin Tech Talk Issue #205
+
+https://t.co/vTefJZIiiQ","SJW infiltration at Bitcoin Core? Miniscript wallets, DoS vulnerabilities, Discrete Log Contracts, Flaring potential, Bitmain's hail mary, yet another BCH fork.Bitcoin Tech Talk Issue #205",-0.0772,0.047,0.057,0.0,1.0
+2020-09-14,3,"To remove the role of money in politics, take the politics out of money.
+
+#Bitcoin ftw","To remove the role of money in politics, take the politics out of money.#Bitcoin ftw",0.4588,0.167,0.0,0.0,0.0
+2020-09-15,3,"I respect the intellectual honesty of  who changed his mind on #Bitcoin.
+
+This is in contrast to someone like  who can't ever admit he's wrong.",I respect the intellectual honesty of  who changed his mind on #Bitcoin.This is in contrast to someone like  who can't ever admit he's wrong.,0.813,0.348,0.135,-0.1,0.65
+2020-09-16,3,"What's happening in BCH and altcoins can be fairly described as Balkanization, where people keep splitting off in a zero-sum game.
+
+What's happening in #Bitcoin is nothing of the sort. Even enemies stay because the pie keeps getting bigger.","What's happening in BCH and altcoins can be fairly described as Balkanization, where people keep splitting off in a zero-sum game.What's happening in #Bitcoin is nothing of the sort. Even enemies stay because the pie keeps getting bigger.",-0.4939,0.0,0.08,0.09999999999999998,0.6
+2020-09-16,3,"Fiat money is a zero-sum status game.
+#Bitcoin is a positive-sum wealth game.",Fiat money is a zero-sum status game.#Bitcoin is a positive-sum wealth game.,0.4939,0.242,0.0,-0.4,0.4
+2020-09-17,3,"#Bitcoin can absorb more capital than any startup, stock or bond.
+
+Its ability to absorb value is near infinite. Let that sink in.","#Bitcoin can absorb more capital than any startup, stock or bond.Its ability to absorb value is near infinite. Let that sink in.",0.5719,0.183,0.0,0.3,0.45
+2020-09-17,3,"I talk to  about startups and entrepreneurship. Why have startup valuations gone through the roof the past 20 years? Has entrepreneurship become something other than a meritocracy? How does #Bitcoin change the equation?
+
+#Bitcoin Fixes This ep10:
+
+https://t.co/eps0zYP0SH",I talk to  about startups and entrepreneurship. Why have startup valuations gone through the roof the past 20 years? Has entrepreneurship become something other than a meritocracy? How does #Bitcoin change the equation?#Bitcoin Fixes This ep10:,0.2824,0.058,0.0,-0.1875,0.3125
+2020-09-17,3,The most sincere pleas by any crypto influencer for changing community standards are to make their scammy altcoin more legitimate and trustworthy to bitcoiners.,The most sincere pleas by any crypto influencer for changing community standards are to make their scammy altcoin more legitimate and trustworthy to bitcoiners.,0.7818,0.238,0.0,0.5,0.5
+2020-09-17,3,"If you're a public company who's the target of short sellers, buying #Bitcoin for your balance sheet will ward them off.
+
+I'm so waiting for this to become a thing.","If you're a public company who's the target of short sellers, buying #Bitcoin for your balance sheet will ward them off.I'm so waiting for this to become a thing.",0.0,0.0,0.0,0.0,0.18333333333333332
+2020-09-18,3,I ain't gonna lie. Talking to smart people about interesting topics is one of the real benefits of being in #Bitcoin.,I ain't gonna lie. Talking to smart people about interesting topics is one of the real benefits of being in #Bitcoin.,0.7906,0.32,0.0,0.3047619047619048,0.48095238095238096
+2020-09-20,3,"Sunday Survey:
+
+When did you buy your first #Bitcoin? (don't answer if you've never bought Bitcoin)",Sunday Survey:When did you buy your first #Bitcoin? (don't answer if you've never bought Bitcoin),0.0,0.0,0.0,0.25,0.3333333333333333
+2020-09-21,4,"#Bitcoin is not a cult of personality, unlike #Ethereum and other coins. Schnorr progress, hardware wallets and multisig, mixing timelocks, lightning liquidity, multi-channel funding txs and #Bitcoin urbanism
+
+Bitcoin Tech Talk Issue #206
+
+https://t.co/yocM0Jkc2y","#Bitcoin is not a cult of personality, unlike #Ethereum and other coins. Schnorr progress, hardware wallets and multisig, mixing timelocks, lightning liquidity, multi-channel funding txs and #Bitcoin urbanismBitcoin Tech Talk Issue #206",0.5994,0.136,0.0,-0.125,0.375
+2020-09-22,4,"A lot of altcoins are battling 52-week or even all-time lows priced in BTC. I suspect the money from these coins is chasing the latest DeFi token. That money ain't coming back, guys.
+
+In a zero-sum game, it sucks to be left holding the bag.","A lot of altcoins are battling 52-week or even all-time lows priced in BTC. I suspect the money from these coins is chasing the latest DeFi token. That money ain't coming back, guys.In a zero-sum game, it sucks to be left holding the bag.",-0.765,0.0,0.185,-0.04,0.32
+2020-09-23,4,"#Bitcoin matters to every altcoin.
+Altcoins do not matter to #Bitcoin.
+
+When you fully understand what this means and you will become a Bitcoin Maximalist.",#Bitcoin matters to every altcoin.Altcoins do not matter to #Bitcoin.When you fully understand what this means and you will become a Bitcoin Maximalist.,0.0067,0.046,0.044,0.0,0.0
+2020-09-23,4,"crypto status seeking:
+
+The willingness of someone new to this space to entertain altcoins because they feel they're too late to #Bitcoin. 
+
+Crypto status seeking is not a decision based on economics, but one based on status.","crypto status seeking:The willingness of someone new to this space to entertain altcoins because they feel they're too late to #Bitcoin. Crypto status seeking is not a decision based on economics, but one based on status.",0.296,0.086,0.0,-0.08181818181818182,0.5272727272727272
+2020-09-24,4,"Most of what you're worrying about today won't matter 5 years from now, let alone 20.
+
+You know what will matter? Your faith, your family, your fitness and #Bitcoin","Most of what you're worrying about today won't matter 5 years from now, let alone 20.You know what will matter? Your faith, your family, your fitness and #Bitcoin",0.0905,0.146,0.196,0.5,0.5
+2020-09-24,4,"I talk to  about marketing, growth hacking, branding and ethics. 
+
+#Bitcoin Fixes This #11
+
+https://t.co/Np7x39TPnA","I talk to  about marketing, growth hacking, branding and ethics. #Bitcoin Fixes This #11",0.3818,0.167,0.0,0.0,0.0
+2020-09-24,4,Has anyone made a #Bitcoin-specific Linux distro?,Has anyone made a #Bitcoin-specific Linux distro?,0.0,0.0,0.0,0.0,0.0
+2020-09-25,4,"Underrated perspective change in #Bitcoin:
+
+Be your own journalist.",Underrated perspective change in #Bitcoin:Be your own journalist.,0.0,0.0,0.0,0.6,1.0
+2020-09-26,4,"I didn't realize GLV endomorphism was under patent. 
+Fun fact: my first real coding experience in Elliptic Curves was when I implemented GLV endormorphism for btcd.
+
+https://t.co/hRG0U4hhYW https://t.co/l09E9chUMk",I didn't realize GLV endomorphism was under patent. Fun fact: my first real coding experience in Elliptic Curves was when I implemented GLV endormorphism for btcd.,0.5106,0.117,0.0,0.25,0.2777777777777778
+2020-09-26,4,"A good deal is a poor excuse to buy what you don't need.
+
+This is a fiat mentality and I'm convinced it's the reason why so many people buy a cheaper altcoin instead of #Bitcoin.",A good deal is a poor excuse to buy what you don't need.This is a fiat mentality and I'm convinced it's the reason why so many people buy a cheaper altcoin instead of #Bitcoin.,0.4215,0.186,0.084,0.1875,0.43750000000000006
+2020-09-27,4,"Remember when blockchains were the technology of the future?
+Remember when ICOs were the capital raises of the future?
+So now DeFi products are the financial products of the future?
+
+#Bitcoin is proven.
+Altcoins are hype and disappointment.",Remember when blockchains were the technology of the future?Remember when ICOs were the capital raises of the future?So now DeFi products are the financial products of the future?#Bitcoin is proven.Altcoins are hype and disappointment.,-0.5913,0.0,0.094,-0.12,0.155
+2020-09-28,5,"#Bitcoin's role in bringing back US manufacturing, another DIY hardware wallet, custody tradeoffs, Wumbo, paying for PRs and more ETH smart contract idiocy.
+
+#Bitcoin Tech Talk Issue #206
+
+https://t.co/LU1BNB47QV","#Bitcoin's role in bringing back US manufacturing, another DIY hardware wallet, custody tradeoffs, Wumbo, paying for PRs and more ETH smart contract idiocy.#Bitcoin Tech Talk Issue #206",0.4549,0.096,0.0,0.10357142857142858,0.3857142857142857
+2020-09-29,5,"#Bitcoin doesn't care about your opinion...
+
+And that's a great thing.",#Bitcoin doesn't care about your opinion...And that's a great thing.,0.3553,0.278,0.178,0.8,0.75
+2020-09-29,5,"Fiat risk: lots of small bets spread out over all kinds of things without much knowledge, hoping to catch some free printed money.
+
+Entrpreneurial risk: focused large bet on something you know really well to add value to society.
+
+#Bitcoin changes risk calculations.","Fiat risk: lots of small bets spread out over all kinds of things without much knowledge, hoping to catch some free printed money.Entrpreneurial risk: focused large bet on something you know really well to add value to society.#Bitcoin changes risk calculations.",0.4698,0.197,0.159,0.15285714285714286,0.4057142857142858
+2020-10-01,5,"In episode #12 of #Bitcoin Fixes This, I spoke to  about content creation, rhetoric and knowledge arbitrage. Experts don't know everything and tend to get stuck. One of the most hopeful podcasts I've recorded.
+
+https://t.co/p9ePiQZAnI","In episode #12 of #Bitcoin Fixes This, I spoke to  about content creation, rhetoric and knowledge arbitrage. Experts don't know everything and tend to get stuck. One of the most hopeful podcasts I've recorded.",0.5709,0.147,0.052,0.5,0.5
+2020-10-01,5,"Between the CFTC and SEC enforcement actions the past few days, it looks like there's some appetite for regulatory action this election season.
+
+Single points of failure all being exposed right now. This is good for #Bitcoin.","Between the CFTC and SEC enforcement actions the past few days, it looks like there's some appetite for regulatory action this election season.Single points of failure all being exposed right now. This is good for #Bitcoin.",0.2023,0.126,0.107,0.01845238095238093,0.3375
+2020-10-02,5,I'm quarantining... my #Bitcoin.,I'm quarantining... my #Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2020-10-04,5,"Sunday Survey:
+
+What's your opinion on Coinbase regarding:
+
+1. Whether they're good for #Bitcoin
+2. Whether their stance on being less political as a company is good",Sunday Survey:What's your opinion on Coinbase regarding:1. Whether they're good for #Bitcoin2. Whether their stance on being less political as a company is good,0.7003,0.195,0.0,0.30833333333333335,0.3416666666666667
+2020-10-05,6,"Over-politicization a result of fiat money, zero-knowledge SNARKs, covenants, hardware wallets, current state of LN, BitMex, and more!
+
+Bitcoin Tech Talk Issue #208
+
+https://t.co/dN89tX6qmd","Over-politicization a result of fiat money, zero-knowledge SNARKs, covenants, hardware wallets, current state of LN, BitMex, and more!Bitcoin Tech Talk Issue #208",0.0,0.0,0.0,0.3125,0.45
+2020-10-05,6,"You cannot change reality by decree.
+
+That is ultimately why money by decree cannot work.
+#Bitcoin respects reality, fiat money (literally, money by decree) does not.","You cannot change reality by decree.That is ultimately why money by decree cannot work.#Bitcoin respects reality, fiat money (literally, money by decree) does not.",-0.2411,0.0,0.073,0.0,1.0
+2020-10-06,6,#Bitcoin takes away the government monopoly on money.,#Bitcoin takes away the government monopoly on money.,0.0,0.0,0.0,0.0,0.0
+2020-10-08,6,Companies like  are actively making #Bitcoin better. Imagine how much better off we'd be if altcoin casinos spent their time and energy doing the same.,Companies like  are actively making #Bitcoin better. Imagine how much better off we'd be if altcoin casinos spent their time and energy doing the same.,0.8934,0.388,0.0,0.15333333333333335,0.36500000000000005
+2020-10-08,6,"On #Bitcoin Fixes This #14, I talk to  about a lot of the issues in the black community, how so much of it was caused by really stupid government policies and how #Bitcoin is giving the community a way to opt out.
+
+Black America
+
+https://t.co/QWYLwtEbAl","On #Bitcoin Fixes This #14, I talk to  about a lot of the issues in the black community, how so much of it was caused by really stupid government policies and how #Bitcoin is giving the community a way to opt out.Black America",-0.3167,0.052,0.08,-0.2333333333333333,0.5166666666666666
+2020-10-09,6,"Money is the one topic you can't afford to be ignorant about.
+
+Start down that rabbit hole and you'll end at #Bitcoin.",Money is the one topic you can't afford to be ignorant about.Start down that rabbit hole and you'll end at #Bitcoin.,-0.2732,0.0,0.091,-0.15555555555555559,0.2888888888888889
+2020-10-10,6,"Anyone have good data on who owns #Bitcoin in Congress? I know of a few:
+
+Warren Davidson ()
+Justin Amash ()
+Tom Emmer ()
+
+Please tag with their Twitter account.",Anyone have good data on who owns #Bitcoin in Congress? I know of a few:Warren Davidson ()Justin Amash ()Tom Emmer ()Please tag with their Twitter account.,0.6369,0.167,0.0,0.24999999999999997,0.35000000000000003
+2020-10-11,6,"If you want to raise your time preference, complain, watch the news and buy crap you don't need.
+
+If you want to lower your time preference, set goals, have kids and buy #Bitcoin.","If you want to raise your time preference, complain, watch the news and buy crap you don't need.If you want to lower your time preference, set goals, have kids and buy #Bitcoin.",-0.6908,0.069,0.193,-0.8,0.8
+2020-10-11,6,"If you're reading this, you have been gifted the knowledge about #Bitcoin.
+You can go one of two ways, you can use this knowledge to make a better future for yourself or you can squander your advantage away in altcoin casinos.
+
+Choose #Bitcoin","If you're reading this, you have been gifted the knowledge about #Bitcoin.You can go one of two ways, you can use this knowledge to make a better future for yourself or you can squander your advantage away in altcoin casinos.Choose #Bitcoin",0.5994,0.109,0.0,0.3333333333333333,0.5416666666666666
+2020-10-12,7,"Corporate FOMO about to come? Floating-point Nakamoto Consensus, Pseudonymous custody solutions, Fee cycles, leaving ETH and more!
+
+#Bitcoin Tech Talk Issue #209
+
+https://t.co/h57onpDu4Q","Corporate FOMO about to come? Floating-point Nakamoto Consensus, Pseudonymous custody solutions, Fee cycles, leaving ETH and more!#Bitcoin Tech Talk Issue #209",0.2481,0.083,0.0,0.3125,0.25
+2020-10-12,7,"What creates giant companies? Leveraged buyouts.
+How? Through artificially low interest rate loans.
+
+Giant multinational companies are as artificial as the fiat money that enables them.
+
+#Bitcoin fixes this.",What creates giant companies? Leveraged buyouts.How? Through artificially low interest rate loans.Giant multinational companies are as artificial as the fiat money that enables them.#Bitcoin fixes this.,0.5204,0.163,0.063,-0.15,0.825
+2020-10-14,7,"2013-14: Company X is taking #Bitcoin for payments!
+2015-16: Company X is using blockchain technology!
+2017-19: Company X is doing an ICO!
+2020-?: Company X is buying lots of #Bitcoin 
+
+It usually takes people a while before they get #Bitcoin. Same thing for companies.",2013-14: Company X is taking #Bitcoin for payments!2015-16: Company X is using blockchain technology!2017-19: Company X is doing an ICO!2020-?: Company X is buying lots of #Bitcoin It usually takes people a while before they get #Bitcoin. Same thing for companies.,0.0,0.0,0.0,-0.125,0.1875
+2020-10-14,7,"So let me get this straight...  can't stop scammers on #Bitcoin twitter, but can stop newspapers from posting stories?","So let me get this straight...  can't stop scammers on #Bitcoin twitter, but can stop newspapers from posting stories?",0.4168,0.182,0.0,0.2,0.4
+2020-10-15,7,"I talked to  about her journy from North Korea to the US, authoritarianism, cancel culture, her path to libertarianism and #Bitcoin's role in human rights.
+
+#Bitcoin Fixes This #14
+
+https://t.co/1ElMDCRXGg","I talked to  about her journy from North Korea to the US, authoritarianism, cancel culture, her path to libertarianism and #Bitcoin's role in human rights.#Bitcoin Fixes This #14",-0.1531,0.046,0.066,0.0,0.1
+2020-10-16,7,"Money requires a metaphysical measuring stick.
+
+We finally have one with #Bitcoin.",Money requires a metaphysical measuring stick.We finally have one with #Bitcoin.,0.0,0.0,0.0,0.0,1.0
+2020-10-19,8,"Why we need to run our own nodes for everything, Taproot and what's next, address gaps, brain wallet security, #Bitcoin development history, mining pool decentralization and more!
+
+#Bitcoin Tech Talk Issue #210
+
+https://t.co/xeSXKFw82E","Why we need to run our own nodes for everything, Taproot and what's next, address gaps, brain wallet security, #Bitcoin development history, mining pool decentralization and more!#Bitcoin Tech Talk Issue #210",0.4003,0.078,0.0,0.4083333333333334,0.5
+2020-10-19,8,"First prosecution of a #Bitcoin mixer that I've seen. More room for decentralized mixing protocols.
+
+https://t.co/WGg0nIWHZh https://t.co/h7O3AROhBD",First prosecution of a #Bitcoin mixer that I've seen. More room for decentralized mixing protocols.,-0.4939,0.0,0.176,0.375,0.41666666666666663
+2020-10-20,8,"#Bitcoin doesn't care about your gender, race, income, job, political party affiliation or nationality
+
+#Bitcoin doesn't care about what you've done, what you're planning to do or what you wish would come true
+
+#Bitcoin is money and it doesn't discriminate.","#Bitcoin doesn't care about your gender, race, income, job, political party affiliation or nationality#Bitcoin doesn't care about what you've done, what you're planning to do or what you wish would come true#Bitcoin is money and it doesn't discriminate.",0.4486,0.169,0.108,0.175,0.375
+2020-10-21,8,#Bitcoin transitions a debt-based economy to a savings-based economy.,#Bitcoin transitions a debt-based economy to a savings-based economy.,0.0,0.0,0.0,0.0,0.0
+2020-10-22,8,"I talked to  about book publishing, communities, scale and of course #Bitcoin. My longest episode yet.
+
+#Bitcoin Fixes This #15
+
+https://t.co/Txr1f2VotN","I talked to  about book publishing, communities, scale and of course #Bitcoin. My longest episode yet.#Bitcoin Fixes This #15",0.0,0.0,0.0,0.0,0.0
+2020-10-22,8,"At some point, it'll make more sense to acquire a company with a big #BTC balance than to buy on the market.","At some point, it'll make more sense to acquire a company with a big #BTC balance than to buy on the market.",0.0,0.0,0.0,0.25,0.3
+2020-10-24,8,"The government is too powerful, too bloated and too centralized. This is because of the central bank. We can have smaller communities and governments that aren't so distant or all-powerful. We can start with #Bitcoin","The government is too powerful, too bloated and too centralized. This is because of the central bank. We can have smaller communities and governments that aren't so distant or all-powerful. We can start with #Bitcoin",0.4215,0.076,0.0,0.049999999999999996,0.525
+2020-10-24,8,This is the part of the #Bitcoin cycle where all those hard leg days are starting to pay off.,This is the part of the #Bitcoin cycle where all those hard leg days are starting to pay off.,-0.2023,0.0,0.141,-0.14583333333333334,0.3208333333333333
+2020-10-26,9,"Bitcoin will enable smaller states and that's a good thing. A statechains implementation, #Bitcoin and lockdowns, Lightning Point-of-sale, Paypal, Filecoin, Nigeria and more!
+
+#Bitcoin Tech Talk Issue #211
+
+https://t.co/g08DALwT0X","Bitcoin will enable smaller states and that's a good thing. A statechains implementation, #Bitcoin and lockdowns, Lightning Point-of-sale, Paypal, Filecoin, Nigeria and more!#Bitcoin Tech Talk Issue #211",0.4926,0.109,0.0,0.44166666666666665,0.5333333333333333
+2020-10-27,9,"We're on the cusp of an event of great consequence...
+
+An all-time high on the monthly close of #Bitcoin.",We're on the cusp of an event of great consequence...An all-time high on the monthly close of #Bitcoin.,0.6249,0.186,0.0,0.48000000000000004,0.645
+2020-10-27,9,"Miners in China offline because rainy season is over =&gt;
+Slower blocks =&gt;
+Higher fees =&gt;
+More miners in other parts of the world
+
+People will get interested in mining in about 12 months when we're in a raging bull market. The right time to get into #Bitcoin mining is now.",Miners in China offline because rainy season is over =Slower blocks =Higher fees =More miners in other parts of the worldPeople will get interested in mining in about 12 months when we're in a raging bull market. The right time to get into #Bitcoin mining is now.,-0.5267,0.048,0.145,0.23214285714285712,0.4821428571428571
+2020-10-27,9,"Alright fam, I'm willing to take either side of the bet for the election one week from now. Come at me!
+
+#Bitcoin peer-to-peer bets...
+
+https://t.co/duDCNdIthk https://t.co/6M2r4l7lBm","Alright fam, I'm willing to take either side of the bet for the election one week from now. Come at me!#Bitcoin peer-to-peer bets...",0.3164,0.084,0.0,0.3125,0.75
+2020-10-28,9,"Even merchants are starting to recognize that #Bitcoin is a savings technology first and a payments technology second.
+
+Let us drink from the salty tears of our enemies, who are still focused on coffee.","Even merchants are starting to recognize that #Bitcoin is a savings technology first and a payments technology second.Let us drink from the salty tears of our enemies, who are still focused on coffee.",-0.3612,0.071,0.139,0.08333333333333333,0.14444444444444446
+2020-10-28,9,"The ability to create money out of thin air is a real-life infinity gauntlet. It's a power that simply shouldn't exist because it's used for so much evil.
+
+#Bitcoin fixes this.",The ability to create money out of thin air is a real-life infinity gauntlet. It's a power that simply shouldn't exist because it's used for so much evil.#Bitcoin fixes this.,-0.3134,0.125,0.133,-0.4666666666666666,0.7357142857142858
+2020-10-29,9,"#Bitcoin Fixes This #16 is with Mixed Martial Artist ! We discussed the similarities he sees between the rise of UFC and #Bitcoin, how innovation in anything requires creativity and his thoughts on how #Bitcoin can catch fire.
+
+https://t.co/gyvdGprKI1","#Bitcoin Fixes This #16 is with Mixed Martial Artist ! We discussed the similarities he sees between the rise of UFC and #Bitcoin, how innovation in anything requires creativity and his thoughts on how #Bitcoin can catch fire.",0.4753,0.128,0.056,0.0,0.125
+2020-10-30,9,"I'm no trader, but the long term trends of these altcoins against #Bitcoin don't look very good (ETH, BCH and XRP respectively) https://t.co/MXIi5IF68e","I'm no trader, but the long term trends of these altcoins against #Bitcoin don't look very good (ETH, BCH and XRP respectively)",-0.6167,0.0,0.193,0.2866666666666666,0.42666666666666675
+2020-10-30,9,"Central bank manipulations violate our savings and wealth.
+
+Peace is how we get prosperity, not violence.
+
+#Bitcoin is the money of peace.","Central bank manipulations violate our savings and wealth.Peace is how we get prosperity, not violence.#Bitcoin is the money of peace.",0.8832,0.4,0.095,0.0,0.25
+2020-10-30,9,"In a fiat money economy, everything gets politicized. This is because when the government can print money to pay for whatever in wants, everyone fights to get access to the public purse.
+
+A #Bitcoin world has a smaller, more limited government and is much less politicized.","In a fiat money economy, everything gets politicized. This is because when the government can print money to pay for whatever in wants, everyone fights to get access to the public purse.A #Bitcoin world has a smaller, more limited government and is much less politicized.",-0.6478,0.0,0.136,0.07698412698412699,0.22936507936507936
+2020-11-01,9,"Sunday Survey:
+
+When will we get a new #Bitcoin ATH?",Sunday Survey:When will we get a new #Bitcoin ATH?,0.0,0.0,0.0,0.13636363636363635,0.45454545454545453
+2020-11-02,10,"The only legitimate vote is one you can validate yourself.
+
+Cast your vote for #Bitcoin",The only legitimate vote is one you can validate yourself.Cast your vote for #Bitcoin,0.3612,0.152,0.0,0.0,1.0
+2020-11-02,10,"The election and prediction markets, Taproot activation, Python Bitcoin library, #Bitcoin custody, comparison to S&amp;P500, Bitcoin is a fourth turning and more!
+
+Bitcoin Tech Talk Issue #212
+
+https://t.co/wSG2jrLpsX","The election and prediction markets, Taproot activation, Python Bitcoin library, #Bitcoin custody, comparison to S&amp;P500, Bitcoin is a fourth turning and more!Bitcoin Tech Talk Issue #212",0.0,0.0,0.0,0.3125,0.25
+2020-11-05,10,"I talked to  about music, how the industry is currently structured and how artists think.
+
+#Bitcoin Fixes This #17
+
+https://t.co/R1Itu8yIWY","I talked to  about music, how the industry is currently structured and how artists think.#Bitcoin Fixes This #17",0.0,0.0,0.0,0.0,0.4
+2020-11-06,10,"It's impossible to distinguish between a well-performed lie and truth when you're forced into a trust relationship.
+
+A verifiable system is better than a trusted one. #Bitcoin",It's impossible to distinguish between a well-performed lie and truth when you're forced into a trust relationship.A verifiable system is better than a trusted one. #Bitcoin,0.8225,0.356,0.092,-0.15555555555555556,0.5666666666666667
+2020-11-07,10,"Fiat: Trust, rent-seek and complain.
+#Bitcoin: Verify, work and win.","Fiat: Trust, rent-seek and complain.#Bitcoin: Verify, work and win.",0.6808,0.428,0.151,0.8,0.4
+2020-11-08,10,"Sunday Survey:
+
+How many of your friends and family do you know to own #Bitcoin?",Sunday Survey:How many of your friends and family do you know to own #Bitcoin?,0.4767,0.181,0.0,0.55,0.75
+2020-11-08,10,"I used to be a big bargain hunter feeling great when I'd score a good deal.
+
+Ever since #Bitcoin, this isn't the case anymore. I'm realizing I could just not spend the money and get something much better if I can just hold off a bit. #Bitcoin changes spending habits.","I used to be a big bargain hunter feeling great when I'd score a good deal.Ever since #Bitcoin, this isn't the case anymore. I'm realizing I could just not spend the money and get something much better if I can just hold off a bit. #Bitcoin changes spending habits.",0.9042,0.253,0.0,0.5,0.48750000000000004
+2020-11-09,11,"3rd highest weekly close ever.
+
+#Bitcoin bull market is coming.",3rd highest weekly close ever.#Bitcoin bull market is coming.,0.0,0.0,0.0,0.0,0.0
+2020-11-09,11,"Trust based on Greed doesn't work. DLC-based p2p loans, Musig 2, xpub gotchas, BTC merge-mining, Lightning pool, BitMex and fees, BSV multisig disaster and much more!
+
+#Bitcoin Tech Talk #213
+
+https://t.co/K7BVNbYbtG https://t.co/vIxK3hVXW8","Trust based on Greed doesn't work. DLC-based p2p loans, Musig 2, xpub gotchas, BTC merge-mining, Lightning pool, BitMex and fees, BSV multisig disaster and much more!#Bitcoin Tech Talk #213",-0.5848,0.084,0.18,0.625,0.5
+2020-11-10,11,"Conspiracies are just large-scale frauds.
+
+Fraud will show up sooner or later in any trust-based system. If fraud goes on long enough, it becomes a large-scale fraud, a conspiracy, if you will.
+
+This is why we #Bitcoin.","Conspiracies are just large-scale frauds.Fraud will show up sooner or later in any trust-based system. If fraud goes on long enough, it becomes a large-scale fraud, a conspiracy, if you will.This is why we #Bitcoin.",-0.959,0.0,0.376,-0.016666666666666666,0.3
+2020-11-12,11,"I talked to  about Africa and the problems there. Crazy to learn that so many of the problems can be traced back to the monetary realm. Much of Africa is still under a monetary colonialism.
+
+#Bitcoin fixes this #18
+
+https://t.co/ynvkcdaPAy",I talked to  about Africa and the problems there. Crazy to learn that so many of the problems can be traced back to the monetary realm. Much of Africa is still under a monetary colonialism.#Bitcoin fixes this #18,-0.7783,0.0,0.182,0.02500000000000001,0.39999999999999997
+2020-11-13,11,"We just closed the 13th highest daily close in #Bitcoin history.
+
+Top daily closes #Bitcoin https://t.co/YBjwcvUcYc",We just closed the 13th highest daily close in #Bitcoin history.Top daily closes #Bitcoin,0.2023,0.107,0.0,0.08,0.12
+2020-11-13,11,"Fake News, #Bitcoin edition:
+
+* Bitcoin is like Beanie Babies
+* Altcoin X is going to make Bitcoin obsolete
+* Bitcoin needs more transactions per second
+* Bitcoin should get better governance
+* I'm too late to Bitcoin.","Fake News, #Bitcoin edition:* Bitcoin is like Beanie Babies* Altcoin X is going to make Bitcoin obsolete* Bitcoin needs more transactions per second* Bitcoin should get better governance* I'm too late to Bitcoin.",0.0258,0.14,0.137,0.04,0.52
+2020-11-14,11,"Watch the growth of Lightning closely. This is what decentralized growth looks like and will be the model for a decentralized Twitter, YouTube, and other currently centralized services.
+
+The web we've always wanted is coming and will be much better because of #Bitcoin","Watch the growth of Lightning closely. This is what decentralized growth looks like and will be the model for a decentralized Twitter, YouTube, and other currently centralized services.The web we've always wanted is coming and will be much better because of #Bitcoin",0.8625,0.218,0.0,0.125,0.425
+2020-11-16,12,"#Bitcoin Highest Weekly Closes:
+
+1. December 11-17, 2017 - $18953.00
+2. January 1-7, 2018 - $16124.02
+3. November 9-15, 2020 - $15976.64
+4. November 2-8, 2020 - $15489.15
+
+Next weeks/months are going to be fun.","#Bitcoin Highest Weekly Closes:1. December 11-17, 2017 - $18953.002. January 1-7, 2018 - $16124.023. November 9-15, 2020 - $15976.644. November 2-8, 2020 - $15489.15Next weeks/months are going to be fun.",0.5106,0.099,0.0,0.15,0.1
+2020-11-16,12,"We have bitcoin dot com which is a site that promotes a coin pretending to be #Bitcoin and bitcoincash dot com which is a site that promotes a coin pretending to be BCash.
+
+Something feels deeply just about this turn of events.",We have bitcoin dot com which is a site that promotes a coin pretending to be #Bitcoin and bitcoincash dot com which is a site that promotes a coin pretending to be BCash.Something feels deeply just about this turn of events.,0.6808,0.183,0.0,0.0,0.4
+2020-11-16,12,"ATH incoming? Inflation, #Bitcoin FUD from , Nunchuk opensource, LN projects overview, decentralized podcasting with , mining moving from China, ETH and BCH hardforks and more!
+
+#Bitcoin Tech Talk #214
+
+https://t.co/I3jLTxqv9g https://t.co/KbLr1lhHBN","ATH incoming? Inflation, #Bitcoin FUD from , Nunchuk opensource, LN projects overview, decentralized podcasting with , mining moving from China, ETH and BCH hardforks and more!#Bitcoin Tech Talk #214",-0.481,0.0,0.097,0.625,0.5
+2020-11-17,12,#Bitcoin just had its 8th highest daily close ever. https://t.co/0GkpGnsINq,#Bitcoin just had its 8th highest daily close ever.,0.0,0.0,0.0,0.0,0.0
+2020-11-17,12,"In five years,  will be a legend, while  will be a footnote...
+
+That is, unless Ray learns like Michael did.
+Be like Mike and learn #Bitcoin","In five years,  will be a legend, while  will be a footnote...That is, unless Ray learns like Michael did.Be like Mike and learn #Bitcoin",0.6124,0.185,0.0,0.0,0.0
+2020-11-18,12,#Bitcoin just had the 5th highest Daily Close Ever. https://t.co/SLOa3RZSDF,#Bitcoin just had the 5th highest Daily Close Ever.,0.0,0.0,0.0,0.0,0.0
+2020-11-18,12,"We are all wagering on the outcome of the financial system.
+
+For USD your wager loses on average 7% per year
+For #BTC your wager wins on average 150% per year
+
+Which game would you like to play?",We are all wagering on the outcome of the financial system.For USD your wager loses on average 7% per yearFor #BTC your wager wins on average 150% per yearWhich game would you like to play?,0.743,0.192,0.051,-0.11666666666666665,0.25
+2020-11-19,12,"Fourth Highest Daily Close ever! Also, now 3 of the top 10 days are in the last 3 days. We've officially been in this territory for longer than in January 2018 and about 5 more days away from being here longer than in December 2017.
+
+#Bitcoin https://t.co/Yffq5QmYLR","Fourth Highest Daily Close ever! Also, now 3 of the top 10 days are in the last 3 days. We've officially been in this territory for longer than in January 2018 and about 5 more days away from being here longer than in December 2017.#Bitcoin",0.2714,0.046,0.0,0.2,0.21333333333333332
+2020-11-19,12,"I sat down with  to talk about farming and food production in general. I learned a lot about the negative externalities of commercial farming and how money affects the food industry.
+
+#Bitcoin Fixes This #19
+
+https://t.co/6SMjt1xWYG https://t.co/JNZw4P0IoJ",I sat down with  to talk about farming and food production in general. I learned a lot about the negative externalities of commercial farming and how money affects the food industry.#Bitcoin Fixes This #19,-0.5719,0.0,0.101,-0.10138888888888889,0.2972222222222223
+2020-11-19,12,"Path of the #Bitcoiner
+
+1. Dismiss Bitcoin
+2. Learn more after BTC won't go away
+3. Try to mine
+4. Buy Bitcoin
+5. Try altcoins
+6. Lose money on altcoins/ICOs/DeFi/etc
+7. Dismiss altcoins/ICOs/DeFi/etc
+8. Learn sound money
+
+Feeling late to the party? Catch up by doing 2, 4 and 8.","Path of the #Bitcoiner1. Dismiss Bitcoin2. Learn more after BTC won't go away3. Try to mine4. Buy Bitcoin5. Try altcoins6. Lose money on altcoins/ICOs/DeFi/etc7. Dismiss altcoins/ICOs/DeFi/etc8. Learn sound moneyFeeling late to the party? Catch up by doing 2, 4 and 8.",0.128,0.079,0.051,0.20000000000000004,0.5
+2020-11-20,12,"The biggest weakness of gold is its physical nature. It's hard to secure, easily confiscated and difficult to use directly. That's what led to the use of banknotes which then converted to fiat money when convertibility was suspended.
+
+#Bitcoin is metaphysical. Let that sink in.","The biggest weakness of gold is its physical nature. It's hard to secure, easily confiscated and difficult to use directly. That's what led to the use of banknotes which then converted to fiat money when convertibility was suspended.#Bitcoin is metaphysical. Let that sink in.",-0.6124,0.09,0.183,0.023611111111111124,0.5863095238095238
+2020-11-22,12,"Multisig takes #Bitcoin security to the next level, removing single points of failure.
+
+There has never been a store of value that has had this property until #Bitcoin.","Multisig takes #Bitcoin security to the next level, removing single points of failure.There has never been a store of value that has had this property until #Bitcoin.",0.128,0.15,0.103,-0.12936507936507938,0.1714285714285714
+2020-11-23,13,"Some noob, somewhere is buying XRP because it's cheaper on a per unit basis than #Bitcoin.
+
+Let that sink in.
+
+We're still way early.","Some noob, somewhere is buying XRP because it's cheaper on a per unit basis than #Bitcoin.Let that sink in.We're still way early.",-0.0516,0.0,0.052,0.1,0.3
+2020-11-24,13,There's going to be a lot of people explaining #Bitcoin over zoom on Thursday...,There's going to be a lot of people explaining #Bitcoin over zoom on Thursday...,0.0,0.0,0.0,0.0,0.0
+2020-11-24,13,"Loans created out of nothing have many negative externalities. The financial pollution created by them poison entire communities.
+
+#Bitcoin is the antidote.",Loans created out of nothing have many negative externalities. The financial pollution created by them poison entire communities.#Bitcoin is the antidote.,0.3607,0.246,0.123,0.05,0.38125
+2020-11-25,13,"So close yet so far. $28 or so from the ATH daily close. We've officially been over $18000 for longer than in December 2017.
+
+I want a #Bitcoin correction, but I'm not sure the market will allow it.","So close yet so far. $28 or so from the ATH daily close. We've officially been over $18000 for longer than in December 2017.I want a #Bitcoin correction, but I'm not sure the market will allow it.",0.0147,0.09,0.063,-0.049999999999999996,0.6296296296296297
+2020-11-25,13,"Once we understand #Bitcoin, it becomes a lamp. It illuminates the brokenness of the entire financial/monetary system that we live in. The bigger #Bitcoin gets, the more light it will shine on the dark underbelly of the system and expose more and more of its corruption.","Once we understand #Bitcoin, it becomes a lamp. It illuminates the brokenness of the entire financial/monetary system that we live in. The bigger #Bitcoin gets, the more light it will shine on the dark underbelly of the system and expose more and more of its corruption.",-0.1531,0.0,0.035,0.23579545454545453,0.528125
+2020-11-25,13,Preview of what's dropping tomorrow on #Bitcoin Fixes This featuring  https://t.co/VE8Xk4o3aK,Preview of what's dropping tomorrow on #Bitcoin Fixes This featuring,0.0,0.0,0.0,0.0,0.0
+2020-11-26,13,"I talked with Wyoming senator-elect  about #Bitcoin, politics, incentives and much more. Learn why campaigns cost so much, how workers suffer with no good Store of Value and Senators' personal budgeting practices.
+
+#Bitcoin Fixes This #20
+
+https://t.co/MoETUai7Tq","I talked with Wyoming senator-elect  about #Bitcoin, politics, incentives and much more. Learn why campaigns cost so much, how workers suffer with no good Store of Value and Senators' personal budgeting practices.#Bitcoin Fixes This #20",0.2263,0.172,0.129,0.0875,0.4
+2020-11-26,13,"Today:
+
+I'm thankful for the no-coining haters, whose tears we drink with glee.
+
+I'm thankful for the altcoiners, whose hope we butcher and consume heartily.
+
+I'm thankful for my fellow #Bitcoin Maximalists, who are bringing about a sound money revolution.","Today:I'm thankful for the no-coining haters, whose tears we drink with glee.I'm thankful for the altcoiners, whose hope we butcher and consume heartily.I'm thankful for my fellow #Bitcoin Maximalists, who are bringing about a sound money revolution.",0.9337,0.329,0.092,0.4,0.4
+2020-11-27,13,"For those of us that have been in #Bitcoin a long time, the question isn't whether #Bitcoin will win, the question is how painful getting there will be.","For those of us that have been in #Bitcoin a long time, the question isn't whether #Bitcoin will win, the question is how painful getting there will be.",0.2263,0.12,0.091,0.01666666666666668,0.5666666666666668
+2020-11-27,13,"#Bitcoin has:
+
+the scarcity of real estate
+the fungibility of gold
+the divisibility of USD
+the portability of email
+the durability, securability and unseizability of information
+and recognizability which we haven't seen before.
+
+There has never been anything like it in history.","#Bitcoin has:the scarcity of real estatethe fungibility of goldthe divisibility of USDthe portability of emailthe durability, securability and unseizability of informationand recognizability which we haven't seen before.There has never been anything like it in history.",-0.2755,0.0,0.049,0.2,0.30000000000000004
+2020-11-28,13,"We've been brainwashed to want to be wage slaves. Providing value has been superseded by obedience.
+
+#Bitcoin puts providing value back on top.",We've been brainwashed to want to be wage slaves. Providing value has been superseded by obedience.#Bitcoin puts providing value back on top.,0.7096,0.294,0.0,0.25,0.25
+2020-11-30,14,"Time adds uncertainty to nearly everything.
+
+#Bitcoin is one of the few things that it doesn't add uncertainty to.",Time adds uncertainty to nearly everything.#Bitcoin is one of the few things that it doesn't add uncertainty to.,-0.5859,0.0,0.22,-0.05,0.25
+2020-11-30,14,"Cross-input signature aggregation and privacy, Brink, Taproot, Miniscript spec, more DeFi disaster and what to tell your friends as we reach ATH.
+
+#Bitcoin Tech Talk Issue #216
+
+https://t.co/WWEFNJf1lJ","Cross-input signature aggregation and privacy, Brink, Taproot, Miniscript spec, more DeFi disaster and what to tell your friends as we reach ATH.#Bitcoin Tech Talk Issue #216",-0.2911,0.125,0.13,0.5,0.5
+2020-11-30,14,#Bitcoin is like a lion; we don’t have to defend it. Let it loose; it will defend itself... Largely through NgU,#Bitcoin is like a lion; we don’t have to defend it. Let it loose; it will defend itself... Largely through NgU,0.0516,0.11,0.101,0.06868131868131867,0.3489010989010989
+2020-12-01,14,"ATH hourly, daily and monthly all on the same candle.
+
+$19724 #BTC
+
+We're going to have a fun December.","ATH hourly, daily and monthly all on the same candle.$19724 #BTCWe're going to have a fun December.",0.5106,0.163,0.0,0.09999999999999999,0.10833333333333334
+2020-12-01,14,"What altcoiners will try to do now:
+
+1. Take credit for Bitcoin's ATH
+2. Argue that they're better than #Bitcoin because of some unused feature
+3. Say that ""we're in this together"" when they get in trouble with regulators
+
+Don't believe the lies.","What altcoiners will try to do now:1. Take credit for Bitcoin's ATH2. Argue that they're better than #Bitcoin because of some unused feature3. Say that ""we're in this together"" when they get in trouble with regulatorsDon't believe the lies.",0.4082,0.154,0.1,0.15,0.35
+2020-12-01,14,"What nocoiners will try to do now:
+
+1. Ignore the past 12 years of history
+2. Shout about tulips, beanie babies and bubbles popping while #Bitcoin goes up
+3. Claim they were right every time BTC falls 10%
+
+What they won't do is understand the fundamentals of Bitcoin.","What nocoiners will try to do now:1. Ignore the past 12 years of history2. Shout about tulips, beanie babies and bubbles popping while #Bitcoin goes up3. Claim they were right every time BTC falls 10%What they won't do is understand the fundamentals of Bitcoin.",-0.3612,0.0,0.051,0.01785714285714285,0.39285714285714285
+2020-12-01,14,"Fiat mentality is a scam mentality, one where everyone is trying to get something for nothing from everyone else.
+
+#Bitcoin mentality is a trade mentality, one where fair exchange and good quality are more important than whether it's cheap or free.","Fiat mentality is a scam mentality, one where everyone is trying to get something for nothing from everyone else.#Bitcoin mentality is a trade mentality, one where fair exchange and good quality are more important than whether it's cheap or free.",0.7089,0.219,0.077,0.5166666666666666,0.75
+2020-12-02,14,"To #Bitcoin holders, no explanation for its utility is necessary.
+To nocoiners, no explanation is possible.","To #Bitcoin holders, no explanation for its utility is necessary.To nocoiners, no explanation is possible.",-0.5267,0.0,0.239,0.0,1.0
+2020-12-02,14,Preview of what's dropping tomorrow with  on #Bitcoin Fixes This https://t.co/31VIKRrKHF,Preview of what's dropping tomorrow with  on #Bitcoin Fixes This,0.0,0.0,0.0,0.0,0.0
+2020-12-02,14,"#Bitcoin forces you to take security and verification much more seriously.
+
+Imagine a whole world that's like that.",#Bitcoin forces you to take security and verification much more seriously.Imagine a whole world that's like that.,0.4417,0.235,0.095,0.12222222222222223,0.5222222222222221
+2020-12-03,14,#Bitcoin is the first economic constant we've seen. Economics may finally become a science instead of propaganda and conjecture.,#Bitcoin is the first economic constant we've seen. Economics may finally become a science instead of propaganda and conjecture.,-0.25,0.0,0.105,0.06999999999999999,0.39333333333333337
+2020-12-04,14,"The leverage that institutions are able to bring to any asset is immense and if you think about it, insane.
+
+They will borrow many hundreds of billions to buy #Bitcoin. At some point this will trigger hyperbitcoinization.
+
+If you're not prepared for this, you don't get #Bitcoin.","The leverage that institutions are able to bring to any asset is immense and if you think about it, insane.They will borrow many hundreds of billions to buy #Bitcoin. At some point this will trigger hyperbitcoinization.If you're not prepared for this, you don't get #Bitcoin.",-0.2182,0.049,0.086,0.0,0.78125
+2020-12-05,14,"#Bitcoin is our shot against tyranny, and boy do we need it more than ever.","#Bitcoin is our shot against tyranny, and boy do we need it more than ever.",0.0,0.0,0.0,0.5,0.5
+2020-12-05,14,"Most people just follow what they think is the strongest horse. It explains why so many otherwise smart people are such strict rule-followers.
+
+The real disruption will be when they figure out how strong #Bitcoin is.",Most people just follow what they think is the strongest horse. It explains why so many otherwise smart people are such strict rule-followers.The real disruption will be when they figure out how strong #Bitcoin is.,0.7693,0.21,0.057,0.3079365079365079,0.5293650793650794
+2020-12-06,14,"It's HN and on an article skeptical of #Bitcoin, my comment is being downvoted. We're still early. https://t.co/5jx2NSPDIu","It's HN and on an article skeptical of #Bitcoin, my comment is being downvoted. We're still early.",-0.3182,0.0,0.119,-0.2,0.4
+2020-12-06,14,"#Bitcoin life lesson:
+
+We are all full nodes, making meaningful connections and self-sovereign. Trusting another node to do all that for you is not really living.","#Bitcoin life lesson:We are all full nodes, making meaningful connections and self-sovereign. Trusting another node to do all that for you is not really living.",0.6124,0.172,0.0,0.25,0.4166666666666667
+2020-12-07,15,"What to expect this coming year, p2sh history, Brink's new grant, Lightning past and future, money from first principles, pseudonimity and much more!
+
+#Bitcoin Tech Talk Issue #217
+
+https://t.co/sADl74rruY https://t.co/M0fp1U2rao","What to expect this coming year, p2sh history, Brink's new grant, Lightning past and future, money from first principles, pseudonimity and much more!#Bitcoin Tech Talk Issue #217",0.4199,0.088,0.0,0.15227272727272728,0.3325757575757576
+2020-12-07,15,"Debasing currency debases human time.
+
+Debasing human time is denial of human life and dignity.
+
+#Bitcoin is a moral imperative.",Debasing currency debases human time.Debasing human time is denial of human life and dignity.#Bitcoin is a moral imperative.,0.4019,0.13,0.0,0.0,0.1375
+2020-12-08,15,"Work's true purpose is to provide value for the community. Fiat money adds rent-seeking to jobs which detract value proportionately. The purpose of work then becomes a means of self-expression only, which leads to narcissism.
+
+#Bitcoin fixes this.","Work's true purpose is to provide value for the community. Fiat money adds rent-seeking to jobs which detract value proportionately. The purpose of work then becomes a means of self-expression only, which leads to narcissism.#Bitcoin fixes this.",0.765,0.183,0.0,0.175,0.825
+2020-12-08,15,"Usury is the monetary enslavement of others.
+
+The ability to print money is the power to enslave and is a form of usury. This is not a power anyone should have.
+
+#Bitcoin fixes this and is therefore a moral imperative.",Usury is the monetary enslavement of others.The ability to print money is the power to enslave and is a form of usury. This is not a power anyone should have.#Bitcoin fixes this and is therefore a moral imperative.,-0.4215,0.056,0.099,0.0,0.25
+2020-12-09,15,"Money has been corrupted and debased.
+Our savings, time and freedom have been stolen.
+Where is our hope?
+
+#Bitcoin is money's salvation.","Money has been corrupted and debased.Our savings, time and freedom have been stolen.Where is our hope?#Bitcoin is money's salvation.",0.5994,0.242,0.109,0.0,0.0
+2020-12-09,15,"Broke: Tax and Spend
+Woke: Print and Spend
+Bespoke: #Bitcoin Preventing Spending",Broke: Tax and SpendWoke: Print and SpendBespoke: #Bitcoin Preventing Spending,-0.4404,0.0,0.281,0.0,0.0
+2020-12-09,15,"Dropping tomorrow on #Bitcoin Fixes This,  and  on reporting. Here's a preview. https://t.co/EwRLdmx9DK","Dropping tomorrow on #Bitcoin Fixes This,  and  on reporting. Here's a preview.",0.0,0.0,0.0,0.0,0.0
+2020-12-10,15,"     Probably why nobody's done it yet. The UI has to make it clear how long you are potentially locking up the BTC for and make it explicit what you're doing if you're say, locking it up for more than a year.","Probably why nobody's done it yet. The UI has to make it clear how long you are potentially locking up the BTC for and make it explicit what you're doing if you're say, locking it up for more than a year.",0.3818,0.062,0.0,0.1375,0.5708333333333333
+2020-12-10,15,"I talked to  and  about reporting. Find out why so many articles are so thin and unsatisfying, what defines a reporter and how we can incentivize better reporting in the future.
+
+#Bitcoin fixes this #22: Reporting.
+
+https://t.co/XpMVYLAZ53","I talked to  and  about reporting. Find out why so many articles are so thin and unsatisfying, what defines a reporter and how we can incentivize better reporting in the future.#Bitcoin fixes this #22: Reporting.",0.4404,0.079,0.0,0.15,0.49375
+2020-12-10,15,"No #Bitcoin ETF, no problem!","No #Bitcoin ETF, no problem!",-0.75,0.0,0.787,0.0,0.0
+2020-12-11,15,Buy #Bitcoin or your enemies will.,Buy #Bitcoin or your enemies will.,-0.4939,0.0,0.39,0.0,0.0
+2020-12-11,15,"This was a much longer discussion than I expected, thoroughly enjoyed it. If you're curious about how I think about God and Christianity and relating that to #Bitcoin, give this a listen! https://t.co/W9mWtpgzMG","This was a much longer discussion than I expected, thoroughly enjoyed it. If you're curious about how I think about God and Christianity and relating that to #Bitcoin, give this a listen!",0.8066,0.242,0.0,0.11875,0.575
+2020-12-11,15,"Another chat where I talked about Christianity, Bitcoin, morality and of course, my new book (I'll have a thread about that later today).  has a gift for directing conversations. Really enjoyed it. https://t.co/xTrmVQY24j","Another chat where I talked about Christianity, Bitcoin, morality and of course, my new book (I'll have a thread about that later today).  has a gift for directing conversations. Really enjoyed it.",0.7574,0.188,0.0,0.21212121212121213,0.38484848484848483
+2020-12-11,15,"1/6 Announcing a new book! Thank God for Bitcoin is available on Amazon in digital and paperback.
+
+Forward written by our favorite NFL player  
+
+This book makes the moral case for #Bitcoin from a Christian perspective.
+
+https://t.co/qeuKMkoqmD https://t.co/GRyxT2Ad8K",1/6 Announcing a new book! Thank God for Bitcoin is available on Amazon in digital and paperback.Forward written by our favorite NFL player  This book makes the moral case for #Bitcoin from a Christian perspective.,0.8221,0.231,0.0,0.17840909090909088,0.35075757575757577
+2020-12-11,15,"2/6 The subtitle is ""The Creation, Corruption and Redemption of Money"" and speaks to money's purpose, how it's been corrupted over time and how Bitcoin redeems the corrupt nature of the current central-bank backed fiat monetary system","2/6 The subtitle is ""The Creation, Corruption and Redemption of Money"" and speaks to money's purpose, how it's been corrupted over time and how Bitcoin redeems the corrupt nature of the current central-bank backed fiat monetary system",0.296,0.084,0.0,-0.25,0.7
+2020-12-11,15,"3/6 The main audience for this book is Christians, many of whom hold wildly biased notions of Bitcoin and makes the moral argument for Bitcoin. Not only is it a better, harder money, but it's a more moral money that's better aligned with building up civilization.","3/6 The main audience for this book is Christians, many of whom hold wildly biased notions of Bitcoin and makes the moral argument for Bitcoin. Not only is it a better, harder money, but it's a more moral money that's better aligned with building up civilization.",0.5423,0.118,0.067,0.21666666666666665,0.42333333333333334
+2020-12-11,15,"6/6 Finally, we explain how Bitcoin changes the incentives around all those things and why Bitcoin is a more moral money.
+
+Please read this article to get the origin story of how this book came about: https://t.co/PPWxZXFNWv","6/6 Finally, we explain how Bitcoin changes the incentives around all those things and why Bitcoin is a more moral money.Please read this article to get the origin story of how this book came about:",0.5945,0.125,0.0,0.16666666666666666,0.5833333333333334
+2020-12-12,15,"Our leaders are drunk with power and don't care about the consent of the governed. How did it get this way? They grabbed more and more power through more and more money printing. Fiat money is what enabled their lust for power.
+
+#Bitcoin fixes this.",Our leaders are drunk with power and don't care about the consent of the governed. How did it get this way? They grabbed more and more power through more and more money printing. Fiat money is what enabled their lust for power.#Bitcoin fixes this.,-0.4815,0.039,0.103,0.3,0.6
+2020-12-12,15,"Ever have a great Tweet in mind, then think ""I'll post it later"" and then forget it when it's time to remember?
+
+Yea, it's like that with #Bitcoin for most people. (Also, I should really past Tweets when I have them)","Ever have a great Tweet in mind, then think ""I'll post it later"" and then forget it when it's time to remember?Yea, it's like that with #Bitcoin for most people. (Also, I should really past Tweets when I have them)",0.6908,0.152,0.044,0.2625,0.375
+2020-12-12,15,"I spoke to  and  on The Keiser Report about my new book, Thank God for Bitcoin and the moral argument for money:
+
+https://t.co/0hGBXhOI8S","I spoke to  and  on The Keiser Report about my new book, Thank God for Bitcoin and the moral argument for money:",0.2732,0.176,0.096,0.06818181818181818,0.3522727272727273
+2020-12-14,16,"Nobody knows how to resist tyranny anymore.
+Disappointing for a culture that prides itself on rebellion. Instead, fake rebellion, that of condemning those who the authorities disapprove, is all they know.
+Exercise those resistance muscles. Start with #Bitcoin","Nobody knows how to resist tyranny anymore.Disappointing for a culture that prides itself on rebellion. Instead, fake rebellion, that of condemning those who the authorities disapprove, is all they know.Exercise those resistance muscles. Start with #Bitcoin",-0.8074,0.0,0.22,-0.55,0.85
+2020-12-14,16,"Monetary Stockholm Syndrome, privacy in pay-to-taproot, #Bitcoin UX tradeoffs, SatStack, best BTC projects of 2020, channel jamming, LN topology reconstruction, Fiat Standard, Bitcoin astronomy, my new book and more!
+
+#Bitcoin Tech Talk Issue #218
+
+https://t.co/LthS0Qufhb https://t.co/NcpbIxjqO8","Monetary Stockholm Syndrome, privacy in pay-to-taproot, #Bitcoin UX tradeoffs, SatStack, best BTC projects of 2020, channel jamming, LN topology reconstruction, Fiat Standard, Bitcoin astronomy, my new book and more!#Bitcoin Tech Talk Issue #218",0.6696,0.114,0.0,0.44034090909090906,0.3136363636363636
+2020-12-15,16,"""The Party seeks power entirely for its own sake. We are not interested in the good of others; we are interested solely in power, pure power...Power is not a means; it is an end."" - 1984
+
+The most obvious power that government has is over money. Take that back with #Bitcoin","""The Party seeks power entirely for its own sake. We are not interested in the good of others; we are interested solely in power, pure power...Power is not a means; it is an end."" - 1984The most obvious power that government has is over money. Take that back with #Bitcoin",0.2695,0.102,0.082,0.2376984126984127,0.5249999999999999
+2020-12-16,16,"Production followed by Consumption builds character.
+Consumption followed by Production builds resentment.
+
+The former is what we call saving, the latter, indebtedness.
+This is why fiat is cancer and #Bitcoin fixes things.","Production followed by Consumption builds character.Consumption followed by Production builds resentment.The former is what we call saving, the latter, indebtedness.This is why fiat is cancer and #Bitcoin fixes things.",-0.8074,0.0,0.196,0.0,0.0
+2020-12-16,16,"Today:
+
+Be kind to precoiners asking about #Bitcoin.
+Be ruthless to nocoiners who predicted #Bitcoin's demise.
+Be merciless to altcoiners who want to share in this victory.",Today:Be kind to precoiners asking about #Bitcoin.Be ruthless to nocoiners who predicted #Bitcoin's demise.Be merciless to altcoiners who want to share in this victory.,0.7096,0.223,0.0,-0.3666666666666667,0.9666666666666667
+2020-12-16,16,"Reminder:
+
+Buy #Bitcoin at ATH and hold has been an amazing strategy the past 4 times (2011, 2013, 2013, 2017).","Reminder:Buy #Bitcoin at ATH and hold has been an amazing strategy the past 4 times (2011, 2013, 2013, 2017).",0.5859,0.174,0.0,0.17500000000000004,0.575
+2020-12-16,16,"Preview of what's dropping tomorrow with .
+
+#Bitcoin Fixes This #23: Libertarianism. https://t.co/GFnsWcsyL6",Preview of what's dropping tomorrow with .#Bitcoin Fixes This #23: Libertarianism.,0.1027,0.113,0.0,0.0,0.0
+2020-12-16,16,"Every bull run, people get interested.
+Every bull run, every financial person is asked their opinion.
+Every bull run, they show their ignorance.
+At some point people stop trusting those who kept them from 1000x gains.
+
+The dam's about to burst. #Bitcoin","Every bull run, people get interested.Every bull run, every financial person is asked their opinion.Every bull run, they show their ignorance.At some point people stop trusting those who kept them from 1000x gains.The dam's about to burst. #Bitcoin",0.4767,0.158,0.095,0.125,0.25
+2020-12-17,16,"The daily candle just closed +$1900.
+
+That's more than double what #Bitcoin was worth 4 years ago. Some day, we're going to see a +$40,000 candle.","The daily candle just closed +$1900.That's more than double what #Bitcoin was worth 4 years ago. Some day, we're going to see a +$40,000 candle.",0.2263,0.076,0.0,0.13999999999999999,0.13999999999999999
+2020-12-17,16,"I discussed Libertarianism with . Find out why he left his lucrative job at Google to work on Ron Paul's presidential campaign, why he soured on political activism and why many older Libertarians don't like #Bitcoin.
+
+#Bitcoin Fixes This #23
+
+https://t.co/0JFWU8AQHV https://t.co/Th9LkyOFkU","I discussed Libertarianism with . Find out why he left his lucrative job at Google to work on Ron Paul's presidential campaign, why he soured on political activism and why many older Libertarians don't like #Bitcoin.#Bitcoin Fixes This #23",-0.1556,0.06,0.051,0.07333333333333333,0.20666666666666664
+2020-12-17,16,"We all know that the dollar is a terrible store of value, so an ATH against $USD is a bit deceiving. Here is #Bitcoin's performance against better stores of value:
+
+* Dow Jones Index
+* S&amp;P 500
+* NASDAQ Composite
+* Gold
+
+Next ATH targets in order: Dow Jones, Gold, S&amp;P 500, NASDAQ https://t.co/k7f3tjZL5s","We all know that the dollar is a terrible store of value, so an ATH against $USD is a bit deceiving. Here is #Bitcoin's performance against better stores of value:* Dow Jones Index* S&amp;P 500* NASDAQ Composite* GoldNext ATH targets in order: Dow Jones, Gold, S&amp;P 500, NASDAQ",0.296,0.137,0.098,-0.16666666666666666,0.5
+2020-12-18,16,"Christmas Gifts for your book-loving friends and family:
+
+Programming Bitcoin: https://t.co/YKV3tnfLGr
+- for programmers
+
+The Little Bitcoin Book: https://t.co/CLz6vhVcpR
+- for precoiners
+
+Thank God for Bitcoin: https://t.co/ajedRVwWRF
+- for Christians",Christmas Gifts for your book-loving friends and family:Programming Bitcoin: - for programmersThe Little Bitcoin Book: - for precoinersThank God for Bitcoin: - for Christians,0.7717,0.243,0.0,-0.1875,0.5
+2020-12-18,16,"Doing another listener questions episode for my podcast.
+
+Please ask away!
+
+I will give priority to questions related to the topic of my new book, the moral argument for #Bitcoin","Doing another listener questions episode for my podcast.Please ask away!I will give priority to questions related to the topic of my new book, the moral argument for #Bitcoin",-0.126,0.072,0.087,0.04545454545454545,0.36818181818181817
+2020-12-18,16,"When it comes to  remember the Unikrn ICO. His objections to #Bitcoin are motivated by a willful misunderstanding, not investment experience, technical expertise or business savvy.","When it comes to  remember the Unikrn ICO. His objections to #Bitcoin are motivated by a willful misunderstanding, not investment experience, technical expertise or business savvy.",0.0516,0.104,0.097,0.0,0.1
+2020-12-19,16,"#Bitcoin rewards honest work.
+Fiat rewards political and banking connections.
+
+Which money is more just?",#Bitcoin rewards honest work.Fiat rewards political and banking connections.Which money is more just?,0.8591,0.442,0.0,0.3666666666666667,0.5
+2020-12-20,16,"Sunday Survey:
+
+What will be the top of this #Bitcoin bull run?",Sunday Survey:What will be the top of this #Bitcoin bull run?,0.2023,0.141,0.0,0.5,0.5
+2020-12-20,16,"Regarding , buying #Bitcoin  with $TSLA treasuries would be great protection against short sellers. Not a bad insurance policy...","Regarding , buying #Bitcoin  with $TSLA treasuries would be great protection against short sellers. Not a bad insurance policy...",0.8338,0.387,0.0,0.3833333333333333,0.5722222222222223
+2020-12-21,17,"Different Feel after breaking $20k, Spacechains, PSBT update, new bech32 format, core vs. fiat jobs, Kraken LN, River LN, LN newsletter, Great Definancialization, 10 BTC commandments and more!
+
+#Bitcoin Tech Talk Issue #219
+
+https://t.co/zgaiM8bT4Z https://t.co/1GyY3gI0AW","Different Feel after breaking $20k, Spacechains, PSBT update, new bech32 format, core vs. fiat jobs, Kraken LN, River LN, LN newsletter, Great Definancialization, 10 BTC commandments and more!#Bitcoin Tech Talk Issue #219",0.6588,0.114,0.0,0.3903409090909091,0.5761363636363637
+2020-12-22,17,"Fiat money debases your time, which causes you to value it less.
+
+Corollary: The more you trust your money to store value, the more value you place on your time.
+
+#Bitcoin makes you value your time property.
+Fiat debases life. #Bitcoin enhances life.","Fiat money debases your time, which causes you to value it less.Corollary: The more you trust your money to store value, the more value you place on your time.#Bitcoin makes you value your time property.Fiat debases life. #Bitcoin enhances life.",0.9038,0.257,0.0,0.2777777777777778,0.35555555555555557
+2020-12-22,17,"Everyone is looking for assets that correlate with #Bitcoin like altcoins, exchanges, and even $GBTC. They are all not #Bitcoin and they're all less safe because they're centralized.
+
+#Bitcoin... accept no substitutes.","Everyone is looking for assets that correlate with #Bitcoin like altcoins, exchanges, and even $GBTC. They are all not #Bitcoin and they're all less safe because they're centralized.#Bitcoin... accept no substitutes.",0.7357,0.244,0.057,0.16666666666666669,0.2833333333333333
+2020-12-22,17,Hey Christian Bitcoiners! Any podcasts that you listen to that we should try to get on?,Hey Christian Bitcoiners! Any podcasts that you listen to that we should try to get on?,0.0,0.0,0.0,0.0,0.0
+2020-12-23,17,"Debt created out of nothing has no opportunity cost. It benefits the lender and borrower at the cost of the rest of society. In other words, it's a moral hazard.
+
+#Fiat enlarges moral hazards and is therefore immoral.
+#Bitcoin reduces moral hazards and is therefore moral.","Debt created out of nothing has no opportunity cost. It benefits the lender and borrower at the cost of the rest of society. In other words, it's a moral hazard.#Fiat enlarges moral hazards and is therefore immoral.#Bitcoin reduces moral hazards and is therefore moral.",-0.3278,0.122,0.147,-0.025,0.275
+2020-12-23,17,"Positivism: All rights have to be explicitly given to you by the state.
+Natural Law: We already have rights and even the state can't violate them.
+
+We're trained to accept positivism from an early age. This is why it's hard for many to take the orange pill of #Bitcoin",Positivism: All rights have to be explicitly given to you by the state.Natural Law: We already have rights and even the state can't violate them.We're trained to accept positivism from an early age. This is why it's hard for many to take the orange pill of #Bitcoin,0.8892,0.226,0.024,0.10208333333333333,0.4354166666666667
+2020-12-24,17,"A bigger honor, no #Bitcoin book can have.
+
+Audio book is being recorded.
+
+https://t.co/jkzme44QYd https://t.co/jyasWGjQW1","A bigger honor, no #Bitcoin book can have.Audio book is being recorded.",0.25,0.184,0.126,0.0,0.5
+2020-12-24,17,Dropping tomorrow on #Bitcoin Fixes This #24: Listener questions with ! https://t.co/Wyw2EE5jUB,Dropping tomorrow on #Bitcoin Fixes This #24: Listener questions with !,0.0,0.0,0.0,0.0,0.0
+2020-12-24,17,". and I answer listener questions! Find out how subjectivism and positivism relate to monetary policy, how Bitcoin changes missions and the proper perspective on money. We also gave away signed copies of the book!
+
+#Bitcoin Fixes This #24
+
+https://t.co/wuzpFuhV3b https://t.co/4hHb66TuJm",". and I answer listener questions! Find out how subjectivism and positivism relate to monetary policy, how Bitcoin changes missions and the proper perspective on money. We also gave away signed copies of the book!#Bitcoin Fixes This #24",0.4912,0.077,0.0,0.0,0.1
+2020-12-25,17,"   In terms of BTC, some of these coins were 1%, some 2%. Crazy that BCH and BSV combined is now less than 2%. Remember Bitcoin Private? Bitcoin Interest? Bitcoin Pay? Bitcoin Clean? Bitcoin Atom? Bitcoin Diamond? Many of these had highs greater than 2%.","In terms of BTC, some of these coins were 1%, some 2%. Crazy that BCH and BSV combined is now less than 2%. Remember Bitcoin Private? Bitcoin Interest? Bitcoin Pay? Bitcoin Clean? Bitcoin Atom? Bitcoin Diamond? Many of these had highs greater than 2%.",0.8299,0.217,0.071,0.10000000000000002,0.5069444444444445
+2020-12-25,17,"All forms of authority come with power and the unfortunate reality is that power has been abused everywhere. This is because almost all authority in a fiat economy is politics-based and status games have little regard for integrity.
+
+Become self-sovereign, start with #Bitcoin","All forms of authority come with power and the unfortunate reality is that power has been abused everywhere. This is because almost all authority in a fiat economy is politics-based and status games have little regard for integrity.Become self-sovereign, start with #Bitcoin",-0.5209,0.102,0.131,-0.34375,0.75
+2020-12-25,17,"Fiat rights: you have permission to X unless/until the government doesn't want you to.
+
+Fiat money is just fiat rights applied to money.
+
+Take back your rights with #Bitcoin",Fiat rights: you have permission to X unless/until the government doesn't want you to.Fiat money is just fiat rights applied to money.Take back your rights with #Bitcoin,-0.0572,0.0,0.043,0.0,0.0
+2020-12-27,17,"You can trust the government to not dip their hand into a cookie jar they are in charge of watching (fiat money) or you can trust in self-sovereign money (#Bitcoin).
+
+The choice is obvious.",You can trust the government to not dip their hand into a cookie jar they are in charge of watching (fiat money) or you can trust in self-sovereign money (#Bitcoin).The choice is obvious.,0.6088,0.168,0.067,0.0,0.5
+2020-12-27,17,"Sunday Survey:
+
+How many of your friends and family do you know own #Bitcoin?",Sunday Survey:How many of your friends and family do you know own #Bitcoin?,0.4767,0.193,0.0,0.55,0.75
+2020-12-27,17," Some city somewhere will be the first city to keep their reserves in #Bitcoin. If bonds they issue can give them some #Bitcoin upside, I'd bet they'd do really well.","Some city somewhere will be the first city to keep their reserves in #Bitcoin. If bonds they issue can give them some #Bitcoin upside, I'd bet they'd do really well.",0.3384,0.076,0.0,0.225,0.26666666666666666
+2020-12-27,17,"Homo economicus is a simplified theoretical construct that we've been reduced to. Unsurprisingly, we've started to act that way under fiat money.
+
+#Bitcoin puts money in its proper place so we're not just homo economicus.","Homo economicus is a simplified theoretical construct that we've been reduced to. Unsurprisingly, we've started to act that way under fiat money.#Bitcoin puts money in its proper place so we're not just homo economicus.",0.0,0.0,0.0,0.0,0.1
+2020-12-28,18,"No, #Bitcoin Twitter should not be ""inclusive"" or ""for everybody."" The community's function is to be an immune system, one that repels social attacks against #Bitcoin, not to make you feel better. It's scams that stroke your ego to get your money.","No, #Bitcoin Twitter should not be ""inclusive"" or ""for everybody."" The community's function is to be an immune system, one that repels social attacks against #Bitcoin, not to make you feel better. It's scams that stroke your ego to get your money.",-0.5859,0.1,0.175,0.26666666666666666,0.2833333333333333
+2020-12-28,18,"Institutional Money incoming via new financial vehicles, OpTech year end review, DLCFD, HW wallet withdrawals, Coldcard and Caravan, Lightning gotchas, Natural Law and Bitcoin, Bitcoin supercycle, Bull security, FinCen rule
+
+#Bitcoin Tech Talk Issue #220
+
+https://t.co/5l7XfNetum https://t.co/SVOK4QHYzC","Institutional Money incoming via new financial vehicles, OpTech year end review, DLCFD, HW wallet withdrawals, Coldcard and Caravan, Lightning gotchas, Natural Law and Bitcoin, Bitcoin supercycle, Bull security, FinCen rule#Bitcoin Tech Talk Issue #220",0.5994,0.123,0.0,0.07878787878787878,0.28484848484848485
+2020-12-29,18,"What #Bitcoin doesn't care about:
+
+* Economic theories
+* Your opinion
+* Your desires
+* Your status
+* Your influence
+
+Proceed accordingly.",What #Bitcoin doesn't care about:* Economic theories* Your opinion* Your desires* Your status* Your influenceProceed accordingly.,-0.3875,0.0,0.141,0.2,0.2
+2020-12-30,18,"Because our current money is based on debt, the redemption of money is a redemption of the future.
+
+#Bitcoin is the redemption of money.","Because our current money is based on debt, the redemption of money is a redemption of the future.#Bitcoin is the redemption of money.",-0.3612,0.0,0.102,0.0,0.2625
+2020-12-30,18,"It takes time and effort to learn #Bitcoin, just like anything worthwhile.
+
+If you're too busy, arrogant or lazy to learn, that's your loss, literally.","It takes time and effort to learn #Bitcoin, just like anything worthwhile.If you're too busy, arrogant or lazy to learn, that's your loss, literally.",-0.4767,0.149,0.243,0.11666666666666665,0.6
+2020-12-31,18,"#Bitcoin hits all time highs against Dow Jones Index $DJI, Gold $GOLD, S&amp;P 500 $SPX. Still a bit to go before going for the all time high against NASDAQ $NDX https://t.co/1NPnsEabyd","#Bitcoin hits all time highs against Dow Jones Index $DJI, Gold $GOLD, S&amp;P 500 $SPX. Still a bit to go before going for the all time high against NASDAQ $NDX",0.0,0.0,0.0,0.16,0.5399999999999999
+2020-12-31,18,"Bets on stock or real estate are subject to human whim and stupidity. That's why over a long-enough time frame, you'll get screwed by government, bad management, regulators, etc.
+
+Bet on emotionless, relentless, decentralized code that requires consensus to change. #Bitcoin","Bets on stock or real estate are subject to human whim and stupidity. That's why over a long-enough time frame, you'll get screwed by government, bad management, regulators, etc.Bet on emotionless, relentless, decentralized code that requires consensus to change. #Bitcoin",-0.8555,0.026,0.205,-0.2533333333333333,0.48
+2020-12-31,18,"Evil thrives when the incentives for truth aren't there. Guess what kind of incentives fiat money creates?
+
+#Bitcoin incentivizes truth",Evil thrives when the incentives for truth aren't there. Guess what kind of incentives fiat money creates?#Bitcoin incentivizes truth,0.5994,0.38,0.148,-0.2,0.95
+2020-12-31,18,"The big story of 2020 is that all our public institutions are now bankrupt, not in monetary terms (they've been for the last 100 years), but in terms of trust.
+
+All the more reason to be bullish #Bitcoin","The big story of 2020 is that all our public institutions are now bankrupt, not in monetary terms (they've been for the last 100 years), but in terms of trust.All the more reason to be bullish #Bitcoin",0.4854,0.104,0.054,0.125,0.18333333333333335
+2021-01-01,18,"#Bitcoin late 2020 feels more like late 2012 than 2013 or 2017.
+
+Welcome to the hall of worthies, newcoiners! May you learn the joys and lessons of life that fiat never taught you.","#Bitcoin late 2020 feels more like late 2012 than 2013 or 2017.Welcome to the hall of worthies, newcoiners! May you learn the joys and lessons of life that fiat never taught you.",0.8513,0.236,0.0,0.225,0.65
+2021-01-01,18,"Happy New Year to everyone except the toxic nocoiners, altcoiners and blockchain-not-Bitcoin people.","Happy New Year to everyone except the toxic nocoiners, altcoiners and blockchain-not-Bitcoin people.",0.5719,0.236,0.0,0.4681818181818182,0.7272727272727273
+2021-01-01,18,"#Fiat money has a theft-function built in.
+Paper backed by gold also has a theft-function built in.
+CBDCs will have a theft-function built in.
+
+#Bitcoin is the only one missing that function.
+#Bitcoin is the most secure money in the world.",#Fiat money has a theft-function built in.Paper backed by gold also has a theft-function built in.CBDCs will have a theft-function built in.#Bitcoin is the only one missing that function.#Bitcoin is the most secure money in the world.,0.1513,0.093,0.054,0.175,0.5375
+2021-01-03,18,"Sunday Survey:
+
+What year did you first hear about #Bitcoin?",Sunday Survey:What year did you first hear about #Bitcoin?,0.0,0.0,0.0,0.25,0.3333333333333333
+2021-01-04,18,We just had a $6800 weekly green candle. That's more than what #Bitcoin was worth back in April.,We just had a $6800 weekly green candle. That's more than what #Bitcoin was worth back in April.,0.2263,0.106,0.0,0.15,0.225
+2021-01-04,18,"s2f model underestimating? Fiat bread and circus, 2020 BTC stats, econ advancement, tech developments and lightning progress. Jade wallet, softchains, Hopf cycle, financial Reformation, NFL paying out BTC and animated vid!
+
+#Bitcoin Tech Talk Issue #221
+
+https://t.co/lDLDVcuoAP https://t.co/HiWwIsigo9","s2f model underestimating? Fiat bread and circus, 2020 BTC stats, econ advancement, tech developments and lightning progress. Jade wallet, softchains, Hopf cycle, financial Reformation, NFL paying out BTC and animated vid!#Bitcoin Tech Talk Issue #221",0.4753,0.077,0.0,0.0,0.0
+2021-01-05,18,"Money has a network effect. 
+Therefore, if you're competing as money, you'd better be way better than what exists. 
+This is why #Bitcoin is winning over fiat and also why it's winning over altcoins.","Money has a network effect. Therefore, if you're competing as money, you'd better be way better than what exists. This is why #Bitcoin is winning over fiat and also why it's winning over altcoins.",0.9118,0.303,0.0,0.5,0.625
+2021-01-06,18,"Government subsidies cause those that receive them to die a little. Zombie companies, zombie government and zombie unemployed multiply from this contagion.
+
+Government intervention is the real virus. #Bitcoin is the real vaccine.","Government subsidies cause those that receive them to die a little. Zombie companies, zombie government and zombie unemployed multiply from this contagion.Government intervention is the real virus. #Bitcoin is the real vaccine.",-0.8126,0.0,0.198,0.053125000000000006,0.275
+2021-01-07,18,We had a +$2800 day. That's more than the price of #Bitcoin back during Segwit wars (Jul/Aug 2017),We had a +$2800 day. That's more than the price of #Bitcoin back during Segwit wars (Jul/Aug 2017),-0.5574,0.0,0.184,0.25,0.25
+2021-01-08,18,"#Bitcoin just flippened Facebook.
+
+You still think Zuckerberg is the smart one and not  or ? https://t.co/G4UqRbeMPD",#Bitcoin just flippened Facebook.You still think Zuckerberg is the smart one and not  or ?,0.4019,0.153,0.0,0.21428571428571427,0.6428571428571429
+2021-01-08,18,"What's better days when Bitcoin goes up or days when Bitcoin goes down, but altcoins go down harder?","What's better days when Bitcoin goes up or days when Bitcoin goes down, but altcoins go down harder?",0.2382,0.103,0.0,0.022222222222222213,0.2694444444444445
+2021-01-09,18,"Some enemies have been made today.
+
+Good thing #Bitcoin is the money of enemies!",Some enemies have been made today.Good thing #Bitcoin is the money of enemies!,-0.5848,0.141,0.325,0.875,0.6000000000000001
+2021-01-10,18,"As demand increases, this is how Bitcoin will evolve. 
+
+At first, the recipients convert the money as they receive it.
+But as number go up, they start demanding up-front payment or a contract in BTC.
+Then payments become denominated in BTC.","As demand increases, this is how Bitcoin will evolve. At first, the recipients convert the money as they receive it.But as number go up, they start demanding up-front payment or a contract in BTC.Then payments become denominated in BTC.",-0.2732,0.031,0.082,0.25,0.3333333333333333
+2021-01-10,18,"Have you learned yet?
+
+1. Twitter, Google, Apple, Facebook, etc. are trusted third parties.
+2. Trusted third parties are security holes.
+3. Bitcoin doesn't require a trusted third party.","Have you learned yet?1. Twitter, Google, Apple, Facebook, etc. are trusted third parties.2. Trusted third parties are security holes.3. Bitcoin doesn't require a trusted third party.",0.9571,0.485,0.0,0.0,0.0
+2021-01-11,19,"When is the last time you heard an altcoiner talk about multisig? Security? $5 wrench attacks? Yea, they gloss over it at best. Actions speak louder than words.
+
+#Bitcoin holders are obsessed with security because they value it highly.","When is the last time you heard an altcoiner talk about multisig? Security? $5 wrench attacks? Yea, they gloss over it at best. Actions speak louder than words.#Bitcoin holders are obsessed with security because they value it highly.",0.8095,0.241,0.093,0.165,0.4766666666666667
+2021-01-11,19,"This is amazing for #Bitcoin
+
+https://t.co/jI1kfw9r1F",This is amazing for #Bitcoin,0.5859,0.432,0.0,0.6000000000000001,0.9
+2021-01-11,19,"Subverting the Technocracy, one core developer's priorities, Testing release candidates, private keys empower people, Strike remittances, Decentralized law creation, hash rate leaving China, more book interviews!
+
+#Bitcoin Tech Talk Issue #222
+
+https://t.co/ZiIu2MBUDY https://t.co/kl4pVgHsKD","Subverting the Technocracy, one core developer's priorities, Testing release candidates, private keys empower people, Strike remittances, Decentralized law creation, hash rate leaving China, more book interviews!#Bitcoin Tech Talk Issue #222",0.2244,0.069,0.043,0.3125,0.4375
+2021-01-12,19,Imagine being locked down without #Bitcoin,Imagine being locked down without #Bitcoin,0.0,0.0,0.0,-0.15555555555555559,0.2888888888888889
+2021-01-12,19,"How to take over an org:
+
+Step 1: Create movement with slogan no one would disagree with
+Step 2: Use movement to indoctrinate
+Step 3: Infiltrate org with your members
+Step 4: Get them into power
+Step 5: Use power to further your agenda
+
+With #Bitcoin there's nothing to take over.",How to take over an org:Step 1: Create movement with slogan no one would disagree withStep 2: Use movement to indoctrinateStep 3: Infiltrate org with your membersStep 4: Get them into powerStep 5: Use power to further your agendaWith #Bitcoin there's nothing to take over.,-0.6249,0.037,0.128,0.0,0.5
+2021-01-12,19,"How to get rich:
+
+Work to provide value and save in #bitcoin",How to get rich:Work to provide value and save in #bitcoin,0.8481,0.505,0.0,0.375,0.75
+2021-01-14,19,"Money is the base layer of civilization.
+
+Civilization built on fiat sinks into the mire.
+We're starting to see what a civilization built on #Bitcoin looks like.",Money is the base layer of civilization.Civilization built on fiat sinks into the mire.We're starting to see what a civilization built on #Bitcoin looks like.,0.3612,0.091,0.0,-0.3,0.3666666666666667
+2021-01-14,19,"I talked to  about investing. Find out how the investing world has changed since the 70's, why bond yields continue to go down, why 's bond was oversubscribed and why everyone is interested in #Bitcoin
+
+#Bitcoin Fixes This #25
+
+https://t.co/DfSKA8gE8V https://t.co/7OiSFP3KVv","I talked to  about investing. Find out how the investing world has changed since the 70's, why bond yields continue to go down, why 's bond was oversubscribed and why everyone is interested in #Bitcoin#Bitcoin Fixes This #25",0.4019,0.065,0.0,0.04722222222222221,0.3944444444444445
+2021-01-16,19,"Trusted third parties unnecessarily confuse property rights, particularly if they give something away for free.
+
+One of the underrated advantages of #Bitcoin is that it draws explicit and clear boundaries for property.","Trusted third parties unnecessarily confuse property rights, particularly if they give something away for free.One of the underrated advantages of #Bitcoin is that it draws explicit and clear boundaries for property.",0.9062,0.337,0.045,0.05333333333333333,0.4833333333333333
+2021-01-16,19,"Altcoins are stupid startups funded by money printing.
+
+The projects almost always fail, but the money printing and speculation thrive by pretending to be #Bitcoin. 
+
+Altcoining is fraud.","Altcoins are stupid startups funded by money printing.The projects almost always fail, but the money printing and speculation thrive by pretending to be #Bitcoin. Altcoining is fraud.",-0.8364,0.046,0.271,-0.6499999999999999,0.6499999999999999
+2021-01-16,19,"Really enjoyed this conversation about Thank God for Bitcoin. We talked about diverse topics like the fall of civilization, putting money in its proper place and the corruption of the church.
+
+ 
+
+https://t.co/IFy5Hsl4Gz","Really enjoyed this conversation about Thank God for Bitcoin. We talked about diverse topics like the fall of civilization, putting money in its proper place and the corruption of the church.",0.8655,0.276,0.0,0.25,0.39999999999999997
+2021-01-16,19,"What is government? Where did it go wrong? Why are people snitching? Why is fiat money causing so much harm? Why is virtue important to civilization? And how is #Bitcoin a more moral money?
+
+Thoroughly enjoyed speaking to  
+
+https://t.co/8gIU6fzG0s",What is government? Where did it go wrong? Why are people snitching? Why is fiat money causing so much harm? Why is virtue important to civilization? And how is #Bitcoin a more moral money?Thoroughly enjoyed speaking to,0.3126,0.187,0.14,0.18333333333333335,0.5916666666666667
+2021-01-18,20,"The power of #Bitcoin memes and what they mean. Taproot ring signatures, 0.21.0 features, newbie guide, Bitcoin is money and time, SV sucks at Bitcoin, Morgan Stanley buying MS stock and many #thankgodforbitcoin interviews!
+
+#Bitcoin Tech Talk Issue #223
+
+https://t.co/SG1HjkN27B https://t.co/lThmt19rSl","The power of #Bitcoin memes and what they mean. Taproot ring signatures, 0.21.0 features, newbie guide, Bitcoin is money and time, SV sucks at Bitcoin, Morgan Stanley buying MS stock and many #thankgodforbitcoin interviews!#Bitcoin Tech Talk Issue #223",-0.4199,0.0,0.065,0.004166666666666652,0.49583333333333335
+2021-01-18,20,The energy going into #Bitcoin is tremendous.,The energy going into #Bitcoin is tremendous.,0.2732,0.259,0.0,0.3333333333333333,1.0
+2021-01-19,20,"Government is a giant trusted third party.
+
+I don't understand Bitcoiners that trust government about anything, especially money, health, education, and jobs.","Government is a giant trusted third party.I don't understand Bitcoiners that trust government about anything, especially money, health, education, and jobs.",0.8442,0.349,0.0,0.0,0.6666666666666666
+2021-01-20,20,"Dropping tomorrow, my discussion with  about art and Bitcoin.
+Find out where art went wrong and how it became so narcissistic! https://t.co/7ItBhXgbCf","Dropping tomorrow, my discussion with  about art and Bitcoin.Find out where art went wrong and how it became so narcissistic!",-0.5255,0.0,0.139,-0.625,0.9
+2021-01-21,20,I would like to remind everybody that the #Bitcoin whitepaper is embedded in your archival node should you want it: https://t.co/qG9ONQoP3k,I would like to remind everybody that the #Bitcoin whitepaper is embedded in your archival node should you want it:,0.4215,0.174,0.0,0.0,0.0
+2021-01-21,20,"I spoke to  about art and Bitcoin. We also get into narcissism, activism and the movement that is #Bitcoin.
+
+https://t.co/w5DsQlkbzm https://t.co/3pJDKVE2iz","I spoke to  about art and Bitcoin. We also get into narcissism, activism and the movement that is #Bitcoin.",0.0,0.0,0.0,0.0,0.0
+2021-01-22,20,Wondering why people are looking into #Bitcoin? IBM was the bluest of blue chip stocks. They've essentially lost money the last 25 years and have turned into a zombie company surviving on patents. https://t.co/q51oxqhUa2,Wondering why people are looking into #Bitcoin? IBM was the bluest of blue chip stocks. They've essentially lost money the last 25 years and have turned into a zombie company surviving on patents.,-0.0258,0.062,0.065,0.0,0.15555555555555556
+2021-01-23,20,"Unpopular Opinion: Rothbard's interpretation of the Regression Theorem has been a huge negative to libertarian #Bitcoin adoption, especially boomer libertarians that take Rothbard as gospel.","Unpopular Opinion: Rothbard's interpretation of the Regression Theorem has been a huge negative to libertarian #Bitcoin adoption, especially boomer libertarians that take Rothbard as gospel.",-0.0314,0.191,0.126,0.03333333333333336,0.7666666666666666
+2021-01-24,20,"   Funny, I was thinking that Konrad's argument here was pretty convincing that Bitcoin does meet Mises' Regression Theorem: https://t.co/GyvgFpfEfP","Funny, I was thinking that Konrad's argument here was pretty convincing that Bitcoin does meet Mises' Regression Theorem:",0.743,0.348,0.099,0.3333333333333333,1.0
+2021-01-24,20,"Sunday Survey:
+
+What convinced you to buy #Bitcoin?",Sunday Survey:What convinced you to buy #Bitcoin?,0.4019,0.278,0.0,0.0,0.0
+2021-01-25,21,"Is Bitcoin hard to hold? Decentralizing BTC core development, cost of 51% attack, double-spend analysis, mempool today vs 2017, LN grief attack, LNSync, Mt Gox rehab, Ledger bounty, new ETF, BTC crime stats
+
+#Bitcoin Tech Talk #224
+
+https://t.co/zcUOChmRjV https://t.co/Nb1WKPsuIs","Is Bitcoin hard to hold? Decentralizing BTC core development, cost of 51% attack, double-spend analysis, mempool today vs 2017, LN grief attack, LNSync, Mt Gox rehab, Ledger bounty, new ETF, BTC crime stats#Bitcoin Tech Talk #224",-0.9231,0.0,0.296,-0.31843434343434346,0.3987373737373738
+2021-01-26,21,"Unpopular Opinion: A lot of people in the US actually want hyperinflation... Of course, they call it debt forgiveness or debt jubilee, but they amount to the same thing.
+
+For everyone else, there's #Bitcoin","Unpopular Opinion: A lot of people in the US actually want hyperinflation... Of course, they call it debt forgiveness or debt jubilee, but they amount to the same thing.For everyone else, there's #Bitcoin",-0.2023,0.077,0.099,0.0,0.1125
+2021-01-27,21,"If stocks were priced in #Bitcoin shorting would be a lot easier and pumping would be a lot harder.
+
+The insanity of the markets right now is directly the result of the loose monetary policy that lets people leverage with freshly printed debt.",If stocks were priced in #Bitcoin shorting would be a lot easier and pumping would be a lot harder.The insanity of the markets right now is directly the result of the loose monetary policy that lets people leverage with freshly printed debt.,-0.6908,0.058,0.176,0.10175824175824175,0.34098901098901097
+2021-01-27,21,"Dropping tomorrow, a conversation about sales with 
+
+Find out why Silicon Valley types are drawn to Ethereum and ICOs, why morals are important in sales and why #Bitcoin will ultimately win. https://t.co/SY8NC43ZRg","Dropping tomorrow, a conversation about sales with Find out why Silicon Valley types are drawn to Ethereum and ICOs, why morals are important in sales and why #Bitcoin will ultimately win.",0.6808,0.162,0.0,0.6000000000000001,0.7
+2021-01-28,21,"I talk about sales with . Find out why there's such an affinity for incomprehensible techy jargon, how sales skills are an important part of any startup and how #Bitcoin can be sold better.
+
+#Bitcoin Fixes This #27
+
+https://t.co/rmpTDLsNx0 https://t.co/sJkdtkURk9","I talk about sales with . Find out why there's such an affinity for incomprehensible techy jargon, how sales skills are an important part of any startup and how #Bitcoin can be sold better.#Bitcoin Fixes This #27",0.5719,0.115,0.0,0.3,0.6666666666666666
+2021-01-28,21," The Austrian economics are what attracted me to Bitcoin, not the other way around. 
+
+Honored by your compliments. 🙏","The Austrian economics are what attracted me to Bitcoin, not the other way around. Honored by your compliments. 🙏",0.8519,0.383,0.0,-0.125,0.375
+2021-01-29,21,"GME was rehypothecated, which is a fancy way of saying that brokerages lent out shares of GME that didn't exist. Hence why the short interest was above 100%.
+
+This is what happens when you trust a third party. #Bitcoin doesn't require a trusted third party.","GME was rehypothecated, which is a fancy way of saying that brokerages lent out shares of GME that didn't exist. Hence why the short interest was above 100%.This is what happens when you trust a third party. #Bitcoin doesn't require a trusted third party.",0.8846,0.265,0.049,0.0,0.1
+2021-02-01,22,"How stock shares are like fiat money, how to estimate fees with machine learning, how we can move towards auditable ASICs, how we can detect miner censorship, what to do with Bitcoin estate planning and much more!
+
+#Bitcoin Tech Talk #225
+
+https://t.co/wV5DcSYlcv https://t.co/NY92hihHDD","How stock shares are like fiat money, how to estimate fees with machine learning, how we can move towards auditable ASICs, how we can detect miner censorship, what to do with Bitcoin estate planning and much more!#Bitcoin Tech Talk #225",0.6114,0.109,0.0,0.625,0.5
+2021-02-02,22,"There are way more Karens in the political class than courageous defenders of liberty.
+
+#Bitcoin will win because it can't be stopped by Karens.",There are way more Karens in the political class than courageous defenders of liberty.#Bitcoin will win because it can't be stopped by Karens.,0.9112,0.417,0.0,0.43333333333333335,0.3333333333333333
+2021-02-03,22,"Fear, uncertainty and doubt are always about the state of the world in the future. #Bitcoin is one of the most certain things going forward. 
+
+When you understand #Bitcoin, it makes you less anxious, not more.","Fear, uncertainty and doubt are always about the state of the world in the future. #Bitcoin is one of the most certain things going forward. When you understand #Bitcoin, it makes you less anxious, not more.",-0.7517,0.055,0.227,0.007936507936507945,0.460515873015873
+2021-02-04,22,"I talked to  about the art of software engineering. Find out what it takes to become a good software engineer, why adversarial thinking is important in public facing apps, why so many alts have such poor security and more!
+
+#Bitcoin Fixes This #28
+
+https://t.co/a7Ig0D10YF https://t.co/nvJQQwCFJB","I talked to  about the art of software engineering. Find out what it takes to become a good software engineer, why adversarial thinking is important in public facing apps, why so many alts have such poor security and more!#Bitcoin Fixes This #28",0.2003,0.145,0.11,0.26071428571428573,0.5380952380952382
+2021-02-04,22,"In a rigged game, everyone looks for insider info, which is why stock tip sites and newsletters are so popular.
+
+#Bitcoin is not rigged. You can just buy and HODL.","In a rigged game, everyone looks for insider info, which is why stock tip sites and newsletters are so popular.#Bitcoin is not rigged. You can just buy and HODL.",-0.0986,0.104,0.144,0.09999999999999998,0.65
+2021-02-05,22,In the future you will know products are scarce and in demand because they'll be sold only for #Bitcoin.,In the future you will know products are scarce and in demand because they'll be sold only for #Bitcoin.,-0.128,0.0,0.077,0.0,0.5625
+2021-02-06,22,"Degenerate gambling is exacerbated by inflation.
+
+Oddly enough, there will be less gambling on a #Bitcoin standard.","Degenerate gambling is exacerbated by inflation.Oddly enough, there will be less gambling on a #Bitcoin standard.",0.0,0.0,0.0,-0.05555555555555555,0.18888888888888888
+2021-02-07,22,"The most lucrative rent-seeking positions are in the money production business. This is why governments and banks are enormously bloated and have so much bureaucracy and positions that detract, rather than add to civilization.
+
+#Bitcoin fixes this.","The most lucrative rent-seeking positions are in the money production business. This is why governments and banks are enormously bloated and have so much bureaucracy and positions that detract, rather than add to civilization.#Bitcoin fixes this.",0.0,0.0,0.0,0.2333333333333333,0.5333333333333333
+2021-02-08,23,"Bitcoin's Eternal September is Coming. Taproot BIP8 activation, Taproot BIP32 path, Utreexo Proof-of-Concept, Taproot covenants, Bitcoin in the developing world, Tether FUD, BTC wealth distribution, rules for life and more!
+
+#Bitcoin Tech Talk Issue #226
+
+https://t.co/jFz1fpmW5P https://t.co/CcjWuCpH3w","Bitcoin's Eternal September is Coming. Taproot BIP8 activation, Taproot BIP32 path, Utreexo Proof-of-Concept, Taproot covenants, Bitcoin in the developing world, Tether FUD, BTC wealth distribution, rules for life and more!#Bitcoin Tech Talk Issue #226",0.1677,0.085,0.069,0.625,0.5
+2021-02-08,23,"Later tonight, I will host with  a conversation about Bitcoin and human rights.
+
+https://t.co/bE4FgcA5sE","Later tonight, I will host with  a conversation about Bitcoin and human rights.",0.0,0.0,0.0,0.0,0.05
+2021-02-09,23,"Property rights are a human right.
+
+#Bitcoin is a property right that can be secured against even  the very powerful.",Property rights are a human right.#Bitcoin is a property right that can be secured against even  the very powerful.,0.6997,0.266,0.0,0.24035714285714285,0.5428571428571428
+2021-02-09,23,"I heard about Bitcoin for the first time with this story 10 years ago. Notice the spelling of #Bitcoin and one of the top comments comparing it to Flooz and Beenz.
+
+https://t.co/7qGW8y1XZB https://t.co/0Hw9aoP5R2 https://t.co/mGgBCvlJ1R",I heard about Bitcoin for the first time with this story 10 years ago. Notice the spelling of #Bitcoin and one of the top comments comparing it to Flooz and Beenz.,0.2023,0.053,0.0,0.375,0.41666666666666663
+2021-02-10,23,We'll soon find out that #Bitcoin is the only way to rationally measure anything in economics.,We'll soon find out that #Bitcoin is the only way to rationally measure anything in economics.,0.0,0.0,0.0,0.0,1.0
+2021-02-11,23,"Authorities don't seek truth, they seek power and the more power they have the less they need truth.
+
+#Bitcoin lets you take some of their power away from them.","Authorities don't seek truth, they seek power and the more power they have the less they need truth.#Bitcoin lets you take some of their power away from them.",-0.4449,0.0,0.127,0.16666666666666669,0.2833333333333333
+2021-02-11,23,"Fiat money is ever-expanding which makes civilization a zero-sum status game.
+#Bitcoin is fixed which makes civilization grow.",Fiat money is ever-expanding which makes civilization a zero-sum status game.#Bitcoin is fixed which makes civilization grow.,0.0,0.0,0.0,-0.15000000000000002,0.30000000000000004
+2021-02-11,23,"I talked to  about lockdowns, epidemiology, and the politicization of everything. Find out how we got here and how the current set of technocrats came into power.
+
+#Bitcoin Fixes This #29
+
+https://t.co/PbCX7ntBXe","I talked to  about lockdowns, epidemiology, and the politicization of everything. Find out how we got here and how the current set of technocrats came into power.#Bitcoin Fixes This #29",0.0,0.0,0.0,0.0,0.4
+2021-02-12,23,"I always thought the economy would be saved by having value flow into #Bitcoin.
+
+As MicroStrategy and Tesla has shown, it might be that the economy would be saved by having #Bitcoin flow into everything else.","I always thought the economy would be saved by having value flow into #Bitcoin.As MicroStrategy and Tesla has shown, it might be that the economy would be saved by having #Bitcoin flow into everything else.",0.7906,0.2,0.0,0.0,0.0
+2021-02-12,23,"Conventional economists are the modern-day false prophets. They defend the state because that's what they're paid to do.
+
+It's no wonder they don't like #Bitcoin.",Conventional economists are the modern-day false prophets. They defend the state because that's what they're paid to do.It's no wonder they don't like #Bitcoin.,-0.5122,0.0,0.158,-0.27142857142857146,0.47857142857142854
+2021-02-13,23,"In other words, #Bitcoin is eating the economy. https://t.co/Lm9steuwGE","In other words, #Bitcoin is eating the economy.",0.0,0.0,0.0,-0.125,0.375
+2021-02-13,23,Compare everything you buy to the potential #Bitcoin you could own instead.,Compare everything you buy to the potential #Bitcoin you could own instead.,0.0,0.0,0.0,0.3,1.0
+2021-02-14,23,"Sunday Survey:
+
+When did you buy your first Bitcoin? (don't answer if you have never bought)",Sunday Survey:When did you buy your first Bitcoin? (don't answer if you have never bought),0.0,0.0,0.0,0.25,0.3333333333333333
+2021-02-15,24,"Zombie companies are like cockroach colonies, except they contain rent-seekers.
+
+#Bitcoin will destroy them.","Zombie companies are like cockroach colonies, except they contain rent-seekers.#Bitcoin will destroy them.",-0.25,0.139,0.194,-0.2,0.0
+2021-02-15,24,"Bitcoin subsidizes energy production. Multisig BIP, Coldcard vulnerability, full node w/o internet, key exfiltration, safegcd, Taproot documentation, inbound liquidity economics, alts and trust, energy takes and Tesla!
+
+#Bitcoin Tech Talk issue #227
+
+https://t.co/wqeEgtUbYJ https://t.co/4p9YJWKMYH","Bitcoin subsidizes energy production. Multisig BIP, Coldcard vulnerability, full node w/o internet, key exfiltration, safegcd, Taproot documentation, inbound liquidity economics, alts and trust, energy takes and Tesla!#Bitcoin Tech Talk issue #227",0.7088,0.196,0.048,0.175,0.775
+2021-02-17,24,"There's going to be a new set of companies that come into the economy who already have #Bitcoin on their balance sheets.
+
+Yet another way in which Bitcoin is going to sanctify the corrupt fiat economy.",There's going to be a new set of companies that come into the economy who already have #Bitcoin on their balance sheets.Yet another way in which Bitcoin is going to sanctify the corrupt fiat economy.,0.0,0.0,0.0,-0.18181818181818182,0.7272727272727273
+2021-02-18,24,Here's something that's different this cycle. Alts are not claiming that they're going to replace #Bitcoin.,Here's something that's different this cycle. Alts are not claiming that they're going to replace #Bitcoin.,0.0,0.0,0.0,0.0,0.6
+2021-02-20,24,"As promised, my conversation with  
+
+Find out why there are negative rates, how the current system has no risk or reward and why Bitcoin is the only yield at the moment.
+
+Thanks for your support in getting to 200k followers!
+
+https://t.co/nO9WgnC5Qo https://t.co/FXKGjfa4pd","As promised, my conversation with  Find out why there are negative rates, how the current system has no risk or reward and why Bitcoin is the only yield at the moment.Thanks for your support in getting to 200k followers!",0.6239,0.219,0.145,-0.012499999999999997,0.5
+2021-02-20,24,"#Bitcoin is a savings and freedom technology.
+Fiat is a debt and enslavement technology.",#Bitcoin is a savings and freedom technology.Fiat is a debt and enslavement technology.,0.4019,0.251,0.15,0.0,0.0
+2021-02-21,24,"Sunday Survey:
+
+Which Bitcoin-related stocks do you think will correlate with BTC the most over the next 5 years? (note ETFs and Trusts like GBTC DO NOT COUNT)",Sunday Survey:Which Bitcoin-related stocks do you think will correlate with BTC the most over the next 5 years? (note ETFs and Trusts like GBTC DO NOT COUNT),0.6808,0.183,0.0,0.25,0.25
+2021-02-21,24,"Right now, there's a large company CEO somewhere trying to figure out how to survive the next 5 years with little to no yield anywhere.
+
+And a light bulb will click and #Bitcoin will have another holder.","Right now, there's a large company CEO somewhere trying to figure out how to survive the next 5 years with little to no yield anywhere.And a light bulb will click and #Bitcoin will have another holder.",-0.2315,0.0,0.055,0.14250000000000002,0.43285714285714283
+2021-02-22,25,"Enjoyed talking to the guys at  about #Bitcoin.
+
+I wonder if they'll be inviting me to speak at ?
+
+https://t.co/el3JpguOJ7",Enjoyed talking to the guys at  about #Bitcoin.I wonder if they'll be inviting me to speak at ?,0.6808,0.259,0.0,0.5,0.7
+2021-02-22,25,"Bitcoinized assets, Taproot LOT, Bitcoin Block time distribution, Coinswap implementation, Lightning Pool, LN withdrawal discounts, BTC bastion of freedom, delisting BCH/BSV, rigged stock market, ETF/Coinbase valuation
+
+Bitcoin Tech Talk #228
+
+https://t.co/XDiTsJb5Z1 https://t.co/XbEVEIZ1Vk","Bitcoinized assets, Taproot LOT, Bitcoin Block time distribution, Coinswap implementation, Lightning Pool, LN withdrawal discounts, BTC bastion of freedom, delisting BCH/BSV, rigged stock market, ETF/Coinbase valuationBitcoin Tech Talk #228",0.1531,0.178,0.137,0.0,0.0
+2021-02-23,25,When you sell or buy something with #Bitcoin recognize that you might not ever earn it back.,When you sell or buy something with #Bitcoin recognize that you might not ever earn it back.,0.0,0.0,0.0,0.0,0.0
+2021-02-24,25,"#Bitcoin is optimized for credible scarcity.
+
+Everything else really isn't and why #Bitcoin will win.",#Bitcoin is optimized for credible scarcity.Everything else really isn't and why #Bitcoin will win.,0.7783,0.343,0.0,0.46666666666666673,0.4333333333333333
+2021-02-24,25,"Claims about the future are usually wishful thinking at best, malicious manipulation at worst.
+
+#Bitcoin makes claims on the future through code and consensus. #Bitcoin is credibly scarce.","Claims about the future are usually wishful thinking at best, malicious manipulation at worst.#Bitcoin makes claims on the future through code and consensus. #Bitcoin is credibly scarce.",-0.2732,0.118,0.177,0.025000000000000005,0.4166666666666667
+2021-02-24,25,"Spending currently drives the economy and that is done almost entirely through debt. Raise interest rates and  spending drastically reduces.
+
+There's a reason rates are near 0 or negative.
+A #Bitcoin economy is driven by savings, not spending.","Spending currently drives the economy and that is done almost entirely through debt. Raise interest rates and  spending drastically reduces.There's a reason rates are near 0 or negative.A #Bitcoin economy is driven by savings, not spending.",-0.4964,0.073,0.151,-0.049999999999999996,0.45624999999999993
+2021-02-25,25,"The modern world creates lots of new products which are essentially forms of navel gazing.
+
+We'll know that we've started transitioning to a #Bitcoin standard when the majority of new products are expanding frontiers again. Until then we're still early.",The modern world creates lots of new products which are essentially forms of navel gazing.We'll know that we've started transitioning to a #Bitcoin standard when the majority of new products are expanding frontiers again. Until then we're still early.,0.2732,0.052,0.0,0.09545454545454546,0.3015151515151515
+2021-02-25,25,"2017 startup playbook: ICO, spend money stupidly, end up building nothing
+2021 startup playbook: raise money, keep treasuries in #Bitcoin, have long runway and build sustainably and slowly
+
+This cycle is going to be much better.","2017 startup playbook: ICO, spend money stupidly, end up building nothing2021 startup playbook: raise money, keep treasuries in #Bitcoin, have long runway and build sustainably and slowlyThis cycle is going to be much better.",0.2023,0.118,0.074,-0.16249999999999998,0.575
+2021-02-26,25,"Deadly sins of Bitcoin noobs:
+
+Pride - Profitably mining #Bitcoin is easy!
+Wrath - Why is #Bitcoin so expensive?
+Envy - Let me get in on the next #Bitcoin
+Greed - I'll make money trading with no experience
+Sloth - My altcoin bags will recover if I just wait",Deadly sins of Bitcoin noobs:Pride - Profitably mining #Bitcoin is easy!Wrath - Why is #Bitcoin so expensive?Envy - Let me get in on the next #BitcoinGreed - I'll make money trading with no experienceSloth - My altcoin bags will recover if I just wait,-0.396,0.145,0.194,-0.03958333333333332,0.48333333333333334
+2021-02-27,25,"You take the king's coin, you become the king's man.
+
+To be truly free, take the coin without a king, or a committee or a foundation.
+
+#Bitcoin is freedom.","You take the king's coin, you become the king's man.To be truly free, take the coin without a king, or a committee or a foundation.#Bitcoin is freedom.",0.886,0.311,0.0,0.4,0.8
+2021-02-28,25,"Sunday Survey:
+
+Who discredited themselves the most in the past year regarding Bitcoin?",Sunday Survey:Who discredited themselves the most in the past year regarding Bitcoin?,-0.4404,0.0,0.195,0.125,0.375
+2021-02-28,25,An IYI with no Skin in the Game is Fooled by Randomness about a Black Swan tail-event because he puts Bitcoin into a Procrustean Bed of his limited mind which otherwise would break his opposite-of-Antifragile ego.,An IYI with no Skin in the Game is Fooled by Randomness about a Black Swan tail-event because he puts Bitcoin into a Procrustean Bed of his limited mind which otherwise would break his opposite-of-Antifragile ego.,-0.6908,0.0,0.178,-0.2126984126984127,0.3253968253968254
+2021-02-28,25, The Convexity of Bitcoin is a Sword of Damocles hanging over his head and is not very Lindy.,The Convexity of Bitcoin is a Sword of Damocles hanging over his head and is not very Lindy.,0.0,0.0,0.0,-0.1,0.3
+2021-03-01,26,"NFTs are bribes. LOT arguments, wallet descriptor tutorial, DLC oracle software, e2e 2nd factor, corporate bonds on Liquid, benchmarking LN nodes, gov't and btc, fiat privilege, backdoored paper wallet, petrodollar and more!
+
+#Bitcoin Tech Talk Issue #229
+
+https://t.co/0ILp8fPXkC https://t.co/T6llToLunn","NFTs are bribes. LOT arguments, wallet descriptor tutorial, DLC oracle software, e2e 2nd factor, corporate bonds on Liquid, benchmarking LN nodes, gov't and btc, fiat privilege, backdoored paper wallet, petrodollar and more!#Bitcoin Tech Talk Issue #229",-0.126,0.059,0.07,0.20833333333333334,0.16666666666666666
+2021-03-01,26,"Risk is Volatility. Volatility is Risk.
+There is no Reward without Risk.
+There is no Reward without Volatility.
+
+It's morons and charlatans who complain about #Bitcoin's Volatility when there's a large reward.",Risk is Volatility. Volatility is Risk.There is no Reward without Risk.There is no Reward without Volatility.It's morons and charlatans who complain about #Bitcoin's Volatility when there's a large reward.,0.4333,0.276,0.279,-0.29285714285714287,0.7142857142857143
+2021-03-02,26,A balance sheet without #Bitcoin is a house built on sand.,A balance sheet without #Bitcoin is a house built on sand.,0.0,0.0,0.0,0.0,0.0
+2021-03-02,26,"Selling Bitcoin: Esau, soup
+Buying Bitcoin: Jacob, father's estate","Selling Bitcoin: Esau, soupBuying Bitcoin: Jacob, father's estate",0.0,0.0,0.0,0.0,0.0
+2021-03-03,26,"1. Fiat money is all debt
+2. Debt brings consumption forward and enslaves us until it's paid back.
+3. Everyone is up to their eyeballs in debt at every level: governments, corporations, individuals.
+4. We're all slaves until we opt out of fiat money.
+
+#Bitcoin is freedom","1. Fiat money is all debt2. Debt brings consumption forward and enslaves us until it's paid back.3. Everyone is up to their eyeballs in debt at every level: governments, corporations, individuals.4. We're all slaves until we opt out of fiat money.#Bitcoin is freedom",-0.5994,0.075,0.179,0.0,0.0
+2021-03-03,26,"Dropping tomorrow! My interview with . Find out why deflation is such a major force going forward, how our mental models need to change and why Bitcoin is so awesome. https://t.co/kQlm68ZITT","Dropping tomorrow! My interview with . Find out why deflation is such a major force going forward, how our mental models need to change and why Bitcoin is so awesome.",0.7603,0.165,0.0,0.240625,0.55
+2021-03-04,26,"Nice is a tactic to get you to conform. Unsurprisingly, lots of altcoin (read: ICO/DeFi/NFT) shillers are very nice.
+
+Fierce is a tactic to get you to see the truth. Unsurprisingly, lots of Bitcoiners are very fierce.","Nice is a tactic to get you to conform. Unsurprisingly, lots of altcoin (read: ICO/DeFi/NFT) shillers are very nice.Fierce is a tactic to get you to see the truth. Unsurprisingly, lots of Bitcoiners are very fierce.",0.8016,0.204,0.0,0.5266666666666666,0.7666666666666666
+2021-03-04,26,"I talked to  about business, Bitcoin and the deflationary nature of technology. Find out about what role luck has in entrepreneurship and why businesses are held hostage to the monetary policy of central banks.
+
+#Bitcoin Fixes This #32
+
+https://t.co/uafQMyvy7U https://t.co/dZGaOFFHHF","I talked to  about business, Bitcoin and the deflationary nature of technology. Find out about what role luck has in entrepreneurship and why businesses are held hostage to the monetary policy of central banks.#Bitcoin Fixes This #32",0.4588,0.073,0.0,0.0,0.25
+2021-03-04,26,"Critics complain #Bitcoin has no king.
+
+They want #Bitcoin to be like every other fiat money or altcoin. No thanks. It's a feature, not a bug.","Critics complain #Bitcoin has no king.They want #Bitcoin to be like every other fiat money or altcoin. No thanks. It's a feature, not a bug.",-0.34,0.204,0.277,-0.1125,0.2875
+2021-03-05,26,Converting fiat money to #Bitcoin is a step out of debt and into savings.,Converting fiat money to #Bitcoin is a step out of debt and into savings.,-0.3612,0.0,0.172,0.0,0.0
+2021-03-05,26,"Keynesian mindset: money is for spending, method of payment, therefore fiat/altcoins are superior
+Austrian mindset: money is for saving, store of value, therefore #Bitcoin is superior","Keynesian mindset: money is for spending, method of payment, therefore fiat/altcoins are superiorAustrian mindset: money is for saving, store of value, therefore #Bitcoin is superior",0.8555,0.29,0.0,0.7,0.9
+2021-03-06,26,"Just made a new club: #Bitcoin Veterans, for non-noobs
+
+I'll be doing Bitcoin Tech Talk and Listening parties of my podcast from this club.
+
+https://t.co/Q4AMiBn0g0","Just made a new club: #Bitcoin Veterans, for non-noobsI'll be doing Bitcoin Tech Talk and Listening parties of my podcast from this club.",0.4019,0.105,0.0,0.13636363636363635,0.45454545454545453
+2021-03-06,26,"Let the debt unwind and you get credit contraction which leads to a lot of bankruptcy.
+Expand credit and you create an even bigger bubble down the line.
+
+I think we know how this story ends. #Bitcoin",Let the debt unwind and you get credit contraction which leads to a lot of bankruptcy.Expand credit and you create an even bigger bubble down the line.I think we know how this story ends. #Bitcoin,0.7269,0.228,0.059,-0.07777777777777779,0.3944444444444445
+2021-03-06,26,"For everyone that thinks they can beat the market trading, remember that you must account for:
+
+1. taxes (~10-30%)
+2. risk premium (~10-50%)
+3. opportunity cost (~20-100%)
+
+You need to beat the #Bitcoin HODL strategy by at least 40% to make trading worthwhile.","For everyone that thinks they can beat the market trading, remember that you must account for:1. taxes (~10-30%)2. risk premium (~10-50%)3. opportunity cost (~20-100%)You need to beat the #Bitcoin HODL strategy by at least 40% to make trading worthwhile.",0.4767,0.11,0.044,0.1,0.45
+2021-03-07,26,"Sunday Survey:
+
+What's your #Bitcoin accumulation strategy?",Sunday Survey:What's your #Bitcoin accumulation strategy?,0.0,0.0,0.0,0.0,0.0
+2021-03-08,27,"NFTs are doomed. Taproot activation debate, Fee-only mining incentives, sidechain taxonomy, Adaptor signature optimization, LN Batch open channels, Bitcoin vs Petrodollar, BTC not a bubble, Macro environment, ASIC heat recycling
+
+#Bitcoin Tech Talk #230
+
+https://t.co/kx7PHPzrox https://t.co/s8LM0mrur0","NFTs are doomed. Taproot activation debate, Fee-only mining incentives, sidechain taxonomy, Adaptor signature optimization, LN Batch open channels, Bitcoin vs Petrodollar, BTC not a bubble, Macro environment, ASIC heat recycling#Bitcoin Tech Talk #230",-0.0772,0.119,0.102,0.0,0.5
+2021-03-08,27,#Bitcoin will long outlast its critics.,#Bitcoin will long outlast its critics.,-0.296,0.0,0.306,-0.05,0.4
+2021-03-09,27,"Why are mainstream public figures' forays into Bitcoin so cringe? Either they seem to not get Bitcoin at all and talk about ""blockchain"" or they immediately go to altcoins.
+
+It's better money, how do so many supposedly smart people not get that?","Why are mainstream public figures' forays into Bitcoin so cringe? Either they seem to not get Bitcoin at all and talk about ""blockchain"" or they immediately go to altcoins.It's better money, how do so many supposedly smart people not get that?",0.737,0.135,0.0,0.30357142857142855,0.4273809523809524
+2021-03-09,27,"Debt is how dampening short-term volatility becomes long-term uncertainty.
+
+Savings is your antidote and #Bitcoin is the best way to save.",Debt is how dampening short-term volatility becomes long-term uncertainty.Savings is your antidote and #Bitcoin is the best way to save.,0.5423,0.253,0.167,1.0,0.3
+2021-03-10,27,"Narcissists have a real difficult time with #Bitcoin. Either they get in and then soon leave for altcoins because #Bitcoin doesn't care who they or they never get in at all for the same reason.
+
+h/t ",Narcissists have a real difficult time with #Bitcoin. Either they get in and then soon leave for altcoins because #Bitcoin doesn't care who they or they never get in at all for the same reason.h/t,-0.6517,0.0,0.165,-0.375,0.5625
+2021-03-10,27,"Dropping tomorrow! I talked to  about nutrition, carnivory and Bitcoin. He's got a wealth of knowledge and you'll want to hear about how the conventional wisdom on nutrition is similar to the conventional wisdom on money. https://t.co/CXWlOZ1LkK","Dropping tomorrow! I talked to  about nutrition, carnivory and Bitcoin. He's got a wealth of knowledge and you'll want to hear about how the conventional wisdom on nutrition is similar to the conventional wisdom on money.",0.8908,0.272,0.0,-0.09523809523809523,0.37142857142857144
+2021-03-10,27,It's crazy to me that people are risking their Bitcoin for a little more yield. Is 200% returns per year not enough? Why risk everything for that extra 7%? Most of these services do not make the risks clear and I suspect there will have to be more bankruptcies before ppl learn.,It's crazy to me that people are risking their Bitcoin for a little more yield. Is 200% returns per year not enough? Why risk everything for that extra 7%? Most of these services do not make the risks clear and I suspect there will have to be more bankruptcies before ppl learn.,-0.2575,0.108,0.126,0.1015625,0.48541666666666666
+2021-03-11,27,"Imagine you had a goose that laid golden eggs.
+
+Would you have someone else take care of the goose?
+Would you lend out the goose for some money?
+
+Why risk killing a golden goose? Learn to take care of the goose yourself. Treat your #Bitcoin like this hypothetical goose and HODL.",Imagine you had a goose that laid golden eggs.Would you have someone else take care of the goose?Would you lend out the goose for some money?Why risk killing a golden goose? Learn to take care of the goose yourself. Treat your #Bitcoin like this hypothetical goose and HODL.,0.6848,0.197,0.105,0.3,0.5
+2021-03-11,27,"I talked to  about nutrition. Find out how he came to his controversial diet, how studying the human body and other animals helped him understand its best functioning and in what ways Bitcoin parallels nutrition.
+
+#Bitcoin Fixes This #33
+
+https://t.co/fLcrBqhBZ3","I talked to  about nutrition. Find out how he came to his controversial diet, how studying the human body and other animals helped him understand its best functioning and in what ways Bitcoin parallels nutrition.#Bitcoin Fixes This #33",0.5267,0.098,0.042,0.35625,0.43125
+2021-03-12,27,"A year ago #Bitcoin fell from about $8000 to $5000.
+A year from now #Bitcoin's current price will probably look just as ridiculously low.
+5 years from now #Bitcoin's current price will definitely look ridiculously low.",A year ago #Bitcoin fell from about $8000 to $5000.A year from now #Bitcoin's current price will probably look just as ridiculously low.5 years from now #Bitcoin's current price will definitely look ridiculously low.,-0.6486,0.068,0.227,0.0,0.38
+2021-03-13,27,"There's a surprising number of people that simply cannot handle winning. They're so conditioned to losing that they sabotage themselves when they're winning.
+
+Don't buy #Bitcoin until you can handle winning... a lot.",There's a surprising number of people that simply cannot handle winning. They're so conditioned to losing that they sabotage themselves when they're winning.Don't buy #Bitcoin until you can handle winning... a lot.,-0.8561,0.085,0.294,0.44000000000000006,0.6214285714285714
+2021-03-14,27,"In fiat, luck matters more than discipline.
+In #Bitcoin, discipline matters more than luck.","In fiat, luck matters more than discipline.In #Bitcoin, discipline matters more than luck.",0.7351,0.451,0.0,0.5,0.5
+2021-03-15,28,"The Bitcoin Community and , TX spam, governance theory, custody risks, L-BTC for loans, Visa GCs using LN, Sovereignism II, fee-based security, Bitcoin astronomy, cash-and-carry trade, ETH miner revolt &amp; more!
+
+#Bitcoin Tech Talk #231
+
+https://t.co/Yze6UfpcCS https://t.co/av4QpZHD3y","The Bitcoin Community and , TX spam, governance theory, custody risks, L-BTC for loans, Visa GCs using LN, Sovereignism II, fee-based security, Bitcoin astronomy, cash-and-carry trade, ETH miner revolt &amp; more!#Bitcoin Tech Talk #231",0.3237,0.139,0.108,0.625,0.5
+2021-03-15,28,"Telling people the truth that they're hoping in the wrong thing is very hard. The truth is interpreted as opinion, hating and fanaticism because it's easy to dismiss that way. The loving thing to do is to press the truth.
+
+#Bitcoin Maximalists love fiercely.","Telling people the truth that they're hoping in the wrong thing is very hard. The truth is interpreted as opinion, hating and fanaticism because it's easy to dismiss that way. The loving thing to do is to press the truth.#Bitcoin Maximalists love fiercely.",0.9119,0.33,0.129,0.13083333333333333,0.7975000000000001
+2021-03-16,28,"Altcoiners are nice.
+#Bitcoiners are courageous.
+
+What altcoiners call toxic is the refusal to accept their deceit",Altcoiners are nice.#Bitcoiners are courageous.What altcoiners call toxic is the refusal to accept their deceit,0.7003,0.355,0.121,0.6,1.0
+2021-03-17,28,"VCs and hedge funds are not your friends. They pump their bags and hype their own investments. In other words, they have an agenda.
+
+You'll make more than them just holding #Bitcoin.","VCs and hedge funds are not your friends. They pump their bags and hype their own investments. In other words, they have an agenda.You'll make more than them just holding #Bitcoin.",-0.3724,0.0,0.076,0.325,0.625
+2021-03-17,28,"Dropping tomorrow! My conversation with . Find out how he became a trader, why it's a really difficult business and of course, his outlook for Bitcoin this coming year. https://t.co/5VcLIHsbmT","Dropping tomorrow! My conversation with . Find out how he became a trader, why it's a really difficult business and of course, his outlook for Bitcoin this coming year.",-0.474,0.0,0.106,-0.5,1.0
+2021-03-19,28,"Diversifying into altcoins makes about as much sense as diversifying into different metals during the gold stardard.
+
+""Let's get some brass, nickle and rhodium just in case""
+
+Stick with #Bitcoin.","Diversifying into altcoins makes about as much sense as diversifying into different metals during the gold stardard.""Let's get some brass, nickle and rhodium just in case""Stick with #Bitcoin.",0.0,0.0,0.0,0.1,0.4
+2021-03-19,28,"Holding #Bitcoin is hard.
+Leveraging #Bitcoin is picking up pennies in front of a steamroller.",Holding #Bitcoin is hard.Leveraging #Bitcoin is picking up pennies in front of a steamroller.,-0.1027,0.0,0.097,-0.2916666666666667,0.5416666666666666
+2021-03-19,28,"#Bitcoin pleb pwns Fiat billionaire.
+
+Sounds about right. https://t.co/Eqw03z4XRT",#Bitcoin pleb pwns Fiat billionaire.Sounds about right.,0.0,0.0,0.0,0.2857142857142857,0.5357142857142857
+2021-03-20,28,"It's no wonder so many people suffer from unit bias. ROI and IRR also don't take denominators into account.
+
+The sad truth is that most investments are giving negative real returns. This is why #Bitcoin will win.",It's no wonder so many people suffer from unit bias. ROI and IRR also don't take denominators into account.The sad truth is that most investments are giving negative real returns. This is why #Bitcoin will win.,-0.6597,0.169,0.273,0.20000000000000004,0.5166666666666667
+2021-03-20,28,"We're used to thinking in terms of yield because fiat money expands continuously.
+
+To really understand #Bitcoin, learn that there is no risk-free yield.
+
+1 BTC = 1 BTC and the only honest yield you earn is with your labor.","We're used to thinking in terms of yield because fiat money expands continuously.To really understand #Bitcoin, learn that there is no risk-free yield.1 BTC = 1 BTC and the only honest yield you earn is with your labor.",0.3612,0.115,0.054,0.15,0.675
+2021-03-21,28,"#Bitcoin is the irresistible alpha male.
+The haters secretly wish they had #Bitcoin and are envious.",#Bitcoin is the irresistible alpha male.The haters secretly wish they had #Bitcoin and are envious.,-0.0516,0.228,0.237,-0.2,0.39999999999999997
+2021-03-21,28,"Sunday Survey:
+
+What potential BTC project excites you the most?",Sunday Survey:What potential BTC project excites you the most?,0.4767,0.256,0.0,0.25,0.75
+2021-03-21,28,"Things in #Bitcoin that are going up:
+
+* Price
+* FUD
+* Incompetent/incoherent critiques
+* Converts to Maximalism",Things in #Bitcoin that are going up:* Price* FUD* Incompetent/incoherent critiques* Converts to Maximalism,-0.4278,0.0,0.179,0.0,0.0
+2021-03-22,29,"NFTs give no rights. UASF not so easy? Multi-oracle DLCs, hardware libsec, LN implementation overview, Sphinx chat, sidecar channels, BTC &amp; responsibility, BTC &amp; insurance, Salmonella, Nuclear energy, blockchain and malware.
+
+#Bitcoin Tech Talk #232
+
+https://t.co/6I1yvc2fgr https://t.co/kxF2f0UrFg","NFTs give no rights. UASF not so easy? Multi-oracle DLCs, hardware libsec, LN implementation overview, Sphinx chat, sidecar channels, BTC &amp; responsibility, BTC &amp; insurance, Salmonella, Nuclear energy, blockchain and malware.#Bitcoin Tech Talk #232",-0.4816,0.051,0.127,0.43333333333333335,0.8333333333333334
+2021-03-22,29,"The powerful are good at manipulating the public.
+
+There's a titanic rhetorical battle to come against #Bitcoin",The powerful are good at manipulating the public.There's a titanic rhetorical battle to come against #Bitcoin,0.1531,0.25,0.224,0.3333333333333333,0.5555555555555556
+2021-03-23,29,"Advice for new CS grads that want to get into #Bitcoin:
+
+1. Contribute to Open Source. This is how you bootstrap experience
+2. Connect w/people. Relationships are how most jobs are found.
+3. Work hard. Your diligence has to match your ambition, otherwise you're all talk.","Advice for new CS grads that want to get into #Bitcoin:1. Contribute to Open Source. This is how you bootstrap experience2. Connect w/people. Relationships are how most jobs are found.3. Work hard. Your diligence has to match your ambition, otherwise you're all talk.",-0.0258,0.028,0.03,0.08617424242424242,0.4990530303030303
+2021-03-24,29,"OK fam, trying to get a #Bitcoin Fixes This episode to 10k downloads. After 34 episodes, who should I be asking?","OK fam, trying to get a #Bitcoin Fixes This episode to 10k downloads. After 34 episodes, who should I be asking?",0.4466,0.14,0.0,0.5,0.5
+2021-03-25,29,"I talked to CNBC's  about trading. Find out why traders need to be disciplined and aggressive, how he sees the current macroeconomic environment and what that means for #Bitcoin.
+
+https://t.co/NVhsRdhSY2 https://t.co/HGdJZHxc7x","I talked to CNBC's  about trading. Find out why traders need to be disciplined and aggressive, how he sees the current macroeconomic environment and what that means for #Bitcoin.",-0.1531,0.0,0.052,0.0,0.4
+2021-03-25,29,"If it's free you're the product.
+
+Food stamps
+Google
+Medicaid
+Airdrops
+Robinhood
+Stimulus checks
+Facebook
+K-12 Education
+
+The question is who are you being sold to and for what purpose? The cost is hidden.
+
+#Bitcoin is transparent and will therefore win.",If it's free you're the product.Food stampsGoogleMedicaidAirdropsRobinhoodStimulus checksFacebookK-12 EducationThe question is who are you being sold to and for what purpose? The cost is hidden.#Bitcoin is transparent and will therefore win.,0.7964,0.154,0.0,0.3444444444444445,0.5111111111111111
+2021-03-26,29,"Utilitarian approach to people - Get the most people to like you and make opinions/beliefs flexible.
+
+Principled approach to people - Be truthful and be okay with people not liking you.
+
+Scammers take the utilitarian approach.
+#Bitcoiners take the principled approach.",Utilitarian approach to people - Get the most people to like you and make opinions/beliefs flexible.Principled approach to people - Be truthful and be okay with people not liking you.Scammers take the utilitarian approach.#Bitcoiners take the principled approach.,0.7435,0.209,0.049,0.5,0.5
+2021-03-28,29,"Sunday Survey:
+
+What is your primary Bitcoin storage setup? (the one with the most coins in it, don't answer if you don't have BTC)","Sunday Survey:What is your primary Bitcoin storage setup? (the one with the most coins in it, don't answer if you don't have BTC)",0.0,0.0,0.0,0.45,0.5
+2021-03-29,30,"Debunking Empty Blocks, Core security, statechain coinswaps, The Blockchain War, Decentralized identity, LN podcasting, FATF guidelines, working in #Bitcoin, NYDIG 0.30%, Kentucky mining, Contribute to BTC development
+
+#Bitcoin Tech Talk #233
+
+https://t.co/It7eaNsrT7 https://t.co/5HrpyOHysY","Debunking Empty Blocks, Core security, statechain coinswaps, The Blockchain War, Decentralized identity, LN podcasting, FATF guidelines, working in #Bitcoin, NYDIG 0.30%, Kentucky mining, Contribute to BTC development#Bitcoin Tech Talk #233",-0.6369,0.062,0.195,-0.1,0.5
+2021-03-29,30,Fiat billionaires/cantillionaires got way more lucky than any #bitcoiner.,Fiat billionaires/cantillionaires got way more lucky than any #bitcoiner.,0.4754,0.279,0.0,0.41666666666666663,0.6666666666666667
+2021-03-30,30,#Bitcoin is vaccinating people against political pressure.,#Bitcoin is vaccinating people against political pressure.,-0.296,0.0,0.268,0.0,0.1
+2021-03-30,30,"I've created a Sphinx chat for Bitcoin Tech Talk. If you have interesting stories that you want me to cover or want to ask questions, here is where you can do it.
+
+YGJCkB806eVZPBCLKhxrqgVRTjFOf-pCP-knOFtOwpdbaFycrBEG4Sd6NDd1fsj616O-qYgImaYzhLXvooEUcyBWIjdS https://t.co/D1KQmLOmmG","I've created a Sphinx chat for Bitcoin Tech Talk. If you have interesting stories that you want me to cover or want to ask questions, here is where you can do it.YGJCkB806eVZPBCLKhxrqgVRTjFOf-pCP-knOFtOwpdbaFycrBEG4Sd6NDd1fsj616O-qYgImaYzhLXvooEUcyBWIjdS",0.6486,0.201,0.0,0.5,0.5

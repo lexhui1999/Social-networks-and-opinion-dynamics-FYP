@@ -1,0 +1,2 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-08-11,13,MicroStrategy Adopts #Bitcoin as Primary Treasury Reserve Asset.  https://t.co/JH69p2mEKY,MicroStrategy Adopts #Bitcoin as Primary Treasury Reserve Asset.,0.6124,0.5,0.0,0.4,0.5

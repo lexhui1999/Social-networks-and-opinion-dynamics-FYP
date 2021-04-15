@@ -1,0 +1,1108 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-09-12,2,"    You want to own Bitcoin (for the sovereignty aspect) and not have the volatility? If the timeframe is relatively short, just hold stable coin like DAI or USDC instead. Those have risks BTC doesn’t, but zero volatility short term.","You want to own Bitcoin (for the sovereignty aspect) and not have the volatility? If the timeframe is relatively short, just hold stable coin like DAI or USDC instead. Those have risks BTC doesn’t, but zero volatility short term.",0.2382,0.11,0.038,0.19999999999999998,0.5333333333333333
+2020-09-16,3,Wrapped BTC is a bearer instrument for a real BTC.  It is not so different than the BTC you hold at Coinbase or Kraken or any other custodian (those are also simply claims for real BTC)... except that it's generally more decentralized and doesn't suffer KYC restrictions. https://t.co/PX3Tjl6Zcn,Wrapped BTC is a bearer instrument for a real BTC.  It is not so different than the BTC you hold at Coinbase or Kraken or any other custodian (those are also simply claims for real BTC)... except that it's generally more decentralized and doesn't suffer KYC restrictions.,0.431,0.06,0.0,0.12916666666666668,0.4053571428571428
+2020-09-16,3," To be clear, there are many types of ""wrapped bitcoin"" and so the specific parameters depend on the specific project. Generally though, yes, it's backed 1:1 with real BTC (and often in a more verifiable way than BTC held at a custodian).","To be clear, there are many types of ""wrapped bitcoin"" and so the specific parameters depend on the specific project. Generally though, yes, it's backed 1:1 with real BTC (and often in a more verifiable way than BTC held at a custodian).",0.6597,0.147,0.0,0.19285714285714287,0.34761904761904766
+2020-09-16,3," Native BTC doesn't work on the Ethereum blockchain, meaning it doesn't work in any of the Ethereum smart contracts or services.  Imagine a smart contract that accepts wrapped BTC as collateral and lends Tether... that'd give you a fiat loan against your Bitcoin.","Native BTC doesn't work on the Ethereum blockchain, meaning it doesn't work in any of the Ethereum smart contracts or services.  Imagine a smart contract that accepts wrapped BTC as collateral and lends Tether... that'd give you a fiat loan against your Bitcoin.",0.7717,0.168,0.0,0.21428571428571427,0.6428571428571429
+2020-09-16,3," Yes it has risk. Just like if you have Bitcoin at Coinbase and it's stolen or frozen, etc.","Yes it has risk. Just like if you have Bitcoin at Coinbase and it's stolen or frozen, etc.",-0.0258,0.212,0.216,0.0,0.0
+2020-09-16,3, Depends which version of wrapped BTC you’re referring to. The original wBTC is but one of many now.,Depends which version of wrapped BTC you’re referring to. The original wBTC is but one of many now.,0.1655,0.088,0.0,0.4375,0.625
+2020-09-17,3, ...but you can buy/sell wBTC from Uniswap right now with no KYC,...but you can buy/sell wBTC from Uniswap right now with no KYC,-0.296,0.0,0.167,0.2857142857142857,0.5357142857142857
+2020-09-18,3, So ETH is a security even though SEC has said it's not eh?  And Litecoin is a security even though it's similar to BTC across all the material securities-related attributes? And USDC is a security even though lawyered-to-the-max Coinbase sells it sans securities license?,So ETH is a security even though SEC has said it's not eh?  And Litecoin is a security even though it's similar to BTC across all the material securities-related attributes? And USDC is a security even though lawyered-to-the-max Coinbase sells it sans securities license?,0.8668,0.225,0.0,-0.05,0.5
+2020-09-18,3, Are you saying Satoshi issued the first such security?,Are you saying Satoshi issued the first such security?,0.34,0.231,0.0,0.125,0.41666666666666663
+2020-09-18,3," No value? He had just issued one of the most tremendously valuable things ever created.  
+
+The price wasn't established yet, making it absolutely perfect for speculation, and before much of the world had caught on, Satoshi had hundreds of thousands (millions?) of coins.","No value? He had just issued one of the most tremendously valuable things ever created.  The price wasn't established yet, making it absolutely perfect for speculation, and before much of the world had caught on, Satoshi had hundreds of thousands (millions?) of coins.",0.8813,0.236,0.042,0.5083333333333333,0.675
+2020-09-18,3," So a token isn't a security so long as it exists for some period of time without trading anywhere?  
+
+And nobody has any ability to claim Satoshi didn't use any of his coins. It'd be preposterous to assume he never traded/sold/used/benefited from a single one.",So a token isn't a security so long as it exists for some period of time without trading anywhere?  And nobody has any ability to claim Satoshi didn't use any of his coins. It'd be preposterous to assume he never traded/sold/used/benefited from a single one.,0.0001,0.052,0.052,-0.060714285714285714,0.30714285714285716
+2020-09-18,3," I don't understand how any of this makes Bitcoin not a security.  
+
+I don't believe it is a security, but not because of any of these elements.","I don't understand how any of this makes Bitcoin not a security.  I don't believe it is a security, but not because of any of these elements.",-0.2584,0.0,0.126,0.0,0.0
+2020-09-20,3," Then there is no Bitcoin on any centralized exchange either.
+
+In both cases, the “bitcoin” is a promise—in either legal or code-based contract—for a real bitcoin on-chain.
+
+These are always proxy assets. wBTC is no less BTC than krakenBTC or blockfiBTC.","Then there is no Bitcoin on any centralized exchange either.In both cases, the “bitcoin” is a promise—in either legal or code-based contract—for a real bitcoin on-chain.These are always proxy assets. wBTC is no less BTC than krakenBTC or blockfiBTC.",-0.296,0.075,0.103,0.16111111111111112,0.18888888888888888
+2020-09-20,3,"  Yeah that’s fair.
+
+“Look at these gainz!” has been a great marketing campaign for crypto, starting with Bitcoin itself. But it’s on us to ensure that remains the noise and not the signal.","Yeah that’s fair.“Look at these gainz!” has been a great marketing campaign for crypto, starting with Bitcoin itself. But it’s on us to ensure that remains the noise and not the signal.",0.8883,0.291,0.0,0.5583333333333333,0.5833333333333334
+2020-09-20,3,  If it was built on Bitcoin instead of Ethereum they’d be singing its praises from the rooftops ;),If it was built on Bitcoin instead of Ethereum they’d be singing its praises from the rooftops ;),0.6486,0.249,0.0,0.25,1.0
+2020-09-23,4, Learning about Bitcoin and the industry around it shattered by naive notion that the press generally wrote competently on their subjects.,Learning about Bitcoin and the industry around it shattered by naive notion that the press generally wrote competently on their subjects.,-0.6369,0.0,0.215,0.08333333333333333,0.7222222222222222
+2020-09-24,4,"If you care about data privacy, follow this company. Huge ambitions built on first principles.  Super easy way to run a #Bitcoin node at home... but that's the tip of the iceberg. https://t.co/A94W6gkkEM","If you care about data privacy, follow this company. Huge ambitions built on first principles.  Super easy way to run a #Bitcoin node at home... but that's the tip of the iceberg.",0.7311,0.225,0.0,0.3541666666666667,0.6833333333333333
+2020-09-27,4,"   In my experience, nearly everyone who is into crypto is into both BTC and ETH. On twitter, a small (and loud) minority of maximalists wildly distort the demographics.
+
+People IRL: these are both fuckin sweet, fuck the banks let’s have a revolution.","In my experience, nearly everyone who is into crypto is into both BTC and ETH. On twitter, a small (and loud) minority of maximalists wildly distort the demographics.People IRL: these are both fuckin sweet, fuck the banks let’s have a revolution.",-0.4215,0.066,0.127,0.0,0.5416666666666666
+2020-10-01,5, Agreed. It's a process of decentralization that occurs over years. It started with Bitcoin.,Agreed. It's a process of decentralization that occurs over years. It started with Bitcoin.,0.2732,0.149,0.0,0.0,0.0
+2020-10-07,6,Thank you to everyone who builds #Bitcoin,Thank you to everyone who builds #Bitcoin,0.3612,0.294,0.0,0.0,0.0
+2020-10-08,6," Most Bitcoin nodes also run on AWS...
+
+Because most servers of all kinds run on AWS.",Most Bitcoin nodes also run on AWS...Because most servers of all kinds run on AWS.,0.0,0.0,0.0,0.5,0.5
+2020-10-08,6,The energy that some Bitcoin maxi's put into discrediting Ethereum is *sooo* similar to the energy nevercoiners put into discrediting Bitcoin in its formative years. It's eerie.,The energy that some Bitcoin maxi's put into discrediting Ethereum is *sooo* similar to the energy nevercoiners put into discrediting Bitcoin in its formative years. It's eerie.,0.1779,0.137,0.081,-0.25,0.7
+2020-10-08,6,Square Invests $50 Million in Bitcoin https://t.co/awaJ5ayoJr,Square Invests $50 Million in Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-10-09,6, “China could totally just shut off mining and Bitcoin would be dead”,“China could totally just shut off mining and Bitcoin would be dead”,0.0,0.0,0.0,-0.1,0.575
+2020-10-09,6,"  I need to “debunk” a statement saying that Ethereum will be shut down if only Bezos turns off AWS?
+
+This is as preposterous as the claims that Bitcoin is centralized because “the mining is all in China.”
+
+Shallow nonsense arguments from people looking to disparage.",I need to “debunk” a statement saying that Ethereum will be shut down if only Bezos turns off AWS?This is as preposterous as the claims that Bitcoin is centralized because “the mining is all in China.”Shallow nonsense arguments from people looking to disparage.,-0.8126,0.0,0.174,-0.16296296296296298,0.5962962962962963
+2020-10-09,6,"  And I didn’t say “bitcoin nodes are centralized like Ethereum.” I said most BTC nodes run on AWS. 
+
+People responded with anecdotes and photos of nodes in their basement, as if that was a statistically significant counterpoint.
+
+I’d love to hear if my assertion was wrong...?","And I didn’t say “bitcoin nodes are centralized like Ethereum.” I said most BTC nodes run on AWS. People responded with anecdotes and photos of nodes in their basement, as if that was a statistically significant counterpoint.I’d love to hear if my assertion was wrong...?",0.8176,0.175,0.0,0.21875,0.71875
+2020-10-11,6,"  Greater centralized surveillance and an (incorrect) belief that by setting this up, the benefit of Bitcoin and cryptocurrency generally is diminished 😂","Greater centralized surveillance and an (incorrect) belief that by setting this up, the benefit of Bitcoin and cryptocurrency generally is diminished 😂",0.6705,0.224,0.0,0.275,0.5
+2020-10-11,6,   Number 2: those who believe everything other than BTC is rubbish.,Number 2: those who believe everything other than BTC is rubbish.,0.0772,0.115,0.0,-0.125,0.375
+2020-10-11,6,"  Coming to understand the virtues of Bitcoin as a specific system is absolutely intellectual development. 
+
+Coming to understand the virtues of *specific other systems* is also intellectual development. 
+
+Peter Schiff has been unable to accomplish the former. Maxi's the latter.",Coming to understand the virtues of Bitcoin as a specific system is absolutely intellectual development. Coming to understand the virtues of *specific other systems* is also intellectual development. Peter Schiff has been unable to accomplish the former. Maxi's the latter.,0.9323,0.306,0.0,-0.0031250000000000028,0.24062499999999998
+2020-10-11,6,"    Many (most?) blockchain projects are stupid =/= every blockchain project other than Bitcoin is stupid. 
+
+This is the shallow, lazy position of the maximalist. Confronted with blooming, multidirectional innovation, they prefer wholesale disparagement over a discerning curiosity.","Many (most?) blockchain projects are stupid =/= every blockchain project other than Bitcoin is stupid. This is the shallow, lazy position of the maximalist. Confronted with blooming, multidirectional innovation, they prefer wholesale disparagement over a discerning curiosity.",-0.8176,0.058,0.248,-0.25729166666666664,0.734375
+2020-10-11,6,"  It takes zero effort or understanding to be able to find bad blockchain projects. 
+
+Find the good ones. It started with Bitcoin. It didn't end there.",It takes zero effort or understanding to be able to find bad blockchain projects. Find the good ones. It started with Bitcoin. It didn't end there.,-0.1531,0.095,0.115,0.1666666666666667,0.6305555555555555
+2020-10-11,6,"    Do you realize this is EXACTLY what Schiff says about Bitcoin?? Like, did you copy this from one of his tweets? 🙃","Do you realize this is EXACTLY what Schiff says about Bitcoin?? Like, did you copy this from one of his tweets? 🙃",0.466,0.132,0.0,0.25,0.25
+2020-10-11,6,"  So the privacy of  Monero, ZCash, Haven, and Aztec have no value? Do you actually believe that? Do you have any idea how rigorously surveilled the Bitcoin blockchain is?
+
+Maybe just respond with ""nah"" again","So the privacy of  Monero, ZCash, Haven, and Aztec have no value? Do you actually believe that? Do you have any idea how rigorously surveilled the Bitcoin blockchain is?Maybe just respond with ""nah"" again",-0.1877,0.062,0.107,0.0,0.1
+2020-10-11,6,"    okay Udi... Schiff's assertion that Bitcoin is a ponzi scheme and has no value is not exactly ""cherry picking"" from his tome of wisdom, is it. It's his full and thematic position regarding Bitcoin.","okay Udi... Schiff's assertion that Bitcoin is a ponzi scheme and has no value is not exactly ""cherry picking"" from his tome of wisdom, is it. It's his full and thematic position regarding Bitcoin.",0.6705,0.198,0.057,0.18125,0.325
+2020-10-11,6,"  I wouldn't expect you to ""look at everything else"" and give equal air time to 1000 projects. You're a bitcoin show, that's awesome, focus on it.  
+
+But I also wouldn't expect you to refer to every other innovation in decentralized money and finance as ""nonsense and stupid junk""","I wouldn't expect you to ""look at everything else"" and give equal air time to 1000 projects. You're a bitcoin show, that's awesome, focus on it.  But I also wouldn't expect you to refer to every other innovation in decentralized money and finance as ""nonsense and stupid junk""",0.1531,0.125,0.113,0.018750000000000017,0.65625
+2020-10-11,6,"  The maximalist position continually portrays this absurd binary position:  bitcoin is great/wonderful/valuable and everything else is nonsense. 
+
+Just statistically, just mathematically, it is so obviously false, and Bitcoin's advancement is harmed by this ignorance.","The maximalist position continually portrays this absurd binary position:  bitcoin is great/wonderful/valuable and everything else is nonsense. Just statistically, just mathematically, it is so obviously false, and Bitcoin's advancement is harmed by this ignorance.",-0.8074,0.0,0.211,-0.45000000000000007,0.8
+2020-10-11,6,    You know I didn't say Bitcoiners.  I said maxis.  Don't pretend they're the same thing.,You know I didn't say Bitcoiners.  I said maxis.  Don't pretend they're the same thing.,0.0762,0.097,0.0,0.0,0.125
+2020-10-11,6,"   I'm also curious to meet a maxi that needs to google how to ""buy bitcoin"" 😂","I'm also curious to meet a maxi that needs to google how to ""buy bitcoin"" 😂",0.3182,0.15,0.0,-0.1,1.0
+2020-10-11,6,"   Let me make sure I'm understanding you...
+
+Your position is that ""bitcoin maximalists are the largest user segment in crypto"", and your data is that ""buy bitcoin"" is more google'd than ""buy ethereum""?
+
+Am I misunderstanding you?","Let me make sure I'm understanding you...Your position is that ""bitcoin maximalists are the largest user segment in crypto"", and your data is that ""buy bitcoin"" is more google'd than ""buy ethereum""?Am I misunderstanding you?",-0.2168,0.058,0.08,0.5,0.6944444444444444
+2020-10-11,6," Is that relevant to answering the poll?  I agree with your statement, but I would obviously still pick option 2.  
+
+One needs only a single example of any non-Bitcoin asset having any utility in order to choose #2.","Is that relevant to answering the poll?  I agree with your statement, but I would obviously still pick option 2.  One needs only a single example of any non-Bitcoin asset having any utility in order to choose #2.",0.6124,0.132,0.0,0.08214285714285716,0.6535714285714286
+2020-10-11,6,"   How is it slanted to my intended outcome? It is the exact question we're debating: whether bitcoin maximalists are the largest user group within crypto.
+
+Every maxi will choose #1, and non-maxi's won't.  How would you frame the poll?","How is it slanted to my intended outcome? It is the exact question we're debating: whether bitcoin maximalists are the largest user group within crypto.Every maxi will choose #1, and non-maxi's won't.  How would you frame the poll?",0.0,0.0,0.0,0.25,0.25
+2020-10-11,6,"    Obviously Bitcoin is the majority of the money.
+
+That's not what we're debating. We're debating the extent of the maximalist viewpoint, which is some subset of Bitcoin owners. I guess Dan thinks it's most of them. My experience is very different. Thus a poll, as a data point.","Obviously Bitcoin is the majority of the money.That's not what we're debating. We're debating the extent of the maximalist viewpoint, which is some subset of Bitcoin owners. I guess Dan thinks it's most of them. My experience is very different. Thus a poll, as a data point.",0.0,0.0,0.0,0.16666666666666666,0.5933333333333334
+2020-10-12,7,"  Finding value in a sea of noise and nonsense is how one gets wealthy. 
+
+And indeed, it's how one finds Bitcoin.","Finding value in a sea of noise and nonsense is how one gets wealthy. And indeed, it's how one finds Bitcoin.",0.296,0.199,0.11,0.5,1.0
+2020-10-12,7,"The Modern Fiat Financial System, ladies and gentlemen. 
+
+#bitcoin https://t.co/VmJT6rLcGf","The Modern Fiat Financial System, ladies and gentlemen. #bitcoin",0.0,0.0,0.0,0.1,0.15
+2020-10-13,7,"Cosmos is blooming 🌻  It may end up being for Ethereum what Ethereum was for Bitcoin. 
+
+Can't wait for IBC launch... https://t.co/KTS9S02wUA",Cosmos is blooming 🌻  It may end up being for Ethereum what Ethereum was for Bitcoin. Can't wait for IBC launch...,0.0,0.0,0.0,0.0,0.0
+2020-10-13,7,"“by the end of 2022, the G20 members will have completed regulatory stablecoin frameworks and research and selection of CBDC designs, technologies and experiments.”
+
+By the end of 2022 Bitcoin will already be bigger than half of them 😜
+
+ https://t.co/DahCjeCk0k","“by the end of 2022, the G20 members will have completed regulatory stablecoin frameworks and research and selection of CBDC designs, technologies and experiments.”By the end of 2022 Bitcoin will already be bigger than half of them 😜",0.0,0.0,0.0,-0.08333333333333333,0.3333333333333333
+2020-10-13,7,"There is no such thing as ""intrinsic value.""
+
+Value is always subjective, in the eyes of the valuer. 
+
+A glass of water's value to me right now: low
+A glass of water's value to man dying of thirst: high
+
+Gold, Bitcoin, fiat, rice: none have ""intrinsic value.""","There is no such thing as ""intrinsic value.""Value is always subjective, in the eyes of the valuer. A glass of water's value to me right now: lowA glass of water's value to man dying of thirst: highGold, Bitcoin, fiat, rice: none have ""intrinsic value.""",0.4404,0.14,0.083,0.11142857142857143,0.46892857142857136
+2020-10-14,7,   Can I get my edge back if I just talk about Bitcoin?,Can I get my edge back if I just talk about Bitcoin?,0.0,0.0,0.0,0.0,0.0
+2020-10-14,7,"     Shocker: projects that look intriguing to me are the ones I buy.
+
+Do you want me to put a disclaimer on all my Bitcoin tweets? Or just the non-Bitcoin tweets?",Shocker: projects that look intriguing to me are the ones I buy.Do you want me to put a disclaimer on all my Bitcoin tweets? Or just the non-Bitcoin tweets?,-0.168,0.044,0.067,0.30000000000000004,0.4
+2020-10-14,7,"    I don't think anyone is suggesting that Filecoin is more important that Bitcoin. I'm sure the Filecoin devs wouldn't even think such a silly thing. Doesn't mean Filecoin isn't really cool, useful, and important to the world. 
+
+Maxi's are so insecure about Bitcoin, I don't get it.","I don't think anyone is suggesting that Filecoin is more important that Bitcoin. I'm sure the Filecoin devs wouldn't even think such a silly thing. Doesn't mean Filecoin isn't really cool, useful, and important to the world. Maxi's are so insecure about Bitcoin, I don't get it.",-0.4255,0.143,0.159,0.11374999999999998,0.6976388888888889
+2020-10-14,7,"   I give a huge amount of air time to Bitcoin. It remains my favorite project, my largest crypto position by far, and imho it is going to become the dominant money of planet Earth.
+
+Also, other crypto projects are really cool, and are part of the same ecosystem and phenomenon.","I give a huge amount of air time to Bitcoin. It remains my favorite project, my largest crypto position by far, and imho it is going to become the dominant money of planet Earth.Also, other crypto projects are really cool, and are part of the same ecosystem and phenomenon.",0.7841,0.149,0.0,0.2041666666666667,0.6749999999999999
+2020-10-14,7,"   ""The only real ecosystem I see is Bitcoin""
+
+Dude, I don't mean this disrespectfully... but you are blind.
+
+Go trade something on Uniswap, spend some hours learning about how it works vs a centralized exchange, and then tell me there isn't an ecosystem beyond Bitcoin. Try it!","""The only real ecosystem I see is Bitcoin""Dude, I don't mean this disrespectfully... but you are blind.Go trade something on Uniswap, spend some hours learning about how it works vs a centralized exchange, and then tell me there isn't an ecosystem beyond Bitcoin. Try it!",-0.5916,0.0,0.082,-0.184375,0.6635416666666667
+2020-10-18,7,"The smart but timid recognize #Bitcoin as a hedge to fiat. 
+
+The smart but brave recognize it as the alternative.",The smart but timid recognize #Bitcoin as a hedge to fiat. The smart but brave recognize it as the alternative.,0.8176,0.364,0.091,0.40952380952380957,0.7619047619047619
+2020-10-18,7," ""They"" won't choose Bitcoin. They'll choose just increasingly centralized digital fiat. 
+
+Bitcoin's value proposition is as the positive, superior alternative to that system, available to anyone who isn't interested in perpetual monetary debasement and censorship.","""They"" won't choose Bitcoin. They'll choose just increasingly centralized digital fiat. Bitcoin's value proposition is as the positive, superior alternative to that system, available to anyone who isn't interested in perpetual monetary debasement and censorship.",0.8043,0.222,0.053,0.31545454545454543,0.46909090909090906
+2020-10-19,8, Disagree with this. Those who own Bitcoin would largely dump the fork that has no capped inflation. The price of that fork would plummet and that fork would end up with *less* security from mining than the pre-fork chain.,Disagree with this. Those who own Bitcoin would largely dump the fork that has no capped inflation. The price of that fork would plummet and that fork would end up with *less* security from mining than the pre-fork chain.,-0.6124,0.054,0.165,0.21587301587301588,0.4984126984126984
+2020-10-19,8," The irony is just so great when central bankers condemn Bitcoin for having ""no intrinsic value.""  It lays bare the hubris of these men and their paper.","The irony is just so great when central bankers condemn Bitcoin for having ""no intrinsic value.""  It lays bare the hubris of these men and their paper.",0.3052,0.153,0.175,0.2833333333333334,0.3666666666666667
+2020-10-21,8,"PayPal! Finally!
+
+Bloomberg: Bitcoin on the Brink of Fresh Year High Following PayPal Embrace  https://t.co/DXOxkbMbBL",PayPal! Finally!Bloomberg: Bitcoin on the Brink of Fresh Year High Following PayPal Embrace,0.6351,0.285,0.0,0.11499999999999999,0.535
+2020-10-21,8,"All companies have a choice in which digital currency they keep savings in.
+
+The digital currency called dollars, which are programmed to lose 2-3% of their value each year with unlimited supply.
+
+Or the digital currency called Bitcoin, of which there are only 21m. https://t.co/TsPL01IXiS","All companies have a choice in which digital currency they keep savings in.The digital currency called dollars, which are programmed to lose 2-3% of their value each year with unlimited supply.Or the digital currency called Bitcoin, of which there are only 21m.",-0.0772,0.051,0.057,0.0,0.25
+2020-10-21,8,"  For purpose of this question, just assuming alt refers to anything that isn't BTC.  It's a definition which is becoming less relevant over time, admittedly.","For purpose of this question, just assuming alt refers to anything that isn't BTC.  It's a definition which is becoming less relevant over time, admittedly.",0.0,0.0,0.0,0.22777777777777777,0.6055555555555556
+2020-10-22,8,"  If you want to buy Bitcoin with self-custody (ie... where you actually control your own funds), then give https://t.co/SV3H3QwzVV a try 🍻","If you want to buy Bitcoin with self-custody (ie... where you actually control your own funds), then give  a try 🍻",0.0772,0.064,0.0,0.3,0.55
+2020-10-22,8,"Billionaire hedge fund manager Paul Tudor Jones has turned more bullish on bitcoin, calling it the “best inflation hedge.”
+
+https://t.co/l8z9hW9ged","Billionaire hedge fund manager Paul Tudor Jones has turned more bullish on bitcoin, calling it the “best inflation hedge.”",0.0,0.0,0.0,0.75,0.4
+2020-10-22,8,"Both Bitcoin and Ethereum rank very highly on these important attributes. 
+
+More important to look at the app layer. Some maintain these attributes, and others degrade them. https://t.co/EQKq83vWaM","Both Bitcoin and Ethereum rank very highly on these important attributes. More important to look at the app layer. Some maintain these attributes, and others degrade them.",0.0586,0.129,0.091,0.1416,0.8204
+2020-10-28,9,"ShapeShift’s new referral program is live. 
+
+Earn #Bitcoin when you sign up, and FOX tokens on all trades, referrals, and referrals’ trades.
+
+Give self custody a try, and start controlling your own keys. https://t.co/qA9eGjx0Ll","ShapeShift’s new referral program is live. Earn #Bitcoin when you sign up, and FOX tokens on all trades, referrals, and referrals’ trades.Give self custody a try, and start controlling your own keys.",0.0,0.0,0.0,0.2909090909090909,0.6515151515151515
+2020-10-30,9,Anyone know where I can get some testnet Bitcoin in reasonable quantities?  Willing to pay.,Anyone know where I can get some testnet Bitcoin in reasonable quantities?  Willing to pay.,-0.1027,0.0,0.097,0.225,0.675
+2020-10-30,9,"This whole thread is phenomenal. Watch closely as Kelton's ideas are gobbled up by politicians. This is jet-fuel for central planners. It will end with financial ruin for hundreds of millions of disadvantaged people 😔 
+
+ Thank god for anyone paying attention, there is #Bitcoin https://t.co/Gcl5EYYUT3","This whole thread is phenomenal. Watch closely as Kelton's ideas are gobbled up by politicians. This is jet-fuel for central planners. It will end with financial ruin for hundreds of millions of disadvantaged people 😔  Thank god for anyone paying attention, there is #Bitcoin",-0.4404,0.09,0.127,0.175,0.2875
+2020-11-04,10,"Bitcoin just hit $14,000.
+
+Buy #bitcoin instantly with debit card at ShapeShift on iPhone...
+
+https://t.co/4hYVw6yLyN
+
+or Android...
+
+https://t.co/Yw31Wr0j4J","Bitcoin just hit $14,000.Buy #bitcoin instantly with debit card at ShapeShift on iPhone...or Android...",0.0,0.0,0.0,0.0,0.6666666666666666
+2020-11-04,10,"Bitcoin $14,000 🚀
+  
+Ethereum $400 🚀
+
+Join the revolution at https://t.co/4F6kUVi5iN","Bitcoin $14,000 🚀  Ethereum $400 🚀Join the revolution at",0.296,0.216,0.0,0.0,0.0
+2020-11-04,10,"Where you shop matters. 🍻
+
+See live rates vs our competitors at https://t.co/4F6kUVi5iN 
+
+#bitcoin #ethereum https://t.co/h82X9bOsRO",Where you shop matters. 🍻See live rates vs our competitors at  #bitcoin #ethereum,0.0258,0.073,0.0,0.13636363636363635,0.5
+2020-11-06,10," No access to Bitcoin?
+
+Have you heard of the App Store?",No access to Bitcoin?Have you heard of the App Store?,-0.3736,0.0,0.204,0.0,0.0
+2020-11-08,10,"""There's more demand for Grayscale's #Bitcoin Trust than all gold ETFs combined, according to JPMorgan""
+
+🚀
+
+https://t.co/n4MIPwDIQ6","""There's more demand for Grayscale's #Bitcoin Trust than all gold ETFs combined, according to JPMorgan""🚀",0.3626,0.173,0.094,0.5,0.5
+2020-11-08,10,"Native (non-wrapped), highly liquid, fully decentralized and unstoppable swaps between Bitcoin &lt;&gt; Ethereum is coming. 
+
+Watch this project. https://t.co/I1NqTOjP8h","Native (non-wrapped), highly liquid, fully decentralized and unstoppable swaps between Bitcoin &lt; Ethereum is coming. Watch this project.",-0.2648,0.0,0.103,0.16,0.5399999999999999
+2020-11-08,10,"It will also mean the ability to earn yield on native #bitcoin (again, non-wrapped) with *no custodian* involved.","It will also mean the ability to earn yield on native #bitcoin (again, non-wrapped) with *no custodian* involved.",0.3182,0.119,0.0,-0.3125,0.6875
+2020-11-09,11,"  So if Bitcoin emitted 100 sats per year forever, you ""wouldn't really own it?"" 🤔","So if Bitcoin emitted 100 sats per year forever, you ""wouldn't really own it?"" 🤔",0.0,0.0,0.0,0.6,1.0
+2020-11-09,11,"   You might also consider that Bitcoin inflates asymptotically for your entire life.  
+
+The fact that the inflation rate = 0 after you're dead is not what gives Bitcoin it's value, and is not what makes it ownable while all is is un-ownable.","You might also consider that Bitcoin inflates asymptotically for your entire life.  The fact that the inflation rate = 0 after you're dead is not what gives Bitcoin it's value, and is not what makes it ownable while all is is un-ownable.",-0.4404,0.054,0.096,-0.1,0.5125
+2020-11-09,11,"  That's a completely different argument. Obviously zero inflation is better than some inflation. 
+
+An asset can be owned in either case. And practically speaking, 100 sats of inflation per year would be completely irrelevant... yet you think that kills BTC's sovereignty? Nonsense.","That's a completely different argument. Obviously zero inflation is better than some inflation. An asset can be owned in either case. And practically speaking, 100 sats of inflation per year would be completely irrelevant... yet you think that kills BTC's sovereignty? Nonsense.",-0.5542,0.107,0.178,0.0,0.65
+2020-11-09,11,"   There are many cryptocurrencies that have fixed supplies, it is not an exclusive attribute of Bitcoin.
+
+Bitcoin has many wonderful virtues to speak honestly about. It isn't helped by false assertions, and doesn't need the hyperbole.","There are many cryptocurrencies that have fixed supplies, it is not an exclusive attribute of Bitcoin.Bitcoin has many wonderful virtues to speak honestly about. It isn't helped by false assertions, and doesn't need the hyperbole.",0.833,0.216,0.032,0.38333333333333336,0.6166666666666667
+2020-11-09,11,"  Again, that's not what I'm suggesting. 
+
+I'm suggesting that if Bitcoin had been created with a 100 sats per year perpetual inflation rate, it would still be as revolutionary, as powerful, and as important.  Indeed, it would be less inflationary than current Bitcoin ;)","Again, that's not what I'm suggesting. I'm suggesting that if Bitcoin had been created with a 100 sats per year perpetual inflation rate, it would still be as revolutionary, as powerful, and as important.  Indeed, it would be less inflationary than current Bitcoin ;)",0.7579,0.179,0.0,0.15666666666666668,0.6933333333333334
+2020-11-09,11,"  I shilled bitcoin when it was $30, after which it dropped 95% down to $2 within months. Was that wrong of me?
+
+You sound like you’re trying to day trade and have no idea what you’re doing. Please get out of these markets.","I shilled bitcoin when it was $30, after which it dropped 95% down to $2 within months. Was that wrong of me?You sound like you’re trying to day trade and have no idea what you’re doing. Please get out of these markets.",-0.128,0.1,0.11,-0.08518518518518518,0.5296296296296297
+2020-11-09,11,"  Perhaps you won't like to hear this, but many VCs and HNWI's invested in Bitcoin far earlier than you learned about it, with the intention of selling it at a higher price.  
+
+And there's nothing wrong with that.","Perhaps you won't like to hear this, but many VCs and HNWI's invested in Bitcoin far earlier than you learned about it, with the intention of selling it at a higher price.  And there's nothing wrong with that.",0.4168,0.084,0.039,0.06999999999999999,0.6799999999999999
+2020-11-09,11,"  100 sats per year inflation rate is utterly meaningless dude. What matters *far more* than 100 sats per year is predictability/transparency.
+
+(It's also like a gazillion times LESS than Bitcoin's current inflation... why are you advocating higher inflation rates for Bitcoin?)",100 sats per year inflation rate is utterly meaningless dude. What matters *far more* than 100 sats per year is predictability/transparency.(It's also like a gazillion times LESS than Bitcoin's current inflation... why are you advocating higher inflation rates for Bitcoin?),-0.1513,0.082,0.073,0.030555555555555555,0.5777777777777778
+2020-11-09,11,"  Why would the rate be up for constant discussion? 
+
+If it was set at 100 sats per year, why does that invite more discussion than 50 BTC per block, halving each 4 years?","Why would the rate be up for constant discussion? If it was set at 100 sats per year, why does that invite more discussion than 50 BTC per block, halving each 4 years?",-0.3939,0.046,0.094,0.25,0.41666666666666663
+2020-11-09,11,   There's too much good to say about Bitcoin for those who know the best to spend tweets saying obviously silly things.,There's too much good to say about Bitcoin for those who know the best to spend tweets saying obviously silly things.,0.802,0.313,0.0,0.39999999999999997,0.5916666666666667
+2020-11-09,11,"   Bitcoin doesn't have zero inflation. 
+
+It has an inflation rate that started extremely high, and falls toward zero over ~150 years.   Today it's inflating in the low single digits percentages.","Bitcoin doesn't have zero inflation. It has an inflation rate that started extremely high, and falls toward zero over ~150 years.   Today it's inflating in the low single digits percentages.",-0.2732,0.0,0.068,0.029523809523809525,0.35142857142857137
+2020-11-09,11,"  You're just calling Bitcoin's inflation ""issuance.""
+
+Bitcoin's monetary supply is inflating currently. You can call it issuance if you want, but then I can call 100 sats per year an issuance schedule also. 
+
+Why does 100 sats/yr invite discussion but Satoshi's curve doesn't?","You're just calling Bitcoin's inflation ""issuance.""Bitcoin's monetary supply is inflating currently. You can call it issuance if you want, but then I can call 100 sats per year an issuance schedule also. Why does 100 sats/yr invite discussion but Satoshi's curve doesn't?",0.2617,0.071,0.0,0.0,0.4
+2020-11-09,11,"  There is nothing in that quote that I disagree with. And I don't disagree with you that the 21M limit was profound and important. 
+
+*and* if the rate had been 100 sats/yr instead of the curve, I think Bitcoin would still be the world-changing behemoth that it is.","There is nothing in that quote that I disagree with. And I don't disagree with you that the 21M limit was profound and important. *and* if the rate had been 100 sats/yr instead of the curve, I think Bitcoin would still be the world-changing behemoth that it is.",-0.5267,0.037,0.106,0.24166666666666667,1.0
+2020-11-10,11,"   Same thing that happens in any open source blockchain. The community will split and fork the the chain. One or both side may continue on with those who prefer the respective properties of that chain.
+
+True in Monero, true in Bitcoin, true in Doge.","Same thing that happens in any open source blockchain. The community will split and fork the the chain. One or both side may continue on with those who prefer the respective properties of that chain.True in Monero, true in Bitcoin, true in Doge.",0.8807,0.219,0.0,0.17499999999999996,0.4458333333333333
+2020-11-11,11," Stay curious, Raoul. The tribalism sucks.  BTC and ETH are both amazing.","Stay curious, Raoul. The tribalism sucks.  BTC and ETH are both amazing.",0.5574,0.347,0.142,0.0666666666666667,0.7333333333333334
+2020-11-11,11,"    I wonder what's more likely....  
+
+1) Every single blockchain and crypto project other than Bitcoin is a scam and the 50,000 people working on all these projects are all scammers
+
+2) Liran Cohen made a mistake","I wonder what's more likely....  1) Every single blockchain and crypto project other than Bitcoin is a scam and the 50,000 people working on all these projects are all scammers2) Liran Cohen made a mistake",-0.7269,0.0,0.164,0.07589285714285715,0.5223214285714286
+2020-11-11,11,"  ""It's hard to take advice about bitcoins from people that profit off of bitcoins. 
+
+The incentives aren't aligned with the truth.""","""It's hard to take advice about bitcoins from people that profit off of bitcoins. The incentives aren't aligned with the truth.""",0.5859,0.211,0.057,-0.2916666666666667,0.5416666666666666
+2020-11-11,11,    Does paying the majority of mining fees for the first few years of Bitcoin's existence count as a contribution?,Does paying the majority of mining fees for the first few years of Bitcoin's existence count as a contribution?,0.0,0.0,0.0,0.024999999999999994,0.21666666666666667
+2020-11-11,11,"No banks. No bailouts. No borders. 
+
+#bitcoin",No banks. No bailouts. No borders. #bitcoin,-0.6808,0.0,0.623,0.0,0.0
+2020-11-12,11,"I agree with most of this, but not the peg-breaking argument.
+
+True, US doesn’t have reason to ban BTC to break a peg, but when (when!) the bond market collapses and high inflation breaks out, every plausible scapegoat will be sought.
+
+Ban will fail, but may indeed occur. https://t.co/YwQlOfBxHW","I agree with most of this, but not the peg-breaking argument.True, US doesn’t have reason to ban BTC to break a peg, but when (when!) the bond market collapses and high inflation breaks out, every plausible scapegoat will be sought.Ban will fail, but may indeed occur.",-0.944,0.119,0.31,0.21949999999999997,0.49799999999999994
+2020-11-12,11," Those last two sentences are not mutually exclusive.
+
+I think it comes down to a huge PR battle, whether they try to ban it. I expect substantial vilification of Bitcoiners.
+
+I think right now my odds are 50/50 that a ban is attempted, and 95% that a ban, of attempted, fails.","Those last two sentences are not mutually exclusive.I think it comes down to a huge PR battle, whether they try to ban it. I expect substantial vilification of Bitcoiners.I think right now my odds are 50/50 that a ban is attempted, and 95% that a ban, of attempted, fails.",-0.9227,0.09,0.298,0.006031746031746032,0.4182539682539682
+2020-11-12,11,"When the money supply is fixed, time becomes a dividend payment. 
+
+#bitcoin","When the money supply is fixed, time becomes a dividend payment. #bitcoin",0.0,0.0,0.0,0.1,0.2
+2020-11-12,11, Doesn't apply just to Bitcoin.  Applies in inverse proportion to inflation rate.,Doesn't apply just to Bitcoin.  Applies in inverse proportion to inflation rate.,0.0,0.0,0.0,0.0,0.0
+2020-11-14,11,“Our own currency inflates. Bitcoin does not.” - US Senator in 2020 https://t.co/p00YhTN7aF,“Our own currency inflates. Bitcoin does not.” - US Senator in 2020,0.0,0.0,0.0,0.6,1.0
+2020-11-17,12," Somewhere between $1-$10m per BTC.
+
+I don’t think it happens this cycle, but the next.","Somewhere between $1-$10m per BTC.I don’t think it happens this cycle, but the next.",0.0,0.0,0.0,0.0,0.0
+2020-11-17,12,Buy #Bitcoin in with your debit card in over 100 countries at https://t.co/4F6kUVi5iN,Buy #Bitcoin in with your debit card in over 100 countries at,0.0,0.0,0.0,0.0,0.0
+2020-11-23,13,"One of the virtues of #Bitcoin is the optionality/flexibility of its use and storage.
+
+Multisig self-custody is extremely powerful, but a noob doesn’t need to start there.
+
+And unlike gold, delivery and self-custody of large amounts is easy once ready for it. https://t.co/FaGrQo3CMR","One of the virtues of #Bitcoin is the optionality/flexibility of its use and storage.Multisig self-custody is extremely powerful, but a noob doesn’t need to start there.And unlike gold, delivery and self-custody of large amounts is easy once ready for it.",0.8482,0.22,0.034,0.2869047619047619,0.6904761904761905
+2020-11-23,13,"BTC maxis use this statistic to demonstrate Bitcoin’s superiority.
+
+ETH maxis use *this exact same statistic* to demonstrate Ethereum’s superiority. https://t.co/4bbrwKJqZW",BTC maxis use this statistic to demonstrate Bitcoin’s superiority.ETH maxis use *this exact same statistic* to demonstrate Ethereum’s superiority.,0.5859,0.202,0.0,0.125,0.1875
+2020-11-24,13,"Relevant: we've already surpassed the more important ATH, which is market cap. BTC value in aggregate is already at it's all time high 🚀","Relevant: we've already surpassed the more important ATH, which is market cap. BTC value in aggregate is already at it's all time high 🚀",0.5413,0.176,0.0,0.365,0.735
+2020-11-25,13,"      “Corporate/nation-state level actors tried to commandeer Bitcoin”
+
+Really?
+
+I remember a bunch of people disagreeing about how to handle the scalability question.",“Corporate/nation-state level actors tried to commandeer Bitcoin”Really?I remember a bunch of people disagreeing about how to handle the scalability question.,-0.34,0.0,0.112,0.2,0.2
+2020-11-25,13,"      Do you realize that those corporations and miners are just groups of bitcoin users?
+
+Is it just easier to vilify them and pretend they were some group of “others”?",Do you realize that those corporations and miners are just groups of bitcoin users?Is it just easier to vilify them and pretend they were some group of “others”?,0.4137,0.1,0.044,0.0,0.0
+2020-11-25,13,"       That’s an interesting take. I guess because I didn’t have conversations with you, you assume I didn’t have conversations with anyone? 
+
+It had been 2+ years of conversation and debate. Regardless, Bitcoin’s path cleared and everyone can move forward on whatever chain they prefer.","That’s an interesting take. I guess because I didn’t have conversations with you, you assume I didn’t have conversations with anyone? It had been 2+ years of conversation and debate. Regardless, Bitcoin’s path cleared and everyone can move forward on whatever chain they prefer.",0.4767,0.095,0.0,0.5,0.5
+2020-11-25,13,      You honestly interpret a handful of bitcoin startups vocalizing their support for SegWit and a larger base block size as “a corporate and nation-state level attack”?,You honestly interpret a handful of bitcoin startups vocalizing their support for SegWit and a larger base block size as “a corporate and nation-state level attack”?,0.4215,0.193,0.098,-0.05000000000000002,0.6
+2020-11-25,13,"        A group of startups advocating a specific path for an open source protocol is the very opposite of how governments work.
+
+“Forcing our ideology?!” We were seeing Bitcoin users get rekt with $20 tx fees on $30 transactions.",A group of startups advocating a specific path for an open source protocol is the very opposite of how governments work.“Forcing our ideology?!” We were seeing Bitcoin users get rekt with $20 tx fees on $30 transactions.,0.4199,0.074,0.0,0.0,0.20833333333333334
+2020-11-25,13,"        The goal was to get SegWit activated and a moderate base block increase, and to commit to both together so that Bitcoin could move forward and avoid a community/chain split.
+
+Totally legitimate to disagree with those goals, but not legitimate to strawman the intentions.","The goal was to get SegWit activated and a moderate base block increase, and to commit to both together so that Bitcoin could move forward and avoid a community/chain split.Totally legitimate to disagree with those goals, but not legitimate to strawman the intentions.",-0.3031,0.071,0.12,-0.26666666666666666,0.8166666666666668
+2020-11-25,13,"      Simple answer: 2, 4, or 8 MB blocks doesn't make a ""Datacenter Bitcoin."" 
+
+And I could argue that $50 fee Bitcoin is money only for rich Westerners, rather than for billions of people who desperately need it. But I wouldn't presume u are ""anti-poor,"" I can respect your opinion.","Simple answer: 2, 4, or 8 MB blocks doesn't make a ""Datacenter Bitcoin."" And I could argue that $50 fee Bitcoin is money only for rich Westerners, rather than for billions of people who desperately need it. But I wouldn't presume u are ""anti-poor,"" I can respect your opinion.",0.2023,0.13,0.134,-0.056249999999999994,0.7767857142857143
+2020-11-25,13,"Buy #Bitcoin instantly with debit card in over 100 countries at https://t.co/SV3H3QwzVV.  You control your keys.  
+
+https://t.co/6rZrY4nNEo",Buy #Bitcoin instantly with debit card in over 100 countries at   You control your keys.,0.0,0.0,0.0,0.0,0.6666666666666666
+2020-11-25,13,         Bitcoin has only one of those though...,Bitcoin has only one of those though...,0.0,0.0,0.0,0.0,1.0
+2020-11-25,13,"      I guess I have enough confidence in Bitcoin as an open source project that I don't fear any group of users within it, and feel no need to vilify them for their beliefs, preferences, and suggestions.","I guess I have enough confidence in Bitcoin as an open source project that I don't fear any group of users within it, and feel no need to vilify them for their beliefs, preferences, and suggestions.",0.5759,0.155,0.058,0.0,0.5
+2020-11-25,13,"          Okay, well we can assess the state of blockchain tech and Bitcoin's place within it in 100 years then.","Okay, well we can assess the state of blockchain tech and Bitcoin's place within it in 100 years then.",0.4588,0.19,0.0,0.5,0.5
+2020-11-25,13,          Bitcoin is inflating at several percent per year.,Bitcoin is inflating at several percent per year.,0.0,0.0,0.0,0.0,0.0
+2020-11-25,13,"          Alex, you're welcome to disagree with me about that entire episode. But please, don't believe for a second that it represented ""huge duress.""  
+
+The huge duress is coming. 
+
+And it's not going to look like a bunch of bitcoin startups proposing SegWit &amp; 4MB blocks","Alex, you're welcome to disagree with me about that entire episode. But please, don't believe for a second that it represented ""huge duress.""  The huge duress is coming. And it's not going to look like a bunch of bitcoin startups proposing SegWit &amp; 4MB blocks",0.7845,0.234,0.085,0.32000000000000006,0.6649999999999999
+2020-11-25,13,"          What's beyond bizarre is that you dismiss and handwave 80% of the hashpower and 50+ companies as not part of the Bitcoin community. 
+
+You treat them as nefarious others instead of recognizing them as Bitcoiners with different perspectives and opinions.",What's beyond bizarre is that you dismiss and handwave 80% of the hashpower and 50+ companies as not part of the Bitcoin community. You treat them as nefarious others instead of recognizing them as Bitcoiners with different perspectives and opinions.,0.1027,0.063,0.053,0.2,0.6
+2020-11-25,13," I read your piece, thank you for sharing it. 
+
+I share all the similar concerns about the battle for privacy on BTC. However, it seems to me it is *less* likely privacy will emerge on this chain, because, as SegWit2x demonstrated, BTC is incredibly resistant to change.","I read your piece, thank you for sharing it. I share all the similar concerns about the battle for privacy on BTC. However, it seems to me it is *less* likely privacy will emerge on this chain, because, as SegWit2x demonstrated, BTC is incredibly resistant to change.",0.5994,0.147,0.051,0.18333333333333335,0.5916666666666667
+2020-11-25,13," The ""winners"" of the SegWit2x struggle applaud themselves for preventing change, but this cuts both ways. As privacy tech emerges, other chains will (and have) adopted it, where Bitcoin remains the most surveilled chain, with the least privacy. Is that okay? Maybe?","The ""winners"" of the SegWit2x struggle applaud themselves for preventing change, but this cuts both ways. As privacy tech emerges, other chains will (and have) adopted it, where Bitcoin remains the most surveilled chain, with the least privacy. Is that okay? Maybe?",-0.2406,0.091,0.132,0.14375,0.44375
+2020-11-25,13,"FIO brings human-readable addresses to Bitcoin, without any centralized directory or intermediary. 
+
+The protocol is integrated at the wallet level (ShapeShift integrated it last month), and it works across all blockchains and digital assets. https://t.co/I9EjX4jNXh","FIO brings human-readable addresses to Bitcoin, without any centralized directory or intermediary. The protocol is integrated at the wallet level (ShapeShift integrated it last month), and it works across all blockchains and digital assets.",0.1779,0.048,0.0,0.0,0.03333333333333333
+2020-11-25,13,"VanEck with a new ETN and commercial, ""Bitcoin is a non-government issued money outside of the central bank system."" 
+
+Beautiful!  
+
+The world can increasingly choose between government flag money (political and perpetually debased) or market-based money (borderless and scarce). https://t.co/G9ehVbcGRq","VanEck with a new ETN and commercial, ""Bitcoin is a non-government issued money outside of the central bank system."" Beautiful!  The world can increasingly choose between government flag money (political and perpetually debased) or market-based money (borderless and scarce).",0.636,0.102,0.0,0.15519480519480516,0.29350649350649355
+2020-11-25,13,"There are many established ""important elements of money."" Scarcity, durability, etc.
+
+Should ""concealability"" be one? The attribute of privacy, and energy/effort required to conceal?
+
+This is an attribute on which Bitcoin scores higher than fiat, but lower than privacy coins.","There are many established ""important elements of money."" Scarcity, durability, etc.Should ""concealability"" be one? The attribute of privacy, and energy/effort required to conceal?This is an attribute on which Bitcoin scores higher than fiat, but lower than privacy coins.",-0.4137,0.033,0.074,0.3833333333333333,0.6666666666666666
+2020-11-25,13," Interesting theory. In practice, try sending even 10 Bitcoin, I'll be interested to hear your experience.","Interesting theory. In practice, try sending even 10 Bitcoin, I'll be interested to hear your experience.",0.6597,0.278,0.0,0.375,0.5
+2020-11-25,13,"           Cute analogy, but point me to the address where those last few million BTC are being kept.
+
+We don't need to claim Bitcoin isn't inflating. It is. But its inflating at known/predictable rate, and inflation diminishes toward zero at the 21m bound.","Cute analogy, but point me to the address where those last few million BTC are being kept.We don't need to claim Bitcoin isn't inflating. It is. But its inflating at known/predictable rate, and inflation diminishes toward zero at the 21m bound.",0.25,0.047,0.0,0.09999999999999999,0.3888888888888889
+2020-11-25,13,"           This is a stupid thing to debate. 
+
+Those Bitcoin don't exist yet. They are not part of the supply because they don't exist. They *will* be part of the supply, once they exist. 
+
+Inflation = increase in the supply of money. Thus, as Bitcoins are mined, the supply inflates.","This is a stupid thing to debate. Those Bitcoin don't exist yet. They are not part of the supply because they don't exist. They *will* be part of the supply, once they exist. Inflation = increase in the supply of money. Thus, as Bitcoins are mined, the supply inflates.",-0.2732,0.045,0.067,-0.7999999999999999,1.0
+2020-11-25,13,"           We're not debating whether Bitcoin ""solves the problem of inflation."" It does. 
+
+We're debating *whether* it is inflating. If you want to call the creation of new coins over time ""not inflation"" because it's transparent/predictable/diminishing, then go for it.","We're not debating whether Bitcoin ""solves the problem of inflation."" It does. We're debating *whether* it is inflating. If you want to call the creation of new coins over time ""not inflation"" because it's transparent/predictable/diminishing, then go for it.",0.2023,0.127,0.062,0.13636363636363635,0.45454545454545453
+2020-11-25,13,"           Issuance schedule implies they exist, and just aren't issued yet. Some blockchains have this (token exists, but is issued on a schedule)
+
+Bitcoin is inflating. The upcoming BTC don't exist yet. They will, and that is by definition an increase in money supply aka inflation.","Issuance schedule implies they exist, and just aren't issued yet. Some blockchains have this (token exists, but is issued on a schedule)Bitcoin is inflating. The upcoming BTC don't exist yet. They will, and that is by definition an increase in money supply aka inflation.",0.4497,0.064,0.0,0.0,0.0
+2020-11-25,13,"           I'll concede the point if you can show me the address on the blockchain where these ""to be issued"" Bitcoins exist.","I'll concede the point if you can show me the address on the blockchain where these ""to be issued"" Bitcoins exist.",0.0,0.0,0.0,0.0,0.0
+2020-11-26,13,"          How does someone ""take control"" of an open-source project? And if control can be taken, then whom is it taken from?
+
+Is it or is it not the case that nobody controls Bitcoin? If nobody controls it, then control can't ""be taken.""","How does someone ""take control"" of an open-source project? And if control can be taken, then whom is it taken from?Is it or is it not the case that nobody controls Bitcoin? If nobody controls it, then control can't ""be taken.""",0.0,0.0,0.0,0.0,0.0
+2020-11-26,13,"          You can't have it both ways sir.
+
+Either Bitcoin is controlled/can be controlled by specific parties. In this case, it already lost and isn't worth our time.
+
+Or it is *not* controlled and cannot be controlled by specific parties. IMO, Bitcoin is clearly the latter.","You can't have it both ways sir.Either Bitcoin is controlled/can be controlled by specific parties. In this case, it already lost and isn't worth our time.Or it is *not* controlled and cannot be controlled by specific parties. IMO, Bitcoin is clearly the latter.",0.629,0.156,0.076,0.08,0.14666666666666667
+2020-11-30,14,"While Bitcoin and Ethereum do their thing in the limelight, Cosmos is gaining momentum, and may end up uniting them... https://t.co/woy9Y5VoIX","While Bitcoin and Ethereum do their thing in the limelight, Cosmos is gaining momentum, and may end up uniting them...",0.4215,0.123,0.0,0.0,0.0
+2020-11-30,14, Okay Bitcoin spokesman,Okay Bitcoin spokesman,0.2263,0.487,0.0,0.5,0.5
+2020-11-30,14,"Bitcoin's price fits in a headline.
+
+Sadly, for normies, this is the extent of their exposure to and understanding of Bitcoin.","Bitcoin's price fits in a headline.Sadly, for normies, this is the extent of their exposure to and understanding of Bitcoin.",-0.4215,0.0,0.128,-0.5,1.0
+2020-11-30,14,"""Paul Tudor Jones said the cap on #Bitcoin production made it an attractive alternative to the declining value of traditional currencies, which he thought was inevitable as central banks printed more money to encourage an economic recovery."" 
+https://t.co/sGxlpF9tsw","""Paul Tudor Jones said the cap on #Bitcoin production made it an attractive alternative to the declining value of traditional currencies, which he thought was inevitable as central banks printed more money to encourage an economic recovery.""",0.8344,0.202,0.0,0.25,0.6166666666666667
+2020-11-30,14," It's priced in anything... whomever is trading for the BTC is offering something else, and the price is established between BTC and that something else. 
+
+It's often dollars, but it is also euros or other fiat currencies, or anything that the other party wishes to trade.","It's priced in anything... whomever is trading for the BTC is offering something else, and the price is established between BTC and that something else. It's often dollars, but it is also euros or other fiat currencies, or anything that the other party wishes to trade.",0.6652,0.11,0.0,-0.125,0.375
+2020-11-30,14, I thought bitcoiners only eat meat of animals that only eat meat?,I thought bitcoiners only eat meat of animals that only eat meat?,0.0,0.0,0.0,0.0,1.0
+2020-12-01,14," The 2017 high came after ~12 months of a bull market. The narrative takes time to build and pull imaginations in.  Nobody was talking about Bitcoin in April 2017 even though it was back at ATH's
+
+You'll see the media shit storm after a few months of face-melting gainz.",The 2017 high came after ~12 months of a bull market. The narrative takes time to build and pull imaginations in.  Nobody was talking about Bitcoin in April 2017 even though it was back at ATH'sYou'll see the media shit storm after a few months of face-melting gainz.,-0.5574,0.0,0.073,-0.060000000000000005,0.36
+2020-12-02,14,"It is a beautiful and fortunate situation in which we find ourselves. On on hand, the conservative proof-of-work Bitcoin. On the other, the iterative proof-of-stake Ethereum.
+
+We have thus greater resilience and anti-fragility. Like air and water, so different, and so useful.","It is a beautiful and fortunate situation in which we find ourselves. On on hand, the conservative proof-of-work Bitcoin. On the other, the iterative proof-of-stake Ethereum.We have thus greater resilience and anti-fragility. Like air and water, so different, and so useful.",0.9568,0.349,0.0,0.32083333333333336,0.5291666666666667
+2020-12-02,14,  Thank you sir... the value outside of Bitcoin is as self-evident to me as the value inside of Bitcoin ;),Thank you sir... the value outside of Bitcoin is as self-evident to me as the value inside of Bitcoin ;),0.802,0.365,0.0,0.125,0.525
+2020-12-02,14,"       Bitcoin is obviously MORE decentralized and MORE unstoppable than Thorchain. Thorchain is brand new. 
+
+Compared to any CEX, it is revolutionary. Compared to the God King Bitcoin, it is but a child, learning to walk.","Bitcoin is obviously MORE decentralized and MORE unstoppable than Thorchain. Thorchain is brand new. Compared to any CEX, it is revolutionary. Compared to the God King Bitcoin, it is but a child, learning to walk.",-0.0933,0.044,0.054,0.37878787878787873,0.48484848484848486
+2020-12-02,14,"Bitcoin: an overnight success a decade in the making | Opinion https://t.co/1mC9gLb10C 
+
+#bitcoin",Bitcoin: an overnight success a decade in the making | Opinion  #bitcoin,0.5719,0.27,0.0,0.3,0.0
+2020-12-02,14,"The Novus Moneta Seclorum collection from  complete with fearsome guard cat.
+
+#Bitcoin well spent 😎 https://t.co/PAkoUGoafr",The Novus Moneta Seclorum collection from  complete with fearsome guard cat.#Bitcoin well spent 😎,-0.1531,0.118,0.152,0.0,0.25
+2020-12-03,14,"Across 10 years and 3 hype cycles, #Bitcoin is empirically *so vastly superior* to any other investment. One could be forgiven for not understanding it eight years ago... but any asset manager today who remains ignorant of this phenomenon needs to seriously check their premises. https://t.co/Ii8y0eNC9f","Across 10 years and 3 hype cycles, #Bitcoin is empirically *so vastly superior* to any other investment. One could be forgiven for not understanding it eight years ago... but any asset manager today who remains ignorant of this phenomenon needs to seriously check their premises.",0.09,0.1,0.093,0.08055555555555555,0.6472222222222221
+2020-12-04,14,"People have been really liking this episode ❤️
+
+Don't download if you want two children being mean to each other. 
+
+Do download if you want a deep and nuanced discussion of a timeless topic. 
+
+#bitcoin https://t.co/AUghY3jPjd",People have been really liking this episode ❤️Don't download if you want two children being mean to each other. Do download if you want a deep and nuanced discussion of a timeless topic. #bitcoin,0.5563,0.153,0.0,-0.059375,0.415625
+2020-12-04,14,"  How do you define ""bitcoin maxi""?
+
+The value of any blockchain is never just the sum of tx fees... at minimum it'd be sum of tx fees plus discounted assumption of future tx fees (which is vastly larger and is the speculative piece)","How do you define ""bitcoin maxi""?The value of any blockchain is never just the sum of tx fees... at minimum it'd be sum of tx fees plus discounted assumption of future tx fees (which is vastly larger and is the speculative piece)",0.8591,0.253,0.0,0.0,0.3125
+2020-12-07,15, Have you heard of Bitcoin? 😎,Have you heard of Bitcoin? 😎,0.0,0.0,0.0,0.0,0.0
+2020-12-08,15,"Great chat, thank you Jake! #bitcoin https://t.co/0kW8ws7Yo1","Great chat, thank you Jake! #bitcoin",0.784,0.58,0.0,1.0,0.75
+2020-12-09,15,"         This is a non-issue. By 2140, the block reward from new bitcoin is already completely meaningless. 
+
+The transaction fees per block will have surpassed new BTC issuance *long* before then, and this is why miners will mine.","This is a non-issue. By 2140, the block reward from new bitcoin is already completely meaningless. The transaction fees per block will have surpassed new BTC issuance *long* before then, and this is why miners will mine.",-0.6478,0.083,0.201,-0.06931818181818182,0.5772727272727273
+2020-12-09,15,"A small nation could buy $10 billion of #Bitcoin, wait five years, and no longer be a small nation.","A small nation could buy $10 billion of #Bitcoin, wait five years, and no longer be a small nation.",-0.296,0.0,0.121,-0.25,0.4
+2020-12-09,15,"  Filecoin has outperformed Bitcoin since it's ICO. 
+
+40 BTC invested at ICO ($100k) would be ~$730k today in BTC, or ~$6 million in FIL
+
+In other words, 40 BTC invested in FIL at ICO = 329 BTC today.
+
+soooo keep laughing ;)","Filecoin has outperformed Bitcoin since it's ICO. 40 BTC invested at ICO ($100k) would be ~$730k today in BTC, or ~$6 million in FILIn other words, 40 BTC invested in FIL at ICO = 329 BTC today.soooo keep laughing ;)",0.6249,0.116,0.0,0.0625,0.6875
+2020-12-09,15,"   If you're unable to see the difference between a project like onecoin and a project like filecoin, that's on you. 
+
+Fact remains... FIL has outperformed BTC since the ICO by  500%.","If you're unable to see the difference between a project like onecoin and a project like filecoin, that's on you. Fact remains... FIL has outperformed BTC since the ICO by  500%.",0.6124,0.156,0.0,-0.5,0.5
+2020-12-09,15," ""You can't just stop buying weapons and killing people and instead buy Bitcoin""
+
+Well actually, you could. But governments wont, and this is why they go bankrupt and ruin the lives of millions of people.","""You can't just stop buying weapons and killing people and instead buy Bitcoin""Well actually, you could. But governments wont, and this is why they go bankrupt and ruin the lives of millions of people.",-0.9138,0.084,0.308,0.0,0.1
+2020-12-10,15," As BTC appreciates, a country that held it would see it's national debt decrease in BTC terms over time.","As BTC appreciates, a country that held it would see it's national debt decrease in BTC terms over time.",0.2023,0.151,0.115,0.0,0.0
+2020-12-10,15,"Pretty powerful speech today from Lagarde  ECB, mentions #bitcoin https://t.co/n6DiaYB0SY","Pretty powerful speech today from Lagarde  ECB, mentions #bitcoin",0.7184,0.429,0.0,0.275,1.0
+2020-12-13,15,"90% cash/10% bitcoin portfolio outperforms all other assets in terms of both return and risk. 
+
+Yet, the vast majority of financial planners will tell you to lend your money to an organization that is $27 trillion in debt at a negative real yield. https://t.co/rncO2SXcXC","90% cash/10% bitcoin portfolio outperforms all other assets in terms of both return and risk. Yet, the vast majority of financial planners will tell you to lend your money to an organization that is $27 trillion in debt at a negative real yield.",-0.765,0.035,0.169,-0.045,0.41500000000000004
+2020-12-13,15, 😂 ETH/BTC over past year... https://t.co/mAX9SXWvSC https://t.co/kknvG9LSP8,😂 ETH/BTC over past year...,0.0,0.0,0.0,-0.25,0.25
+2020-12-13,15,"USD
+- doesn't require paper
+- unlimited supply
+- closed source
+- permissioned
+
+BTC
+- doesn't require paper
+- limited supply
+- open source
+- permissionless 
+
+They do share one feature, don't they https://t.co/O9dHjMEECV","USD- doesn't require paper- unlimited supply- closed source- permissionedBTC- doesn't require paper- limited supply- open source- permissionless They do share one feature, don't they",0.434,0.139,0.0,-0.05714285714285714,0.24761904761904763
+2020-12-13,15,"Compilation 🧵 for fun tracks while watching #bitcoin markets 🚀
+
+We'll start here! https://t.co/44GMh17HVH",Compilation 🧵 for fun tracks while watching #bitcoin markets 🚀We'll start here!,0.5562,0.246,0.0,0.375,0.2
+2020-12-14,16," Yeah and the internet is only for porn and bitcoin only for drugs.
+
+This is what frontier looks like.",Yeah and the internet is only for porn and bitcoin only for drugs.This is what frontier looks like.,0.5719,0.217,0.0,0.0,1.0
+2020-12-15,16,DeFi on #Bitcoin Gets a Boost as Sovryn Launches on RSK Sidechain https://t.co/afyEz1PInz via ,DeFi on #Bitcoin Gets a Boost as Sovryn Launches on RSK Sidechain  via,0.4019,0.184,0.0,0.0,0.0
+2020-12-16,16,"Fantastic piece from 
+
+#bitcoin
+
+“The Empire Strikes Back. Some years ago, when I first began…” | by omid.malekan | Dec, 2020 | Medium https://t.co/S6jEOAeeQv","Fantastic piece from #bitcoin“The Empire Strikes Back. Some years ago, when I first began…” | by omid.malekan | Dec, 2020 | Medium",0.2732,0.149,0.104,0.21666666666666667,0.41111111111111115
+2020-12-16,16,"All time high.
+
+#bitcoin",All time high.#bitcoin,0.0,0.0,0.0,0.16,0.5399999999999999
+2020-12-17,16,"Can we please get some better informed skeptics?
+
+“There’s nothing in the protocol to suggest that we won’t go past the 21m limit. We don’t know what the real supply curve of bitcoin is.”
+
+🤨 https://t.co/YbvIp5nu47",Can we please get some better informed skeptics?“There’s nothing in the protocol to suggest that we won’t go past the 21m limit. We don’t know what the real supply curve of bitcoin is.”🤨,0.5859,0.135,0.036,0.15,0.35000000000000003
+2020-12-17,16,"  If bcash isn’t bitcoin because it’s a fork, then forks of bcash aren’t bcash. Be consistent.","If bcash isn’t bitcoin because it’s a fork, then forks of bcash aren’t bcash. Be consistent.",0.0,0.0,0.0,0.25,0.25
+2020-12-17,16,"  Okay... just realize you are making a similar argument that Peter Schiff makes against bitcoin. “The supply isn’t actually limited because you can fork and create unlimited other coins”
+
+Obviously nonsense. Every fork is a different asset.",Okay... just realize you are making a similar argument that Peter Schiff makes against bitcoin. “The supply isn’t actually limited because you can fork and create unlimited other coins”Obviously nonsense. Every fork is a different asset.,-0.3612,0.11,0.17,0.0505952380952381,0.41964285714285715
+2020-12-17,16,"  I think any bcash supporter can tell you which is the real one, and it doesn’t necessarily have to be the original. Bitcoin HF’d in the past, after all. I don’t follow BCH enough to have an opinion on which is the real one.","I think any bcash supporter can tell you which is the real one, and it doesn’t necessarily have to be the original. Bitcoin HF’d in the past, after all. I don’t follow BCH enough to have an opinion on which is the real one.",0.5267,0.099,0.0,0.08749999999999998,0.5166666666666666
+2020-12-17,16,  USD value of fees already pays more than the entire block reward did earlier in Bitcoin's history.,USD value of fees already pays more than the entire block reward did earlier in Bitcoin's history.,0.4939,0.265,0.126,0.16666666666666666,0.5416666666666666
+2020-12-17,16,"  The first tweet was conveying that if *you* say bcash isn't BTC because it's a fork, then you need to apply the same logic to forks of bcash. In what way does my subsequent tweet contradict that?","The first tweet was conveying that if *you* say bcash isn't BTC because it's a fork, then you need to apply the same logic to forks of bcash. In what way does my subsequent tweet contradict that?",-0.3182,0.0,0.062,0.08333333333333333,0.16944444444444443
+2020-12-18,16,"""Bitcoin’s value has instead become linked to something more profound: its incapacity to go to zero despite having no central point of support or guarantor.""
+
+Interesting take... but even Dogecoin has achieved that.
+
+https://t.co/O1kPif5tYL via ","""Bitcoin’s value has instead become linked to something more profound: its incapacity to go to zero despite having no central point of support or guarantor.""Interesting take... but even Dogecoin has achieved that. via",0.5919,0.181,0.0,0.27083333333333337,0.5625
+2020-12-22,17,"Round of applause for  👏
+
+""By the end of 2020, I think the price of BSV will be higher than any other token including BTC.""
+
+$BSV
+
+https://t.co/kTlVphFX8D","Round of applause for  👏""By the end of 2020, I think the price of BSV will be higher than any other token including BTC.""$BSV",0.4215,0.104,0.0,-0.025000000000000005,0.425
+2020-12-22,17,"""the process of this rulemaking has fallen so short of longstanding administrative procedures and rulemaking norms that it will need to be challenged in court; consider our comment a starting guide for bringing that challenge.""
+
+#bitcoin #ethereum
+
+https://t.co/EZ5QFK6mxc","""the process of this rulemaking has fallen so short of longstanding administrative procedures and rulemaking norms that it will need to be challenged in court; consider our comment a starting guide for bringing that challenge.""#bitcoin #ethereum",-0.4404,0.0,0.1,0.0,0.2
+2020-12-23,17,"The purpose of #Bitcoin can be observed from two perspectives. 
+
+For the individual, its purpose is to enable complete sovereignty over the storage and transmission of value. 
+
+For society, its purpose is to separate money and state. 
+
+Everything else is noise &amp; subservient.","The purpose of #Bitcoin can be observed from two perspectives. For the individual, its purpose is to enable complete sovereignty over the storage and transmission of value. For society, its purpose is to separate money and state. Everything else is noise &amp; subservient.",0.34,0.054,0.0,0.05,0.4
+2020-12-23,17," Fully transparent huh? 
+
+Okay... how many bitcoins do I have and where are they?",Fully transparent huh? Okay... how many bitcoins do I have and where are they?,0.0,0.0,0.0,0.5,0.5
+2020-12-23,17," Okay... I'll send you dust from a $50 tx I received last week from a friend. We'll see what you glean from that. 
+
+Your point about traceability is somewhat true, obviously. Bitcoin and other cryptos should (and will) provide greater anonymity with time.","Okay... I'll send you dust from a $50 tx I received last week from a friend. We'll see what you glean from that. Your point about traceability is somewhat true, obviously. Bitcoin and other cryptos should (and will) provide greater anonymity with time.",0.866,0.229,0.0,0.2041666666666667,0.43194444444444446
+2020-12-23,17," Bitcoin is not ""only"" anything. It's a SOV, sure, and it is also a payment system, currently handling billions of dollars per day. 
+
+But even if it was only a SOV (with no payment system) it's still a threat to fiat which is perpetually debased. Fiat is the health of the state.","Bitcoin is not ""only"" anything. It's a SOV, sure, and it is also a payment system, currently handling billions of dollars per day. But even if it was only a SOV (with no payment system) it's still a threat to fiat which is perpetually debased. Fiat is the health of the state.",-0.5106,0.043,0.106,0.09,0.6977777777777778
+2020-12-24,17," The psychology of the maximalist is precisely the psychology of the gold bug. In both cases, one allows the virtues of a great thing to blind them to the virtues of others.
+
+The gold bugs will go to their grave never seeing the beauty of Bitcoin, fully confident of their position","The psychology of the maximalist is precisely the psychology of the gold bug. In both cases, one allows the virtues of a great thing to blind them to the virtues of others.The gold bugs will go to their grave never seeing the beauty of Bitcoin, fully confident of their position",0.6394,0.197,0.131,0.30000000000000004,0.7625000000000001
+2020-12-27,17,"As #bitcoin rises, we should become more humble, and more helpful, to those who are interested in learning about it.
+
+The quality of our own character is at least as important as the quality of our money.","As #bitcoin rises, we should become more humble, and more helpful, to those who are interested in learning about it.The quality of our own character is at least as important as the quality of our money.",0.7645,0.183,0.0,0.25,0.6142857142857142
+2020-12-28,18,  Watch the Rise and Rise of Bitcoin documentary as a great primer on where this all came from,Watch the Rise and Rise of Bitcoin documentary as a great primer on where this all came from,0.6249,0.204,0.0,0.4,0.375
+2020-12-29,18," 1. Nothing wrong with premining an asset so long as its transparently done. And good for him for building something of such immense value. Anyone who bought his ""premine"" made millions because ETH has delivered.
+
+2. Such a stupid complaint. ""And Bitcoin is used by terrorists""","1. Nothing wrong with premining an asset so long as its transparently done. And good for him for building something of such immense value. Anyone who bought his ""premine"" made millions because ETH has delivered.2. Such a stupid complaint. ""And Bitcoin is used by terrorists""",-0.089,0.178,0.167,-0.11875,0.6375000000000001
+2020-12-29,18," Actually I've made my living investing in and periodically selling Bitcoin. 
+
+So that means nobody should listen to me when I advocate for Bitcoin, then?","Actually I've made my living investing in and periodically selling Bitcoin. So that means nobody should listen to me when I advocate for Bitcoin, then?",0.0,0.0,0.0,0.0,0.1
+2020-12-29,18," I don't think maximalism is contrary to free-market economics at all, actually. 
+
+It is not contradictory to say, ""the market should be free"" and also to say, ""all non-BTC assets are garbage"". 
+
+Indeed, free markets assume judgement of goods by the actors within them.","I don't think maximalism is contrary to free-market economics at all, actually. It is not contradictory to say, ""the market should be free"" and also to say, ""all non-BTC assets are garbage"". Indeed, free markets assume judgement of goods by the actors within them.",0.8532,0.21,0.0,0.26666666666666666,0.5666666666666668
+2020-12-29,18," Can you respond to my tweet instead of changing lanes to a totally different set of assertions?
+
+And cut the strawmen, please. I have no issue with ""bitcoiners who reject overt scams"".  I AM one of them.","Can you respond to my tweet instead of changing lanes to a totally different set of assertions?And cut the strawmen, please. I have no issue with ""bitcoiners who reject overt scams"".  I AM one of them.",-0.5719,0.059,0.178,0.0,0.6
+2020-12-29,18,"  ""Being specific"" is precisely what those who care about decentralized finance (ie Bitcoiners) should do. Specific coins are absolutely garbage. Other specific coins are world-changing innovations. And lots in the middle.","""Being specific"" is precisely what those who care about decentralized finance (ie Bitcoiners) should do. Specific coins are absolutely garbage. Other specific coins are world-changing innovations. And lots in the middle.",0.4939,0.096,0.0,0.06785714285714287,0.35000000000000003
+2020-12-29,18,"Bitcoin easily satisfies the condition of ""commodity"" if you abandon silly notions that commodities must be physical things. In a digital world, there are digital commodities, and #Bitcoin is the most scarce, secure, and marketable of them. https://t.co/V9FtvZjDmW","Bitcoin easily satisfies the condition of ""commodity"" if you abandon silly notions that commodities must be physical things. In a digital world, there are digital commodities, and #Bitcoin is the most scarce, secure, and marketable of them.",0.6222,0.205,0.066,0.11904761904761905,0.42159863945578235
+2020-12-29,18,"  Well... it's not exactly a ""high bar,"" it's an exclusionary tautological position. The maxi defines all non-BTC assets as ""shitcoins,"" and then quite easily expresses that shitcoins aren't as good as Bitcoin, and rests the case. 
+
+Many of those assets aren't trying to be money.","Well... it's not exactly a ""high bar,"" it's an exclusionary tautological position. The maxi defines all non-BTC assets as ""shitcoins,"" and then quite easily expresses that shitcoins aren't as good as Bitcoin, and rests the case. Many of those assets aren't trying to be money.",0.3993,0.126,0.05,0.3883333333333333,0.6183333333333334
+2020-12-29,18," You don't need to ""invest"" in another project in order to be interested in it or see that it has value. I own no airplanes, but it's obvious to me they are useful and valuable. Does a plane make good money? No. Does Bitcoin make for good highspeed air transportation? No, either.","You don't need to ""invest"" in another project in order to be interested in it or see that it has value. I own no airplanes, but it's obvious to me they are useful and valuable. Does a plane make good money? No. Does Bitcoin make for good highspeed air transportation? No, either.",0.9247,0.289,0.106,0.425,0.5333333333333333
+2020-12-29,18," You're making the exact same argument that anti-bitcoin folks made about Bitcoin in the early days (and often still do). 
+
+""It facilitates bad stuff, ergo it's bad""","You're making the exact same argument that anti-bitcoin folks made about Bitcoin in the early days (and often still do). ""It facilitates bad stuff, ergo it's bad""",-0.8591,0.0,0.284,-0.20999999999999996,0.40166666666666667
+2020-12-29,18,"  I also simply want sound money and also haven't seen anything that beats Bitcoin in that regard. Yet, I'm not a maximalist. 
+
+Can you acknowledge that Monero or ZCash have value, as they have superior privacy to Bitcoin? (this doesn't mean they are holistically better money)","I also simply want sound money and also haven't seen anything that beats Bitcoin in that regard. Yet, I'm not a maximalist. Can you acknowledge that Monero or ZCash have value, as they have superior privacy to Bitcoin? (this doesn't mean they are holistically better money)",0.8442,0.202,0.0,0.2575,0.5689285714285715
+2020-12-29,18," It's open source code. It matters not at all who wrote the first pieces of the code. Anyone can read it, and verify that it works as supposed.
+
+And regardless of how many coins Satoshi holds, it would be impossible to drive price to zero. I would gladly buy all his coins for $1m.","It's open source code. It matters not at all who wrote the first pieces of the code. Anyone can read it, and verify that it works as supposed.And regardless of how many coins Satoshi holds, it would be impossible to drive price to zero. I would gladly buy all his coins for $1m.",0.3612,0.064,0.0,0.11666666666666667,0.6666666666666666
+2020-12-29,18," That's a pretty cynical way to view an exchange that allows individuals to voluntarily buy and sell digital assets that they find interesting. 
+
+Do you realize you sound exactly like Schiff on his rants about Bitcoiners selling their garbage to duped retail?",That's a pretty cynical way to view an exchange that allows individuals to voluntarily buy and sell digital assets that they find interesting. Do you realize you sound exactly like Schiff on his rants about Bitcoiners selling their garbage to duped retail?,0.34,0.195,0.149,0.13333333333333333,0.525
+2020-12-29,18,"NFL star Russell Okung tweets this, now taking half his salary in #Bitcoin
+
+You do not want to be on the second half of the bell curve of this process. https://t.co/JzeN1jFMYo","NFL star Russell Okung tweets this, now taking half his salary in #BitcoinYou do not want to be on the second half of the bell curve of this process.",-0.0572,0.0,0.039,-0.1111111111111111,0.1111111111111111
+2020-12-29,18,  Bitcoin is up like 700% in the 9 months since March.,Bitcoin is up like 700% in the 9 months since March.,0.3612,0.217,0.0,0.0,0.0
+2020-12-29,18," Literally no bitcoiner believes the state will take no action against Bitcoin.
+
+The entire system is designed with the assumption of total adversity.",Literally no bitcoiner believes the state will take no action against Bitcoin.The entire system is designed with the assumption of total adversity.,-0.7351,0.0,0.265,-0.016666666666666666,0.4916666666666667
+2020-12-29,18,"Some view Bitcoin and Ethereum as adversarial competitors. This is an unexamined view. 
+
+Tether is a stablecoin (biggest by far), and makes it easier for the world to buy #Bitcoin. Tether is an ERC20 (Ethereum-based) asset. 
+
+This is just one example of the BTC&lt;&gt;ETH symbiosis.","Some view Bitcoin and Ethereum as adversarial competitors. This is an unexamined view. Tether is a stablecoin (biggest by far), and makes it easier for the world to buy #Bitcoin. Tether is an ERC20 (Ethereum-based) asset. This is just one example of the BTC&lt;ETH symbiosis.",0.4215,0.109,0.051,0.1,1.0
+2020-12-29,18," It didn't work well on omni, this is why it moved. It's grown...100x since then? Ethereum is a better platform for the tokenization of dollars in this case, and thus helps Bitcoin, and vice versa.","It didn't work well on omni, this is why it moved. It's grown...100x since then? Ethereum is a better platform for the tokenization of dollars in this case, and thus helps Bitcoin, and vice versa.",0.5699,0.144,0.047,0.5,0.5
+2020-12-30,18,"All Major Mining Pools Now Support Taproot, Bitcoin’s Biggest Upgrade in Years https://t.co/juz4ptPB85 via ","All Major Mining Pools Now Support Taproot, Bitcoin’s Biggest Upgrade in Years  via",0.4019,0.172,0.0,0.0625,0.5
+2020-12-30,18,"There are more differences between certain altcoins and each other, than there are between certain altcoins and Bitcoin. 
+
+Assessing each on its individual attributes is harder than categorical dismissal, of course, just as exercise is harder than sitting on the couch.","There are more differences between certain altcoins and each other, than there are between certain altcoins and Bitcoin. Assessing each on its individual attributes is harder than categorical dismissal, of course, just as exercise is harder than sitting on the couch.",0.5758,0.108,0.0,0.08622448979591837,0.3454081632653061
+2020-12-30,18,"  I have no idea if the ZCash Foundation does that, but what do you have against voluntary economic interaction? Is someone lying or defrauding someone? Or you think something's just automatically bad because it's different than Bitcoin's development?","I have no idea if the ZCash Foundation does that, but what do you have against voluntary economic interaction? Is someone lying or defrauding someone? Or you think something's just automatically bad because it's different than Bitcoin's development?",-0.9098,0.0,0.253,-0.1666666666666666,0.48888888888888893
+2020-12-30,18,"  Can you not concieve of a digital asset that has any value or utility or function while not being or attempting to be ""a reserve asset""
+
+Maxi's seem to see Bitcoin (correctly) as the world's best reserve asset, and then perceive *every* other digital asset as attempting the same?","Can you not concieve of a digital asset that has any value or utility or function while not being or attempting to be ""a reserve asset""Maxi's seem to see Bitcoin (correctly) as the world's best reserve asset, and then perceive *every* other digital asset as attempting the same?",0.9393,0.283,0.0,0.175,0.16
+2020-12-30,18,"  I'd like to understand you...
+
+If I sell only Bitcoin then that's cool.
+
+But if I sell Bitcoin and Ethereum and Litecoin, then I'm a snakeoil salesman? Or was it the slinging of Dogecoin that offends you so?","I'd like to understand you...If I sell only Bitcoin then that's cool.But if I sell Bitcoin and Ethereum and Litecoin, then I'm a snakeoil salesman? Or was it the slinging of Dogecoin that offends you so?",0.2869,0.128,0.075,0.175,0.825
+2020-12-30,18,  Unless it's just Bitcoin right? Then am I cool?,Unless it's just Bitcoin right? Then am I cool?,0.3939,0.275,0.0,0.31785714285714284,0.5928571428571429
+2020-12-30,18,  Bitcoin's not a pyramid scheme.,Bitcoin's not a pyramid scheme.,0.0,0.0,0.0,0.0,0.0
+2021-01-03,18,"Just found this ancient gem in my youtube account... Bitcoin segment on Fox Business  Nov. 27, 2011 (well done !) Bitcoin was about $3 https://t.co/Cu59Yyosgw #bitcoin","Just found this ancient gem in my youtube account... Bitcoin segment on Fox Business  Nov. 27, 2011 (well done !) Bitcoin was about $3  #bitcoin",0.0,0.0,0.0,0.0,0.0
+2021-01-03,18,"Bitcoin: The Exceptionally Cute Idea 🥰 
+
+Happy Birthday https://t.co/12Pd8OeO6D",Bitcoin: The Exceptionally Cute Idea 🥰 Happy Birthday,0.8051,0.547,0.0,0.65,1.0
+2021-01-03,18,"Always remember where #Bitcoin came from, and why it is here.
+
+https://t.co/gUirN3VGLZ","Always remember where #Bitcoin came from, and why it is here.",0.0,0.0,0.0,0.0,0.0
+2021-01-03,18,"It's Bitcoin's birthday today, and we are a little over 10% away from crypto hitting a $1 trillion market cap.
+
+This is roughly 1/7th of The Fed's balance sheet.","It's Bitcoin's birthday today, and we are a little over 10% away from crypto hitting a $1 trillion market cap.This is roughly 1/7th of The Fed's balance sheet.",0.0,0.0,0.0,-0.14375,0.45
+2021-01-04,18,"Congratulations Ethereum.  $1,000 🚀
+
+Reminds me of early 2017 when Bitcoin retook it's prior bubble high over $1,000.  The rhyme of two beautiful ascending assets.","Congratulations Ethereum.  $1,000 🚀Reminds me of early 2017 when Bitcoin retook it's prior bubble high over $1,000.  The rhyme of two beautiful ascending assets.",0.8591,0.311,0.0,0.27749999999999997,0.45999999999999996
+2021-01-04,18," Yeah and Bitcoin's was $1,200. Round numbers, dude. ETH will be there within a month.","Yeah and Bitcoin's was $1,200. Round numbers, dude. ETH will be there within a month.",0.296,0.145,0.0,-0.2,0.4
+2021-01-04,18,"                Some of y'all are so insecure about Bitcoin, it's embarrassing.","Some of y'all are so insecure about Bitcoin, it's embarrassing.",-0.7365,0.0,0.437,-0.5,0.875
+2021-01-04,18,"  Bitcoin's prosperity is thankfully not dependent on pretending it is the only valuable digital asset in the world. You're of the same insecure character as Peter Schiff... you both place on blinders, but you cling to bitcoin where he clings to gold.","Bitcoin's prosperity is thankfully not dependent on pretending it is the only valuable digital asset in the world. You're of the same insecure character as Peter Schiff... you both place on blinders, but you cling to bitcoin where he clings to gold.",0.3923,0.125,0.067,-0.125,0.5
+2021-01-04,18,"                 I'm not putting Ethereum on the level of anything else. It's a unique asset with unique attributes. Bitcoin is also a unique asset with unique attributes. Both further decentralization and minimize the role of the state, yet maxi's just can't see past the flag they wave.","I'm not putting Ethereum on the level of anything else. It's a unique asset with unique attributes. Bitcoin is also a unique asset with unique attributes. Both further decentralization and minimize the role of the state, yet maxi's just can't see past the flag they wave.",0.6124,0.106,0.0,0.20833333333333334,0.7916666666666666
+2021-01-04,18,"                 Perhaps you're embarrassed that you don't truly understand the value or revolutionary trajectory of Bitcoin (I'm sure you claim to). You got in later than others, probably dismissed it first while others built, and now your insecurity expresses itself by shitting on others.","Perhaps you're embarrassed that you don't truly understand the value or revolutionary trajectory of Bitcoin (I'm sure you claim to). You got in later than others, probably dismissed it first while others built, and now your insecurity expresses itself by shitting on others.",-0.7009,0.09,0.201,0.25,0.4074074074074074
+2021-01-04,18,"   It's currently earning more in mining fees than Bitcoin... but sure, nobody uses it 😅 
+
+Also, whether ETH can become a ""reserve asset"" is entirely beside the question of whether Ethereum as a whole system is valuable, useful, and important.","It's currently earning more in mining fees than Bitcoin... but sure, nobody uses it 😅 Also, whether ETH can become a ""reserve asset"" is entirely beside the question of whether Ethereum as a whole system is valuable, useful, and important.",0.9468,0.339,0.0,0.2714285714285714,0.5448412698412698
+2021-01-04,18,"                 So you bought most of your bitcoin in 2020, such courage.
+
+BTW ETH is up more than BTC since 2016.
+
+Even the way you respond demonstrates you're in this primarily for profit, and don't fundamentally believe in or understand the real purpose of it. Enjoy your gains.","So you bought most of your bitcoin in 2020, such courage.BTW ETH is up more than BTC since 2016.Even the way you respond demonstrates you're in this primarily for profit, and don't fundamentally believe in or understand the real purpose of it. Enjoy your gains.",0.8934,0.214,0.0,0.3333333333333333,0.4666666666666666
+2021-01-04,18,"                 They understand that Bitcoin is the best money. It absolutely is, and it has properties no other crypto surpasses. 
+
+What they don't understand is that money is a necessary but not sufficient condition for decentralized finance and a drastic reduction of the State.","They understand that Bitcoin is the best money. It absolutely is, and it has properties no other crypto surpasses. What they don't understand is that money is a necessary but not sufficient condition for decentralized finance and a drastic reduction of the State.",0.25,0.06,0.037,0.315625,0.64375
+2021-01-04,18,"    Higher fees are better for miners and subsequently security of the network.  At the same time, they are bad for those trying to use the network. Through that tension, an economic equilibrium is found. True of both BTC and ETH.","Higher fees are better for miners and subsequently security of the network.  At the same time, they are bad for those trying to use the network. Through that tension, an economic equilibrium is found. True of both BTC and ETH.",0.3182,0.166,0.119,0.08571428571428573,0.38452380952380955
+2021-01-04,18,                  That's why Satoshi doesn't have any Bitcoin right?,That's why Satoshi doesn't have any Bitcoin right?,0.0,0.0,0.0,0.2857142857142857,0.5357142857142857
+2021-01-04,18,"                  I bet you have never met or spoken with either of them... and ridiculing Vitalik for living a ""lavish life"" is hilarious. 
+
+I don't need to disparage Vitalik or Lubin to appreciate the genius and accomplishment of Satoshi, and vice versa. They are all builders and innovators.","I bet you have never met or spoken with either of them... and ridiculing Vitalik for living a ""lavish life"" is hilarious. I don't need to disparage Vitalik or Lubin to appreciate the genius and accomplishment of Satoshi, and vice versa. They are all builders and innovators.",0.6224,0.155,0.055,0.5,1.0
+2021-01-04,18,"                  ""nothing but shit on bitcoin since 2015""
+
+Vitalik has been one of Bitcoin's greatest advocates since 2012. *And* he helped create a $100 billion blockchain processing billions of $ of transactions per day. 
+
+If you choose to be a blind douchbag, I can't help you.","""nothing but shit on bitcoin since 2015""Vitalik has been one of Bitcoin's greatest advocates since 2012. *And* he helped create a $100 billion blockchain processing billions of $ of transactions per day. If you choose to be a blind douchbag, I can't help you.",0.7845,0.225,0.118,0.10000000000000002,0.8222222222222223
+2021-01-04,18,"                  You could also read that as ETH outperforming BTC in 2020, but I know that doesn't fit the narrative you want to build ;) 
+
+Personally, I think both assets are going drastically higher against fiat. I dont have a strong opinion of which is better investment, but ETH is more risky","You could also read that as ETH outperforming BTC in 2020, but I know that doesn't fit the narrative you want to build ;) Personally, I think both assets are going drastically higher against fiat. I dont have a strong opinion of which is better investment, but ETH is more risky",-0.0406,0.166,0.151,0.3333333333333333,0.5619047619047619
+2021-01-04,18,"                  1) The unbanked aren't going to run a $32k node, nor a $350 node. Most people don't need or want to run nodes. 
+
+2) I just used it this morning, didn't ask anyone's permission.
+
+3) They're more like $10-15 right now, but they'll definitely get to $100 soon, as will BTC fees.","1) The unbanked aren't going to run a $32k node, nor a $350 node. Most people don't need or want to run nodes. 2) I just used it this morning, didn't ask anyone's permission.3) They're more like $10-15 right now, but they'll definitely get to $100 soon, as will BTC fees.",0.6526,0.104,0.021,0.3214285714285714,0.5089285714285714
+2021-01-04,18,"    Yeah... frankly I think it's kinda a silly concept. There isn't a minimum necessary issuance.  Issuance is just inflation, and what's most important is that it's low (or zero) and it's transparent, and predictable. Both BTC and ETH satisfy those conditions.","Yeah... frankly I think it's kinda a silly concept. There isn't a minimum necessary issuance.  Issuance is just inflation, and what's most important is that it's low (or zero) and it's transparent, and predictable. Both BTC and ETH satisfy those conditions.",0.4215,0.12,0.078,0.03333333333333333,0.6958333333333333
+2021-01-04,18,"                  I have zero issue with someone who thinks BTC is best among the crowd, and advocates eloquently for it.  
+
+I wish the maxi's would see the value and the importance in *some* of the other crypto projects, which both help Bitcoin and advance the same principles. Not enemies.","I have zero issue with someone who thinks BTC is best among the crowd, and advocates eloquently for it.  I wish the maxi's would see the value and the importance in *some* of the other crypto projects, which both help Bitcoin and advance the same principles. Not enemies.",0.9444,0.3,0.0,0.2916666666666667,0.26666666666666666
+2021-01-04,18,"                   Your first two statements are reasonable perspectives. The third is propaganda. 
+
+Can I ask, have you ever used Uniswap, for example? Can you not see the value in decentralized exchange technology? It isn't built on Bitcoin, but it will absolutely benefit Bitcoin.","Your first two statements are reasonable perspectives. The third is propaganda. Can I ask, have you ever used Uniswap, for example? Can you not see the value in decentralized exchange technology? It isn't built on Bitcoin, but it will absolutely benefit Bitcoin.",0.5833,0.105,0.066,0.11000000000000001,0.3866666666666667
+2021-01-04,18,"                  You're setting up strawman. My comment about satoshi was half joking, obviously his circumstances are totally different than those years later. But he may well have a million Bitcoin and be fabulously rich, and let's hope so.","You're setting up strawman. My comment about satoshi was half joking, obviously his circumstances are totally different than those years later. But he may well have a million Bitcoin and be fabulously rich, and let's hope so.",0.8687,0.252,0.0,0.04166666666666667,0.4033333333333333
+2021-01-04,18," Anyone on Earth could have bought a few Bitcoin for a few hundred dollars a few years ago. Bitcoin's distribution is fair, because it's open to everyone, and everyone plays by the same rules.","Anyone on Earth could have bought a few Bitcoin for a few hundred dollars a few years ago. Bitcoin's distribution is fair, because it's open to everyone, and everyone plays by the same rules.",0.5106,0.129,0.0,0.016666666666666646,0.3041666666666667
+2021-01-04,18,  No violence is needed with Bitcoin.,No violence is needed with Bitcoin.,-0.743,0.0,0.612,0.0,0.0
+2021-01-04,18,"  So if I choose to buy $100 of Bitcoin and you choose not to, then Bitcoin is now ""unequal"" and undeserving of use as a new monetary system?
+
+How would you prefer it to be designed?","So if I choose to buy $100 of Bitcoin and you choose not to, then Bitcoin is now ""unequal"" and undeserving of use as a new monetary system?How would you prefer it to be designed?",-0.504,0.0,0.09,0.13636363636363635,0.45454545454545453
+2021-01-04,18,"  That's a silly comparison. Rural Indian can't become Russian oligarch, but can buy BTC.
+
+Truly anyone could buy $100 of BTC in 2014. The bar to participating in the growth of BTC is non-existent. Available and open to anyone in the world, more than any other financial technology.","That's a silly comparison. Rural Indian can't become Russian oligarch, but can buy BTC.Truly anyone could buy $100 of BTC in 2014. The bar to participating in the growth of BTC is non-existent. Available and open to anyone in the world, more than any other financial technology.",0.8074,0.159,0.0,0.034375,0.33125
+2021-01-05,18,"  In 2015 they could buy an entire Bitcoin for $150. Millions had heard of it, and didn't walk down the path. That doesn't make them bad people, but it does demonstrate that a substantial portion of Bitcoin's ""inequality"" comes from the different choices individuals make.","In 2015 they could buy an entire Bitcoin for $150. Millions had heard of it, and didn't walk down the path. That doesn't make them bad people, but it does demonstrate that a substantial portion of Bitcoin's ""inequality"" comes from the different choices individuals make.",0.481,0.089,0.0,-0.21388888888888885,0.545138888888889
+2021-01-05,18,"  ...and a poor but curious person in 2015 could've been wealthy by now while the compsci student reels in debt. 
+
+The point here is that there is no special ""access privilege"" in Bitcoin. It is open-source, available throughout the world, and doesn't discriminate.","...and a poor but curious person in 2015 could've been wealthy by now while the compsci student reels in debt. The point here is that there is no special ""access privilege"" in Bitcoin. It is open-source, available throughout the world, and doesn't discriminate.",0.7096,0.232,0.144,0.04428571428571429,0.7142857142857143
+2021-01-05,18,"   I don't think anyone is arguing that ""equality of situation"" exists anywhere. Blame that on the universe. 
+
+For Bitcoin's part, it could hardly be more open and accessible regardless of one's situation. Contrast this with banks, normal investing, or finance generally.","I don't think anyone is arguing that ""equality of situation"" exists anywhere. Blame that on the universe. For Bitcoin's part, it could hardly be more open and accessible regardless of one's situation. Contrast this with banks, normal investing, or finance generally.",-0.6597,0.0,0.124,0.215,0.505
+2021-01-05,18,"  I think this is a non-issue. As price rises, people are more careful. I'd guess &gt;95% of all Bitcoin that will be ever be lost, have already been lost.","I think this is a non-issue. As price rises, people are more careful. I'd guess 95% of all Bitcoin that will be ever be lost, have already been lost.",-0.4033,0.062,0.151,0.2,0.75
+2021-01-05,18,"  English fluency and comp sci knowledge are not at all required.  I have zero of the latter, for example. And there are a million non-english speaking people in China that are very much participating in Bitcoin.","English fluency and comp sci knowledge are not at all required.  I have zero of the latter, for example. And there are a million non-english speaking people in China that are very much participating in Bitcoin.",0.0,0.0,0.0,0.08666666666666667,0.08666666666666667
+2021-01-05,18,"  Some free time and money, yes, needed. But even a small amount of both five years ago would put anyone in a great position today. Let's put it this way... if one is very poor, Bitcoin is the best path to prosperity. It is a source of opportunity, not exclusion or privilege.","Some free time and money, yes, needed. But even a small amount of both five years ago would put anyone in a great position today. Let's put it this way... if one is very poor, Bitcoin is the best path to prosperity. It is a source of opportunity, not exclusion or privilege.",0.9258,0.29,0.084,0.28600000000000003,0.6060000000000001
+2021-01-05,18,"   They will need to find other ways to prosper. Bitcoin doesn't solve the problem of poverty, even today. What it does do is give *anyone* who cares to look and learn, a better ability to work their way out of poverty than would otherwise exist.","They will need to find other ways to prosper. Bitcoin doesn't solve the problem of poverty, even today. What it does do is give *anyone* who cares to look and learn, a better ability to work their way out of poverty than would otherwise exist.",0.3107,0.188,0.147,0.1875,0.4375
+2021-01-05,18,"    Empirically, look at all the things built on ETH that aren't built on Bitcoin.  They are very different blockchains, with different tradeoffs and advantages. 
+
+People tried building dapps on Bitcoin early on, and it was a huge pain in the ass (see mastercoin, for example).","Empirically, look at all the things built on ETH that aren't built on Bitcoin.  They are very different blockchains, with different tradeoffs and advantages. People tried building dapps on Bitcoin early on, and it was a huge pain in the ass (see mastercoin, for example).",-0.4588,0.093,0.132,0.12000000000000002,0.536
+2021-01-05,18,"   They would be at no worse a disadvantage than anyone born without money today. Again, Bitcoin doesn't solve poverty, but it provides a better path for individuals to climb out of it than they would have if Bitcoin didn't exist.","They would be at no worse a disadvantage than anyone born without money today. Again, Bitcoin doesn't solve poverty, but it provides a better path for individuals to climb out of it than they would have if Bitcoin didn't exist.",0.2156,0.128,0.154,0.35,0.55
+2021-01-05,18,"        Unfortunately I think the maxis made Bitcoin pretty unwelcoming to experimentation and app developers, they all went to Ethereum, and the network effect now exists clearly there. 
+
+I don’t think the maxis care though, they have their gold 2.0 narrative, for better or worse.","Unfortunately I think the maxis made Bitcoin pretty unwelcoming to experimentation and app developers, they all went to Ethereum, and the network effect now exists clearly there. I don’t think the maxis care though, they have their gold 2.0 narrative, for better or worse.",0.7579,0.224,0.103,-0.009999999999999998,0.6966666666666667
+2021-01-05,18,        Uh oh... profit motive! Definitely doesn't exist in Bitcoin!,Uh oh... profit motive! Definitely doesn't exist in Bitcoin!,0.7339,0.469,0.0,0.0,0.5
+2021-01-05,18,"         I understand that strategy and I'm not saying it's wrong. But it does mean that the experimentation and huge majority of app development went elsewhere. 
+
+I think maxis are perfectly fine with that. And again, this is why it makes sense to appreciate BTC and ETH, as unique models","I understand that strategy and I'm not saying it's wrong. But it does mean that the experimentation and huge majority of app development went elsewhere. I think maxis are perfectly fine with that. And again, this is why it makes sense to appreciate BTC and ETH, as unique models",0.911,0.244,0.0,0.07583333333333335,0.7975
+2021-01-05,18,"         I remember when bitcoiners embraced the profit motive, and didn't care if something was ""illegal.""","I remember when bitcoiners embraced the profit motive, and didn't care if something was ""illegal.""",0.0701,0.165,0.15,-0.5,0.5
+2021-01-05,18,"             It's amazing that maxis can't fathom digital assets which aren't narrow money competitors to Bitcoin. 
+
+One can believe there are ""no viable alternatives to Bitcoin as money"" and also believe other digital assets are interesting and valuable.","It's amazing that maxis can't fathom digital assets which aren't narrow money competitors to Bitcoin. One can believe there are ""no viable alternatives to Bitcoin as money"" and also believe other digital assets are interesting and valuable.",0.7479,0.209,0.114,0.12916666666666668,0.3625
+2021-01-05,18,"          I don't think there is any consensus on the open, undefined question ""modify the monetary policy."" In fact if you proposed that as a governance vote in the Ethereum community in that language it'd surely be voted down. 
+
+And all blockchains can HF with or w/o consensus, btc incl.","I don't think there is any consensus on the open, undefined question ""modify the monetary policy."" In fact if you proposed that as a governance vote in the Ethereum community in that language it'd surely be voted down. And all blockchains can HF with or w/o consensus, btc incl.",0.4404,0.059,0.0,0.11481481481481481,0.5592592592592592
+2021-01-05,18,"          The app developers didn't leave Bitcoin because of any deficiency with sidechains. They left Bitcoin because Ethereum's smart-contract language was relatively easy and welcoming, and ICO's brought tons of funding in for experimentation. The fruits of that experimentation are here","The app developers didn't leave Bitcoin because of any deficiency with sidechains. They left Bitcoin because Ethereum's smart-contract language was relatively easy and welcoming, and ICO's brought tons of funding in for experimentation. The fruits of that experimentation are here",0.7139,0.158,0.0,0.21666666666666667,0.4166666666666667
+2021-01-05,18,"             Why is that a strawman? How do you interpret Brian's tweet? 
+
+He is dismissing all other assets because they ""can't compete"" with Bitcoin, which begs the question, ""compete on which attribute and for which purpose?"" Is he not assuming narrow money competition?","Why is that a strawman? How do you interpret Brian's tweet? He is dismissing all other assets because they ""can't compete"" with Bitcoin, which begs the question, ""compete on which attribute and for which purpose?"" Is he not assuming narrow money competition?",0.3939,0.062,0.0,-0.1625,0.3875
+2021-01-05,18,"         Sure, but that's the point: it's a matter of tradeoffs. Eth apps are more complex (and more dangerous), but they're removing custodial risk and as they iterate, they will overcome the features of many centralized services. A principled Bitcoiner should rejoice at this.","Sure, but that's the point: it's a matter of tradeoffs. Eth apps are more complex (and more dangerous), but they're removing custodial risk and as they iterate, they will overcome the features of many centralized services. A principled Bitcoiner should rejoice at this.",0.4588,0.144,0.057,0.18333333333333335,0.6148148148148148
+2021-01-06,18,"    Not exclusive to Ethereum. Bitcoin coming in Q1 (native, non-wrapped). Other leading chains as well.","Not exclusive to Ethereum. Bitcoin coming in Q1 (native, non-wrapped). Other leading chains as well.",0.1852,0.128,0.083,-0.125,0.375
+2021-01-06,18,"My blog post on the  announcement today...
+
+""By embracing the very principles that #Bitcoin brought to the world: decentralization, openness, and immutability, we believe a superior legal and ethical course can be charted with this model.""
+
+https://t.co/IfxNYI74V6","My blog post on the  announcement today...""By embracing the very principles that #Bitcoin brought to the world: decentralization, openness, and immutability, we believe a superior legal and ethical course can be charted with this model.""",0.8658,0.251,0.0,0.32499999999999996,0.5
+2021-01-06,18,"  You wrong boy.
+
+Native Bitcoin (non-wrapped, non ETH-based) coming in Q1.","You wrong boy.Native Bitcoin (non-wrapped, non ETH-based) coming in Q1.",-0.4767,0.0,0.237,-0.5,0.9
+2021-01-06,18," Not at all. Native non-wrapped Bitcoin added soon for DEX trading, and obviously Bitcoin already supported in the wallet and for fiat purchase.","Not at all. Native non-wrapped Bitcoin added soon for DEX trading, and obviously Bitcoin already supported in the wallet and for fiat purchase.",0.3182,0.095,0.0,0.0,0.5
+2021-01-06,18," Non-ETH assets coming. First, Bitcoin (native, non-wrapped).","Non-ETH assets coming. First, Bitcoin (native, non-wrapped).",0.1779,0.221,0.0,0.25,0.3333333333333333
+2021-01-07,18,"Crypto Market Cap: $1 Trillion
+
+Took ten years. It will take less than six months to get to $2 Trillion.
+
+https://t.co/X4HCHcbEKs 
+#bitcoin #ethereum https://t.co/Ggvu00vlFv",Crypto Market Cap: $1 TrillionTook ten years. It will take less than six months to get to $2 Trillion. #bitcoin #ethereum,0.0,0.0,0.0,-0.08333333333333333,0.03333333333333333
+2021-01-07,18,This is the only number that went up faster than Bitcoin price over the 15 day period 😁 https://t.co/w3FS4X5Enq,This is the only number that went up faster than Bitcoin price over the 15 day period 😁,0.0772,0.071,0.0,0.0,1.0
+2021-01-07,18,"            👏 for George who makes #Bitcoin the most secure distributed computing network in the world. 
+
+And yeah... pour one out for Hal. I wish he could see this.",👏 for George who makes #Bitcoin the most secure distributed computing network in the world. And yeah... pour one out for Hal. I wish he could see this.,0.659,0.183,0.0,0.45,0.55
+2021-01-07,18,"   They're really warm, so I don't wear them often. But on a cold winter day, with snow falling, and Bitcoin mooning, they're the best thing ever.","They're really warm, so I don't wear them often. But on a cold winter day, with snow falling, and Bitcoin mooning, they're the best thing ever.",0.6997,0.221,0.055,0.3333333333333333,0.6333333333333334
+2021-01-09,18,"A lesson in immutability. 
+
+#bitcoin https://t.co/UW8cy9MHZ5",A lesson in immutability. #bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-09,18," How is it possible to be a Bitcoiner and not undersatnd private property dude?
+
+Twitter is private property. They can arbitrate whatever they wish, and we are similarly free to use and support the service or not.","How is it possible to be a Bitcoiner and not undersatnd private property dude?Twitter is private property. They can arbitrate whatever they wish, and we are similarly free to use and support the service or not.",0.8271,0.209,0.0,0.1,0.6375
+2021-01-09,18,"  Pro-private property.
+
+From this, both my advocacy of Bitcoin and defense of Twitter’s right to moderate their platform content.","Pro-private property.From this, both my advocacy of Bitcoin and defense of Twitter’s right to moderate their platform content.",0.128,0.077,0.0,0.14285714285714285,0.6178571428571429
+2021-01-09,18, Especially since it'll be 50:50 BTC:DOGE,Especially since it'll be 50:50 BTC:DOGE,0.0,0.0,0.0,0.0,1.0
+2021-01-09,18," Live frugally, and put a reasonable amount (20-50%) of your savings in Bitcoin over the next ten years.","Live frugally, and put a reasonable amount (20-50%) of your savings in Bitcoin over the next ten years.",0.0,0.0,0.0,0.08409090909090909,0.275
+2021-01-10,18," Where can I read more on this in depth?
+
+If you mint a synthetic BTC backed by half a real BTC and half a real BTC worth of another asset, does the latter adjust the other asset to always be worth half a BTC? If not, there would be immediate price/arbitrage issues.","Where can I read more on this in depth?If you mint a synthetic BTC backed by half a real BTC and half a real BTC worth of another asset, does the latter adjust the other asset to always be worth half a BTC? If not, there would be immediate price/arbitrage issues.",0.8053,0.196,0.0,0.08750000000000004,0.21749999999999997
+2021-01-10,18," The first flaw in that thinking is that security spending is not a fixed variable; it’s not static. More chains doesn’t necessarily mean the same spend spread across chains. As with many market phenomena, the pie  grows.
+
+BTC+ETH spending/2 &gt; BTC spending","The first flaw in that thinking is that security spending is not a fixed variable; it’s not static. More chains doesn’t necessarily mean the same spend spread across chains. As with many market phenomena, the pie  grows.BTC+ETH spending/2  BTC spending",0.34,0.057,0.0,0.09107142857142857,0.4636904761904762
+2021-01-10,18,"#Bitcoin will soon be in the Top 10 global currencies. It achieved this against immense skepticism in the span of a decade. 
+
+More importantly, it'll be *the only global currency* on this list which can't be created out of thin air. It is the only scarce one.
+
+Beautiful 🚀 https://t.co/lTXxovVgPK","#Bitcoin will soon be in the Top 10 global currencies. It achieved this against immense skepticism in the span of a decade. More importantly, it'll be *the only global currency* on this list which can't be created out of thin air. It is the only scarce one.Beautiful 🚀",0.676,0.151,0.068,0.185,0.6849999999999999
+2021-01-11,19,I wonder if Trump's thoughts on Bitcoin have changed now... https://t.co/1MBghTbyCd,I wonder if Trump's thoughts on Bitcoin have changed now...,0.0,0.0,0.0,0.0,0.0
+2021-01-11,19,"My hope for 2021 is that the the Bitcoin maxis stop smelling their own farts, the Ethereum maxis stop daydreaming of rainbows and pickles, the ""number go up"" noise goes down, and everyone in crypto realizes this shit's starting to get real. 
+
+Build, focus, plan, and cooperate.","My hope for 2021 is that the the Bitcoin maxis stop smelling their own farts, the Ethereum maxis stop daydreaming of rainbows and pickles, the ""number go up"" noise goes down, and everyone in crypto realizes this shit's starting to get real. Build, focus, plan, and cooperate.",-0.0516,0.081,0.085,0.08888888888888888,0.49777777777777776
+2021-01-12,19,"UBS to charge negative rates (-0.75%) on balances above 250,000 francs, euros https://t.co/dYjFwQxFHQ 
+
+Bitcoin will never charge you negative rate, friends.","UBS to charge negative rates (-0.75%) on balances above 250,000 francs, euros  Bitcoin will never charge you negative rate, friends.",-0.6486,0.109,0.26,-0.19999999999999998,0.3
+2021-01-13,19,"Not sure if they started it, but the Thorchain folks have been using a naming standard for tokens that I quite like. 
+
+chain.token is the pattern
+
+So BTC.BTC refers to true bitcoin on the bitcoin chain, while BNB.BTC would refer to the BEP20 tokenized bitcoin on the binance chain","Not sure if they started it, but the Thorchain folks have been using a naming standard for tokens that I quite like. chain.token is the patternSo BTC.BTC refers to true bitcoin on the bitcoin chain, while BNB.BTC would refer to the BEP20 tokenized bitcoin on the binance chain",0.785,0.14,0.028,0.033333333333333326,0.512962962962963
+2021-01-13,19,"Similarly, ETH.renBTC would refer to that specific proxy bitcoin on the ethereum chain. 
+
+This will be increasingly helpful as chains start tokenizing each other, and people need to know which specific chain and asset is being discussed.","Similarly, ETH.renBTC would refer to that specific proxy bitcoin on the ethereum chain. This will be increasingly helpful as chains start tokenizing each other, and people need to know which specific chain and asset is being discussed.",0.6486,0.132,0.0,-0.03125,0.25625
+2021-01-13,19," Curious on your maxi viewpoint here actually... I'm guessing perhaps you'd approve of such a naming convention because it helps make it clear that Bitcoin proper is not the same asset as Bitcoin on Ethereum, etc.","Curious on your maxi viewpoint here actually... I'm guessing perhaps you'd approve of such a naming convention because it helps make it clear that Bitcoin proper is not the same asset as Bitcoin on Ethereum, etc.",0.6586,0.185,0.052,2.3129646346357427e-18,0.3680555555555556
+2021-01-14,19,"We could say the #Bitcoin dream is dead.
+
+Because it isn’t a dream 😎 https://t.co/OUnoVap14i",We could say the #Bitcoin dream is dead.Because it isn’t a dream 😎,-0.3182,0.219,0.235,-0.2,0.4
+2021-01-14,19,So awesome!!!  Let's make her Bitcoin famous now. https://t.co/fheBKkeVMt,So awesome!!!  Let's make her Bitcoin famous now.,0.7406,0.397,0.0,0.75,1.0
+2021-01-15,19,"Dollars increase in supply on an exponential curve. They have border and usage restrictions, and are controlled by politicians and banks.
+
+Bitcoins increase in supply on an asymptotic curve. They have no borders, and are controlled by transparent mathematical formulas.","Dollars increase in supply on an exponential curve. They have border and usage restrictions, and are controlled by politicians and banks.Bitcoins increase in supply on an asymptotic curve. They have no borders, and are controlled by transparent mathematical formulas.",0.34,0.105,0.05,0.0,0.0
+2021-01-16,19,"If there are any talented Bitcoin engineers out there looking to make Bitcoin better, and get paid to do it, consider this project.
+
+Cosmos is on the cusp of connecting disparate blockchains with interoperability, but BTC work needed
+
+I’ll consider matching a portion of the grant https://t.co/0DrWnLC74g","If there are any talented Bitcoin engineers out there looking to make Bitcoin better, and get paid to do it, consider this project.Cosmos is on the cusp of connecting disparate blockchains with interoperability, but BTC work neededI’ll consider matching a portion of the grant",0.7469,0.146,0.0,0.6,0.7
+2021-01-18,20, RenBTC isn’t native BTC tho,RenBTC isn’t native BTC tho,0.0,0.0,0.0,0.0,0.0
+2021-01-19,20,"Metamask and ShapeShift are both wallets with integrated ERC20 trading. 
+
+Neither have KYC.
+
+Both have fox logos 🦊
+
+Metamask adds trading fees.
+
+ShapeShift doesn't.
+
+Metamask doesn't support #Bitcoin
+
+ShapeShift does. 
+
+Give it a try... https://t.co/rwM8dxT7bs
+
+#ethereum #eth",Metamask and ShapeShift are both wallets with integrated ERC20 trading. Neither have KYC.Both have fox logos 🦊Metamask adds trading fees.ShapeShift doesn't.Metamask doesn't support #BitcoinShapeShift does. Give it a try... #ethereum #eth,0.2337,0.054,0.0,0.0,0.0
+2021-01-20,20, All useful crypto projects are helpful to Bitcoin‘s price ;),All useful crypto projects are helpful to Bitcoin‘s price ;),0.765,0.521,0.0,0.275,0.5
+2021-01-20,20, Satoshi was correct that the price of a commodity gravitates toward the production cost.  But this does *not* mean that the value of something comes from its costs.,Satoshi was correct that the price of a commodity gravitates toward the production cost.  But this does *not* mean that the value of something comes from its costs.,0.34,0.085,0.0,0.15625,0.6875
+2021-01-23,20,   Just like you can’t tell how many parties are involved in Bitcoin mining...,Just like you can’t tell how many parties are involved in Bitcoin mining...,0.6369,0.321,0.0,0.5,0.5
+2021-01-24,20," ETH is up more than BTC during its lifetime.
+
+And it’s not the only one.
+
+Smaller and more experimental assets will often outperform older and more trustworthy/established assets. That phenomenon doesn’t mean either is better, but don’t pretend other assets aren’t mooning too.","ETH is up more than BTC during its lifetime.And it’s not the only one.Smaller and more experimental assets will often outperform older and more trustworthy/established assets. That phenomenon doesn’t mean either is better, but don’t pretend other assets aren’t mooning too.",0.5853,0.157,0.034,0.18291666666666667,0.5295833333333333
+2021-01-24,20," If the question is: which asset has the best risk/reward ratio, then I think BTC is arguably the one.
+
+Doesn’t mean it’s the only valuable thing out there, and gainz shouldn’t be the only goal, should it?","If the question is: which asset has the best risk/reward ratio, then I think BTC is arguably the one.Doesn’t mean it’s the only valuable thing out there, and gainz shouldn’t be the only goal, should it?",0.8316,0.224,0.046,0.171875,0.746875
+2021-01-24,20,  https://t.co/agdrQTFbTC,,0.0,0.0,0.0,0.0,0.0
+2021-01-25,21,"Harvard, Yale, Brown Endowments Have Been Buying #Bitcoin for at Least a Year 
+
+https://t.co/9MhagIpqT3 via ","Harvard, Yale, Brown Endowments Have Been Buying #Bitcoin for at Least a Year  via",0.0,0.0,0.0,-0.3,0.4
+2021-01-28,21, cHiNA cOntRoLs bITcoin,cHiNA cOntRoLs bITcoin,0.0,0.0,0.0,0.0,0.0
+2021-01-29,21,"ShapeShift is back in a workable state under 10x load after our hero engineers stayed up all night making magic happen. 
+
+This is gentlemen 🍻
+
+Trade crypto. Easy self-custody. No added fees. No KYC.
+https://t.co/rwM8dxT7bs
+
+#bitcoin #ethereum https://t.co/Usek9Q4vFY",ShapeShift is back in a workable state under 10x load after our hero engineers stayed up all night making magic happen. This is gentlemen 🍻Trade crypto. Easy self-custody. No added fees. No KYC.#bitcoin #ethereum,0.4767,0.152,0.103,0.3111111111111111,0.6111111111111112
+2021-02-04,22,Very good for #bitcoin https://t.co/EWwK0O5nnl,Very good for #bitcoin,0.4927,0.444,0.0,0.9099999999999999,0.7800000000000001
+2021-02-04,22,#Dogecoin market value today is higher than #Bitcoin was until mid 2016 😬,#Dogecoin market value today is higher than #Bitcoin was until mid 2016 😬,0.34,0.179,0.0,0.125,0.25
+2021-02-04,22," Empirically not true. 
+
+Altcoin market cap is today higher than any time last cycle. And yet Bitcoin is also higher. This is because the whole industry is growing together, and it is not mutually exclusive.","Empirically not true. Altcoin market cap is today higher than any time last cycle. And yet Bitcoin is also higher. This is because the whole industry is growing together, and it is not mutually exclusive.",-0.2505,0.045,0.099,0.10500000000000001,0.42333333333333334
+2021-02-04,22," Well now you're just moving the goalposts. Just cede the point gracefully.
+
+""all that money going into your alt-coin is going to back into #Bitcoin.""","Well now you're just moving the goalposts. Just cede the point gracefully.""all that money going into your alt-coin is going to back into #Bitcoin.""",0.6705,0.193,0.0,0.0,0.0
+2021-02-04,22," Fair enough. And congrats on the bet, ETH still hasn't reclaimed the BTC level, so I was wrong there.","Fair enough. And congrats on the bet, ETH still hasn't reclaimed the BTC level, so I was wrong there.",0.323,0.237,0.14,0.06666666666666665,0.7666666666666666
+2021-02-04,22,  I can't help those whose heads refuse to be pulled from the sand. My opinion of and enthusiasm for Bitcoin has remained the same for nearly a decade.,I can't help those whose heads refuse to be pulled from the sand. My opinion of and enthusiasm for Bitcoin has remained the same for nearly a decade.,-0.1426,0.096,0.147,0.05,0.2625
+2021-02-05,22,"In 2014 a ragtag team executed a token sale with no one's permission, raising several million $ for a totally unproven idea.
+
+Seven years later, more economic activity occurs on the resulting platform *every day* than the entire market cap of Bitcoin at the time of the token sale https://t.co/JAP19vsuO6","In 2014 a ragtag team executed a token sale with no one's permission, raising several million $ for a totally unproven idea.Seven years later, more economic activity occurs on the resulting platform *every day* than the entire market cap of Bitcoin at the time of the token sale",-0.296,0.0,0.047,0.11666666666666665,0.3458333333333334
+2021-02-05,22,"This is the best piece I've read on Bitcoin in a long time. 
+
+Read it, retweet it, forward it. Obviously targeted at India, but relevant for broad audience. 
+
+Well done  
+
+https://t.co/VmtMdMlGgy","This is the best piece I've read on Bitcoin in a long time. Read it, retweet it, forward it. Obviously targeted at India, but relevant for broad audience. Well done",0.6428,0.158,0.0,0.28250000000000003,0.48250000000000004
+2021-02-08,23,"""Just 13 microns cubed, the latest bitcoin mining chip runs on spacial inertia and is so small that billions of them can be affixed to the outside of any metal surface.""   - Wired, June 2038 https://t.co/FPojcjmNLv","""Just 13 microns cubed, the latest bitcoin mining chip runs on spacial inertia and is so small that billions of them can be affixed to the outside of any metal surface.""   - Wired, June 2038",0.0,0.0,0.0,0.08333333333333333,0.45
+2021-02-08,23,"  Replace “ETH” with “BTC” and you’ve got a Peter Schiff tweet.
+
+Moneyness, like decentralization, is a gradient, and a gradient on multiple axis.","Replace “ETH” with “BTC” and you’ve got a Peter Schiff tweet.Moneyness, like decentralization, is a gradient, and a gradient on multiple axis.",0.3612,0.116,0.0,0.0,0.0
+2021-02-08,23,"  You think money is an either/or thing? Something is or isn’t money? Block and white?
+
+Fiat, gold, BTC... all of these are money, and yet not all in the same way. Different attributes. Fiat is more used than BTC. Does that mean one is money and the other isn’t?","You think money is an either/or thing? Something is or isn’t money? Block and white?Fiat, gold, BTC... all of these are money, and yet not all in the same way. Different attributes. Fiat is more used than BTC. Does that mean one is money and the other isn’t?",-0.594,0.0,0.074,0.010416666666666666,0.38125000000000003
+2021-02-08,23,   Which day did Bitcoin become a medium of exchange?,Which day did Bitcoin become a medium of exchange?,0.0,0.0,0.0,0.0,0.0
+2021-02-08,23,"   There is no decentralization spectrum?
+
+Okay, when Satoshi ran the first and only Bitcoin node, was the only developer, and owned all Bitcoins, was Bitcoin decentralized?  
+
+Looking forward to your answer on this one 😂","There is no decentralization spectrum?Okay, when Satoshi ran the first and only Bitcoin node, was the only developer, and owned all Bitcoins, was Bitcoin decentralized?  Looking forward to your answer on this one 😂",-0.168,0.052,0.07,0.1875,0.7083333333333333
+2021-02-08,23," Well, that's obviously very wrong, because if purchases began at that scale, price shoots higher.  
+
+Nobody can ever buy the last Bitcoin in the market... price simply rises until someone is willing to sell.","Well, that's obviously very wrong, because if purchases began at that scale, price shoots higher.  Nobody can ever buy the last Bitcoin in the market... price simply rises until someone is willing to sell.",-0.3167,0.056,0.09,-0.030000000000000006,0.5347619047619048
+2021-02-08,23,"""Bitcoin has been performing ~230% a year for a decade."" 
+
+Society struggles with this, unable to recognize or acknowledge that #Bitcoin has been the single greatest financial investment in human history. 
+
+No caveats or asterisks. 
+
+The king... and it's under no crown. https://t.co/eEgL0vy4hW","""Bitcoin has been performing ~230% a year for a decade."" Society struggles with this, unable to recognize or acknowledge that #Bitcoin has been the single greatest financial investment in human history. No caveats or asterisks. The king... and it's under no crown.",-0.1779,0.087,0.143,0.08571428571428572,0.3628571428571429
+2021-02-08,23,"   Everything you just said implies gradients. 
+
+Obviously many people today buy gold and not BTC.",Everything you just said implies gradients. Obviously many people today buy gold and not BTC.,0.0,0.0,0.0,0.5,0.5
+2021-02-09,23,"His discomfort comes from the deep insecurity that the money he's chased and trusted his whole life is nothing but an atrocious scam. 
+
+Fiat flag-money will end. 
+
+Sound money of the market's creation will replace it. 
+
+Tesla is but a footnote in the story.
+
+#bitcoin https://t.co/8XOSJVAOFc",His discomfort comes from the deep insecurity that the money he's chased and trusted his whole life is nothing but an atrocious scam. Fiat flag-money will end. Sound money of the market's creation will replace it. Tesla is but a footnote in the story.#bitcoin,-0.631,0.088,0.165,-0.02499999999999998,0.55
+2021-02-09,23,"More like the Russian rubble 😎
+
+Which flag money is next?
+
+#bitcoin https://t.co/Hio8zvixrA",More like the Russian rubble 😎Which flag money is next?#bitcoin,0.4201,0.202,0.0,0.16666666666666666,0.16666666666666666
+2021-02-10,23,Bitcoin is an infinite bounty on the dissolution of fiat.,Bitcoin is an infinite bounty on the dissolution of fiat.,0.0,0.0,0.0,0.0,0.0
+2021-02-10,23,"Nobody even cares about a Bitcoin ETF anymore.
+
+Bitcoin has matured beyond the trappings of such tradition.",Nobody even cares about a Bitcoin ETF anymore.Bitcoin has matured beyond the trappings of such tradition.,0.4588,0.167,0.0,0.0,0.5
+2021-02-11,23,   ...then it's not rational to have fiat instead of trading it for Bitcoin.,...then it's not rational to have fiat instead of trading it for Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-02-11,23,"  Other chains are solving payments problems with substantial advances since 2014.
+
+They aren’t bitcoin so you dismiss them as scams.
+
+But for some of us, the “narrative” of abandoning fiat is still very much a thing.","Other chains are solving payments problems with substantial advances since 2014.They aren’t bitcoin so you dismiss them as scams.But for some of us, the “narrative” of abandoning fiat is still very much a thing.",-0.7096,0.097,0.21,0.0675,0.3175
+2021-02-11,23,"    Not if you’re using DAI.
+
+But it must be a scam because it’s not Bitcoin.",Not if you’re using DAI.But it must be a scam because it’s not Bitcoin.,-0.5719,0.0,0.222,0.0,0.0
+2021-02-11,23,"  You probably aren’t aware of Chai/Terra because it isn’t Bitcoin.
+
+“Chai is the fastest growing e-wallet in Korea, with more than 2M active users and 1.2B in annualized transaction volume after less than 16 months of operations.”
+
+Borderless algorithmic stablecoin. Used widely.","You probably aren’t aware of Chai/Terra because it isn’t Bitcoin.“Chai is the fastest growing e-wallet in Korea, with more than 2M active users and 1.2B in annualized transaction volume after less than 16 months of operations.”Borderless algorithmic stablecoin. Used widely.",0.5667,0.104,0.0,0.07000000000000002,0.3633333333333334
+2021-02-11,23,"  If you want to limit bitcoin to never being more than a store of value, that’s fine. It’s great for that and it’s a very important role.
+
+Other people are working on other parts of the financial system.","If you want to limit bitcoin to never being more than a store of value, that’s fine. It’s great for that and it’s a very important role.Other people are working on other parts of the financial system.",0.8655,0.274,0.0,0.28380952380952384,0.5
+2021-02-11,23,"Central Banks holding Bitcoin would be like Blockbuster Video hosting Netflix viewing parties. 
+
+Maybe that's not fair to Blockbuster since they were a legitimate organization that provided value to society for a time. https://t.co/EHbgnUtPnT",Central Banks holding Bitcoin would be like Blockbuster Video hosting Netflix viewing parties. Maybe that's not fair to Blockbuster since they were a legitimate organization that provided value to society for a time.,0.9251,0.355,0.045,-0.175,0.575
+2021-02-11,23,"Can't...keep up...with.... all of the.....good news
+
+#bitcoin #ethereum https://t.co/Ney3JpO2yY",Can't...keep up...with.... all of the.....good news#bitcoin #ethereum,0.0,0.0,0.0,0.0,0.0
+2021-02-12,23,"Bitcoin Welcomes Tesla, Mastercard, BNY Mellon, Venmo To The Cryptocurrency Party via  https://t.co/pn5Jm9SYfc","Bitcoin Welcomes Tesla, Mastercard, BNY Mellon, Venmo To The Cryptocurrency Party via",0.6597,0.329,0.0,0.0,0.0
+2021-02-13,23, “bitcoins” is grammatically correct,“bitcoins” is grammatically correct,0.0,0.0,0.0,0.0,0.0
+2021-02-13,23,"Each day, the total supply of dollars increases.
+
+And each day, the total supply of #bitcoin doesn't.","Each day, the total supply of dollars increases.And each day, the total supply of #bitcoin doesn't.",0.0,0.0,0.0,0.0,0.75
+2021-02-14,23," Fair question. Crypto market means sum of all crypto transactions in which both assets being traded exist on an open blockchain.
+
+Examples: BTC for ETH, or ETH for an NFT, or NFT for tokenized loan receipt.","Fair question. Crypto market means sum of all crypto transactions in which both assets being traded exist on an open blockchain.Examples: BTC for ETH, or ETH for an NFT, or NFT for tokenized loan receipt.",0.4588,0.105,0.0,0.35,0.7
+2021-02-14,23,"The dollar, of America.
+
+The renminbi, of China.
+
+The bitcoin, of the Internet.","The dollar, of America.The renminbi, of China.The bitcoin, of the Internet.",0.0,0.0,0.0,0.0,0.0
+2021-02-14,23," ""Hold my beer"" -Bitcoin","""Hold my beer"" -Bitcoin",0.0,0.0,0.0,0.0,0.0
+2021-02-15,24,"The US dollar is only 50 years old. 
+
+Bitcoin is 12 years old. 
+
+Bitcoin has been around a quarter of the time of the dollar's existence.",The US dollar is only 50 years old. Bitcoin is 12 years old. Bitcoin has been around a quarter of the time of the dollar's existence.,0.0,0.0,0.0,0.06666666666666667,0.4666666666666666
+2021-02-16,24,"We were wrong about #bitcoin being used for coffee. 
+
+We were thinking too small. 
+
+ https://t.co/ziZsJR02Cn via ",We were wrong about #bitcoin being used for coffee. We were thinking too small.   via,-0.4767,0.0,0.171,-0.375,0.65
+2021-02-16,24,"From their site, this is pretty cool:
+
+""The PrivateFly Bitcoin Jet Account allows you to place funds on account in Bitcoin, with flights charged against the account balance, according to the cryptocurrency’s value at the time of the booking – much like any other currency."" https://t.co/lQx36NkoK4","From their site, this is pretty cool:""The PrivateFly Bitcoin Jet Account allows you to place funds on account in Bitcoin, with flights charged against the account balance, according to the cryptocurrency’s value at the time of the booking – much like any other currency.""",0.8225,0.199,0.034,0.16875,0.5562499999999999
+2021-02-16,24," I wouldn't. 
+
+I'd explain Bitcoin, and if they learned the basics and were still into it, I'd explain Ethereum and then *show* them some interaction with Defi.","I wouldn't. I'd explain Bitcoin, and if they learned the basics and were still into it, I'd explain Ethereum and then *show* them some interaction with Defi.",0.0,0.0,0.0,0.0,0.0
+2021-02-17,24,"Roubini is on an awesome rant against #Bitcoin this morning on Bloomberg 😂
+
+Literally every nonsense argument from bubble to terrorism to energy use to price manipulation to “not a currency” to “no yield” to created from nothing...
+
+Well done Nouriel! https://t.co/Tas7uKe9fj",Roubini is on an awesome rant against #Bitcoin this morning on Bloomberg 😂Literally every nonsense argument from bubble to terrorism to energy use to price manipulation to “not a currency” to “no yield” to created from nothing...Well done Nouriel!,-0.6588,0.184,0.262,1.0,1.0
+2021-02-17,24,"Coinbase, Readying for Public Listing, Gets $77B Valuation From Nasdaq Private Market https://t.co/ryKjxs8bf3 via  
+
+#bitcoin #ethereum","Coinbase, Readying for Public Listing, Gets $77B Valuation From Nasdaq Private Market  via  #bitcoin #ethereum",0.0,0.0,0.0,0.0,0.22083333333333333
+2021-02-17,24,"I know I'll get flak for saying this, but biggest news of this week isn't $50k Bitcoin, but the launch of IBC on Cosmos.
+
+Watch what happens in the subsequent months for defi on Cosmos. 
+
+But $50k BTC is still fuckin rad 🚀 https://t.co/jST27YjiB6","I know I'll get flak for saying this, but biggest news of this week isn't $50k Bitcoin, but the launch of IBC on Cosmos.Watch what happens in the subsequent months for defi on Cosmos. But $50k BTC is still fuckin rad 🚀",0.0,0.0,0.0,0.0,0.05
+2021-02-17,24,"How to buy #bitcoin and keep it safe with   and   https://t.co/sQwNeTKDX4 via  
+
+ thanks for the great explanation for noobs to help them into easy self-custody 🙏",How to buy #bitcoin and keep it safe with   and    via   thanks for the great explanation for noobs to help them into easy self-custody 🙏,0.9382,0.437,0.0,0.48333333333333334,0.5708333333333333
+2021-02-18,24,"Suggestion: just send this video to anyone interested in learning about #bitcoin, specifically anyone in traditional finance.  
+
+ https://t.co/zNABNmo9Ap","Suggestion: just send this video to anyone interested in learning about #bitcoin, specifically anyone in traditional finance.",0.4019,0.137,0.0,0.125,0.625
+2021-02-19,24,ETH Folks... try not to become to Binancechain what the Bitcoin Maxis are to Ethereum 🙏,ETH Folks... try not to become to Binancechain what the Bitcoin Maxis are to Ethereum 🙏,0.0,0.0,0.0,0.0,0.0
+2021-02-19,24," I think the correct position here is, ""scalability is clearly attainable by reducing decentralization, and potentially attainable without reducing decentralization"".  
+
+Base money (BTC) needs maximal decentralization.  Does every application? No.","I think the correct position here is, ""scalability is clearly attainable by reducing decentralization, and potentially attainable without reducing decentralization"".  Base money (BTC) needs maximal decentralization.  Does every application? No.",0.128,0.085,0.069,-0.23333333333333336,0.7944444444444444
+2021-02-19,24,"We are at the threshold of $1,000,000,000,000 market cap for #bitcoin
+
+It's taken so long, and yet it's happening so fast. https://t.co/p3ZO36fiTT","We are at the threshold of $1,000,000,000,000 market cap for #bitcoinIt's taken so long, and yet it's happening so fast.",0.0,0.0,0.0,0.07500000000000001,0.5
+2021-02-19,24,"#Bitcoin is now worth one trillion dollars.
+
+We are coming for you, fiat.","#Bitcoin is now worth one trillion dollars.We are coming for you, fiat.",0.2263,0.137,0.0,0.3,0.1
+2021-02-19,24," Nowhere did I claim BSC was equivalent to ETH, or BTC. 
+
+These are all different platforms with different attributes. Clearly BSC is more centralized than ETH.
+
+But being ""more centralized"" isn't a sin. It's just an attribute. Use accordingly.","Nowhere did I claim BSC was equivalent to ETH, or BTC. These are all different platforms with different attributes. Clearly BSC is more centralized than ETH.But being ""more centralized"" isn't a sin. It's just an attribute. Use accordingly.",0.7084,0.144,0.0,0.22000000000000003,0.5166666666666666
+2021-02-19,24, Send me a BTC address! (DM),Send me a BTC address! (DM),0.0,0.0,0.0,0.0,0.0
+2021-02-20,24, I think most Bitcoiners are Chaotic Good,I think most Bitcoiners are Chaotic Good,-0.144,0.28,0.334,0.6,0.55
+2021-02-20,24," It’s not necessarily wrong or irrational, if you consider BTC a far safer/proven/liquid form of money than ETH.
+
+And this also doesn’t imply that BTC inevitably keeps the position, but it could.","It’s not necessarily wrong or irrational, if you consider BTC a far safer/proven/liquid form of money than ETH.And this also doesn’t imply that BTC inevitably keeps the position, but it could.",0.0199,0.055,0.052,0.11666666666666665,0.9666666666666667
+2021-02-23,25,"I don’t think we need to pretend Bitcoin’s price is stable and it’s “everything else” that is volatile.
+
+That’s nonsense. The price is volatile, and that’s okay. The market is pricing the most transformative asset in history. https://t.co/J3Db7Cp02n","I don’t think we need to pretend Bitcoin’s price is stable and it’s “everything else” that is volatile.That’s nonsense. The price is volatile, and that’s okay. The market is pricing the most transformative asset in history.",0.4173,0.16,0.095,0.5,0.5
+2021-02-23,25,"New Thorchain report from Multicoin Capital 👏
+
+""THORChain provides an elegant alternative: non-custodial, permissionless, decentralized exchange across blockchains. ""
+
+#bitcoin #ethereum https://t.co/dOqhVlkQSh","New Thorchain report from Multicoin Capital 👏""THORChain provides an elegant alternative: non-custodial, permissionless, decentralized exchange across blockchains. ""#bitcoin #ethereum",0.4767,0.14,0.0,0.3181818181818182,0.7272727272727273
+2021-02-24,25," ""objectively everything but bitcoin has been an outright scam that hasn't delivered on a single of its promises.""
+
+It would be hopeless to compete with your intellect and rigorous observational acumen.","""objectively everything but bitcoin has been an outright scam that hasn't delivered on a single of its promises.""It would be hopeless to compete with your intellect and rigorous observational acumen.",-0.8271,0.096,0.281,-0.03571428571428571,0.15714285714285714
+2021-02-24,25,  This is exactly the Schiff argument: that Bitcoin isn't scarce because you can make n cryptocurrencies.,This is exactly the Schiff argument: that Bitcoin isn't scarce because you can make n cryptocurrencies.,-0.3612,0.0,0.152,0.25,0.25
+2021-02-24,25,"    And if we're being honest, your aversion has to do with them existing on Ethereum.
+
+I'm old enough to remember the maxi's were all about the possibilities of colored coins back when that concept was attempted on Bitcoin.","And if we're being honest, your aversion has to do with them existing on Ethereum.I'm old enough to remember the maxi's were all about the possibilities of colored coins back when that concept was attempted on Bitcoin.",0.1027,0.078,0.069,0.175,0.4
+2021-02-24,25,"   Bitcoin has risks like banks, just different risks. If I thought Bitcoin could solve my banking problem I would just use it. I’m more nervous about a protocol collapse, miner fees and exchange hacks than I am about the banks.
+
+🙄","Bitcoin has risks like banks, just different risks. If I thought Bitcoin could solve my banking problem I would just use it. I’m more nervous about a protocol collapse, miner fees and exchange hacks than I am about the banks.🙄",-0.8016,0.094,0.273,0.25,0.55
+2021-02-24,25,"   Peter, you are simply imposing fear, uncertainty, and doubt upon yourself as an excuse not to venture beyond the walls of Bitcoin maximalism. 
+
+Be a little braver than that brother. It is beautiful out here.","Peter, you are simply imposing fear, uncertainty, and doubt upon yourself as an excuse not to venture beyond the walls of Bitcoin maximalism. Be a little braver than that brother. It is beautiful out here.",-0.0498,0.185,0.212,0.153125,0.47678571428571426
+2021-02-24,25,"How it started.
+
+How it's going.
+
+#bitcoin #fed #fedwire https://t.co/MJverWKR8T",How it started.How it's going.#bitcoin #fed #fedwire,0.0,0.0,0.0,0.0,0.0
+2021-02-25,25,"   Kinda like how Bitcoin has trended away from centralization over its life as well. It began as Satoshi and one node.
+
+It's almost like both of them have a lot in common.",Kinda like how Bitcoin has trended away from centralization over its life as well. It began as Satoshi and one node.It's almost like both of them have a lot in common.,0.672,0.189,0.0,-0.3,0.5
+2021-02-25,25,"  """"Innovation"" is an interesting choice of word and has invited people to promote the bags of what they are holding in your feed.""
+
+and then...
+
+""The exciting innovation here is #bitcoin and only bitcoin""
+
+Oblivious.","""""Innovation"" is an interesting choice of word and has invited people to promote the bags of what they are holding in your feed.""and then...""The exciting innovation here is #bitcoin and only bitcoin""Oblivious.",0.8779,0.264,0.0,0.26666666666666666,0.7666666666666666
+2021-02-25,25,"Maxi's have no problem supporting centralized exchanges while completely dismissing *decentralized* ones. 
+
+And they have no problem supporting the most highly surveilled blockchain while completely dismissing *anonymous* ones.
+
+As a bitcoiner, it just makes zero sense to me. https://t.co/N5aCguty45","Maxi's have no problem supporting centralized exchanges while completely dismissing *decentralized* ones. And they have no problem supporting the most highly surveilled blockchain while completely dismissing *anonymous* ones.As a bitcoiner, it just makes zero sense to me.",-0.4588,0.122,0.206,0.22666666666666668,0.38999999999999996
+2021-02-26,25," I see those eyes and I can't help but yolo 50x leverage into Bitcoin
+
+LFG!",I see those eyes and I can't help but yolo 50x leverage into BitcoinLFG!,-0.484,0.0,0.274,0.0,0.0
+2021-02-26,25," They built a $100 billion company in less than a decade. 
+
+Sure it'd be better if they had more Bitcoin, but read the first sentence again.","They built a $100 billion company in less than a decade. Sure it'd be better if they had more Bitcoin, but read the first sentence again.",0.4438,0.19,0.0,0.3166666666666667,0.45777777777777773
+2021-02-28,25,"  I’ve mostly profited from Bitcoin, does that diminish my advocacy of it?","I’ve mostly profited from Bitcoin, does that diminish my advocacy of it?",0.3182,0.173,0.0,0.5,0.5
+2021-02-28,25,"  Ethereum alone is $150 billion.
+
+All money ever invested in ICOs is less than $10 billion.
+
+The reality is that ICOs have already proven to be one of the Maoist effective mechanisms of capital allocation in history. But maxis don’t like it cause it didn’t happen on Bitcoin.",Ethereum alone is $150 billion.All money ever invested in ICOs is less than $10 billion.The reality is that ICOs have already proven to be one of the Maoist effective mechanisms of capital allocation in history. But maxis don’t like it cause it didn’t happen on Bitcoin.,0.5574,0.106,0.038,0.21666666666666667,0.43333333333333335
+2021-02-28,25,"  That assume it ever “left” Bitcoin, and in Bitcoins 12 year history no such thing has been demonstrated.
+
+The reality is that Bitcoin and many other valuable digital assets are growing together.
+
+There is also a lot of garbage, which will tend toward zero.","That assume it ever “left” Bitcoin, and in Bitcoins 12 year history no such thing has been demonstrated.The reality is that Bitcoin and many other valuable digital assets are growing together.There is also a lot of garbage, which will tend toward zero.",0.5106,0.136,0.046,0.075,0.275
+2021-03-01,26,"Apparently, in addition to Bitcoin being a good option for murderers and drug dealers, it’s now also a good choice for JPMorgan clients ☺️
+
+The only thing that’s changed is that it’s more expensive now. https://t.co/57GJBxOQ00","Apparently, in addition to Bitcoin being a good option for murderers and drug dealers, it’s now also a good choice for JPMorgan clients ☺️The only thing that’s changed is that it’s more expensive now.",0.128,0.141,0.105,0.24166666666666667,0.625
+2021-03-01,26,It only took 12 years of Bitcoin being the greatest investment in human history before the financial advisors began timidly introducing it to their clients.,It only took 12 years of Bitcoin being the greatest investment in human history before the financial advisors began timidly introducing it to their clients.,0.5423,0.145,0.059,0.25,0.525
+2021-03-01,26,"  Kinda like how Bitcoin doesn’t magically become rare just because of a blockchain either.
+
+Except that it does.",Kinda like how Bitcoin doesn’t magically become rare just because of a blockchain either.Except that it does.,0.2975,0.121,0.0,0.4,0.95
+2021-03-01,26,"Add this to the Bitcoin musical canon 😎 
+
+“Y’all Accept Bitcoin” by DJ Williams https://t.co/26NiaKHgWP via ",Add this to the Bitcoin musical canon 😎 “Y’all Accept Bitcoin” by DJ Williams  via,0.3818,0.157,0.0,0.0,0.0
+2021-03-01,26,"   Let's consider this question...
+
+If Satoshi had released one tokenized Bitcoin logo file, an NFT, back at the launch of project... how much would that NFT be worth today?","Let's consider this question...If Satoshi had released one tokenized Bitcoin logo file, an NFT, back at the launch of project... how much would that NFT be worth today?",0.2263,0.064,0.0,0.16666666666666666,0.10000000000000002
+2021-03-01,26,   ...except Bitcoin's chart doesn't look at all like that.,...except Bitcoin's chart doesn't look at all like that.,0.3612,0.238,0.0,0.0,0.0
+2021-03-03,26, to buy *a bitcoin,to buy *a bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-03-06,26,"Fantastic macro piece from 
+
+Stay safe Arthur
+
+#finance #bitcoin #gold #bonds
+
+ https://t.co/2O52PuHOOn",Fantastic macro piece from Stay safe Arthur#finance #bitcoin #gold #bonds,0.7579,0.394,0.0,0.45,0.7
+2021-03-08,27," Most of Bitcoin Twitter supports it because it’s just moar money printing. Debase USD and the transition toward Bitcoin accelerates.
+
+For the principled: stimulus bad because it’s funded by theft.",Most of Bitcoin Twitter supports it because it’s just moar money printing. Debase USD and the transition toward Bitcoin accelerates.For the principled: stimulus bad because it’s funded by theft.,-0.25,0.074,0.103,-0.09999999999999992,0.5833333333333333
+2021-03-11,27, Go for it. You can also copy bitcoin code and try to sell that. Lemme know how it goes!,Go for it. You can also copy bitcoin code and try to sell that. Lemme know how it goes!,0.0,0.0,0.0,0.0,0.0
+2021-03-12,27,  Hey John... I also invested in Bitcoin.,Hey John... I also invested in Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-03-12,27," Participants in open, decentralized systems have very different legal obligations than shareholders and employees of centralized entities. 
+
+Consider the ""participants"" of Bitcoin.","Participants in open, decentralized systems have very different legal obligations than shareholders and employees of centralized entities. Consider the ""participants"" of Bitcoin.",0.197,0.078,0.0,0.06666666666666667,0.49333333333333335
+2021-03-13,27,"Until #bitcoin came along, the *character* of money was left undiscussed.","Until #bitcoin came along, the *character* of money was left undiscussed.",0.0,0.0,0.0,0.0,0.0
+2021-03-13,27,"#Bitcoin will never make you wear a mask to access it. 
+
+https://t.co/zIbF8KCkuH",#Bitcoin will never make you wear a mask to access it.,0.0,0.0,0.0,0.0,0.0
+2021-03-13,27," That’s fair, Bank of America should be able to implement whatever policies it wants on its property.
+
+But still... Bitcoin won’t do that ;)","That’s fair, Bank of America should be able to implement whatever policies it wants on its property.But still... Bitcoin won’t do that ;)",0.4939,0.16,0.0,0.4125,0.65625
+2021-03-17,28,"""The bank is only allowing its wealthier clients access to the volatile asset""  🤨
+
+For everyone else,  makes it easy to buy #Bitcoin on your mobile.
+
+https://t.co/Lu0IFBMtqV","""The bank is only allowing its wealthier clients access to the volatile asset""  🤨For everyone else,  makes it easy to buy #Bitcoin on your mobile.",0.8225,0.272,0.0,0.21666666666666667,0.9166666666666667
+2021-03-17,28,"  Appreciate the feedback. KYC has been removed so long as order can be routed via DEX. Today, that's only ETH and ERC20's.  Next month, other chains like Bitcoin will be included, and all KYC trading goes away entirely.","Appreciate the feedback. KYC has been removed so long as order can be routed via DEX. Today, that's only ETH and ERC20's.  Next month, other chains like Bitcoin will be included, and all KYC trading goes away entirely.",0.6369,0.126,0.0,-0.034999999999999996,0.48
+2021-03-17,28,"Thanks Vlad!
+
+""Erik Voorhees provided a dose of optimism which suggested that the phase through which we’re going is a sign that we’re on the road to victory.""
+
+S8 E3: Erik Voorhees on KeepKey, Open Source  https://t.co/LGxeu9o6E5 
+
+#bitcoin ","Thanks Vlad!""Erik Voorhees provided a dose of optimism which suggested that the phase through which we’re going is a sign that we’re on the road to victory.""S8 E3: Erik Voorhees on KeepKey, Open Source   #bitcoin",0.7712,0.164,0.0,0.125,0.35
+2021-03-19,28,The SEC hasn’t even gotten around to permitting a Bitcoin ETF still 😂,The SEC hasn’t even gotten around to permitting a Bitcoin ETF still 😂,0.0,0.0,0.0,-0.1,0.6
+2021-03-19,28," Agree, it would be a small help, but Bitcoin is so much bigger than that.","Agree, it would be a small help, but Bitcoin is so much bigger than that.",0.3818,0.231,0.0,-0.125,0.45
+2021-03-19,28,  Right 'cause there haven't been any rug pulls with Bitcoin services 😅,Right 'cause there haven't been any rug pulls with Bitcoin services 😅,0.0,0.0,0.0,0.2857142857142857,0.5357142857142857
+2021-03-19,28,"With your gains, consider a donation to these guys who have been believers in #bitcoin since 2013 and are helping improve the lives of children.
+
+Additionally, Billy Bitcoin here needs some laser eyes. Whomever posts quality laser eyes of Billy I will donate $5k on your behalf 🙏 https://t.co/gdiuWmwtX3","With your gains, consider a donation to these guys who have been believers in #bitcoin since 2013 and are helping improve the lives of children.Additionally, Billy Bitcoin here needs some laser eyes. Whomever posts quality laser eyes of Billy I will donate $5k on your behalf 🙏",0.7579,0.149,0.0,0.0,0.0
+2021-03-20,28,"   That’s fair.
+
+Tell me why you dismiss literally every project that is bringing decentralization and privacy to finance that isn’t Bitcoin?
+
+You can care about principle, or you can talk your book. Are you sure you know which you are doing?","That’s fair.Tell me why you dismiss literally every project that is bringing decentralization and privacy to finance that isn’t Bitcoin?You can care about principle, or you can talk your book. Are you sure you know which you are doing?",0.7998,0.177,0.0,0.6,0.8944444444444444
+2021-03-20,28,    Bitcoin is not a shitcoin,Bitcoin is not a shitcoin,0.0,0.0,0.0,0.0,0.0
+2021-03-20,28,"      Nobody has any obligation to listen to anyone talk about anything.
+
+But... to the degree any bitcoiner cares about *actually* building a new financial system, if they are dismissing *every* non-BTC asset, they are acting against their own interests out of ignorance.","Nobody has any obligation to listen to anyone talk about anything.But... to the degree any bitcoiner cares about *actually* building a new financial system, if they are dismissing *every* non-BTC asset, they are acting against their own interests out of ignorance.",0.6124,0.16,0.053,0.14727272727272728,0.3109090909090909
+2021-03-21,28,"     Peter you’re trying to tear down the straw man than “every project needs a blockchain and a token.”
+
+Obviously every project doesn’t. Most are garbage.
+
+Yet specific projects are profoundly transformative and important. Thorchain is one. 
+
+Non-wrapped non-custodial yield on BTC.",Peter you’re trying to tear down the straw man than “every project needs a blockchain and a token.”Obviously every project doesn’t. Most are garbage.Yet specific projects are profoundly transformative and important. Thorchain is one. Non-wrapped non-custodial yield on BTC.,0.2023,0.045,0.0,0.13796296296296295,0.5689814814814814
+2021-03-21,28,"     Thus to dismiss the project because it has “a coin” when you don’t know anything about it, specifically how it works, is to say that you don’t believe there is value in earning yield on native Bitcoin.
+
+You advertise BlockFi... custodial, KYC’d yield.
+
+And yet dismiss Thorchain.","Thus to dismiss the project because it has “a coin” when you don’t know anything about it, specifically how it works, is to say that you don’t believe there is value in earning yield on native Bitcoin.You advertise BlockFi... custodial, KYC’d yield.And yet dismiss Thorchain.",0.34,0.05,0.0,0.0,0.0
+2021-03-21,28,"      It was a proposal to add SegWit and a larger block to Bitcoins base layer. The proposal was controversial and ultimately failed, as you know.","It was a proposal to add SegWit and a larger block to Bitcoins base layer. The proposal was controversial and ultimately failed, as you know.",-0.7906,0.0,0.286,-0.1875,0.6875
+2021-03-21,28,"      Nailed it.
+
+Peter is a good guy. This is why it saddens me to see him willfully blind to the amazing innovation happen throughout the industry. 
+
+If something isn’t bitcoin, it’s dismissed by default, even if it expresses the same principles in new directions.","Nailed it.Peter is a good guy. This is why it saddens me to see him willfully blind to the amazing innovation happen throughout the industry. If something isn’t bitcoin, it’s dismissed by default, even if it expresses the same principles in new directions.",0.5719,0.176,0.106,0.18727272727272729,0.5492424242424242
+2021-03-24,29,"Meanwhile, non-custodial borderless yield on native Bitcoin is coming... https://t.co/SI5yiT9MC2","Meanwhile, non-custodial borderless yield on native Bitcoin is coming...",0.0,0.0,0.0,0.0,0.0
+2021-03-25,29,"Because of the profit motive and capitalism, #Bitcoin is going to do more for the acceleration of green energy than every governmental panel and accord.
+
+The statists will not be pleased about this.","Because of the profit motive and capitalism, #Bitcoin is going to do more for the acceleration of green energy than every governmental panel and accord.The statists will not be pleased about this.",0.3806,0.134,0.064,0.26666666666666666,0.6
+2021-03-25,29,"Bitcoin will be proof of work, energy intensive but capital efficient.
+
+Ethereum will be proof of stake, energy efficient but capital intensive.
+
+This is decentralization and anti fragility.
+
+Checkmate environmental fudster statists.","Bitcoin will be proof of work, energy intensive but capital efficient.Ethereum will be proof of stake, energy efficient but capital intensive.This is decentralization and anti fragility.Checkmate environmental fudster statists.",0.8248,0.279,0.071,0.0,0.0
+2021-03-26,29,"  No, the maxi thesis is that nothing other than Bitcoin is valuable or legitimate. 
+
+One needn't hold an asset long term for it to be useful.","No, the maxi thesis is that nothing other than Bitcoin is valuable or legitimate. One needn't hold an asset long term for it to be useful.",0.3999,0.186,0.133,0.041666666666666664,0.25833333333333336
+2021-03-26,29,"   I guess to those who are somehow insecure about Bitcoin, everything looks like a threat or challenge. 
+
+A single example disproves your claim. Consider Aave, a governance token for the Aave decentralized lending protocol. In no way does it compete as money with BTC.","I guess to those who are somehow insecure about Bitcoin, everything looks like a threat or challenge. A single example disproves your claim. Consider Aave, a governance token for the Aave decentralized lending protocol. In no way does it compete as money with BTC.",-0.6808,0.081,0.178,-0.2857142857142857,0.5446428571428571
+2021-03-26,29,"They will have literally none of the compelling attributes of cryptocurrencies, while being perfectly surveilled and censorable.
+
+Selling my Bitcoin now to get ready for CBDC's! https://t.co/y8Yeh6ao9o","They will have literally none of the compelling attributes of cryptocurrencies, while being perfectly surveilled and censorable.Selling my Bitcoin now to get ready for CBDC's!",0.745,0.214,0.051,0.5166666666666667,0.7000000000000001
+2021-03-26,29," How does proof of work put new coins in the hands of people who don't have them? 
+
+New coins go to miners, who not only have as much BTC as they desire, but have invested many millions of dollars into BTC-producing hardware. Not exactly ""new users"" 🤨","How does proof of work put new coins in the hands of people who don't have them? New coins go to miners, who not only have as much BTC as they desire, but have invested many millions of dollars into BTC-producing hardware. Not exactly ""new users"" 🤨",0.2144,0.039,0.0,0.15075757575757576,0.5106060606060606
+2021-03-26,29,"We're starting shortly! https://t.co/0ydo84gHZU
+
+#bitcoin #ethereum https://t.co/YgGHHOKxVM",We're starting shortly! #bitcoin #ethereum,0.0,0.0,0.0,0.0,0.2
+2021-03-28,29,"  I never tell people to invest in them. 
+
+I tell noobs to own some Bitcoin, own some Ethereum, learn about how to use them safely, and that everything else is wildly speculative if not scams and nonsense. 
+
+What would you prefer I tell them instead?","I never tell people to invest in them. I tell noobs to own some Bitcoin, own some Ethereum, learn about how to use them safely, and that everything else is wildly speculative if not scams and nonsense. What would you prefer I tell them instead?",0.8372,0.207,0.0,0.45,0.725
+2021-03-29,30," Sadly, a great many do not believe these things.
+
+And this is why we could never rely on The State to produce such a thing as #bitcoin","Sadly, a great many do not believe these things.And this is why we could never rely on The State to produce such a thing as #bitcoin",0.3182,0.137,0.094,0.43333333333333335,0.5833333333333334
+2021-03-29,30,"What groupthink does to you...
+
+The ETH maxis think BTC has ""lost"" and is a shadow of its former self. 
+
+The BTC maxis think ETH is a useless scam.
+
+The Reality: Both systems are finding use cases and thriving at ATH's. https://t.co/JVUrgtMpyd","What groupthink does to you...The ETH maxis think BTC has ""lost"" and is a shadow of its former self. The BTC maxis think ETH is a useless scam.The Reality: Both systems are finding use cases and thriving at ATH's.",-0.7579,0.0,0.146,-0.25,0.1
+2021-03-29,30," Currently, BTC is more liquid, far better known and widely held, substantially more technically stable and less technically risky. 
+
+Bitcoin is more conservative, established, and liquid. Ethereum *could* potentially earn these things with time, but empirically has not yet.","Currently, BTC is more liquid, far better known and widely held, substantially more technically stable and less technically risky. Bitcoin is more conservative, established, and liquid. Ethereum *could* potentially earn these things with time, but empirically has not yet.",0.4003,0.096,0.031,0.16111111111111112,0.4305555555555555
+2021-03-30,30,"Bitcoin over the past six months
+
+https://t.co/aqQFwDcMoj https://t.co/ePP3jScntP",Bitcoin over the past six months,0.0,0.0,0.0,-0.25,0.25

@@ -1,0 +1,598 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-09-14,3," Immediately dumping the token they just mined doesn’t imply being a good Samaritan.
+
+Thinking of LP as speculators is pretty much the same as thinking of Bitcoin miners as traders. Some are, some aren’t.","Immediately dumping the token they just mined doesn’t imply being a good Samaritan.Thinking of LP as speculators is pretty much the same as thinking of Bitcoin miners as traders. Some are, some aren’t.",0.5859,0.159,0.06,0.2875,0.48125
+2020-09-19,3,"     Good catch, the CEO of Swerve is ready to offer you your job back, just need a signature from the CEO of Bitcoin.","Good catch, the CEO of Swerve is ready to offer you your job back, just need a signature from the CEO of Bitcoin.",0.6597,0.213,0.0,0.3,0.3666666666666667
+2020-09-22,4," defi means i buy low and dump on everyone
+
+bitcoin is defi
+
+see, easy","defi means i buy low and dump on everyonebitcoin is defisee, easy",-0.2023,0.165,0.267,0.21666666666666667,0.5666666666666667
+2020-09-23,4," TBH, recommending BTC to friends and family is exactly how you end up with neither.","TBH, recommending BTC to friends and family is exactly how you end up with neither.",0.4767,0.181,0.0,0.25,0.25
+2020-09-23,4,"  True, because I definitely said, that it was me who recommended BTC to them.","True, because I definitely said, that it was me who recommended BTC to them.",0.743,0.422,0.0,0.175,0.575
+2020-10-06,6," I think that main beneficiaries of this event will be other stablecoins because USDT is so entangled into the whole ecosystem that its demise will lead to a devastating systemic catastrophe, affecting all volatile assets, including BTC.","I think that main beneficiaries of this event will be other stablecoins because USDT is so entangled into the whole ecosystem that its demise will lead to a devastating systemic catastrophe, affecting all volatile assets, including BTC.",-0.7351,0.102,0.197,-0.18958333333333333,0.5270833333333333
+2020-10-14,7," Bitcoin is a salty maxis generation machine and Ethereum is a defi lambo ponzi generation machine. 
+
+Just my 2 cents, ma’am.","Bitcoin is a salty maxis generation machine and Ethereum is a defi lambo ponzi generation machine. Just my 2 cents, ma’am.",0.0,0.0,0.0,0.0,0.0
+2020-10-19,8,"   It is a definite thing, but it entirely depends on a very democratic consensus. The moment the consensus decides there is 100m BTC now, the definite thing changes.","It is a definite thing, but it entirely depends on a very democratic consensus. The moment the consensus decides there is 100m BTC now, the definite thing changes.",0.4939,0.149,0.0,0.05,0.48125
+2020-10-20,8,"👎 bitcoin vs alts
+👌profiting from both",👎 bitcoin vs alts👌profiting from both,0.0,0.0,0.0,0.0,0.0
+2020-10-20,8," 300x BTC long, target $20k, got it, funding secured","300x BTC long, target $20k, got it, funding secured",0.4019,0.252,0.0,-0.05,0.4
+2020-10-20,8,"Feeling comfy in USDC. 
+
+Bitcoin breaks $12k, good, some stablecoin liq will be out of my farms, chasing pump, more apy for me.
+
+Dumps massively, also good. Will start sliding in some fav tokens.
+
+Either way not diving into this retard market until we’re way past the elections.","Feeling comfy in USDC. Bitcoin breaks $12k, good, some stablecoin liq will be out of my farms, chasing pump, more apy for me.Dumps massively, also good. Will start sliding in some fav tokens.Either way not diving into this retard market until we’re way past the elections.",0.4548,0.176,0.125,0.12499999999999999,0.6583333333333333
+2020-10-21,8,"Incredible demand for USDT driven by the BTC pump has soaked up USDT liquidity both on  and .
+
+At the moment, Curve's USDT pool yields 75-187% APY. https://t.co/0wROGSwljb","Incredible demand for USDT driven by the BTC pump has soaked up USDT liquidity both on  and .At the moment, Curve's USDT pool yields 75-187% APY.",-0.128,0.0,0.055,0.9,0.9
+2020-10-21,8, It will get better until it gets much worse when BTC obliterates alts on the next leg up,It will get better until it gets much worse when BTC obliterates alts on the next leg up,-0.0516,0.132,0.141,0.033333333333333326,0.3666666666666667
+2020-10-22,8,"Happy traders means optimistic traders. 
+
+Optimistic traders means we have a chance to drag that farmer party a little longer.
+
+As a cash gang I sincerely wish you punters amazing returns on your bets.
+
+Go BTC, rip it baby.","Happy traders means optimistic traders. Optimistic traders means we have a chance to drag that farmer party a little longer.As a cash gang I sincerely wish you punters amazing returns on your bets.Go BTC, rip it baby.",0.9623,0.448,0.038,0.32250000000000006,0.5941666666666666
+2020-10-22,8,  I wonder if alts will follow when BTC *really* takes off. Like ripping through 20k.,I wonder if alts will follow when BTC *really* takes off. Like ripping through 20k.,0.3612,0.161,0.0,0.2,0.2
+2020-10-22,8,"  Who knows, Bitcoin is full of surprises. I mean, most people expected alts to retrace yesterday when BTC drew that 1k candle.","Who knows, Bitcoin is full of surprises. I mean, most people expected alts to retrace yesterday when BTC drew that 1k candle.",0.2263,0.087,0.0,0.109375,0.534375
+2020-10-27,9,"“Bitcoin surging again”
+“The decoupling”
+“ETHBTC to zero”
+
++1.5%",“Bitcoin surging again”“The decoupling”“ETHBTC to zero”+1.5%,0.0,0.0,0.0,0.0,0.0
+2020-10-28,9,"  He stopped having fun because his btc bag made him rich. 
+
+I'd quit too.",He stopped having fun because his btc bag made him rich. I'd quit too.,0.7184,0.348,0.096,0.3375,0.475
+2020-10-29,9," Flat till max pain due to uncertainty, all in bitcoin immediately after.","Flat till max pain due to uncertainty, all in bitcoin immediately after.",-0.6908,0.0,0.363,-0.075,0.25
+2020-11-09,11, direct injections of pure bitcoin ftw,direct injections of pure bitcoin ftw,0.4588,0.375,0.0,0.15714285714285714,0.45
+2020-11-11,11, The BTC vs ETH people either troll - which is fine and fun - or still can’t see the forest behind the trees.,The BTC vs ETH people either troll - which is fine and fun - or still can’t see the forest behind the trees.,0.6249,0.212,0.0,0.10555555555555556,0.4666666666666666
+2020-11-21,12," Have a good trip!
+
+Although, no way bitcoin ath holds for two weeks unless there will be some sort of macro shenanigans","Have a good trip!Although, no way bitcoin ath holds for two weeks unless there will be some sort of macro shenanigans",0.2481,0.131,0.09,0.875,0.6000000000000001
+2020-11-21,12," What else is spectacular as well is the fact that according to  reports, the amount of bitcoin bought now is order of magnitude bigger than what it's used to be several months ago:
+
+Nov, 19: 19,351
+Nov, 10: 15,264
+Nov, 02: 15,907
+
+All while we approach ATH.","What else is spectacular as well is the fact that according to  reports, the amount of bitcoin bought now is order of magnitude bigger than what it's used to be several months ago:Nov, 19: 19,351Nov, 10: 15,264Nov, 02: 15,907All while we approach ATH.",0.2732,0.044,0.0,0.19999999999999998,0.4666666666666666
+2020-11-21,12, if i were to shill bitcoin i'd say that bitcoin is a way for the small to fuck the big,if i were to shill bitcoin i'd say that bitcoin is a way for the small to fuck the big,-0.5423,0.0,0.171,-0.21666666666666667,0.3666666666666667
+2020-11-28,13," Sometimes I think that people are starting to believe the narrative they are trying to sell.
+
+Bitcoin isn’t a hedge against war/dysfunction/society. It’s a risk-on asset that gets sold at the first sight of risk.
+
+80% of my NW is in Bitcoin now but some takes are just cringe.",Sometimes I think that people are starting to believe the narrative they are trying to sell.Bitcoin isn’t a hedge against war/dysfunction/society. It’s a risk-on asset that gets sold at the first sight of risk.80% of my NW is in Bitcoin now but some takes are just cringe.,0.0516,0.037,0.033,0.125,0.21666666666666667
+2020-11-30,14,BTC on Binance hit ATH https://t.co/vmkpwhjmdW,BTC on Binance hit ATH,0.0,0.0,0.0,0.0,0.0
+2020-12-07,15, not sure if a bitcoin reference but i feel attacked,not sure if a bitcoin reference but i feel attacked,-0.6685,0.0,0.477,-0.25,0.8888888888888888
+2020-12-16,16,"not to spoil the party, but who cares about 6% gain in bitcoin when you can have 9% yields daily
+
+if you know, you know
+
+ø","not to spoil the party, but who cares about 6% gain in bitcoin when you can have 9% yields dailyif you know, you knowø",0.8873,0.322,0.0,0.0,0.0
+2020-12-17,16,"pro tip: when you decide to sell your btc, make sure you exited to usdc as you will end up in $esd farm anyway","pro tip: when you decide to sell your btc, make sure you exited to usdc as you will end up in $esd farm anyway",0.3182,0.091,0.0,0.5,0.8888888888888888
+2021-01-07,18," TBH it reminds me of huge unlocks in $DSD everyone was afraid of.
+
+We know what happened then. The price skyrocketed. 
+
+Sam is right, highly anticipated negative - and positive, just look back to the btc last halving - events turn out to be nothing at best, short-term.","TBH it reminds me of huge unlocks in $DSD everyone was afraid of.We know what happened then. The price skyrocketed. Sam is right, highly anticipated negative - and positive, just look back to the btc last halving - events turn out to be nothing at best, short-term.",-0.3498,0.107,0.133,0.13033189033189033,0.46531505531505535
+2021-01-11,19,"just btfd with &gt; $1m $btc
+
+now back to crunching data on $dsd and $esd",just btfd with  $1m $btcnow back to crunching data on $dsd and $esd,0.0,0.0,0.0,0.0,0.0
+2021-01-11,19," Fiat investors 'should be prepared to lose all their money,' bitcoiners warn","Fiat investors 'should be prepared to lose all their money,' bitcoiners warn",-0.296,0.127,0.273,0.0,0.0
+2021-01-16,19,"The GBTC train is unstoppable.
+
+With every BTC dip they double down on acquisitions.
+
+Time to be leverage short, beras. We need fresh blood to break that 40k ceiling. https://t.co/HEw3W0kKNg","The GBTC train is unstoppable.With every BTC dip they double down on acquisitions.Time to be leverage short, beras. We need fresh blood to break that 40k ceiling.",0.128,0.072,0.056,0.0361111111111111,0.27222222222222225
+2021-01-17,19,"in case it's not obvious, we're only getting 20k $btc if macro shits the bed
+
+we're in full blown consolidation, scrap that 20k bera charts and chill","in case it's not obvious, we're only getting 20k $btc if macro shits the bedwe're in full blown consolidation, scrap that 20k bera charts and chill",-0.4767,0.0,0.107,0.11666666666666665,0.6833333333333332
+2021-01-17,19,"  No, since i lost about 2 btc on bitmex back in 2018, i never do any leveraged play","No, since i lost about 2 btc on bitmex back in 2018, i never do any leveraged play",-0.2732,0.127,0.238,0.0,0.0
+2021-01-18,20," Sir, Tether is really important for fudding Bitcoin when one has missed the pump but still wants to enter the game.","Sir, Tether is really important for fudding Bitcoin when one has missed the pump but still wants to enter the game.",-0.0138,0.07,0.072,0.0666666666666667,0.5
+2021-01-18,20," your donation to the upcoming btc pump is greatly appreciated, sir","your donation to the upcoming btc pump is greatly appreciated, sir",0.5563,0.264,0.0,0.2,0.1
+2021-01-18,20,Grayscale casually bought 16k BTC in 24h. This week is going to be spectacular. https://t.co/nr9Zgn5awZ,Grayscale casually bought 16k BTC in 24h. This week is going to be spectacular.,0.1779,0.108,0.0,0.04999999999999993,0.8833333333333333
+2021-01-21,20,"Woke up to the feed filled with desperation on BTC.
+
+Just wanted to remind you that while retail is scared shitless, the  train keeps chugging along.
+
++8762 BTC acquired in the last 24h.
+
+HFSP. https://t.co/alijsw3zfl","Woke up to the feed filled with desperation on BTC.Just wanted to remind you that while retail is scared shitless, the  train keeps chugging along.+8762 BTC acquired in the last 24h.HFSP.",-0.7096,0.0,0.152,0.2,0.48333333333333334
+2021-01-22,20, I'm too focused on BTC right now but will happily tweet about them when I have one,I'm too focused on BTC right now but will happily tweet about them when I have one,0.7717,0.324,0.0,0.5428571428571429,0.7678571428571428
+2021-01-23,20,"If I had to pick a single $BTC chart to track daily, my all-time favourite would be the Illiquid Supply Change chart.
+
+It tracks inflows and outflows of bitcoin to hodler addresses.
+
+As you can see it's at ATH the last two weeks.
+
+We're in huge consolidation. https://t.co/2jmPooadPz","If I had to pick a single $BTC chart to track daily, my all-time favourite would be the Illiquid Supply Change chart.It tracks inflows and outflows of bitcoin to hodler addresses.As you can see it's at ATH the last two weeks.We're in huge consolidation.",0.3182,0.049,0.0,0.08214285714285716,0.29523809523809524
+2021-01-25,21,"basically, the name of the game now is to timely exit alts and move everything to $btc before corn starts painting green $1k dildos again","basically, the name of the game now is to timely exit alts and move everything to $btc before corn starts painting green $1k dildos again",0.0,0.0,0.0,-0.30000000000000004,0.35
+2021-01-26,21,"My feed is filled with FUD on #Bitcoin topping and the repeat of the 2017 top scenario.
+
+Well, on-chain data begs to differ.
+
+Here's what illiquid supply dynamics looked like at the former top and what it paints now.
+
+HODLers were selling then but they're accumulating this time. https://t.co/eA6g91tNaG","My feed is filled with FUD on #Bitcoin topping and the repeat of the 2017 top scenario.Well, on-chain data begs to differ.Here's what illiquid supply dynamics looked like at the former top and what it paints now.HODLers were selling then but they're accumulating this time.",0.4085,0.146,0.036,0.35,0.475
+2021-01-26,21," vanilla btc is like pure vodka - it's drunk only by fanatics and russians
+
+always be wrappin'",vanilla btc is like pure vodka - it's drunk only by fanatics and russiansalways be wrappin',0.0258,0.132,0.127,-0.09523809523809523,0.8333333333333334
+2021-01-28,21,"The great #Bitcoin transfer of wealth continues.
+
+Left: liquid (outflows / inflows ≥ 0.25) wallets btc change
+Right: illiquid (outflows / inflows &lt; 0.25) wallets btc change
+
+Traders, degens, and random punters keep selling to hodlers.
+
+(updated data)
+Source:  https://t.co/Ia6O9ZAajn","The great #Bitcoin transfer of wealth continues.Left: liquid (outflows / inflows ≥ 0.25) wallets btc changeRight: illiquid (outflows / inflows &lt; 0.25) wallets btc changeTraders, degens, and random punters keep selling to hodlers.(updated data)Source:",0.8074,0.173,0.0,0.14642857142857146,0.4464285714285714
+2021-01-28,21," #bitcoin will have fireworks either in feb or march
+
+too many stars are lining up",#bitcoin will have fireworks either in feb or marchtoo many stars are lining up,0.0,0.0,0.0,0.5,0.5
+2021-01-29,21,"Unfortunately, if Coinbase is out of #bitcoin it doesn't look like it on charts in this very moment.
+
+The Coinbase premium is negative which suggests that there's selling pressure, if anything.
+
+Source:  https://t.co/dhtdk36dXt https://t.co/hn2CX4E2wp","Unfortunately, if Coinbase is out of #bitcoin it doesn't look like it on charts in this very moment.The Coinbase premium is negative which suggests that there's selling pressure, if anything.Source:",-0.8559,0.0,0.258,-0.19999999999999998,0.5666666666666668
+2021-01-30,21,"Some weekend alpha.
+
+$TBTC is experiencing supply side crisis as its prohibitively difficult to get it organically in size.
+
+That’s why its  pool is  unbalanced. https://t.co/ShU5JwXr1w",Some weekend alpha.$TBTC is experiencing supply side crisis as its prohibitively difficult to get it organically in size.That’s why its  pool is  unbalanced.,-0.765,0.0,0.216,-0.5,1.0
+2021-01-30,21,"On the other hand, this TBTC pool’s token has the biggest APY of all other Curve pools in  https://t.co/EpP95mGATc","On the other hand, this TBTC pool’s token has the biggest APY of all other Curve pools in",0.4939,0.151,0.0,-0.125,0.375
+2021-01-30,21,"This setup gives the somewhat safe opportunity of entering the TBTC pool with sBTC, renBTC, or wBTC to enjoy not only the greater yield but also some arbitrage opportunity as this yield can drive the TBTC pool’s imbalance even further.","This setup gives the somewhat safe opportunity of entering the TBTC pool with sBTC, renBTC, or wBTC to enjoy not only the greater yield but also some arbitrage opportunity as this yield can drive the TBTC pool’s imbalance even further.",0.75,0.197,0.034,0.27999999999999997,0.6
+2021-01-31,21," Bullish on BTC but there's an increasing chance that de-grossing and the subsequent sell-off will take crypto down with it.
+
+Cash gang for a week.
+
+I mean it's 60% APY, ser.","Bullish on BTC but there's an increasing chance that de-grossing and the subsequent sell-off will take crypto down with it.Cash gang for a week.I mean it's 60% APY, ser.",0.3612,0.082,0.0,-0.15601851851851853,0.3421296296296297
+2021-02-01,22,"Possible reasons:
+- Non-accredited investors aren't eager to buy their publicly offered $GBTC at this price
+- Increased selling from accredited investors realizing their premium
+- Increased competition driving the demand elsewhere https://t.co/bmiIrgqca1",Possible reasons:- Non-accredited investors aren't eager to buy their publicly offered $GBTC at this price- Increased selling from accredited investors realizing their premium- Increased competition driving the demand elsewhere,0.1506,0.124,0.107,0.0,0.5333333333333333
+2021-02-01,22," yup, also no more vacuum cleaner collecting btc from the market","yup, also no more vacuum cleaner collecting btc from the market",-0.0571,0.15,0.167,-0.12916666666666668,0.25
+2021-02-01,22, imo the main bear case for btc is the corn hugging snp500 going down the abyss,imo the main bear case for btc is the corn hugging snp500 going down the abyss,0.4215,0.157,0.0,0.005555555555555536,0.3111111111111111
+2021-02-04,22,"Watch this one closely.
+
+No matter how bullish markets look it won't matter if $DXY continues its uptrend.
+
+Still bullish on Bitcoin and DeFi but the macro shouldn't be ignored. https://t.co/XMJlNOlNGP",Watch this one closely.No matter how bullish markets look it won't matter if $DXY continues its uptrend.Still bullish on Bitcoin and DeFi but the macro shouldn't be ignored.,0.2366,0.137,0.048,0.0,0.0
+2021-02-04,22,"  bitcoin and defi are risk-on assets and those tend to be first in line to be sold when trad markets are tanking.
+
+crypto still depends on the macro, but some people tend to forget it when everything is pumping.","bitcoin and defi are risk-on assets and those tend to be first in line to be sold when trad markets are tanking.crypto still depends on the macro, but some people tend to forget it when everything is pumping.",-0.25,0.033,0.058,0.25,0.3333333333333333
+2021-02-05,22,"DXY annihilated
+VIX obliterated
+BTC MPI below 2
+BTC holders inflow ripping
+Stablecoin CEX inflow rising
+1000 BTC addresses upticking
+
+Honestly, I’m out of bearish ideas at this point.
+
+As usual, institution/companies are pouring in, retail is next.
+
+Risk on, #Bitcoin","DXY annihilatedVIX obliteratedBTC MPI below 2BTC holders inflow rippingStablecoin CEX inflow rising1000 BTC addresses uptickingHonestly, I’m out of bearish ideas at this point.As usual, institution/companies are pouring in, retail is next.Risk on, #Bitcoin",-0.296,0.066,0.115,0.11666666666666665,0.3833333333333333
+2021-02-06,22,"We all know the rotation to BTC is coming and yet some of you are grasping to defi and buying this dip.
+
+Why? https://t.co/KMtljS659K",We all know the rotation to BTC is coming and yet some of you are grasping to defi and buying this dip.Why?,0.0,0.0,0.0,0.0,0.0
+2021-02-06,22, If you mean I’m wrong about BTC as I were about DSD then I agree https://t.co/DPqvX3K4OX,If you mean I’m wrong about BTC as I were about DSD then I agree,-0.1531,0.142,0.176,-0.40625,0.79375
+2021-02-06,22," BTC -&gt; ETH -&gt; DeFi -&gt; BTC
+
+I didn't make the rules. No, sir
+
+But yeah, dips are generally for buying","BTC - ETH - DeFi - BTCI didn't make the rules. No, sirBut yeah, dips are generally for buying",0.0,0.098,0.098,0.05000000000000002,0.5
+2021-02-06,22," Other factors possibly contributing to decreasing supply on CEXes:
+1. More usable OTC markets
+2. Proliferation of tokenized BTC in DeFi
+3. More opportunities for CEXes to deploy their BTC elsewhere
+
+Agree with the narrative, though.","Other factors possibly contributing to decreasing supply on CEXes:1. More usable OTC markets2. Proliferation of tokenized BTC in DeFi3. More opportunities for CEXes to deploy their BTC elsewhereAgree with the narrative, though.",0.659,0.137,0.0,0.21875,0.59375
+2021-02-06,22,"  There are many flavours of tokenized BTC and I'm not sure they are represented on this chart.
+
+Probably  can clarify it.",There are many flavours of tokenized BTC and I'm not sure they are represented on this chart.Probably  can clarify it.,-0.2411,0.0,0.089,0.125,0.6944444444444444
+2021-02-07,22,"Nothing builds relationships like hodling an underwater BTC position together with your partner.
+
+Highly recommended.",Nothing builds relationships like hodling an underwater BTC position together with your partner.Highly recommended.,-0.0044,0.122,0.123,0.16,0.5399999999999999
+2021-02-08,23,"Tesla has bought $1.5b worth of #Bitcoin according to the SEC filing.
+
+Welcome onboard, Elon.","Tesla has bought $1.5b worth of #Bitcoin according to the SEC filing.Welcome onboard, Elon.",0.5994,0.274,0.0,0.3333333333333333,0.5333333333333333
+2021-02-08,23,$TSLA $BTC https://t.co/KVijN2vGQv,$TSLA $BTC,0.0,0.0,0.0,0.0,0.0
+2021-02-08,23," This man is an asset. The day he buys BTC, I'm selling like there's no tomorrow.","This man is an asset. The day he buys BTC, I'm selling like there's no tomorrow.",0.4215,0.248,0.109,0.0,0.0
+2021-02-08,23,"Not gonna lie, Elon and Tesla today gave me the same feeling as Paul Tudor Jones did back in 2020.
+
+PTJ validated BTC for funds.
+Elon just did it for public companies.
+
+I'm watching on-chain like a hawk. https://t.co/5jMBH38k52","Not gonna lie, Elon and Tesla today gave me the same feeling as Paul Tudor Jones did back in 2020.PTJ validated BTC for funds.Elon just did it for public companies.I'm watching on-chain like a hawk.",0.5994,0.144,0.0,0.0,0.06388888888888888
+2021-02-09,23,"Love it, the dipping #Bitcoin price is met with sustained stablecoin inflow on exchanges.
+
+BTFD, on-chain representation. https://t.co/wVgrQ8vyLh","Love it, the dipping #Bitcoin price is met with sustained stablecoin inflow on exchanges.BTFD, on-chain representation.",0.6369,0.198,0.0,0.5,0.6
+2021-02-09,23, Well you can’t sell GBTC immeadiately when buying via private placement. There is a 6 month lock up period.,Well you can’t sell GBTC immeadiately when buying via private placement. There is a 6 month lock up period.,0.2732,0.116,0.0,0.0,0.375
+2021-02-09,23," You can buy Bitcoin but be publicly bearish for clout and engagement.
+
+This strategy worked wonderful for ",You can buy Bitcoin but be publicly bearish for clout and engagement.This strategy worked wonderful for,0.8765,0.376,0.0,0.5,0.5333333333333333
+2021-02-09,23,"Noticed that I have stopped tracking #Bitcoin price after Tesla’s coming out.
+
+The upcoming stream of corporations matters much more than the price the next two months.
+
+Also, the on-chain data associated with it. 
+
+Bitcoin has been re-rated but you still can hop on the train.","Noticed that I have stopped tracking #Bitcoin price after Tesla’s coming out.The upcoming stream of corporations matters much more than the price the next two months.Also, the on-chain data associated with it. Bitcoin has been re-rated but you still can hop on the train.",-0.1027,0.023,0.032,0.25,0.25
+2021-02-10,23," shhh sir, *everything* is about bitcoin","shhh sir, *everything* is about bitcoin",0.0,0.0,0.0,0.0,0.0
+2021-02-10,23," except bitcoin, it's about gf","except bitcoin, it's about gf",0.0,0.0,0.0,0.0,0.0
+2021-02-10,23," Tesla having bought bitcoin may and probably will trigger some public companies to do the same.
+
+When they do, the price will take care of itself.","Tesla having bought bitcoin may and probably will trigger some public companies to do the same.When they do, the price will take care of itself.",0.4939,0.113,0.0,0.0,0.09583333333333333
+2021-02-11,23,"Coinbase Premium reached almost $500 two hours ago.
+
+That's even bigger than the FOMO of Tesla #Bitcoin news.
+
+Meanwhile, I see no significant news yet.
+
+Something's coming? https://t.co/T47c2TrmfQ","Coinbase Premium reached almost $500 two hours ago.That's even bigger than the FOMO of Tesla #Bitcoin news.Meanwhile, I see no significant news yet.Something's coming?",0.0,0.109,0.075,-0.09375,0.6875
+2021-02-11,23,He won’t keep his mouth shut about #Bitcoin https://t.co/xxUDXXcr0s,He won’t keep his mouth shut about #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2021-02-11,23," They will rotate only if there is explosive BTC growth.
+
+Otherwise, altcoins are supported by they own set of narratives and public figures.","They will rotate only if there is explosive BTC growth.Otherwise, altcoins are supported by they own set of narratives and public figures.",0.5994,0.189,0.0,0.19999999999999998,0.688888888888889
+2021-02-12,23,"Any institution, company, and individual that holds any of the ETF below or plain $TSLA, holds #Bitcoin as well.
+
+Tesla has pulled the ultimate trojan horse.
+
+Let's welcome Warren Buffett and Swiss National Bank.
+
+Holding TSLA? You are long $BTC. https://t.co/ijYINzHEAm","Any institution, company, and individual that holds any of the ETF below or plain $TSLA, holds #Bitcoin as well.Tesla has pulled the ultimate trojan horse.Let's welcome Warren Buffett and Swiss National Bank.Holding TSLA? You are long $BTC.",0.6249,0.116,0.0,0.10714285714285714,0.6114285714285714
+2021-02-12,23,"  What is also interesting is that miners are not so eager to sell their #Bitcoin the last two weeks.
+
+Either they are convinced it is going up or simply are out of bullets. https://t.co/GDYzP33948",What is also interesting is that miners are not so eager to sell their #Bitcoin the last two weeks.Either they are convinced it is going up or simply are out of bullets.,0.4101,0.138,0.068,0.16666666666666666,0.30793650793650795
+2021-02-12,23,"Immersion Corp. ($IMMR) new prospectus says that the company may invest the proceeds to #Bitcoin and other cryptocurrencies.
+
+Source: 424B5 filing reported by the SEC. https://t.co/P56rTmQE0q",Immersion Corp. ($IMMR) new prospectus says that the company may invest the proceeds to #Bitcoin and other cryptocurrencies.Source: 424B5 filing reported by the SEC.,0.0,0.0,0.0,-0.029545454545454552,0.47651515151515156
+2021-02-12,23,"(at the first glance, the gist of this news is that the cashflow-negative company is issuing more stock to buy into BTC and other crypto)","(at the first glance, the gist of this news is that the cashflow-negative company is issuing more stock to buy into BTC and other crypto)",0.0,0.0,0.0,0.20833333333333334,0.40277777777777773
+2021-02-13,23,"   I also have a pet hypothesis that ETH might never be the ultimate collateral on Ethereum
+
+It is possible that BTC’s superior meme apparatus will cement its position as pristine collateral on all networks
+
+Not ready to die on that hill anytime soon, just something to keep in mind","I also have a pet hypothesis that ETH might never be the ultimate collateral on EthereumIt is possible that BTC’s superior meme apparatus will cement its position as pristine collateral on all networksNot ready to die on that hill anytime soon, just something to keep in mind",0.6742,0.126,0.04,0.15,0.85
+2021-02-13,23,"$GBTC seems to be back in business.
+
+Yesterday, it has acquired 3,461 BTC.
+
+GBTC premium is still single-digit without signs of improving so the odds are this was genuine buying, not arbitrage. https://t.co/MzrWEn1K0G","$GBTC seems to be back in business.Yesterday, it has acquired 3,461 BTC.GBTC premium is still single-digit without signs of improving so the odds are this was genuine buying, not arbitrage.",-0.3252,0.0,0.068,0.2,0.25
+2021-02-14,23," Roses are red
+Violets are blue
+Keep printing money
+Till #Bitcoin is a mil or two",Roses are redViolets are blueKeep printing moneyTill #Bitcoin is a mil or two,0.0,0.0,0.0,0.0,0.05
+2021-02-14,23,"Irrelevant: $50,000 #Bitcoin 
+Relevant: 2 or 3 SNP500 companies buying in
+
+It is all about tracking the right signals to avoid a burnout and not selling early.","Irrelevant: $50,000 #Bitcoin Relevant: 2 or 3 SNP500 companies buying inIt is all about tracking the right signals to avoid a burnout and not selling early.",-0.296,0.0,0.087,0.07142857142857142,0.6839285714285713
+2021-02-15,24," Personally, I’m not convinced that this scenario plays out.
+
+I’m definitely selling my bitcoins well before that to the people who buy this narrative.
+
+That being said, I do believe that in some moment it will feel like USD is dying.
+
+That’s when I’d like to pull the trigger.","Personally, I’m not convinced that this scenario plays out.I’m definitely selling my bitcoins well before that to the people who buy this narrative.That being said, I do believe that in some moment it will feel like USD is dying.That’s when I’d like to pull the trigger.",0.8197,0.21,0.04,0.0,0.4
+2021-02-15,24,"OMG, I can't believe I missed it.
+
+Huge whale has emerged on Feb, 12 with a single wallet balance of ~118,000 BTC.
+
+The previous event of such magnitude was on Jan, 27.
+
+So, what company do we expect this week? https://t.co/0Bxc3u6a95","OMG, I can't believe I missed it.Huge whale has emerged on Feb, 12 with a single wallet balance of ~118,000 BTC.The previous event of such magnitude was on Jan, 27.So, what company do we expect this week?",0.4919,0.104,0.0,0.04047619047619049,0.44523809523809527
+2021-02-16,24," nice try udi, i’m not selling my btc","nice try udi, i’m not selling my btc",0.4215,0.286,0.0,0.6,1.0
+2021-02-17,24,"This is not the top†, not even close, too much bullets left.
+
+Take a look a the ratio of #Bitcoin MC to the amount of the stable coins on the sidelines (left).
+
+Why is it so low despite the exploding price?
+
+Because of immense stable coin inflows (right).
+
+Chill.
+
+† absolute https://t.co/odUuXwJMxn","This is not the top†, not even close, too much bullets left.Take a look a the ratio of #Bitcoin MC to the amount of the stable coins on the sidelines (left).Why is it so low despite the exploding price?Because of immense stable coin inflows (right).Chill.† absolute",0.1677,0.083,0.052,0.09795918367346938,0.4193877551020408
+2021-02-17,24,"  Valid argument, but *why_not_both.jpg*
+
+I’ve been one of those stable coin liquidity providers on Curve. 
+
+I’ve capitulated, bought Bitcoin, and provided it to my trezor, instead.
+
+Many LP will do too.","Valid argument, but *why_not_both.jpg*I’ve been one of those stable coin liquidity providers on Curve. I’ve capitulated, bought Bitcoin, and provided it to my trezor, instead.Many LP will do too.",0.2617,0.083,0.052,0.5,0.5
+2021-02-17,24,  Use any of the Bitcoin wrappers on Ethereum and Curve,Use any of the Bitcoin wrappers on Ethereum and Curve,0.0,0.0,0.0,0.0,0.0
+2021-02-17,24,"  It is, just not Bitcoin-grade trustless","It is, just not Bitcoin-grade trustless",0.4023,0.351,0.0,0.0,0.0
+2021-02-17,24,"  Yes, but take a look at the other flavours, like TBTC.
+
+You can use WBTC as a bridge to enter other wrappers that better suit your needs. Curve sBTC metapool will take care of that.","Yes, but take a look at the other flavours, like TBTC.You can use WBTC as a bridge to enter other wrappers that better suit your needs. Curve sBTC metapool will take care of that.",0.9224,0.314,0.0,0.08333333333333333,0.4166666666666667
+2021-02-17,24," Sorry mate, I’m too focused on BTC as it feels like much more predictable and superior trade at the moment. However, if there will be something of algo stable coin magnitude I may jump into it","Sorry mate, I’m too focused on BTC as it feels like much more predictable and superior trade at the moment. However, if there will be something of algo stable coin magnitude I may jump into it",0.8678,0.261,0.031,0.12499999999999999,0.725
+2021-02-18,24,"Funding is through the roof.
+
+This opens an opportunity for another virtuous circle.
+
+Players engaged in basis trading have to buy and hold spot #Bitcoin to hedge their shorts that brings them that sweet yield.
+
+That pushes the price and funding even higher.
+
+Rinse and repeat. https://t.co/CaLG5xhGQH",Funding is through the roof.This opens an opportunity for another virtuous circle.Players engaged in basis trading have to buy and hold spot #Bitcoin to hedge their shorts that brings them that sweet yield.That pushes the price and funding even higher.Rinse and repeat.,0.8979,0.217,0.0,0.3,0.575
+2021-02-19,24,"  There are always several of them to get the full picture. But at the moment I’m focusing on anything tracking inflows/outflows of both btc and stables, and clusterings of addresses.","There are always several of them to get the full picture. But at the moment I’m focusing on anything tracking inflows/outflows of both btc and stables, and clusterings of addresses.",0.0,0.0,0.0,0.175,0.275
+2021-02-19,24,"  Bitcoin's tail risk could be 'a huge-ass meteor smashing the planet', says Lex Moskovski.","Bitcoin's tail risk could be 'a huge-ass meteor smashing the planet', says Lex Moskovski.",-0.2732,0.0,0.139,0.0,0.0
+2021-02-20,24,"3535 $BTC has been bought yesterday by 🇨🇦 Purpose Bitcoin ETF, the world's first #Bitcoin ETF.
+
+If you aren't tracking their AUM yet, you should be.
+
+Not only we got another major driver of demand but also this gives us a taste of what the upcoming U.S. Bitcoin ETF is capable of. https://t.co/SItu3cgVzx","3535 $BTC has been bought yesterday by 🇨🇦 Purpose Bitcoin ETF, the world's first #Bitcoin ETF.If you aren't tracking their AUM yet, you should be.Not only we got another major driver of demand but also this gives us a taste of what the upcoming U.S. Bitcoin ETF is capable of.",0.4854,0.062,0.023,0.128125,0.5583333333333333
+2021-02-21,24," I’m all-in BTC, believe me I am","I’m all-in BTC, believe me I am",0.0,0.0,0.0,0.0,0.0
+2021-02-21,24,"  Already did, now is btc time","Already did, now is btc time",0.0,0.0,0.0,0.0,0.0
+2021-02-22,25,"Saylor has bought your bitcoins at the lower 30k’s. 
+
+He will buy them again at the lower 50k’s. 
+
+You know why. 
+
+You know what happens next. 
+
+📄 🙌",Saylor has bought your bitcoins at the lower 30k’s. He will buy them again at the lower 50k’s. You know why. You know what happens next. 📄 🙌,-0.5267,0.0,0.155,0.0,0.0
+2021-02-22,25," In retrospect, it was obvious that their vision into Bitcoin’s future is amazing.","In retrospect, it was obvious that their vision into Bitcoin’s future is amazing.",0.7003,0.345,0.0,0.20000000000000004,0.5083333333333333
+2021-02-23,25,"2,252 more $BTC ($112m) has been bought yesterday by 🇨🇦 Purpose Bitcoin ETF, the world's first #Bitcoin  ETF.
+
+This brings their AUM up to 8288 BTC.
+
+It is good to know who you sell your bitcoins to. https://t.co/ggY5F7iKF8","2,252 more $BTC ($112m) has been bought yesterday by 🇨🇦 Purpose Bitcoin ETF, the world's first #Bitcoin  ETF.This brings their AUM up to 8288 BTC.It is good to know who you sell your bitcoins to.",0.4404,0.073,0.0,0.48333333333333334,0.4777777777777778
+2021-02-23,25," “Dear CT, 
+
+I have repented and bought Bitcoin. 
+
+Love, Peter”","“Dear CT, I have repented and bought Bitcoin. Love, Peter”",0.6369,0.344,0.0,0.5,0.6
+2021-02-23,25,"Simply put, no Tether FUD means more institutional and corporate buyers for #Bitcoin 
+
+This uncertainty really scared them.","Simply put, no Tether FUD means more institutional and corporate buyers for #Bitcoin This uncertainty really scared them.",-0.8633,0.0,0.431,0.175,0.2642857142857143
+2021-02-23,25,"Fantastic speed of execution.
+
+ has implemented the charts to track holdings and flows of  ETF, the world's first Bitcoin ETF.
+
+Adding as favourite. https://t.co/5RNvTUhGaW","Fantastic speed of execution. has implemented the charts to track holdings and flows of  ETF, the world's first Bitcoin ETF.Adding as favourite.",0.5574,0.135,0.0,0.325,0.6166666666666667
+2021-02-23,25," *not panic selling 0.021 BTC*
+
+""It was never meant to be a trade as I am a long-term investor fascinated by the tech""
+
+*dips deeper*
+
+*and deeper*
+
+*and deeper*
+
+*trembling fingers click sell button in the middle of a night*","*not panic selling 0.021 BTC*""It was never meant to be a trade as I am a long-term investor fascinated by the tech""*dips deeper**and deeper**and deeper**trembling fingers click sell button in the middle of a night*",-0.0516,0.077,0.082,0.0,0.0
+2021-02-24,25,"9,320 BTC are held at Purpose #Bitcoin ETF now.
+
+It has acquired 1,032 BTC from the market, yesterday.
+
+🇨🇦 Canada is drinking 🇺🇸 someone's milkshake. https://t.co/nLOC8wW6gN","9,320 BTC are held at Purpose #Bitcoin ETF now.It has acquired 1,032 BTC from the market, yesterday.🇨🇦 Canada is drinking 🇺🇸 someone's milkshake.",0.0,0.0,0.0,0.0,0.0
+2021-02-24,25, May I suggest switching to vodka if BTC drops below 42k?,May I suggest switching to vodka if BTC drops below 42k?,0.0,0.0,0.0,0.0,0.0
+2021-02-24,25,"So, this dip your paper hands sold BTC to:
+
+- Saylor
+- Square
+- Purpose Bitcoin ETF
+- God knows who else
+
+Your donation is greatly appreciated, anon.","So, this dip your paper hands sold BTC to:- Saylor- Square- Purpose Bitcoin ETF- God knows who elseYour donation is greatly appreciated, anon.",0.6901,0.206,0.0,0.2,0.1
+2021-02-24,25, I am but not because I believe in their infallibility. It’s just that I’d rather deal with a drawdown than with extreme fomo of another BTC re-rating just because some huge ass corporation having bought in.,I am but not because I believe in their infallibility. It’s just that I’d rather deal with a drawdown than with extreme fomo of another BTC re-rating just because some huge ass corporation having bought in.,-0.4215,0.076,0.123,0.13750000000000004,0.95
+2021-02-24,25,"~13.3k #BTC has left Coinbase 20 min ago.
+
+That's a pretty large withdrawal.
+
+Last spikes of such magnitude were on Feb, 5 and Jan, 31. https://t.co/EFAs6vsRuR","~13.3k #BTC has left Coinbase 20 min ago.That's a pretty large withdrawal.Last spikes of such magnitude were on Feb, 5 and Jan, 31.",0.5106,0.163,0.0,0.09285714285714286,0.39904761904761904
+2021-02-25,25,"Hey , is it yours?
+
+BLOOMBERG: MICROSTRATEGY TO BUY MORE BITCOIN AFTER $1 BILLION PURCHASE https://t.co/UbUj6HXWNr","Hey , is it yours?BLOOMBERG: MICROSTRATEGY TO BUY MORE BITCOIN AFTER $1 BILLION PURCHASE",0.0,0.0,0.0,0.5,0.5
+2021-02-25,25,"My normie friend bought #Bitcoin at $57k.
+
+Held it through the laser eyes crash. 
+
+Held it through bonds flash crash.
+
+He is not selling.
+
+This is how boys become men.",My normie friend bought #Bitcoin at $57k.Held it through the laser eyes crash. Held it through bonds flash crash.He is not selling.This is how boys become men.,-0.296,0.09,0.152,0.0,0.0
+2021-02-26,25,"12.1k #Bitcoin have just left Coinbase.
+
+Tranches of such magnitude are rare and were spotted on Jan, 31 and Feb, 5, 24. https://t.co/AMsDQ5voIo","12.1k #Bitcoin have just left Coinbase.Tranches of such magnitude are rare and were spotted on Jan, 31 and Feb, 5, 24.",0.0,0.0,0.0,0.09999999999999999,0.4666666666666666
+2021-02-26,25, JOSH BITCOINMAN,JOSH BITCOINMAN,0.0,0.0,0.0,0.0,0.0
+2021-02-26,25,"Huobi has custody service as well and there are some notably withdrawals there.
+
+2,274 #Bitcoin flowed out of the exchange yesterday in a hour.
+
+It is a stretch to assume anything without further analysis, just nice to see large withdrawals from there as we dip. https://t.co/19CPojCSDk","Huobi has custody service as well and there are some notably withdrawals there.2,274 #Bitcoin flowed out of the exchange yesterday in a hour.It is a stretch to assume anything without further analysis, just nice to see large withdrawals from there as we dip.",0.5994,0.104,0.0,0.32857142857142857,0.6071428571428571
+2021-02-26,25,"Routinely synced a #Bitcoin full node.
+
+Took about 5 hours and 383G on Intel i9 Octa-Core, 128GB RAM, NVMe SSD with an Ethereum full node running side-by-side.
+
+Nice.","Routinely synced a #Bitcoin full node.Took about 5 hours and 383G on Intel i9 Octa-Core, 128GB RAM, NVMe SSD with an Ethereum full node running side-by-side.Nice.",0.4215,0.101,0.0,0.4333333333333333,0.7000000000000001
+2021-02-26,25," Some retail and unlucky arbs are taking an L and GBTC will keep being discounted fairly pricing the inability to withdraw an underlying. 
+
+Maybe with occasional speculative surges.",Some retail and unlucky arbs are taking an L and GBTC will keep being discounted fairly pricing the inability to withdraw an underlying. Maybe with occasional speculative surges.,-0.2732,0.089,0.092,0.35,0.5125
+2021-02-26,25,"  By selling it at discount to nav to get out. Although, it entirely depends on btc price.","By selling it at discount to nav to get out. Although, it entirely depends on btc price.",0.0,0.0,0.0,0.0,0.625
+2021-02-27,25,"Miners have stopped selling and started accumulating #Bitcoin 
+
+Yesterday was the first day since Dec, 27 when Miners Position change turned positive.
+
+Miners were selling their bitcoins for two months.
+
+Bullish. https://t.co/S89iBcz4k3","Miners have stopped selling and started accumulating #Bitcoin Yesterday was the first day since Dec, 27 when Miners Position change turned positive.Miners were selling their bitcoins for two months.Bullish.",0.4019,0.101,0.054,0.23863636363636365,0.43939393939393934
+2021-02-27,25,"  Take a look at the previous positive period on the charts. Miners will accumulate until (a) the price is good enough and (b) there is enough buying orders to absorb their btc.
+
+Until then, it's bullish.
+
+They might also know something (altogether with Saylor and Square) we don't.","Take a look at the previous positive period on the charts. Miners will accumulate until (a) the price is good enough and (b) there is enough buying orders to absorb their btc.Until then, it's bullish.They might also know something (altogether with Saylor and Square) we don't.",0.7579,0.126,0.0,0.1521212121212121,0.4624242424242424
+2021-02-27,25,"   Both Schiff: hip bitcoiner son vs boomer gold bug dad narrative will bring us tons of engagement.
+
+That's genius.",Both Schiff: hip bitcoiner son vs boomer gold bug dad narrative will bring us tons of engagement.That's genius.,0.4588,0.143,0.0,0.0,0.0
+2021-02-28,25,"Every sub $40k #Bitcoin is a gift.
+
+Come at us, beras. https://t.co/cXrj7qs097","Every sub $40k #Bitcoin is a gift.Come at us, beras.",0.4404,0.225,0.0,0.0,0.0
+2021-02-28,25, nothing ratios them better than the ethbtc ratio,nothing ratios them better than the ethbtc ratio,-0.3412,0.0,0.256,0.5,0.5
+2021-03-01,26,"Very strong holders have added a lot of #Bitcoin on yesterday's dip.
+
+Illiquid Supply Change saw a nice surge yesterday. https://t.co/T8Dn15kCpV",Very strong holders have added a lot of #Bitcoin on yesterday's dip.Illiquid Supply Change saw a nice surge yesterday.,0.7501,0.273,0.0,0.5816666666666667,0.9766666666666666
+2021-03-01,26," Less Bitcoin for China, more decentralization.
+
+Bullish.","Less Bitcoin for China, more decentralization.Bullish.",0.0,0.0,0.0,0.16666666666666669,0.2833333333333333
+2021-03-01,26,"Coinbase Premium is through the roof again.
+
+$200 above Binance #Bitcoin price.
+
+Somebody is going hard on BTC there. https://t.co/Cbk2vYfvYi",Coinbase Premium is through the roof again.$200 above Binance #Bitcoin price.Somebody is going hard on BTC there.,-0.1027,0.0,0.069,-0.14583333333333334,0.3208333333333333
+2021-03-02,26,"Another 12k #Bitcoin have been withdrawn from Coinbase.
+
+Institutions and companies are scooping up what you sell. https://t.co/ieYMSryP3u",Another 12k #Bitcoin have been withdrawn from Coinbase.Institutions and companies are scooping up what you sell.,0.0,0.0,0.0,0.0,0.0
+2021-03-03,26,"Amount of #Bitcoin on exchanges has updated its low that currently is the lowest of a 3 year period.
+
+Sell-side crisis, work in progress. https://t.co/MciBpDZ8cy","Amount of #Bitcoin on exchanges has updated its low that currently is the lowest of a 3 year period.Sell-side crisis, work in progress.",-0.7184,0.092,0.288,0.0,0.35
+2021-03-04,26,"Another day, another large increase in #Bitcoin illiquid supply.
+
+Strong holders are ramping up their positions despite the sell-off.
+
+Bitcoin is holding up against the macro spectacularly well. https://t.co/DcEAbXdIB9","Another day, another large increase in #Bitcoin illiquid supply.Strong holders are ramping up their positions despite the sell-off.Bitcoin is holding up against the macro spectacularly well.",0.7717,0.228,0.0,0.4158730158730159,0.6873015873015872
+2021-03-04,26,"$TSLA now down 28% since:
+
+- Buying #Bitcoin 
+- Yemeni Civil War
+- 2021 Somali presidential election
+- Lex having delicious salmon sashimi for lunch https://t.co/pEQLnkCPzG https://t.co/fRKBM0srnz",$TSLA now down 28% since:- Buying #Bitcoin - Yemeni Civil War- 2021 Somali presidential election- Lex having delicious salmon sashimi for lunch,-0.0516,0.129,0.136,0.4222222222222222,0.6444444444444445
+2021-03-05,26,"Interesting type of spam in my replies.
+
+Looks like a cute attempt to drive down Bitcoin price by making $TSLA get rid of it. https://t.co/8cErmYlcdY",Interesting type of spam in my replies.Looks like a cute attempt to drive down Bitcoin price by making $TSLA get rid of it.,0.6908,0.267,0.081,0.2814814814814815,0.5962962962962963
+2021-03-09,27,"Another huge batch of 11,554 #Bitcoin has left Coinbase.
+
+That happened just before the recent surge in price.
+
+Nice coincidence. https://t.co/1vGC7G1mba","Another huge batch of 11,554 #Bitcoin has left Coinbase.That happened just before the recent surge in price.Nice coincidence.",0.6249,0.212,0.0,0.25,0.5375
+2021-03-09,27,"  Yes, to some extent. Those withdrawals usually follow some specific pattern, e.g. splitting the whole tranche to several smaller UTXO's around 100 BTC each and staying still thereafter.","Yes, to some extent. Those withdrawals usually follow some specific pattern, e.g. splitting the whole tranche to several smaller UTXO's around 100 BTC each and staying still thereafter.",0.4019,0.091,0.0,-0.009999999999999998,0.255
+2021-03-10,27,"Funding is almost as high as the last time #Bitcoin was at this level before the crash.
+
+Not a deal-breaker, just something to keep in mind. https://t.co/gazPSBfG7r","Funding is almost as high as the last time #Bitcoin was at this level before the crash.Not a deal-breaker, just something to keep in mind.",-0.4019,0.0,0.097,0.08,0.3033333333333333
+2021-03-11,27,"Governments buying bitcoin can happen sooner than we think. 
+
+They just have to buy the stocks of the companies holding bitcoin. https://t.co/pTvtNbMcVS",Governments buying bitcoin can happen sooner than we think. They just have to buy the stocks of the companies holding bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-03-12,27,"Number of Addresses With #Bitcoin Balance ≥ 1k has plunged to the level it was on when the price was at $33k's.
+
+Possible reasons:
+
+1. Splitting of larger addresses as required by some custody protocols
+2. Some addresses getting below the 1k threshold
+3. Whales selling https://t.co/hGNDB5WSZD",Number of Addresses With #Bitcoin Balance ≥ 1k has plunged to the level it was on when the price was at $33k's.Possible reasons:1. Splitting of larger addresses as required by some custody protocols2. Some addresses getting below the 1k threshold3. Whales selling,0.0772,0.028,0.0,0.0,0.75
+2021-03-13,27,"Very low funding for these price levels.
+
+Many people have deleveraged *before* the price uptick.
+
+It is safe to say that the current #Bitcoin surge is driven by spot buyers.
+
+Bullish. https://t.co/2tIQHoGYgk",Very low funding for these price levels.Many people have deleveraged *before* the price uptick.It is safe to say that the current #Bitcoin surge is driven by spot buyers.Bullish.,0.1298,0.082,0.068,0.25,0.4475
+2021-03-15,28,"Miners sold 112,205 #Bitcoin on the first week of 2021.
+
+18,700 BTC per day, all while the price was rising from $29k to $40k.
+
+Yet, we are arguing about if that 18k inflow today really happened.
+
+As if it matters. https://t.co/SjKlzn2JOo","Miners sold 112,205 #Bitcoin on the first week of 2021.18,700 BTC per day, all while the price was rising from $29k to $40k.Yet, we are arguing about if that 18k inflow today really happened.As if it matters.",-0.4404,0.026,0.07,0.225,0.26666666666666666
+2021-03-16,28,"Strong holders have increased their buying volume the last several days.
+
+Their positions change has never turned negative for almost 3 months.
+
+They have added ~10m #Bitcoin. https://t.co/fiVD36NYak",Strong holders have increased their buying volume the last several days.Their positions change has never turned negative for almost 3 months.They have added ~10m #Bitcoin.,0.8125,0.259,0.0,0.033333333333333326,0.3
+2021-03-16,28,  Holding Bitcoin has never been about short-term.,Holding Bitcoin has never been about short-term.,0.0,0.0,0.0,0.0,0.0
+2021-03-17,28,"Number of Addresses With #Bitcoin Balance ≥ 1k has plunged even deeper to the level it was on when the price was at $20k's.
+
+Possible reasons:
+
+1. Splitting of larger addresses as required by some custody protocols
+2. Some addresses getting below the 1k limit
+3. Whales selling https://t.co/g040GgkkRi",Number of Addresses With #Bitcoin Balance ≥ 1k has plunged even deeper to the level it was on when the price was at $20k's.Possible reasons:1. Splitting of larger addresses as required by some custody protocols2. Some addresses getting below the 1k limit3. Whales selling,0.0772,0.027,0.0,0.0,0.75
+2021-03-17,28,"  Yes, if the amount &gt; 1000 btc","Yes, if the amount  1000 btc",0.4019,0.31,0.0,0.0,0.0
+2021-03-17,28,"Number of #Bitcoin Entities With Balance ≥ 1k is also plummeting.
+
+Entity is a cluster of addresses that shares the same owner.
+
+This means that splitting of addresses is not the dominant factor. https://t.co/nlk4fvid8s",Number of #Bitcoin Entities With Balance ≥ 1k is also plummeting.Entity is a cluster of addresses that shares the same owner.This means that splitting of addresses is not the dominant factor.,0.3612,0.104,0.0,0.0,0.125
+2021-03-17,28,"#Bitcoin is rising as Powell speaks but the funding stays the same.
+
+Spot buyers were waiting for the green light from the Fed. https://t.co/ymnIrcv7ls",#Bitcoin is rising as Powell speaks but the funding stays the same.Spot buyers were waiting for the green light from the Fed.,0.0,0.0,0.0,0.06666666666666667,0.375
+2021-03-17,28," If your coin doesn't spell out Bitcoin, it's a scam.
+
+(this is an engagement tweet for the maxis)","If your coin doesn't spell out Bitcoin, it's a scam.(this is an engagement tweet for the maxis)",-0.1779,0.138,0.171,0.0,0.0
+2021-03-17,28," aye, plus some usual shit on how it’s bullish for bitcoin","aye, plus some usual shit on how it’s bullish for bitcoin",-0.5574,0.0,0.265,-0.225,0.525
+2021-03-19,28,"Canadian #Bitcoin ETF AUM has hit 14k BTC or $815m.
+
+Imagine what U.S. Bitcoin ETF will be capable of. https://t.co/mnS5zsA8l9",Canadian #Bitcoin ETF AUM has hit 14k BTC or $815m.Imagine what U.S. Bitcoin ETF will be capable of.,0.3818,0.12,0.0,0.2,0.4
+2021-03-20,28," Those people just haven’t discovered yet that saying something like
+
+BITCOIN IS ENERGY OF UNIVERSE
+
+brings even more engagement.",Those people just haven’t discovered yet that saying something likeBITCOIN IS ENERGY OF UNIVERSEbrings even more engagement.,0.8237,0.35,0.0,0.5,0.5
+2021-03-21,28,  Depends on the severity of the dump. Whatever maxis say BTC is still a risk-on asset.,Depends on the severity of the dump. Whatever maxis say BTC is still a risk-on asset.,-0.0258,0.138,0.144,0.0,0.0
+2021-03-21,28,"$138m #Bitcoin longs liquidated in 10 minutes.
+
+People never learn. https://t.co/2WMCvW9i0L",$138m #Bitcoin longs liquidated in 10 minutes.People never learn.,0.0,0.0,0.0,0.0,0.0
+2021-03-22,29,Three month long #Bitcoin long-term holders selling pressure is fading. https://t.co/aTiq4Alve3,Three month long #Bitcoin long-term holders selling pressure is fading.,-0.296,0.0,0.18,-0.05,0.4
+2021-03-23,29,"9,077 #Bitcoin withdrawn from Coinbase in a single tx. https://t.co/TCHhHIQ1Ko","9,077 #Bitcoin withdrawn from Coinbase in a single tx.",0.3612,0.238,0.0,-0.07142857142857142,0.21428571428571427
+2021-03-24,29,Bitcoiners shilling Tesla cars to their friends will take us to the moon. https://t.co/Q05CIiFttV,Bitcoiners shilling Tesla cars to their friends will take us to the moon.,0.4767,0.193,0.0,0.0,0.0
+2021-03-24,29,"Strong holders are increasing their positions.
+
+Another sharp increase of #Bitcoin in the illiquid wallets. https://t.co/v2pwQLRc4Q",Strong holders are increasing their positions.Another sharp increase of #Bitcoin in the illiquid wallets.,0.6808,0.286,0.0,0.15416666666666665,0.7416666666666667
+2021-03-24,29," Papa Musk's hands are made of diamond.
+
+He will hold your Bitcoin to Mars.",Papa Musk's hands are made of diamond.He will hold your Bitcoin to Mars.,0.34,0.156,0.0,0.0,0.0
+2021-03-24,29,"  Elon Musk wants Bitcoin, exactly.","Elon Musk wants Bitcoin, exactly.",0.0,0.0,0.0,0.225,0.175
+2021-03-24,29," bitcoiners are natural contrarians
+
+they bashed ethereum so much they got bullish on it",bitcoiners are natural contrariansthey bashed ethereum so much they got bullish on it,0.3612,0.161,0.0,0.15000000000000002,0.30000000000000004
+2021-03-24,29,"$47m of #Bitcoin longs got liquidated in 10 minutes.
+
+Don't play with leverage, kids.
+
+Elon'd again. https://t.co/4d4B3xowVN","$47m of #Bitcoin longs got liquidated in 10 minutes.Don't play with leverage, kids.Elon'd again.",-0.2584,0.0,0.113,0.0,0.0
+2021-03-25,29,"215,331 #Bitcoin moved to strong HODLers wallets yesterday.
+
+This is the 3-year ATH.
+
+Interesting. https://t.co/IxbSQziT2z","215,331 #Bitcoin moved to strong HODLers wallets yesterday.This is the 3-year ATH.Interesting.",0.7184,0.316,0.0,0.4666666666666667,0.6166666666666667
+2021-03-25,29, Bitcoin is the ultimate Plan B,Bitcoin is the ultimate Plan B,0.0,0.0,0.0,0.0,1.0
+2021-03-25,29,Be buying Bitcoin.,Be buying Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-03-25,29,"Grayscale Premium collapsed to -14.34%
+
+Increased competition in the #Bitcoin ETF space leaves less chances for GBTC to make the underlying BTC withdrawable. https://t.co/srSYLNU1xk",Grayscale Premium collapsed to -14.34%Increased competition in the #Bitcoin ETF space leaves less chances for GBTC to make the underlying BTC withdrawable.,0.1298,0.135,0.079,-0.16666666666666666,0.06666666666666667
+2021-03-25,29,"  Unlike ETF, the underlying bitcoins of the GBTC fund can not be redeemed.
+
+That’s why there is the discount.","Unlike ETF, the underlying bitcoins of the GBTC fund can not be redeemed.That’s why there is the discount.",-0.2411,0.0,0.098,0.0,0.0
+2021-03-25,29,"  If they somehow manage to make those BTC withdrawable then yes, the discount is a pretty good thing.
+
+However, I’m not an expert on the U.S. law so not sure if it’s possible besides converting to an ETF.","If they somehow manage to make those BTC withdrawable then yes, the discount is a pretty good thing.However, I’m not an expert on the U.S. law so not sure if it’s possible besides converting to an ETF.",0.7622,0.2,0.051,0.175,0.8722222222222222
+2021-03-25,29,"Glassnode shows 29,884 #Bitcoin exiting Bitstamp in 10 minutes.
+
+Can we have an official comment on it? https://t.co/mPpMIPCnZB","Glassnode shows 29,884 #Bitcoin exiting Bitstamp in 10 minutes.Can we have an official comment on it?",0.0,0.0,0.0,0.0,0.0
+2021-03-25,29,Another 12k #Bitcoin have left Coinbase. https://t.co/MS5gqkeqE4,Another 12k #Bitcoin have left Coinbase.,0.0,0.0,0.0,0.0,0.0
+2021-03-25,29,"Glassnode shows a different figure, though.
+
+4,274 BTC.
+
+Ready for another GN vs CQ fight? https://t.co/9VGmIMSFFb","Glassnode shows a different figure, though.4,274 BTC.Ready for another GN vs CQ fight?",0.4278,0.271,0.13,0.1,0.55
+2021-03-27,29,"Despite the rising #Bitcoin price, funding turned negative.
+
+Traders are bearish on average. https://t.co/EUsjGEKsYZ","Despite the rising #Bitcoin price, funding turned negative.Traders are bearish on average.",-0.5719,0.0,0.222,-0.22499999999999998,0.4
+2021-03-28,29,"Number of #Bitcoin whales (entities with balance ≥ 1k) has dropped back to the trend line.
+
+However, the price has risen since the start of the dump.
+
+This is bullish and also benefits decentralization.
+
+Text-book consolidation. https://t.co/fYCq6xdPnS","Number of #Bitcoin whales (entities with balance ≥ 1k) has dropped back to the trend line.However, the price has risen since the start of the dump.This is bullish and also benefits decentralization.Text-book consolidation.",0.0772,0.099,0.066,0.0,0.0
+2021-03-28,29,"Last two months saw an explosive increase of #Bitcoin supply held by entities with balance 100 - 1k.
+
+Coinbase Custody usually holds customer funds in the wallets that are slightly more than 100 BTC, by the way. https://t.co/bLF1bq8HZz","Last two months saw an explosive increase of #Bitcoin supply held by entities with balance 100 - 1k.Coinbase Custody usually holds customer funds in the wallets that are slightly more than 100 BTC, by the way.",0.3182,0.06,0.0,0.08333333333333333,0.2722222222222222
+2021-03-29,30," Same as March, 2020. Although, I expect it to be less pronounced in Bitcoin’s case.","Same as March, 2020. Although, I expect it to be less pronounced in Bitcoin’s case.",0.0,0.0,0.0,-0.08333333333333333,0.09583333333333333
+2021-03-29,30,"The retail demand is still here.
+
+Canadian #Bitcoin ETF hasn't had a single day of outflows. That's rare. https://t.co/1zEVrrS0DB",The retail demand is still here.Canadian #Bitcoin ETF hasn't had a single day of outflows. That's rare.,-0.128,0.0,0.081,0.11428571428571428,0.5571428571428572

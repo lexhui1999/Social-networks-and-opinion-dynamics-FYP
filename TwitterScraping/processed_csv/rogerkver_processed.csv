@@ -1,0 +1,162 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-09-01,1,"Bitcoin ABC and  have announced that they are forking away from #BitcoinCash on Nov 15th.
+We wish them good luck with their new coin and thank them for the free airdrop to all BCH holders.",Bitcoin ABC and  have announced that they are forking away from #BitcoinCash on Nov 15th.We wish them good luck with their new coin and thank them for the free airdrop to all BCH holders.,0.9246,0.324,0.0,0.4121212121212121,0.6181818181818183
+2020-09-07,2,"Join us next week for #Antigua’s first #Bitcoin Cash meetup! #Caribbean 
+https://t.co/NmHhi6p6Ce",Join us next week for #Antigua’s first #Bitcoin Cash meetup! #Caribbean,0.3595,0.185,0.0,0.15625,0.16666666666666666
+2020-09-14,3,"Sent this text message to about a 5th the population of the entire country of #Antigua.
+#Bitcoin #Cash #Crypto 
+ https://t.co/NmHhi6p6Ce https://t.co/FQGDMajfF5",Sent this text message to about a 5th the population of the entire country of #Antigua.#Bitcoin #Cash #Crypto,0.0,0.0,0.0,0.0,0.625
+2020-09-17,3,#BitcoinCash is spreading in ways #Bitcoin no longer can. https://t.co/NWlZsFCaap https://t.co/kODQjFpLBl,#BitcoinCash is spreading in ways #Bitcoin no longer can.,-0.296,0.0,0.18,0.0,0.0
+2020-09-18,3,"Bitcoin is the brand that people want.
+
+Bitcoin Cash is the technology and user experience that made it popular.",Bitcoin is the brand that people want.Bitcoin Cash is the technology and user experience that made it popular.,0.4767,0.194,0.0,0.6,0.9
+2020-09-22,4,Bitcoin was designed to be digital cash used to make payments over the internet.,Bitcoin was designed to be digital cash used to make payments over the internet.,0.0,0.0,0.0,0.0,0.0
+2020-09-23,4,If #Bitcoin is not an efficient medium of exchange it’s basically useless for promoting free markets. https://t.co/If6iJJf6jF,If #Bitcoin is not an efficient medium of exchange it’s basically useless for promoting free markets.,0.17,0.242,0.214,-0.04999999999999999,0.5
+2020-09-27,4,Having nearly 100x more #Bitcoin wrapped for use on #Ethereum than in #LightningNetwork shows LN has been a total failure for scaling BTC. https://t.co/USDQDR9kYv,Having nearly 100x more #Bitcoin wrapped for use on #Ethereum than in #LightningNetwork shows LN has been a total failure for scaling BTC.,-0.5106,0.0,0.13,0.07083333333333332,0.4875
+2020-09-29,5,"The very first #BitcoinCash ATM machines have landed! They will be ready for the public to use to save on #Amazon via https://t.co/lxg87Yd5Rn shortly. 
+https://t.co/QqGctilqAf #Caribbean https://t.co/gUpJTYUXAi",The very first #BitcoinCash ATM machines have landed! They will be ready for the public to use to save on #Amazon via  shortly.  #Caribbean,0.7177,0.193,0.0,0.1515625,0.325
+2020-10-04,5,Bitcoin Cash continues to spread as a peer to peer cash system for the world. https://t.co/NWlZsFCaap https://t.co/kyuJ8itewJ,Bitcoin Cash continues to spread as a peer to peer cash system for the world.,0.0,0.0,0.0,0.0,0.0
+2020-10-06,6,#Bitcoin maximalists are too focused on market cap instead of market utility.,#Bitcoin maximalists are too focused on market cap instead of market utility.,0.3818,0.191,0.0,0.0,0.0
+2020-10-10,6,Bitcoin Cash is a peer to peer electronic cash system. https://t.co/3QfzXxTeMJ,Bitcoin Cash is a peer to peer electronic cash system.,0.0,0.0,0.0,0.0,0.0
+2020-10-11,6,#Bitcoin sounds more like #BitcoinCash https://t.co/P8wSgsD42f,#Bitcoin sounds more like #BitcoinCash,0.4201,0.358,0.0,0.5,0.5
+2020-10-14,7,Buy hundreds of different gift cards from directly inside the https://t.co/6EeRmpfaH7 wallet using #Bitcoin with high network fees or #BitcoinCash with almost no network fee. https://t.co/RzytEVGc4z,Buy hundreds of different gift cards from directly inside the  wallet using #Bitcoin with high network fees or #BitcoinCash with almost no network fee.,0.2484,0.101,0.066,0.08666666666666667,0.5133333333333333
+2020-10-17,7,I just donated #BitcoinCash so you can more easily accept Bitcoin Cash on your website. https://t.co/isDFQOZI6X,I just donated #BitcoinCash so you can more easily accept Bitcoin Cash on your website.,0.6779,0.3,0.0,0.4666666666666667,0.6666666666666667
+2020-10-17,7,"Bitcoin did not run into fundamental scaling problems; instead, the project was taken over by a small group of software developers that intentionally limited its throughput capacity and functionality.
+https://t.co/Relxtzr5XH","Bitcoin did not run into fundamental scaling problems; instead, the project was taken over by a small group of software developers that intentionally limited its throughput capacity and functionality.",-0.5574,0.0,0.146,-0.1607142857142857,0.27142857142857146
+2020-10-18,7,Bitcoin Cash adoption continues to spread because it works as cash. https://t.co/cLodel4gI8,Bitcoin Cash adoption continues to spread because it works as cash.,0.0,0.0,0.0,0.0,0.0
+2020-10-19,8,"Bitcoin Cash is money built for you, not for banks. https://t.co/HCpM82vpYj","Bitcoin Cash is money built for you, not for banks.",0.0,0.0,0.0,0.0,0.0
+2020-10-21,8,https://t.co/6EeRmpfaH7 has partnered with  to allow users to buy Bitcoin Cash directly inside their privacy centric browser. https://t.co/PsqZOrLQAX,has partnered with  to allow users to buy Bitcoin Cash directly inside their privacy centric browser.,0.2263,0.101,0.0,0.05,0.25
+2020-10-22,8,Bitcoin Cash has more than 20 times the transaction capacity of Bitcoin.,Bitcoin Cash has more than 20 times the transaction capacity of Bitcoin.,0.0,0.0,0.0,0.5,0.5
+2020-10-28,9,"Bitcoin and Bitcoin Cash are equally scarce, but Bitcoin Cash can actually be used for payments. https://t.co/oTLW45sHxF","Bitcoin and Bitcoin Cash are equally scarce, but Bitcoin Cash can actually be used for payments.",0.0,0.0,0.0,0.0,0.175
+2020-10-30,9,"Bitcoin and Bitcoin Cash are equally scarce, but Bitcoin Cash has more censorship resistance because you don’t need to use a custodian to hold it due to high on chain fees. https://t.co/OzaUUtvswK","Bitcoin and Bitcoin Cash are equally scarce, but Bitcoin Cash has more censorship resistance because you don’t need to use a custodian to hold it due to high on chain fees.",0.0,0.0,0.0,0.13375,0.41625
+2020-11-01,9,On the 12th anniversary of #Bitcoin imagine being someone who denies that it was always meant to be a peer to peer electronic cash system. #BitcoinCash https://t.co/hN3MIewetZ,On the 12th anniversary of #Bitcoin imagine being someone who denies that it was always meant to be a peer to peer electronic cash system. #BitcoinCash,-0.4215,0.0,0.101,0.0,0.0
+2020-11-01,9,See  explain why #Bitcoin censorship is on the way: https://t.co/20dEQCRLHH,See  explain why #Bitcoin censorship is on the way:,0.0,0.0,0.0,0.0,0.0
+2020-11-08,10,Bitcoin has been forever crippled by its 1MB block size limit.  Luckily the world has Bitcoin Cash and other non crippled coins. https://t.co/o0ttHwJQ9l,Bitcoin has been forever crippled by its 1MB block size limit.  Luckily the world has Bitcoin Cash and other non crippled coins.,0.1027,0.121,0.107,0.10416666666666666,0.6041666666666667
+2020-11-09,11,"Another day, another new Bitcoin Cash accepting merchant in Antigua. #Caribbean 
+https://t.co/6cc5UEDQ1R https://t.co/R6jpn38LIC","Another day, another new Bitcoin Cash accepting merchant in Antigua. #Caribbean",0.3818,0.178,0.0,0.13636363636363635,0.45454545454545453
+2020-11-12,11,"BCH works as cash.
+BTC no longer does.
+That’s why Bitcoin Cash is for everybody. https://t.co/QquPsRdBhL",BCH works as cash.BTC no longer does.That’s why Bitcoin Cash is for everybody.,-0.296,0.0,0.128,0.0,0.0
+2020-11-17,12,"Imagine investing in #Bitcoin today, but not realizing it was always meant to be cash.
+#BitcoinCash https://t.co/PhG35sBsAu","Imagine investing in #Bitcoin today, but not realizing it was always meant to be cash.#BitcoinCash",0.0,0.0,0.0,0.0,0.0
+2020-11-20,12,"2009 Satoshi: Chancellor on Brink of Second Bailout for Banks
+
+2020 Bitcoin fan: Defer to governments on matters of currency https://t.co/dDbCUBZZxa",2009 Satoshi: Chancellor on Brink of Second Bailout for Banks2020 Bitcoin fan: Defer to governments on matters of currency,-0.0516,0.142,0.15,0.0,0.0
+2020-11-20,12,This is why #Bitcoin Cash: https://t.co/PjuKOQvRDn,This is why #Bitcoin Cash:,0.0,0.0,0.0,0.0,0.0
+2020-11-21,12,"Bitcoin Cash is what Bitcoin was from 2009 to 2015.
+Don’t miss the opportunity of a lifetime, twice! https://t.co/Yu2s5e8S6a","Bitcoin Cash is what Bitcoin was from 2009 to 2015.Don’t miss the opportunity of a lifetime, twice!",0.3595,0.149,0.077,0.0,0.0
+2020-11-24,13,I would’ve continued to promote BTC if it hadn’t been intentionally crippled.  Today any honest person would be embarrassed to promote something with as bad a user experience as #Bitcoin https://t.co/D9jc3604zc,I would’ve continued to promote BTC if it hadn’t been intentionally crippled.  Today any honest person would be embarrassed to promote something with as bad a user experience as #Bitcoin,0.3612,0.221,0.156,-0.04999999999999993,0.7833333333333333
+2020-11-27,13,There are now more than 40 major businesses accepting #Bitcoin Cash in #Antigua thanks to https://t.co/6cc5UEDQ1R #Caribbean https://t.co/M1o7px9srt,There are now more than 40 major businesses accepting #Bitcoin Cash in #Antigua thanks to  #Caribbean,0.6705,0.256,0.0,0.25416666666666665,0.39999999999999997
+2020-11-28,13,It’s becoming more clear by the month that the “digital gold” narrative was something cooked up to prevent competition with cash and make BTC acceptable to the powers that be. - ,It’s becoming more clear by the month that the “digital gold” narrative was something cooked up to prevent competition with cash and make BTC acceptable to the powers that be. -,0.6478,0.189,0.0,0.2625,0.43333333333333335
+2020-12-01,14,"If you bought Bitcoin thinking it was electronic cash, you’ve been the victim of a bait and switch. https://t.co/cm8IU7Sl9j","If you bought Bitcoin thinking it was electronic cash, you’ve been the victim of a bait and switch.",-0.2732,0.0,0.11,-0.07500000000000001,0.05
+2020-12-02,14,"#BitcoinCash is now accepted at more places across #Antigua and the #Caribbean than all other #cryptocurrencies 
+
+https://t.co/WLy3rkVw2z",#BitcoinCash is now accepted at more places across #Antigua and the #Caribbean than all other #cryptocurrencies,0.2732,0.116,0.0,0.1875,0.4375
+2020-12-05,14,Bitcoin Cash helps those who need it most: https://t.co/TzYSmnni27,Bitcoin Cash helps those who need it most:,0.3818,0.245,0.0,0.5,0.5
+2020-12-06,14,I remember when #Bitcoin used to work as peer to peer cash. Today that’s $BCH https://t.co/5ld2Lpgjfd,I remember when #Bitcoin used to work as peer to peer cash. Today that’s $BCH,0.0,0.0,0.0,0.0,0.0
+2020-12-10,15,This man saw the future of #Bitcoin https://t.co/eivFBtbVld,This man saw the future of #Bitcoin,0.0,0.0,0.0,0.0,0.125
+2020-12-10,15,"Instant payments for BCH and SLP tokens!
+Only possible on #BitcoinCash.
+Learn more at https://t.co/0rthKTwEua https://t.co/tHgGwouIYO",Instant payments for BCH and SLP tokens!Only possible on #BitcoinCash.Learn more at,0.0,0.0,0.0,0.125,0.7916666666666666
+2020-12-11,15,"You can’t claim a $5 #Bitcoin tip when fees are $3.  
+That’s why #BitcoinCash
+https://t.co/KmSODTi5sw https://t.co/mxFimvPITl",You can’t claim a $5 #Bitcoin tip when fees are $3.  That’s why #BitcoinCash,0.0,0.0,0.0,0.0,0.0
+2020-12-14,16,"BTC killed its killer app.
+Cash. https://t.co/udfzzxisYB",BTC killed its killer app.Cash.,-0.8689,0.0,0.638,-0.2,0.0
+2020-12-16,16,Just a reminder about Bitcoin: https://t.co/tPiXiSyAhZ,Just a reminder about Bitcoin:,0.0,0.0,0.0,0.0,0.0
+2020-12-16,16,"The price going up is nice, but how can Bitcoin bring more economic freedom to the world if most of the world can’t afford to transact in Bitcoin?","The price going up is nice, but how can Bitcoin bring more economic freedom to the world if most of the world can’t afford to transact in Bitcoin?",0.8449,0.238,0.0,0.45,0.55
+2020-12-17,16,#BitcoinCash vs #Bitcoin https://t.co/B7JMl1JsNW,#BitcoinCash vs #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-12-18,16,"My 2012 #Bitcoin billboard promoted it as MONEY, not as just a digital store of value. https://t.co/UgkijaSrDW","My 2012 #Bitcoin billboard promoted it as MONEY, not as just a digital store of value.",0.6369,0.271,0.0,0.0,0.0
+2020-12-19,16,Make your own #Bitcoin Cash #Christmas gifts at https://t.co/UIfsXkT4Wl https://t.co/NHhc7iksqR,Make your own #Bitcoin Cash #Christmas gifts at,0.0,0.0,0.0,0.6,1.0
+2020-12-20,16,"Hey , here is ’s plan for #Bitcoin in his own words.  That’s why people who care about brining more economic freedom to the world love #BitcoinCash #Monero #Zcash or anything that can actually work as P2P cash for the world. https://t.co/EKrqdneh2A","Hey , here is ’s plan for #Bitcoin in his own words.  That’s why people who care about brining more economic freedom to the world love #BitcoinCash #Monero #Zcash or anything that can actually work as P2P cash for the world.",0.9166,0.238,0.0,0.36,0.48
+2020-12-21,17,Learn more about #BitcoinCash and Mises at https://t.co/6EeRmpfaH7 https://t.co/nm9sxXAJ1y,Learn more about #BitcoinCash and Mises at,0.0,0.0,0.0,0.5,0.5
+2020-12-22,17,I just sent  an email about #Bitcoin https://t.co/HZh1bEcc71,I just sent  an email about #Bitcoin,0.0,0.0,0.0,0.0,0.0
+2020-12-22,17,"I just sent $0.05 worth of BCH on chain, via DM on Twitter by sending  the private keys. If this were somehow possible with BTC or LN in a non custodial, permissionless manner, like it is with BCH,  I think I would need to start promoting #Bitcoin again instead of BCH.  https://t.co/3DMagay8lM","I just sent $0.05 worth of BCH on chain, via DM on Twitter by sending  the private keys. If this were somehow possible with BTC or LN in a non custodial, permissionless manner, like it is with BCH,  I think I would need to start promoting #Bitcoin again instead of BCH.",0.7096,0.133,0.0,0.09999999999999999,0.4916666666666667
+2020-12-25,17,Buying bitcoin because everyone else is buying bitcoin isn’t a sound investment principle.,Buying bitcoin because everyone else is buying bitcoin isn’t a sound investment principle.,0.0,0.0,0.0,0.4,0.4
+2020-12-28,18,"#Bitcoin supporter logic:
+We have to keep the blocks small so people can afford to potentially run a full node while the masses just use custodial “wallets”.",#Bitcoin supporter logic:We have to keep the blocks small so people can afford to potentially run a full node while the masses just use custodial “wallets”.,0.0516,0.075,0.068,0.033333333333333326,0.65
+2020-12-30,18,#BitcoinCash is for everybody. https://t.co/8IwbE9ShnL,#BitcoinCash is for everybody.,0.0,0.0,0.0,0.0,0.0
+2020-12-31,18,"#BitcoinCash based #FlexUSD pays more interest than all other stable coins combined! 
+#USDT #USDC #DAI #Bitcoin
+https://t.co/4UXJnpBRyM https://t.co/oTlBhoPll6",#BitcoinCash based #FlexUSD pays more interest than all other stable coins combined! #USDT #USDC #DAI #Bitcoin,0.6989,0.266,0.0,0.171875,0.4375
+2021-01-01,18,"No such thing as a “hosted wallet”
+It’s just a bank account.
+#Bitcoin",No such thing as a “hosted wallet”It’s just a bank account.#Bitcoin,-0.296,0.0,0.18,0.0,0.5
+2021-01-02,18,I’ll be busy spreading Bitcoin Cash in 2021 faster than #COVID19 spread in 2020 https://t.co/ipUaIXkn1G,I’ll be busy spreading Bitcoin Cash in 2021 faster than #COVID19 spread in 2020,0.0,0.0,0.0,0.1,0.3
+2021-01-03,18,"If you need a custodian to use your Bitcoin, you’ve missed the point of Bitcoin.","If you need a custodian to use your Bitcoin, you’ve missed the point of Bitcoin.",-0.296,0.0,0.145,0.0,0.0
+2021-01-04,18,"Megaupload was once the 13th most popular site on the Internet and responsible for 4% of all Internet traffic.  The next version will use Bitcoin Cash for payments.
+https://t.co/dDRwKxYMcz",Megaupload was once the 13th most popular site on the Internet and responsible for 4% of all Internet traffic.  The next version will use Bitcoin Cash for payments.,0.659,0.166,0.0,0.26,0.39
+2021-01-07,18,"I just led a 4M EUR round for  to spread #BitcoinCash adoption to hundreds of thousands of physical merchants across Europe. #Crypto #Bitcoin 
+https://t.co/bkSqsVfHbK",I just led a 4M EUR round for  to spread #BitcoinCash adoption to hundreds of thousands of physical merchants across Europe. #Crypto #Bitcoin,0.0,0.0,0.0,-0.1,0.27142857142857146
+2021-01-08,18,"#Bitcoin is the brand people think they want.
+#BitcoinCash is the user experience they expect.
+https://t.co/TJkav4MkjJ",#Bitcoin is the brand people think they want.#BitcoinCash is the user experience they expect.,0.0772,0.08,0.0,0.0,0.0
+2021-01-10,18,"If Bitcoin with its high fees, slow, and unreliable transactions were a brand new coin today, nobody would want it.
+https://t.co/cCbvsAHqKX","If Bitcoin with its high fees, slow, and unreliable transactions were a brand new coin today, nobody would want it.",0.0772,0.064,0.0,-0.0012121212121212293,0.46484848484848484
+2021-01-13,19,"When  speaks, 
+https://t.co/6EeRmpfaH7 listens.
+#Bitcoin #BitcoinCash https://t.co/g3neQmtHbN","When  speaks,  listens.#Bitcoin #BitcoinCash",0.0,0.0,0.0,0.0,0.0
+2021-01-14,19,Bitcoin Cash at $500 is like Bitcoin at $50 because the world wide cash market is ten times bigger than the gold market.,Bitcoin Cash at $500 is like Bitcoin at $50 because the world wide cash market is ten times bigger than the gold market.,0.3612,0.102,0.0,-0.03333333333333333,0.3
+2021-01-15,19,Bitcoin is stupid. https://t.co/3Ll4jBLJPs,Bitcoin is stupid.,-0.5267,0.0,0.531,-0.7999999999999999,1.0
+2021-01-16,19,"“The existing Visa credit card network processes about 15 million Internet purchases per day worldwide. Bitcoin can already scale much larger than that with EXISTING HARDWARE for a fraction of the cost. It never really hits a scale ceiling.” 
+- Satoshi Nakamoto 2010",“The existing Visa credit card network processes about 15 million Internet purchases per day worldwide. Bitcoin can already scale much larger than that with EXISTING HARDWARE for a fraction of the cost. It never really hits a scale ceiling.” - Satoshi Nakamoto 2010,0.3818,0.062,0.0,-0.05,0.35
+2021-01-17,19,"It’s time for the world to switch from censorable banks and  to uncensorable  peer to peer electronic cash and . 
+https://t.co/bltTSVUsAV
+#BitcoinCash   https://t.co/R7krMt4Mks",It’s time for the world to switch from censorable banks and  to uncensorable  peer to peer electronic cash and . #BitcoinCash,0.0,0.0,0.0,0.0,0.0
+2021-01-19,20,FEE is now holding millions of dollars of #BitcoinCash on their balance sheet. https://t.co/O8pUNrsk8S,FEE is now holding millions of dollars of #BitcoinCash on their balance sheet.,0.0,0.0,0.0,0.0,0.0
+2021-01-20,20,#BitcoinCash is the future of futures on https://t.co/kkBbAjm3kd https://t.co/VlSbKtA3Ve,#BitcoinCash is the future of futures on,0.0,0.0,0.0,0.0,0.125
+2021-01-22,20,"Bitcoin may replace gold.
+Bitcoin Cash may replace fiat.",Bitcoin may replace gold.Bitcoin Cash may replace fiat.,0.0,0.0,0.0,0.0,0.0
+2021-01-26,21,"History of money
+#Gold
+    -&gt; Custodians
+        -&gt; Fractional reserve
+            -&gt; Fiat Money
+#Bitcoin
+    -&gt; Custodians
+        -&gt; We are here?",History of money#Gold    - Custodians        - Fractional reserve            - Fiat Money#Bitcoin    - Custodians        - We are here?,0.0,0.0,0.0,0.0,0.0
+2021-01-29,21,"Uncensorable, permissionless crowd funding is the future thanks to Bitcoin Cash and .
+#gamestonk  https://t.co/zP1nOldlvc","Uncensorable, permissionless crowd funding is the future thanks to Bitcoin Cash and .#gamestonk",0.4404,0.182,0.0,0.1,0.1625
+2021-02-04,22,"If Bitcoin with its high fees, slow, and unreliable transactions were a brand new coin today, nobody would want it.
+https://t.co/cCbvsAZ29x","If Bitcoin with its high fees, slow, and unreliable transactions were a brand new coin today, nobody would want it.",0.0772,0.064,0.0,-0.0012121212121212293,0.46484848484848484
+2021-02-04,22,"""Just try to make a Bitcoin transaction and then try to make a Bitcoin Cash transaction. The difference is staggering and may be the only evidence you need to know where you stand in the Bitcoin vs. Bitcoin Cash debate."" https://t.co/tpwcTSfuka","""Just try to make a Bitcoin transaction and then try to make a Bitcoin Cash transaction. The difference is staggering and may be the only evidence you need to know where you stand in the Bitcoin vs. Bitcoin Cash debate.""",0.0,0.0,0.0,0.0,1.0
+2021-02-06,22,I can’t believe some people still think BTC is Bitcoin. https://t.co/9aElb3qoO9,I can’t believe some people still think BTC is Bitcoin.,0.0,0.0,0.0,0.0,0.0
+2021-02-07,22,#ETH is just two price doublings away from surpassing #Bitcoin in market cap.,#ETH is just two price doublings away from surpassing #Bitcoin in market cap.,0.0,0.0,0.0,0.0,0.0
+2021-02-12,23,The cash market is 10x bigger than gold so Bitcoin Cash has a much bigger upside potential.  Learn more at https://t.co/K8GOsZM66j https://t.co/B197YzIhfW,The cash market is 10x bigger than gold so Bitcoin Cash has a much bigger upside potential.  Learn more at,0.0,0.0,0.0,0.125,0.625
+2021-02-14,23,"#Bitcoin maximalists are terrified of the public actually using #BitcoinCash because they’ll discover it’s faster, cheaper, more reliable, and more private to use.
+https://t.co/K8GOsZM66j","#Bitcoin maximalists are terrified of the public actually using #BitcoinCash because they’ll discover it’s faster, cheaper, more reliable, and more private to use.",-0.6124,0.0,0.148,0.2,0.30833333333333335
+2021-02-17,24,"If you are one of the 75,000+ people with a #Bitcoin transaction stuck because you didn’t pay a high enough fee, you can pay with #BitcoinCash to have a miner bump you to the front of the line. https://t.co/pA1qvqBc7J https://t.co/1872IrkViZ","If you are one of the 75,000+ people with a #Bitcoin transaction stuck because you didn’t pay a high enough fee, you can pay with #BitcoinCash to have a miner bump you to the front of the line.",-0.4215,0.0,0.124,0.08,0.52
+2021-02-19,24,"If Bitcoin Cash wasn't a threat, then there wouldn't be so many bots, fake accounts, and brainwashed people jumping on every one of my tweets. Truth is that Bitcoin Cash has faster transactions, and much cheaper fees. 
+https://t.co/K8GOsZM66j","If Bitcoin Cash wasn't a threat, then there wouldn't be so many bots, fake accounts, and brainwashed people jumping on every one of my tweets. Truth is that Bitcoin Cash has faster transactions, and much cheaper fees.",0.1809,0.12,0.079,0.06666666666666667,0.5666666666666667
+2021-02-22,25,True story from a typical BTC maximalist on Twitter: https://t.co/LkbjKjeGdZ,True story from a typical BTC maximalist on Twitter:,0.4215,0.259,0.0,0.09166666666666666,0.575
+2021-02-26,25,"Using censorship to maintain the ""decentralization"" of Bitcoin is a contradiction. https://t.co/wZV1nn7wRX","Using censorship to maintain the ""decentralization"" of Bitcoin is a contradiction.",-0.25,0.0,0.167,0.0,0.0
+2021-02-27,25,#Syria needs #BitcoinCash https://t.co/baQGtiYK9u,#Syria needs #BitcoinCash,0.0,0.0,0.0,0.0,0.0
+2021-03-01,26,"#Bitcoin is for the already wealthy.
+#BitcoinCash is for everyone.
+https://t.co/iPs5rLdobD https://t.co/pF4FYNSMfj",#Bitcoin is for the already wealthy.#BitcoinCash is for everyone.,0.3612,0.185,0.0,0.5,1.0
+2021-03-04,26,"#BitcoinCash is freedom from Banks.
+https://t.co/iPs5rLdobD https://t.co/YjjqRTWCT5",#BitcoinCash is freedom from Banks.,0.6369,0.412,0.0,0.0,0.0
+2021-03-05,26,"It is currently impossible for a new user to take $10 of #Bitcoin into their possession.  
+https://t.co/K8GOsZM66j",It is currently impossible for a new user to take $10 of #Bitcoin into their possession.,0.0,0.0,0.0,-0.26515151515151514,0.7272727272727273
+2021-03-09,27,The message from #Bitcoin maximalists like  is “pay your taxes” and “obey your masters”. https://t.co/vdRXroyKbo,The message from #Bitcoin maximalists like  is “pay your taxes” and “obey your masters”.,0.3612,0.152,0.0,0.0,0.0
+2021-03-10,27,Bitcoin (or any crypto) maximalism is just nationalism for nerds.,Bitcoin (or any crypto) maximalism is just nationalism for nerds.,0.0,0.0,0.0,0.0,0.0
+2021-03-12,27,Bitcoin transaction fees are going to the moon while the number of Bitcoin Cash transactions is going to the moon. https://t.co/a219LODeZp,Bitcoin transaction fees are going to the moon while the number of Bitcoin Cash transactions is going to the moon.,0.0772,0.061,0.0,0.0,0.0
+2021-03-13,27,"Bitcoin just hit $60K.
+What happens next seems clear: https://t.co/va1dgKyiMH",Bitcoin just hit $60K.What happens next seems clear:,0.3818,0.224,0.0,0.05000000000000001,0.19166666666666665
+2021-03-15,28,"I just used #BitcoinCash to pay  for the renewal of the https://t.co/6EeRmpfaH7 domain name.
+Using #Bitcoin would have cost more in fees than the renewal itself. https://t.co/xYEoWG87Yq",I just used #BitcoinCash to pay  for the renewal of the  domain name.Using #Bitcoin would have cost more in fees than the renewal itself.,-0.1027,0.0,0.053,0.5,0.5
+2021-03-16,28,"Bitcoin Cash makes it so no one needs a bank.
+Bitcoin guarantees people need a bank because it can only process 5 tx a second.
+ https://t.co/e5tVdX3hzx",Bitcoin Cash makes it so no one needs a bank.Bitcoin guarantees people need a bank because it can only process 5 tx a second.,-0.0941,0.099,0.113,0.0,0.5
+2021-03-20,28,"For some metrics BCH is better, for others, BTC is better.
+
+The fact that the BTC community resorted to censorship while the BCH community still supports free speech tells you all you need to know about who has stronger arguments.
+https://t.co/K8GOsZM66j","For some metrics BCH is better, for others, BTC is better.The fact that the BTC community resorted to censorship while the BCH community still supports free speech tells you all you need to know about who has stronger arguments.",0.8885,0.274,0.052,0.4666666666666666,0.6
+2021-03-21,28,"The FBI just arrested , host of , the person I heard about #Bitcoin for the first time from.  If you use CashFusion to donate to their legal defense, the FBI won't be able to retaliate against you since they won't know who you are. https://t.co/t4d21grpuO https://t.co/U3xI0RUcMJ","The FBI just arrested , host of , the person I heard about #Bitcoin for the first time from.  If you use CashFusion to donate to their legal defense, the FBI won't be able to retaliate against you since they won't know who you are.",-0.2732,0.064,0.066,0.31666666666666665,0.38611111111111107
+2021-03-23,29,"I recently paid with #BitcoinCash to renew the Bitcoin dot com domain name.
+Paying with #Bitcoin would have cost more in fees than the renewal itself.
+https://t.co/1kakAR7WVC",I recently paid with #BitcoinCash to renew the Bitcoin dot com domain name.Paying with #Bitcoin would have cost more in fees than the renewal itself.,0.0,0.0,0.0,0.25,0.375
+2021-03-25,29,You can now spend Bitcoin Cash at tens of thousands of shops in #Japan thanks to Rakuten Pay! https://t.co/j8AYQNF9Iw,You can now spend Bitcoin Cash at tens of thousands of shops in #Japan thanks to Rakuten Pay!,0.4199,0.148,0.065,0.25,0.2
+2021-03-29,30,"#BitcoinCash is accepted at more physical locations than any other #cryptocurrency 
+Check https://t.co/9Vbxdj78oE for places near you.
+   https://t.co/ucI2kJIgVH",#BitcoinCash is accepted at more physical locations than any other #cryptocurrency Check  for places near you.,0.2732,0.11,0.0,0.11875,0.3544642857142857

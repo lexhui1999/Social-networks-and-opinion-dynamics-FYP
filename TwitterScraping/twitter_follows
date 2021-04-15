@@ -1,0 +1,2347 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "novogratz"
+    },
+    {
+      "id": "rogerkver"
+    },
+    {
+      "id": "crypto_rand"
+    },
+    {
+      "id": "michael_saylor"
+    },
+    {
+      "id": "ToneVays"
+    },
+    {
+      "id": "mskvsk"
+    },
+    {
+      "id": "Nouriel"
+    },
+    {
+      "id": "peterlbrandt"
+    },
+    {
+      "id": "NicTrades"
+    },
+    {
+      "id": "APompliano"
+    },
+    {
+      "id": "lopp"
+    },
+    {
+      "id": "VinnyLingham"
+    },
+    {
+      "id": "WhalePanda"
+    },
+    {
+      "id": "Crypto_goat_"
+    },
+    {
+      "id": "tyler"
+    },
+    {
+      "id": "aantonop"
+    },
+    {
+      "id": "CryptoYoda1338"
+    },
+    {
+      "id": "VentureCoinist"
+    },
+    {
+      "id": "barrysilbert"
+    },
+    {
+      "id": "PeterSchiff"
+    },
+    {
+      "id": "Thecryptodog"
+    },
+    {
+      "id": "cryptomocho"
+    },
+    {
+      "id": "Nickszabo4"
+    },
+    {
+      "id": "woonomic"
+    },
+    {
+      "id": "erikvoorhees"
+    },
+    {
+      "id": "balajis"
+    },
+    {
+      "id": "danheld"
+    },
+    {
+      "id": "cz_binance"
+    },
+    {
+      "id": "jimmysong"
+    },
+    {
+      "id": "scottmelker"
+    },
+    {
+      "id": "justinsuntron"
+    },
+    {
+      "id": "notsofast"
+    },
+    {
+      "id": "Sicarious_"
+    },
+    {
+      "id": "charlieshrem"
+    }
+  ],
+  "links": [
+    {
+      "source": "novogratz",
+      "target": "rogerkver"
+    },
+    {
+      "source": "novogratz",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "novogratz",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "novogratz",
+      "target": "ToneVays"
+    },
+    {
+      "source": "novogratz",
+      "target": "mskvsk"
+    },
+    {
+      "source": "novogratz",
+      "target": "Nouriel"
+    },
+    {
+      "source": "novogratz",
+      "target": "NicTrades"
+    },
+    {
+      "source": "novogratz",
+      "target": "APompliano"
+    },
+    {
+      "source": "novogratz",
+      "target": "lopp"
+    },
+    {
+      "source": "novogratz",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "novogratz",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "novogratz",
+      "target": "tyler"
+    },
+    {
+      "source": "novogratz",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "novogratz",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "novogratz",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "novogratz",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "novogratz",
+      "target": "woonomic"
+    },
+    {
+      "source": "novogratz",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "novogratz",
+      "target": "danheld"
+    },
+    {
+      "source": "novogratz",
+      "target": "cz_binance"
+    },
+    {
+      "source": "novogratz",
+      "target": "scottmelker"
+    },
+    {
+      "source": "novogratz",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "novogratz",
+      "target": "notsofast"
+    },
+    {
+      "source": "novogratz",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "rogerkver",
+      "target": "novogratz"
+    },
+    {
+      "source": "rogerkver",
+      "target": "ToneVays"
+    },
+    {
+      "source": "rogerkver",
+      "target": "NicTrades"
+    },
+    {
+      "source": "rogerkver",
+      "target": "APompliano"
+    },
+    {
+      "source": "rogerkver",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "rogerkver",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "rogerkver",
+      "target": "tyler"
+    },
+    {
+      "source": "rogerkver",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "rogerkver",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "rogerkver",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "rogerkver",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "rogerkver",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "rogerkver",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "rogerkver",
+      "target": "balajis"
+    },
+    {
+      "source": "rogerkver",
+      "target": "cz_binance"
+    },
+    {
+      "source": "rogerkver",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "rogerkver",
+      "target": "notsofast"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "novogratz"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "NicTrades"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "APompliano"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "cz_binance"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "scottmelker"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "crypto_rand",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "novogratz"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "ToneVays"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "mskvsk"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "NicTrades"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "APompliano"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "lopp"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "tyler"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "woonomic"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "balajis"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "danheld"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "cz_binance"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "scottmelker"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "michael_saylor",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "ToneVays",
+      "target": "novogratz"
+    },
+    {
+      "source": "ToneVays",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "ToneVays",
+      "target": "Nouriel"
+    },
+    {
+      "source": "ToneVays",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "ToneVays",
+      "target": "NicTrades"
+    },
+    {
+      "source": "ToneVays",
+      "target": "APompliano"
+    },
+    {
+      "source": "ToneVays",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "ToneVays",
+      "target": "tyler"
+    },
+    {
+      "source": "ToneVays",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "ToneVays",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "ToneVays",
+      "target": "woonomic"
+    },
+    {
+      "source": "ToneVays",
+      "target": "danheld"
+    },
+    {
+      "source": "ToneVays",
+      "target": "jimmysong"
+    },
+    {
+      "source": "ToneVays",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "mskvsk",
+      "target": "WhalePanda"
+    },
+    {
+      "source": "mskvsk",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "mskvsk",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "mskvsk",
+      "target": "scottmelker"
+    },
+    {
+      "source": "Nouriel",
+      "target": "novogratz"
+    },
+    {
+      "source": "Nouriel",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "Nouriel",
+      "target": "tyler"
+    },
+    {
+      "source": "Nouriel",
+      "target": "PeterSchiff"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "novogratz"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "ToneVays"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "mskvsk"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "NicTrades"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "APompliano"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "PeterSchiff"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "woonomic"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "cz_binance"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "scottmelker"
+    },
+    {
+      "source": "peterlbrandt",
+      "target": "notsofast"
+    },
+    {
+      "source": "NicTrades",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "NicTrades",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "NicTrades",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "NicTrades",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "NicTrades",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "NicTrades",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "NicTrades",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "NicTrades",
+      "target": "scottmelker"
+    },
+    {
+      "source": "NicTrades",
+      "target": "notsofast"
+    },
+    {
+      "source": "NicTrades",
+      "target": "Sicarious_"
+    },
+    {
+      "source": "NicTrades",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "APompliano",
+      "target": "novogratz"
+    },
+    {
+      "source": "APompliano",
+      "target": "rogerkver"
+    },
+    {
+      "source": "APompliano",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "APompliano",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "APompliano",
+      "target": "ToneVays"
+    },
+    {
+      "source": "APompliano",
+      "target": "mskvsk"
+    },
+    {
+      "source": "APompliano",
+      "target": "NicTrades"
+    },
+    {
+      "source": "APompliano",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "APompliano",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "APompliano",
+      "target": "tyler"
+    },
+    {
+      "source": "APompliano",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "APompliano",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "APompliano",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "APompliano",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "APompliano",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "APompliano",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "APompliano",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "APompliano",
+      "target": "balajis"
+    },
+    {
+      "source": "APompliano",
+      "target": "danheld"
+    },
+    {
+      "source": "APompliano",
+      "target": "cz_binance"
+    },
+    {
+      "source": "APompliano",
+      "target": "scottmelker"
+    },
+    {
+      "source": "APompliano",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "APompliano",
+      "target": "notsofast"
+    },
+    {
+      "source": "APompliano",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "lopp",
+      "target": "novogratz"
+    },
+    {
+      "source": "lopp",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "lopp",
+      "target": "ToneVays"
+    },
+    {
+      "source": "lopp",
+      "target": "NicTrades"
+    },
+    {
+      "source": "lopp",
+      "target": "APompliano"
+    },
+    {
+      "source": "lopp",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "lopp",
+      "target": "WhalePanda"
+    },
+    {
+      "source": "lopp",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "lopp",
+      "target": "tyler"
+    },
+    {
+      "source": "lopp",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "lopp",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "lopp",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "lopp",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "lopp",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "lopp",
+      "target": "woonomic"
+    },
+    {
+      "source": "lopp",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "lopp",
+      "target": "balajis"
+    },
+    {
+      "source": "lopp",
+      "target": "danheld"
+    },
+    {
+      "source": "lopp",
+      "target": "jimmysong"
+    },
+    {
+      "source": "lopp",
+      "target": "scottmelker"
+    },
+    {
+      "source": "lopp",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "lopp",
+      "target": "notsofast"
+    },
+    {
+      "source": "lopp",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "novogratz"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "rogerkver"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "ToneVays"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "NicTrades"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "APompliano"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "tyler"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "balajis"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "cz_binance"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "notsofast"
+    },
+    {
+      "source": "VinnyLingham",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "novogratz"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "ToneVays"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "mskvsk"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "NicTrades"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "APompliano"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "lopp"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "danheld"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "jimmysong"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "notsofast"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "Sicarious_"
+    },
+    {
+      "source": "WhalePanda",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "tyler",
+      "target": "novogratz"
+    },
+    {
+      "source": "tyler",
+      "target": "rogerkver"
+    },
+    {
+      "source": "tyler",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "tyler",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "tyler",
+      "target": "ToneVays"
+    },
+    {
+      "source": "tyler",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "tyler",
+      "target": "APompliano"
+    },
+    {
+      "source": "tyler",
+      "target": "lopp"
+    },
+    {
+      "source": "tyler",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "tyler",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "tyler",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "tyler",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "tyler",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "tyler",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "tyler",
+      "target": "balajis"
+    },
+    {
+      "source": "tyler",
+      "target": "danheld"
+    },
+    {
+      "source": "tyler",
+      "target": "cz_binance"
+    },
+    {
+      "source": "tyler",
+      "target": "scottmelker"
+    },
+    {
+      "source": "tyler",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "tyler",
+      "target": "notsofast"
+    },
+    {
+      "source": "aantonop",
+      "target": "novogratz"
+    },
+    {
+      "source": "aantonop",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "aantonop",
+      "target": "ToneVays"
+    },
+    {
+      "source": "aantonop",
+      "target": "NicTrades"
+    },
+    {
+      "source": "aantonop",
+      "target": "APompliano"
+    },
+    {
+      "source": "aantonop",
+      "target": "lopp"
+    },
+    {
+      "source": "aantonop",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "aantonop",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "aantonop",
+      "target": "tyler"
+    },
+    {
+      "source": "aantonop",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "aantonop",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "aantonop",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "aantonop",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "aantonop",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "aantonop",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "aantonop",
+      "target": "balajis"
+    },
+    {
+      "source": "aantonop",
+      "target": "danheld"
+    },
+    {
+      "source": "aantonop",
+      "target": "scottmelker"
+    },
+    {
+      "source": "aantonop",
+      "target": "notsofast"
+    },
+    {
+      "source": "aantonop",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "novogratz"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "NicTrades"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "scottmelker"
+    },
+    {
+      "source": "CryptoYoda1338",
+      "target": "notsofast"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "novogratz"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "rogerkver"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "mskvsk"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "NicTrades"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "APompliano"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "balajis"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "danheld"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "cz_binance"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "scottmelker"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "notsofast"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "Sicarious_"
+    },
+    {
+      "source": "VentureCoinist",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "novogratz"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "rogerkver"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "mskvsk"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "APompliano"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "WhalePanda"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "tyler"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "balajis"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "danheld"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "cz_binance"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "scottmelker"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "notsofast"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "Sicarious_"
+    },
+    {
+      "source": "barrysilbert",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "novogratz"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "rogerkver"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "ToneVays"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "Nouriel"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "APompliano"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "tyler"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "danheld"
+    },
+    {
+      "source": "PeterSchiff",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "novogratz"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "ToneVays"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "mskvsk"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "NicTrades"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "APompliano"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "cz_binance"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "scottmelker"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "Sicarious_"
+    },
+    {
+      "source": "Thecryptodog",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "cryptomocho",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "cryptomocho",
+      "target": "NicTrades"
+    },
+    {
+      "source": "cryptomocho",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "cryptomocho",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "cryptomocho",
+      "target": "scottmelker"
+    },
+    {
+      "source": "cryptomocho",
+      "target": "notsofast"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "ToneVays"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "NicTrades"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "APompliano"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "lopp"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "tyler"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "balajis"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "danheld"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "cz_binance"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "jimmysong"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "notsofast"
+    },
+    {
+      "source": "Nickszabo4",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "woonomic",
+      "target": "novogratz"
+    },
+    {
+      "source": "woonomic",
+      "target": "rogerkver"
+    },
+    {
+      "source": "woonomic",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "woonomic",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "woonomic",
+      "target": "ToneVays"
+    },
+    {
+      "source": "woonomic",
+      "target": "mskvsk"
+    },
+    {
+      "source": "woonomic",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "woonomic",
+      "target": "NicTrades"
+    },
+    {
+      "source": "woonomic",
+      "target": "APompliano"
+    },
+    {
+      "source": "woonomic",
+      "target": "lopp"
+    },
+    {
+      "source": "woonomic",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "woonomic",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "woonomic",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "woonomic",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "woonomic",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "woonomic",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "woonomic",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "woonomic",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "woonomic",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "woonomic",
+      "target": "danheld"
+    },
+    {
+      "source": "woonomic",
+      "target": "cz_binance"
+    },
+    {
+      "source": "woonomic",
+      "target": "notsofast"
+    },
+    {
+      "source": "woonomic",
+      "target": "Sicarious_"
+    },
+    {
+      "source": "woonomic",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "novogratz"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "rogerkver"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "mskvsk"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "APompliano"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "lopp"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "tyler"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "woonomic"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "balajis"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "danheld"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "cz_binance"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "scottmelker"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "notsofast"
+    },
+    {
+      "source": "erikvoorhees",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "balajis",
+      "target": "novogratz"
+    },
+    {
+      "source": "balajis",
+      "target": "rogerkver"
+    },
+    {
+      "source": "balajis",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "balajis",
+      "target": "mskvsk"
+    },
+    {
+      "source": "balajis",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "balajis",
+      "target": "NicTrades"
+    },
+    {
+      "source": "balajis",
+      "target": "APompliano"
+    },
+    {
+      "source": "balajis",
+      "target": "lopp"
+    },
+    {
+      "source": "balajis",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "balajis",
+      "target": "tyler"
+    },
+    {
+      "source": "balajis",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "balajis",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "balajis",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "balajis",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "balajis",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "balajis",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "balajis",
+      "target": "danheld"
+    },
+    {
+      "source": "balajis",
+      "target": "cz_binance"
+    },
+    {
+      "source": "balajis",
+      "target": "scottmelker"
+    },
+    {
+      "source": "balajis",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "balajis",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "danheld",
+      "target": "novogratz"
+    },
+    {
+      "source": "danheld",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "danheld",
+      "target": "ToneVays"
+    },
+    {
+      "source": "danheld",
+      "target": "APompliano"
+    },
+    {
+      "source": "danheld",
+      "target": "lopp"
+    },
+    {
+      "source": "danheld",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "danheld",
+      "target": "tyler"
+    },
+    {
+      "source": "danheld",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "danheld",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "danheld",
+      "target": "woonomic"
+    },
+    {
+      "source": "danheld",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "danheld",
+      "target": "balajis"
+    },
+    {
+      "source": "danheld",
+      "target": "cz_binance"
+    },
+    {
+      "source": "danheld",
+      "target": "jimmysong"
+    },
+    {
+      "source": "danheld",
+      "target": "scottmelker"
+    },
+    {
+      "source": "danheld",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "danheld",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "cz_binance",
+      "target": "novogratz"
+    },
+    {
+      "source": "cz_binance",
+      "target": "rogerkver"
+    },
+    {
+      "source": "cz_binance",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "cz_binance",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "cz_binance",
+      "target": "mskvsk"
+    },
+    {
+      "source": "cz_binance",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "cz_binance",
+      "target": "NicTrades"
+    },
+    {
+      "source": "cz_binance",
+      "target": "APompliano"
+    },
+    {
+      "source": "cz_binance",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "cz_binance",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "cz_binance",
+      "target": "tyler"
+    },
+    {
+      "source": "cz_binance",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "cz_binance",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "cz_binance",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "cz_binance",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "cz_binance",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "cz_binance",
+      "target": "woonomic"
+    },
+    {
+      "source": "cz_binance",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "cz_binance",
+      "target": "balajis"
+    },
+    {
+      "source": "cz_binance",
+      "target": "danheld"
+    },
+    {
+      "source": "cz_binance",
+      "target": "scottmelker"
+    },
+    {
+      "source": "cz_binance",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "cz_binance",
+      "target": "notsofast"
+    },
+    {
+      "source": "cz_binance",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "jimmysong",
+      "target": "novogratz"
+    },
+    {
+      "source": "jimmysong",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "jimmysong",
+      "target": "ToneVays"
+    },
+    {
+      "source": "jimmysong",
+      "target": "NicTrades"
+    },
+    {
+      "source": "jimmysong",
+      "target": "APompliano"
+    },
+    {
+      "source": "jimmysong",
+      "target": "lopp"
+    },
+    {
+      "source": "jimmysong",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "jimmysong",
+      "target": "WhalePanda"
+    },
+    {
+      "source": "jimmysong",
+      "target": "tyler"
+    },
+    {
+      "source": "jimmysong",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "jimmysong",
+      "target": "barrysilbert"
+    },
+    {
+      "source": "jimmysong",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "jimmysong",
+      "target": "woonomic"
+    },
+    {
+      "source": "jimmysong",
+      "target": "danheld"
+    },
+    {
+      "source": "jimmysong",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "jimmysong",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "scottmelker",
+      "target": "novogratz"
+    },
+    {
+      "source": "scottmelker",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "scottmelker",
+      "target": "michael_saylor"
+    },
+    {
+      "source": "scottmelker",
+      "target": "mskvsk"
+    },
+    {
+      "source": "scottmelker",
+      "target": "NicTrades"
+    },
+    {
+      "source": "scottmelker",
+      "target": "APompliano"
+    },
+    {
+      "source": "scottmelker",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "scottmelker",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "scottmelker",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "scottmelker",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "scottmelker",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "scottmelker",
+      "target": "balajis"
+    },
+    {
+      "source": "scottmelker",
+      "target": "cz_binance"
+    },
+    {
+      "source": "scottmelker",
+      "target": "justinsuntron"
+    },
+    {
+      "source": "scottmelker",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "novogratz"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "rogerkver"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "mskvsk"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "APompliano"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "tyler"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "cz_binance"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "scottmelker"
+    },
+    {
+      "source": "justinsuntron",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "notsofast",
+      "target": "peterlbrandt"
+    },
+    {
+      "source": "notsofast",
+      "target": "NicTrades"
+    },
+    {
+      "source": "notsofast",
+      "target": "APompliano"
+    },
+    {
+      "source": "notsofast",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "notsofast",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "notsofast",
+      "target": "CryptoYoda1338"
+    },
+    {
+      "source": "notsofast",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "notsofast",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "notsofast",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "notsofast",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "notsofast",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "notsofast",
+      "target": "scottmelker"
+    },
+    {
+      "source": "notsofast",
+      "target": "Sicarious_"
+    },
+    {
+      "source": "notsofast",
+      "target": "charlieshrem"
+    },
+    {
+      "source": "Sicarious_",
+      "target": "NicTrades"
+    },
+    {
+      "source": "Sicarious_",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "Sicarious_",
+      "target": "WhalePanda"
+    },
+    {
+      "source": "Sicarious_",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "Sicarious_",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "Sicarious_",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "Sicarious_",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "Sicarious_",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "Sicarious_",
+      "target": "notsofast"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "novogratz"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "crypto_rand"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "ToneVays"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "NicTrades"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "APompliano"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "lopp"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "VinnyLingham"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "Crypto_goat_"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "VentureCoinist"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "Thecryptodog"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "cryptomocho"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "Nickszabo4"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "woonomic"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "erikvoorhees"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "danheld"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "cz_binance"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "scottmelker"
+    },
+    {
+      "source": "charlieshrem",
+      "target": "notsofast"
+    }
+  ]
+}

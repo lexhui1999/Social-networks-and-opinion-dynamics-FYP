@@ -1,0 +1,39 @@
+date,week,tweets,processed,nltk-compound,nltk-pos,nltk-neg,tb-polarity,tb-subjectivity
+2020-07-10,8,"  well, I can think of at least one thing you can use bitcoin for...
+
+https://t.co/1fgP3MKVsI","well, I can think of at least one thing you can use bitcoin for...",0.2732,0.139,0.0,-0.3,0.4
+2020-07-17,9,Institutional Demand For Bitcoin Soars As Grayscale Reveals Record-Breaking Near $1 Billion Quarter via   https://t.co/B8mUZ92x6n,Institutional Demand For Bitcoin Soars As Grayscale Reveals Record-Breaking Near $1 Billion Quarter via,-0.128,0.0,0.097,0.1,0.4
+2020-07-19,9,"Bitcoin (BTC) Goliath Grayscale Reveals $1,400,000,000 Invesment in Crypto Funds in 2020 https://t.co/na14BdYx4e","Bitcoin (BTC) Goliath Grayscale Reveals $1,400,000,000 Invesment in Crypto Funds in 2020",0.0,0.0,0.0,0.0,0.0
+2020-07-20,10,Grayscale Investments Announces Approval of Public Quotations for Eligible Shares of Grayscale Bitcoin Cash Trust and Grayscale Litecoin Trust https://t.co/nfW6Jt1fTq,Grayscale Investments Announces Approval of Public Quotations for Eligible Shares of Grayscale Bitcoin Cash Trust and Grayscale Litecoin Trust,0.8979,0.427,0.0,0.0,0.06666666666666667
+2020-07-28,11,"In 2013, everybody thought we were crazy for launching a bitcoin investment fund
+
+Well, look at us now... https://t.co/gVbMfnHWHa","In 2013, everybody thought we were crazy for launching a bitcoin investment fundWell, look at us now...",-0.0772,0.102,0.117,-0.6,0.9
+2020-08-02,11,"After plunging in March alongside other markets, bitcoin has rebounded, extending its gain for the year to 65% via   
+
+https://t.co/oYcS1U4lrU","After plunging in March alongside other markets, bitcoin has rebounded, extending its gain for the year to 65% via",0.5267,0.152,0.0,-0.125,0.375
+2020-08-05,12,"""we will seek to invest up to another $250 million over the next 12 months in one or more alternative investments or assets which may include stocks, bonds, commodities such as gold, digital assets such as Bitcoin, or other asset types."" https://t.co/QacnkEQJlT","""we will seek to invest up to another $250 million over the next 12 months in one or more alternative investments or assets which may include stocks, bonds, commodities such as gold, digital assets such as Bitcoin, or other asset types.""",0.5994,0.131,0.0,0.0625,0.3125
+2020-08-06,12, more like when I started buying BTC at $7 in 2012,more like when I started buying BTC at $7 in 2012,0.4201,0.237,0.0,0.5,0.5
+2020-08-09,12," check your math, Peter. TV ad started on May 1, 2019 (BTC was $5,300)
+
+frankly, look at BTC vs gold performance over literally any timeframe and, in ALL cases, BTC has outperformed 
+
+btw, thanks for the continued free advertising for the  family of crypto funds","check your math, Peter. TV ad started on May 1, 2019 (BTC was $5,300)frankly, look at BTC vs gold performance over literally any timeframe and, in ALL cases, BTC has outperformed btw, thanks for the continued free advertising for the  family of crypto funds",0.7351,0.126,0.0,0.30000000000000004,0.5
+2020-08-11,13,"MicroStrategy, a $1.2 billion company, just turned itself into a publicly-traded bitcoin play. Smart https://t.co/tCXiAVc8w7","MicroStrategy, a $1.2 billion company, just turned itself into a publicly-traded bitcoin play. Smart",0.6249,0.317,0.0,0.21428571428571427,0.6428571428571429
+2020-08-11,13,"Software firm MicroStrategy makes a massive bet on Bitcoin with a $250 million purchase via   
+
+https://t.co/51BWzDz87J",Software firm MicroStrategy makes a massive bet on Bitcoin with a $250 million purchase via,0.0,0.0,0.0,-0.1,0.7
+2020-08-11,13,"Crypto twitter is all googling ""Kamala Harris + bitcoin"" right now","Crypto twitter is all googling ""Kamala Harris + bitcoin"" right now",0.0,0.0,0.0,0.2857142857142857,0.5357142857142857
+2020-08-12,13,Maybe we'll save some bitcoin for the rest of you. Maybe,Maybe we'll save some bitcoin for the rest of you. Maybe,0.4939,0.242,0.0,0.0,0.0
+2020-08-13,13,"Interest in Grayscale Crypto Products Not Easing Up, Not Just BTC Now via  
+
+https://t.co/6eq91DVeJx","Interest in Grayscale Crypto Products Not Easing Up, Not Just BTC Now via",0.3094,0.179,0.104,0.0,0.0
+2020-08-27,15,"Unveiling our 4th subsidiary, Foundry, a bitcoin mining and crypto staking business
+
+We have committed to invest an additional $100 mm through 2021 to help build out the North American mining industry
+
+Oh, and we believe we may already be the largest BTC miner in North America... https://t.co/NJzfJdKNv1","Unveiling our 4th subsidiary, Foundry, a bitcoin mining and crypto staking businessWe have committed to invest an additional $100 mm through 2021 to help build out the North American mining industryOh, and we believe we may already be the largest BTC miner in North America...",0.5859,0.096,0.0,0.0,0.0
+2020-08-27,15,"There’s (digital) gold in them thar hills: Crypto giant DCG is betting $100 million on mining Bitcoin in North America via   
+
+https://t.co/JpnhHR2KKv",There’s (digital) gold in them thar hills: Crypto giant DCG is betting $100 million on mining Bitcoin in North America via,0.0,0.0,0.0,0.0,0.5
+2020-08-27,15,  it would be a high class problem for us if a bunch of public companies started buying bitcoin and holding on their balance sheet,it would be a high class problem for us if a bunch of public companies started buying bitcoin and holding on their balance sheet,-0.4019,0.0,0.114,0.08,0.3033333333333333
+2020-08-27,15,Digital Currency Group Enters the Bitcoin Mining Industry (via ) https://t.co/jhK2aDCMwZ,Digital Currency Group Enters the Bitcoin Mining Industry (via ),0.0,0.0,0.0,0.0,0.0
